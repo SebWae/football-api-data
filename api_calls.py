@@ -1,13 +1,9 @@
 import requests
 import csv
+from headers import headers
 
 def get_countries():
     url = "https://api-football-v1.p.rapidapi.com/v3/countries"
-
-    headers = {
-	"x-rapidapi-key": "99dabacffdmshe2f65f615aad2f1p14aaa5jsnb020480e6c10",
-	"x-rapidapi-host": "api-football-v1.p.rapidapi.com"
-    }
 
     response = requests.get(url, headers=headers)
     countries = response.json()["response"]
