@@ -1,6 +1,7 @@
 import requests
 import csv
 import pandas as pd
+import os
 import utils
 from headers import headers
 
@@ -42,8 +43,10 @@ def get_leagues(country):
 
 
 def register_fixtures(date):
+    """
+    date (str): date as a string in the format "yyyy-mm-dd"
+    """
     url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
-
     querystring = {"date": date}
 
     response = requests.get(url, headers=headers, params=querystring)
@@ -52,7 +55,31 @@ def register_fixtures(date):
     teams_df = pd.read_csv("data/teams.csv")
     team_ids = set(teams_df["id"])
 
-    with open('data/fixtures.csv', 'a', newline='') as file:
+    year = date[0:4]
+    month = date[5:7]
+    folder_path = f"data/fixtures/{year}/"
+    file_path = f"{folder_path}{year}_{month}_fixtures.csv"
+
+    # Ensure the directory exists
+    os.makedirs(folder_path, exist_ok=True)
+
+    # Define headers
+    headers_csv = [
+        "id", "referee", "timezone", "date", "kick_off", "venue_id", "venue",
+        "city", "elapsed_time", "extra_time", "league_id", "league", "season",
+        "stage", "home_team_id", "home_team", "away_team_id", "away_team",
+        "home_ft", "away_ft", "home_ht", "away_ht", "home_et", "away_et",
+        "home_pen", "away_pen"
+    ]
+
+    # Check if the file exists, and create it with headers if not
+    if not os.path.exists(file_path):
+        with open(file_path, 'w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(headers_csv)
+
+    # Append data to the file
+    with open(file_path, 'a', newline='') as file:
         writer = csv.writer(file)
 
         for fixture in fixtures:
@@ -102,31 +129,9 @@ def register_fixtures(date):
             home_pen = fixture["score"]["penalty"]["home"]
             away_pen = fixture["score"]["penalty"]["away"]
 
-            writer.writerow([id, 
-                            referee, 
-                            timezone,
-                            date, 
-                            kick_off,
-                            venue_id, 
-                            venue, 
-                            city, 
-                            elapsed_time, 
-                            extra_time, 
-                            league_id, 
-                            league, 
-                            season, 
-                            stage, 
-                            home_team_id, 
-                            home_team, 
-                            away_team_id, 
-                            away_team,
-                            home_ft,
-                            away_ft,
-                            home_ht,
-                            away_ht,
-                            home_et,
-                            away_et,
-                            home_pen,
-                            away_pen
-                            ])
-    
+            writer.writerow([
+                id, referee, timezone, date, kick_off, venue_id, venue, city,
+                elapsed_time, extra_time, league_id, league, season, stage,
+                home_team_id, home_team, away_team_id, away_team, home_ft,
+                away_ft, home_ht, away_ht, home_et, away_et, home_pen, away_pen
+            ])
