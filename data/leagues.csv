@@ -1,15 +1,52 @@
 id,name,type,country,first_season
+1,World Cup,Cup,World,2010
+2,UEFA Champions League,Cup,World,2011
+3,UEFA Europa League,Cup,World,2014
+4,Euro Championship,Cup,World,2008
+5,UEFA Nations League,Cup,World,2018
+6,Africa Cup of Nations,Cup,World,2015
+7,Asian Cup,Cup,World,2011
+8,World Cup - Women,Cup,World,2011
+9,Copa America,Cup,World,2015
+10,Friendlies,Cup,World,2017
+11,CONMEBOL Sudamericana,Cup,World,2019
+12,CAF Champions League,Cup,World,2019
+13,CONMEBOL Libertadores,Cup,World,2019
+14,UEFA Youth League,League,World,2017
+15,FIFA Intercontinental Cup,Cup,World,2011
+16,CONCACAF Champions League,Cup,World,2016
+17,AFC Champions League,Cup,World,2016
+18,AFC Cup,Cup,World,2017
+19,African Nations Championship,Cup,World,2014
+20,CAF Confederation Cup,Cup,World,2017
+21,Confederations Cup,Cup,World,2009
+22,CONCACAF Gold Cup,Cup,World,2015
+23,EAFF E-1 Football Championship,Cup,World,2015
+24,AFF Championship,Cup,World,2014
+25,Gulf Cup of Nations,Cup,World,2016
+26,International Champions Cup,Cup,World,2016
+27,OFC Champions League,Cup,World,2015
+28,SAFF Championship,Cup,World,2013
+29,World Cup - Qualification Africa,Cup,World,2018
+30,World Cup - Qualification Asia,Cup,World,2018
+31,World Cup - Qualification CONCACAF,Cup,World,2018
+32,World Cup - Qualification Europe,Cup,World,2018
+33,World Cup - Qualification Oceania,Cup,World,2018
+34,World Cup - Qualification South America,Cup,World,2018
+35,Asian Cup - Qualification,Cup,World,2019
+36,Africa Cup of Nations - Qualification,Cup,World,2021
+37,World Cup - Qualification Intercontinental Play-offs,Cup,World,2014
+38,UEFA U21 Championship,Cup,World,2017
 39,Premier League,League,England,2010
 40,Championship,League,England,2011
-46,EFL Trophy,Cup,England,2011
-45,FA Cup,Cup,England,2011
-47,FA Trophy,Cup,England,2011
-48,League Cup,Cup,England,2011
-43,National League,League,England,2011
 41,League One,League,England,2011
 42,League Two,League,England,2011
-528,Community Shield,Cup,England,2012
+43,National League,League,England,2011
 44,FA WSL,League,England,2016
+45,FA Cup,Cup,England,2011
+46,EFL Trophy,Cup,England,2011
+47,FA Trophy,Cup,England,2011
+48,League Cup,Cup,England,2011
 49,National League - Play-offs,League,England,2018
 50,National League - North,League,England,2019
 51,National League - South,League,England,2019
@@ -22,34 +59,53 @@ id,name,type,country,first_season
 58,Non League Premier - Isthmian,League,England,2019
 59,Non League Premier - Northern,League,England,2019
 60,Non League Premier - Southern South,League,England,2019
-698,FA Women's Cup,Cup,England,2019
-670,Community Shield Women,Cup,England,2020
-695,U18 Premier League - North,League,England,2020
-696,U18 Premier League - South,League,England,2020
-697,WSL Cup,Cup,England,2020
-699,Women's Championship,League,England,2020
-702,Premier League 2 Division One,League,England,2020
-703,Professional Development League,League,England,2020
-871,Premier League Cup,Cup,England,2021
-931,Non League Premier - Southern Central,League,England,2022
-932,Non League Div One - Northern East,League,England,2022
-933,Non League Div One - Southern Central,League,England,2022
-984,National League - North - Play-offs,League,England,2022
-985,National League - South - Play-offs,League,England,2022
-986,Non League Div One - Play-offs,League,England,2022
-987,U18 Premier League - Championship,League,England,2022
-993,Non League Premier - Isthmian - Play-offs,League,England,2022
-994,Non League Premier - Northern - Play-offs,League,England,2022
-995,Non League Premier - Southern South - Play-offs,League,England,2022
-996,Non League Premier - Southern Central - Play-offs,League,England,2022
-1022,Premier League - Summer Series,League,England,2023
-1068,FA Youth Cup,Cup,England,2023
-1156,National League Cup,Cup,England,2024
+61,Ligue 1,League,France,2010
+62,Ligue 2,League,France,2010
+63,National 1,League,France,2011
+64,Feminine Division 1,League,France,2013
+65,Coupe de la Ligue,Cup,France,2011
+66,Coupe de France,Cup,France,2011
+67,National 2 - Group A,League,France,2011
+68,National 2 - Group B,League,France,2011
+69,National 2 - Group C,League,France,2011
+70,National 2 - Group D,League,France,2011
+78,Bundesliga,League,Germany,2010
+79,2. Bundesliga,League,Germany,2011
+80,3. Liga,League,Germany,2011
+81,DFB Pokal,Cup,Germany,2011
+82,Frauen Bundesliga,League,Germany,2016
+83,Regionalliga - Bayern,League,Germany,2019
+84,Regionalliga - Nord,League,Germany,2019
+85,Regionalliga - Nordost,League,Germany,2019
+86,Regionalliga - SudWest,League,Germany,2019
+87,Regionalliga - West,League,Germany,2019
+119,Superliga,League,Denmark,2011
+120,1. Division,League,Denmark,2011
+121,DBU Pokalen,Cup,Denmark,2012
+122,2nd Division - Group 1,League,Denmark,2015
+123,2nd Division - Group 2,League,Denmark,2015
+124,Denmark Series - Group 1,League,Denmark,2011
+125,Denmark Series - Group 2,League,Denmark,2011
+126,Denmark Series - Group 3,League,Denmark,2011
+127,Denmark Series - Group 4,League,Denmark,2016
+135,Serie A,League,Italy,2010
+136,Serie B,League,Italy,2016
+137,Coppa Italia,Cup,Italy,2016
+138,Serie C - Girone A,League,Italy,2016
+139,Serie A Women,League,Italy,2016
 140,La Liga,League,Spain,2010
 141,Segunda División,League,Spain,2016
 142,Primera División Femenina,League,Spain,2016
-556,Super Cup,Cup,Spain,2016
 143,Copa del Rey,Cup,Spain,2018
+426,Serie D - Girone A,League,Italy,2019
+427,Serie D - Girone B,League,Italy,2019
+428,Serie D - Girone C,League,Italy,2019
+429,Serie D - Girone D,League,Italy,2019
+430,Serie D - Girone E,League,Italy,2019
+431,Serie D - Girone F,League,Italy,2019
+432,Serie D - Girone G,League,Italy,2019
+433,Serie D - Girone H,League,Italy,2019
+434,Serie D - Girone I,League,Italy,2019
 435,Primera División RFEF - Group 1,League,Spain,2019
 436,Primera División RFEF - Group 2,League,Spain,2019
 437,Primera División RFEF - Group 3,League,Spain,2019
@@ -72,91 +128,6 @@ id,name,type,country,first_season
 454,Tercera División RFEF - Group 16,League,Spain,2019
 455,Tercera División RFEF - Group 17,League,Spain,2019
 456,Tercera División RFEF - Group 18,League,Spain,2019
-692,Primera División RFEF - Group 5,League,Spain,2020
-735,Copa Federacion,Cup,Spain,2020
-875,Segunda División RFEF - Group 1,League,Spain,2021
-876,Segunda División RFEF - Group 2,League,Spain,2021
-877,Segunda División RFEF - Group 3,League,Spain,2021
-878,Segunda División RFEF - Group 4,League,Spain,2021
-879,Segunda División RFEF - Group 5,League,Spain,2021
-977,Tercera División RFEF - Promotion - Play-offs,League,Spain,2022
-1000,Segunda División RFEF - Play-offs,League,Spain,2022
-1006,Primera División RFEF - Play Offs,League,Spain,2022
-1058,Supercopa Femenina,Cup,Spain,2023
-78,Bundesliga,League,Germany,2010
-79,2. Bundesliga,League,Germany,2011
-80,3. Liga,League,Germany,2011
-529,Super Cup,Cup,Germany,2011
-81,DFB Pokal,Cup,Germany,2011
-82,Frauen Bundesliga,League,Germany,2016
-488,U19 Bundesliga,League,Germany,2016
-83,Regionalliga - Bayern,League,Germany,2019
-84,Regionalliga - Nord,League,Germany,2019
-85,Regionalliga - Nordost,League,Germany,2019
-86,Regionalliga - SudWest,League,Germany,2019
-87,Regionalliga - West,League,Germany,2019
-715,DFB Junioren Pokal,Cup,Germany,2020
-744,Oberliga - Schleswig-Holstein,League,Germany,2020
-745,Oberliga - Hamburg,League,Germany,2020
-746,Oberliga - Mittelrhein,League,Germany,2020
-747,Oberliga - Westfalen,League,Germany,2020
-748,Oberliga - Niedersachsen,League,Germany,2020
-749,Oberliga - Bremen,League,Germany,2020
-750,Oberliga - Hessen,League,Germany,2020
-751,Oberliga - Niederrhein,League,Germany,2020
-752,Oberliga - Rheinland-Pfalz / Saar,League,Germany,2020
-753,Oberliga - Baden-Württemberg,League,Germany,2020
-754,Oberliga - Nordost-Nord,League,Germany,2020
-755,Oberliga - Nordost-Süd,League,Germany,2020
-938,Oberliga - Bayern Nord,League,Germany,2022
-939,Oberliga - Bayern Süd,League,Germany,2022
-947,DFB Pokal - Women,Cup,Germany,2022
-988,Oberliga - Promotion Round,League,Germany,2022
-989,Oberliga - Relegation Round,League,Germany,2022
-1002,Regionalliga - Promotion Play-offs,League,Germany,2022
-1003,Regionalliga - Relegation Round,League,Germany,2022
-1034,2. Frauen Bundesliga,League,Germany,2023
-1137,Supercup der Frauen,League,Germany,2024
-135,Serie A,League,Italy,2010
-547,Super Cup,Cup,Italy,2014
-136,Serie B,League,Italy,2016
-137,Coppa Italia,Cup,Italy,2016
-138,Serie C - Girone A,League,Italy,2016
-139,Serie A Women,League,Italy,2016
-942,Serie C - Girone B,League,Italy,2018
-943,Serie C - Girone C,League,Italy,2018
-426,Serie D - Girone A,League,Italy,2019
-427,Serie D - Girone B,League,Italy,2019
-428,Serie D - Girone C,League,Italy,2019
-429,Serie D - Girone D,League,Italy,2019
-430,Serie D - Girone E,League,Italy,2019
-431,Serie D - Girone F,League,Italy,2019
-432,Serie D - Girone G,League,Italy,2019
-433,Serie D - Girone H,League,Italy,2019
-434,Serie D - Girone I,League,Italy,2019
-704,Coppa Italia Primavera,Cup,Italy,2020
-705,Campionato Primavera - 1,League,Italy,2020
-706,Campionato Primavera - 2,League,Italy,2020
-817,Super Cup Primavera,Cup,Italy,2020
-891,Coppa Italia Serie C,Cup,Italy,2021
-892,Coppa Italia Serie D,Cup,Italy,2021
-975,Serie C - Relegation - Play-offs,League,Italy,2022
-976,Serie C - Promotion - Play-offs,League,Italy,2022
-974,Serie C - Supercoppa Lega Finals,League,Italy,2022
-997,Serie D - Promotion - Play-offs,League,Italy,2022
-998,Serie D - Relegation - Play-offs,League,Italy,2022
-999,Serie D - Championship Round,League,Italy,2022
-61,Ligue 1,League,France,2010
-62,Ligue 2,League,France,2010
-63,National 1,League,France,2011
-66,Coupe de France,Cup,France,2011
-65,Coupe de la Ligue,Cup,France,2011
-67,National 2 - Group A,League,France,2011
-68,National 2 - Group B,League,France,2011
-69,National 2 - Group C,League,France,2011
-70,National 2 - Group D,League,France,2011
-526,Trophée des Champions,Cup,France,2012
-64,Feminine Division 1,League,France,2013
 461,National 3 - Group A,League,France,2019
 462,National 3 - Group B,League,France,2019
 463,National 3 - Group C,League,France,2019
@@ -169,113 +140,105 @@ id,name,type,country,first_season
 470,National 3 - Group K,League,France,2019
 471,National 3 - Group L,League,France,2019
 472,National 3 - Group M,League,France,2019
-1029,National 3 - Group G,League,France,2023
-119,Superliga,League,Denmark,2011
-120,1. Division,League,Denmark,2011
-124,Denmark Series - Group 1,League,Denmark,2011
-125,Denmark Series - Group 2,League,Denmark,2011
-126,Denmark Series - Group 3,League,Denmark,2011
-121,DBU Pokalen,Cup,Denmark,2012
-122,2nd Division - Group 1,League,Denmark,2015
-123,2nd Division - Group 2,League,Denmark,2015
-127,Denmark Series - Group 4,League,Denmark,2016
-638,Kvindeliga,League,Denmark,2019
-862,3. Division,League,Denmark,2021
-982,Denmark Series - Promotion Round,League,Denmark,2022
-983,Denmark Series - Relegation Round,League,Denmark,2022
-4,Euro Championship,Cup,World,2008
-21,Confederations Cup,Cup,World,2009
-1,World Cup,Cup,World,2010
-803,Asian Games,Cup,World,2010
-804,Caribbean Cup,Cup,World,2010
-7,Asian Cup,Cup,World,2011
-8,World Cup - Women,Cup,World,2011
-15,FIFA Intercontinental Cup,Cup,World,2011
-2,UEFA Champions League,Cup,World,2011
 480,Olympics Men,Cup,World,2012
-535,CECAFA Senior Challenge Cup,Cup,World,2012
-28,SAFF Championship,Cup,World,2013
-19,African Nations Championship,Cup,World,2014
-24,AFF Championship,Cup,World,2014
-37,World Cup - Qualification Intercontinental Play-offs,Cup,World,2014
-3,UEFA Europa League,Cup,World,2014
-807,AFC Challenge Cup,Cup,World,2014
-6,Africa Cup of Nations,Cup,World,2015
-9,Copa America,Cup,World,2015
-22,CONCACAF Gold Cup,Cup,World,2015
-23,EAFF E-1 Football Championship,Cup,World,2015
-27,OFC Champions League,Cup,World,2015
-16,CONCACAF Champions League,Cup,World,2016
-17,AFC Champions League,Cup,World,2016
-25,Gulf Cup of Nations,Cup,World,2016
-26,International Champions Cup,Cup,World,2016
-524,Olympics Women,Cup,World,2016
-531,UEFA Super Cup,Cup,World,2016
-805,Copa Centroamericana,Cup,World,2016
-806,OFC Nations Cup,Cup,World,2016
-10,Friendlies,Cup,World,2017
-14,UEFA Youth League,League,World,2017
-18,AFC Cup,Cup,World,2017
-20,CAF Confederation Cup,Cup,World,2017
-38,UEFA U21 Championship,Cup,World,2017
+488,U19 Bundesliga,League,Germany,2016
 490,World Cup - U20,Cup,World,2017
-766,China Cup,Cup,World,2017
-5,UEFA Nations League,Cup,World,2018
-31,World Cup - Qualification CONCACAF,Cup,World,2018
-32,World Cup - Qualification Europe,Cup,World,2018
-33,World Cup - Qualification Oceania,Cup,World,2018
-34,World Cup - Qualification South America,Cup,World,2018
-29,World Cup - Qualification Africa,Cup,World,2018
-30,World Cup - Qualification Asia,Cup,World,2018
 493,UEFA U19 Championship,Cup,World,2018
-537,CONCACAF U20,Cup,World,2018
-808,CONCACAF Nations League - Qualification,Cup,World,2018
-11,CONMEBOL Sudamericana,Cup,World,2019
-12,CAF Champions League,Cup,World,2019
-13,CONMEBOL Libertadores,Cup,World,2019
-35,Asian Cup - Qualification,Cup,World,2019
+524,Olympics Women,Cup,World,2016
 525,UEFA Champions League Women,Cup,World,2019
+526,Trophée des Champions,Cup,France,2012
+528,Community Shield,Cup,England,2012
+529,Super Cup,Cup,Germany,2011
+531,UEFA Super Cup,Cup,World,2016
+532,AFC U23 Asian Cup,Cup,World,2020
 533,CAF Super Cup,Cup,World,2019
 534,CONCACAF Caribbean Club Shield,Cup,World,2019
-587,World Cup - U17,Cup,World,2019
-768,Arab Club Champions Cup,Cup,World,2019
-769,Premier League Asia Trophy,Cup,World,2019
-770,Pacific Games,Cup,World,2019
-772,Leagues Cup,Cup,World,2019
-773,Sudamericano U20,Cup,World,2019
-532,AFC U23 Asian Cup,Cup,World,2020
+535,CECAFA Senior Challenge Cup,Cup,World,2012
 536,CONCACAF Nations League,Cup,World,2020
+537,CONCACAF U20,Cup,World,2018
 538,Africa Cup of Nations U20,Cup,World,2020
 540,CONMEBOL Libertadores U20,Cup,World,2020
 541,CONMEBOL Recopa,Cup,World,2020
+547,Super Cup,Cup,Italy,2014
+556,Super Cup,Cup,Spain,2016
+587,World Cup - U17,Cup,World,2019
+638,Kvindeliga,League,Denmark,2019
 666,Friendlies Women,Cup,World,2020
 667,Friendlies Clubs,Cup,World,2020
-767,CONCACAF League,Cup,World,2020
-771,COSAFA U20 Championship,Cup,World,2020
-849,Baltic Cup,Cup,World,2020
-881,Olympics Men - Qualification Concacaf,Cup,World,2020
-882,Olympics Women - Qualification Asia,Cup,World,2020
-885,Campeones Cup,Cup,World,2020
-36,Africa Cup of Nations - Qualification,Cup,World,2021
+670,Community Shield Women,Cup,England,2020
+692,Primera División RFEF - Group 5,League,Spain,2020
+695,U18 Premier League - North,League,England,2020
+696,U18 Premier League - South,League,England,2020
+697,WSL Cup,Cup,England,2020
+698,FA Women's Cup,Cup,England,2019
+699,Women's Championship,League,England,2020
+702,Premier League 2 Division One,League,England,2020
+703,Professional Development League,League,England,2020
+704,Coppa Italia Primavera,Cup,Italy,2020
+705,Campionato Primavera - 1,League,Italy,2020
+706,Campionato Primavera - 2,League,Italy,2020
+715,DFB Junioren Pokal,Cup,Germany,2020
+735,Copa Federacion,Cup,Spain,2020
 743,UEFA Championship - Women,Cup,World,2021
+744,Oberliga - Schleswig-Holstein,League,Germany,2020
+745,Oberliga - Hamburg,League,Germany,2020
+746,Oberliga - Mittelrhein,League,Germany,2020
+747,Oberliga - Westfalen,League,Germany,2020
+748,Oberliga - Niedersachsen,League,Germany,2020
+749,Oberliga - Bremen,League,Germany,2020
+750,Oberliga - Hessen,League,Germany,2020
+751,Oberliga - Niederrhein,League,Germany,2020
+752,Oberliga - Rheinland-Pfalz / Saar,League,Germany,2020
+753,Oberliga - Baden-Württemberg,League,Germany,2020
+754,Oberliga - Nordost-Nord,League,Germany,2020
+755,Oberliga - Nordost-Süd,League,Germany,2020
+766,China Cup,Cup,World,2017
+767,CONCACAF League,Cup,World,2020
+768,Arab Club Champions Cup,Cup,World,2019
+769,Premier League Asia Trophy,Cup,World,2019
+770,Pacific Games,Cup,World,2019
+771,COSAFA U20 Championship,Cup,World,2020
+772,Leagues Cup,Cup,World,2019
+773,Sudamericano U20,Cup,World,2019
+803,Asian Games,Cup,World,2010
+804,Caribbean Cup,Cup,World,2010
+805,Copa Centroamericana,Cup,World,2016
+806,OFC Nations Cup,Cup,World,2016
+807,AFC Challenge Cup,Cup,World,2014
+808,CONCACAF Nations League - Qualification,Cup,World,2018
+817,Super Cup Primavera,Cup,Italy,2020
 848,UEFA Europa Conference League,Cup,World,2021
+849,Baltic Cup,Cup,World,2020
+850,UEFA U21 Championship - Qualification,Cup,World,2023
 856,CONCACAF Caribbean Club Championship,Cup,World,2021
 858,CONCACAF Gold Cup - Qualification,Cup,World,2021
 859,COSAFA Cup,Cup,World,2021
 860,Arab Cup,Cup,World,2021
+862,3. Division,League,Denmark,2021
 869,CECAFA Club Cup,Cup,World,2021
+871,Premier League Cup,Cup,England,2021
+875,Segunda División RFEF - Group 1,League,Spain,2021
+876,Segunda División RFEF - Group 2,League,Spain,2021
+877,Segunda División RFEF - Group 3,League,Spain,2021
+878,Segunda División RFEF - Group 4,League,Spain,2021
+879,Segunda División RFEF - Group 5,League,Spain,2021
 880,World Cup - Women - Qualification Europe,Cup,World,2021
-890,U20 Elite League,Cup,World,2021
-902,Algarve Cup,Cup,World,2021
-903,The Atlantic Cup,Cup,World,2021
-910,Youth Viareggio Cup,Cup,World,2021
+881,Olympics Men - Qualification Concacaf,Cup,World,2020
+882,Olympics Women - Qualification Asia,Cup,World,2020
+885,Campeones Cup,Cup,World,2020
 886,UEFA U17 Championship - Qualification,Cup,World,2022
+890,U20 Elite League,Cup,World,2021
+891,Coppa Italia Serie C,Cup,Italy,2021
+892,Coppa Italia Serie D,Cup,Italy,2021
 893,UEFA U19 Championship - Qualification,Cup,World,2022
 894,Asian Cup Women - Qualification,Cup,World,2022
 897,Asian Cup Women,Cup,World,2022
 900,Tipsport Malta Cup,Cup,World,2022
+902,Algarve Cup,Cup,World,2021
+903,The Atlantic Cup,Cup,World,2021
 904,SheBelieves Cup,Cup,World,2022
 908,AFF U23 Championship,Cup,World,2022
+910,Youth Viareggio Cup,Cup,World,2021
 911,Southeast Asian Games,Cup,World,2022
 912,CONCACAF Women U17,Cup,World,2022
 913,CONMEBOL - UEFA Finalissima,Cup,World,2022
@@ -289,44 +252,80 @@ id,name,type,country,first_season
 926,Copa America Femenina,Cup,World,2022
 927,World Cup - Women - Qualification Concacaf,Cup,World,2022
 928,AFF U19 Championship,Cup,World,2022
+931,Non League Premier - Southern Central,League,England,2022
+932,Non League Div One - Northern East,League,England,2022
+933,Non League Div One - Southern Central,League,England,2022
 934,Arab Championship - U20,Cup,World,2022
 937,Emirates Cup,Cup,World,2022
+938,Oberliga - Bayern Nord,League,Germany,2022
+939,Oberliga - Bayern Süd,League,Germany,2022
 940,COTIF Tournament,Cup,World,2022
 941,Islamic Solidarity Games,Cup,World,2022
+942,Serie C - Girone B,League,Italy,2018
+943,Serie C - Girone C,League,Italy,2018
 945,International Champions Cup - Women,Cup,World,2022
+947,DFB Pokal - Women,Cup,Germany,2022
 949,CONMEBOL Libertadores Femenina,Cup,World,2022
 950,World Cup - U17 - Women,Cup,World,2022
 951,South American Youth Games,Cup,World,2022
 952,AFC U23 Asian Cup - Qualification,Cup,World,2022
 953,Africa U23 Cup of Nations - Qualification,Cup,World,2022
-1016,CAC Games,Cup,World,2022
-850,UEFA U21 Championship - Qualification,Cup,World,2023
 960,Euro Championship - Qualification,Cup,World,2023
 963,CONCACAF U17,Cup,World,2023
 965,AFC U20 Asian Cup,Cup,World,2023
 970,CONMEBOL - U17,Cup,World,2023
 973,CAF Cup of Nations - U17,Cup,World,2023
+974,Serie C - Supercoppa Lega Finals,League,Italy,2022
+975,Serie C - Relegation - Play-offs,League,Italy,2022
+976,Serie C - Promotion - Play-offs,League,Italy,2022
+977,Tercera División RFEF - Promotion - Play-offs,League,Spain,2022
+982,Denmark Series - Promotion Round,League,Denmark,2022
+983,Denmark Series - Relegation Round,League,Denmark,2022
+984,National League - North - Play-offs,League,England,2022
+985,National League - South - Play-offs,League,England,2022
+986,Non League Div One - Play-offs,League,England,2022
+987,U18 Premier League - Championship,League,England,2022
+988,Oberliga - Promotion Round,League,Germany,2022
+989,Oberliga - Relegation Round,League,Germany,2022
+993,Non League Premier - Isthmian - Play-offs,League,England,2022
+994,Non League Premier - Northern - Play-offs,League,England,2022
+995,Non League Premier - Southern South - Play-offs,League,England,2022
+996,Non League Premier - Southern Central - Play-offs,League,England,2022
+997,Serie D - Promotion - Play-offs,League,Italy,2022
+998,Serie D - Relegation - Play-offs,League,Italy,2022
+999,Serie D - Championship Round,League,Italy,2022
+1000,Segunda División RFEF - Play-offs,League,Spain,2022
+1001,CONCACAF Women U20,Cup,World,2024
+1002,Regionalliga - Promotion Play-offs,League,Germany,2022
+1003,Regionalliga - Relegation Round,League,Germany,2022
+1006,Primera División RFEF - Play Offs,League,Spain,2022
 1008,CAFA Nations Cup,Cup,World,2023
 1012,AFC U17 Asian Cup,Cup,World,2023
 1013,All-Island Cup - Women,Cup,World,2023
 1015,CAF U23 Cup of Nations,Cup,World,2023
+1016,CAC Games,Cup,World,2022
+1022,Premier League - Summer Series,League,England,2023
 1024,UEFA - CONMEBOL - Club Challenge,Cup,World,2023
 1028,Concacaf Central American Cup,Cup,World,2023
+1029,National 3 - Group G,League,France,2023
+1034,2. Frauen Bundesliga,League,Germany,2023
 1038,King's Cup,Cup,World,2023
 1039,Premier League International Cup,Cup,World,2023
 1040,UEFA Nations League - Women,Cup,World,2023
 1043,African Football League,Cup,World,2023
 1045,Pan American Games,Cup,World,2023
-1072,All Africa Games,Cup,World,2023
-1001,CONCACAF Women U20,Cup,World,2024
 1046,CONCACAF Gold Cup - Qualification - Women,Cup,World,2024
 1047,Olympics Women - Qualification CAF,Cup,World,2024
 1057,CONCACAF Gold Cup - Women,Cup,World,2024
+1058,Supercopa Femenina,Cup,Spain,2023
 1060,CONMEBOL - Pre-Olympic Tournament,Cup,World,2024
 1066,CONCACAF U20 - Qualification,Cup,World,2024
+1068,FA Youth Cup,Cup,England,2023
 1070,AFC U20 Asian Cup - Women,Cup,World,2024
+1072,All Africa Games,Cup,World,2023
 1077,WAFF Championship U23,Cup,World,2024
 1081,CONMEBOL - U17 Femenino,Cup,World,2024
+1083,UEFA Championship - Women - Qualification,Cup,World,2025
 1085,CONMEBOL U20 Femenino,Cup,World,2024
 1089,UAE-Qatar - Super Shield,Cup,World,2024
 1101,AFC U17 Asian Cup - Women,Cup,World,2024
@@ -337,11 +336,12 @@ id,name,type,country,first_season
 1129,ASEAN Club Championship,Cup,World,2024
 1132,AFC Challenge League,Cup,World,2024
 1136,CONCACAF W Champions Cup,Cup,World,2024
+1137,Supercup der Frauen,League,Germany,2024
 1140,AFC Women's Champions League,Cup,World,2024
 1153,AFC U20 Asian Cup - Qualification,Cup,World,2024
+1156,National League Cup,Cup,England,2024
 1159,CECAFA U20 Championship,Cup,World,2024
 1161,AFC U17 Asian Cup - Qualification,Cup,World,2024
 1162,AGCFF Gulf Champions League,Cup,World,2024
 1163,African Nations Championship - Qualification,Cup,World,2024
 1164,CAF Women's Champions League,Cup,World,2024
-1083,UEFA Championship - Women - Qualification,Cup,World,2025
