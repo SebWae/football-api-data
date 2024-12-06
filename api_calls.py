@@ -59,11 +59,11 @@ def register_fixtures(date):
 
     year = date[0:4]
     month = date[5:7]
-    
+
     folder_path_all = f"data/fixtures_all/{year}/"
     folder_path_selected = f"data/fixtures_selected/{year}/"
-    file_path_all = f"{folder_path_all}{year}_{month}_fixtures.csv"
-    file_path_selected = f"{folder_path_selected}{year}_{month}_fixtures.csv"
+    file_path_all = f"{folder_path_all}{year}_{month}_fixtures_all.csv"
+    file_path_selected = f"{folder_path_selected}{year}_{month}_fixtures_selected.csv"
 
     # ensure directories exist
     os.makedirs(folder_path_all, exist_ok=True)
