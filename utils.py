@@ -33,6 +33,9 @@ def sort_csv_by_column(input_file, output_file, column_name, ascending=True, sec
         if secondary_column and secondary_column not in df.columns:
             raise ValueError(f"Secondary column '{secondary_column}' not found in the CSV file.")
         
+        # Store original dtypes to restore them after sorting
+        original_dtypes = df.dtypes
+        
         # Prepare columns and sort order for sorting
         sort_columns = [column_name]
         sort_order = [ascending] if isinstance(ascending, bool) else ascending
@@ -45,6 +48,10 @@ def sort_csv_by_column(input_file, output_file, column_name, ascending=True, sec
 
         # Sort the DataFrame
         sorted_df = df.sort_values(by=sort_columns, ascending=sort_order)
+        
+        # Restore the original data types to prevent type conversion issues
+        for col in sorted_df.columns:
+            sorted_df[col] = sorted_df[col].astype(original_dtypes[col])
         
         # Save the sorted DataFrame to the output file
         sorted_df.to_csv(output_file, index=False)
