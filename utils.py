@@ -71,3 +71,29 @@ def get_position(formation, grid):
     position = formation_dict[formation][grid]
 
     return position
+
+
+def ids_from_csv(csv_file_path):
+    """
+    csv_file_path (str): path to the csv file
+    """
+    df = pd.read_csv(csv_file_path)
+
+    unique_ids = set(df.iloc[:, 0]) 
+
+    return unique_ids
+
+
+def season_from_fixture_id(fixture_id, fixture_date):
+    """
+    fixture_id (int): id of the fixture for which we want to find the season
+    fixture_date (str): date of fixture on the format "yyyy-mm-dd"
+    """
+    year = fixture_date[0:4]
+    month = fixture_date[5:7]
+
+    df = pd.read_csv(f"data/fixtures_selected/{year}/{year}_{month}_fixtures_selected.csv")
+    row = df[df['id'] == fixture_id]
+    season = row['season'].iloc[0] if not row.empty else None
+
+    return season
