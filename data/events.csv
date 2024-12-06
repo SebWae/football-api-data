@@ -1,2 +1,1 @@
-fixture_id,date,league_id,time_elapsed,time_extra,team_id,player_id,assist_id,event_type,detail,comment
-                             
+fixture_id,team_id,player_id,time_elapsed, time_extra, event_type,assist_id,detail,comment
