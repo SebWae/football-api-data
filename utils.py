@@ -1,5 +1,6 @@
 import csv
 import pandas as pd
+from formations import formation_dict
 
 def register_team(id, name, logo):
     with open('data/teams.csv', 'a', newline='') as file:
@@ -66,35 +67,7 @@ def get_position(formation, grid):
     formation (str): string indicating the position of the team, e.g., "4-4-2"
     grid (str): string indicating the chain and position of the player, e.g., "2:1"
     """
-    formation_dict = {
-        "4-4-2": {
-            "1:1": "GK",
-            "2:1": "LB",
-            "2:2": "LCB",
-            "2:3": "RCB",
-            "2:4": "RB",
-            "3:1": "LM",
-            "3:2": "LCM",
-            "3:3": "RCM",
-            "3:4": "RM",
-            "4:1": "ST",
-            "4:2": "ST"
-            },
-        "4-3-3": {
-            "1:1": "GK",
-            "2:1": "LB",
-            "2:2": "LCB",
-            "2:3": "RCB",
-            "2:4": "RB",
-            "3:1": "LCM",
-            "3:2": "CM",
-            "3:3": "RCM",
-            "4:1": "LW",
-            "4:2": "ST",
-            "4:3": "ST"
-        }
-    }
-
+    
     position = formation_dict[formation][grid]
 
     return position
