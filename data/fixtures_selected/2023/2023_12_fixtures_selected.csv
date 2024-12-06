@@ -1,4 +1,4 @@
 id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,league_id,league,season,stage,home_team_id,home_team,away_team_id,away_team,home_ft,away_ft,home_ht,away_ht,home_et,away_et,home_pen,away_pen
-1150202,T. Penso,UTC,2023-12-22,14:30:00,19932.0,Prince Abdullah al-Faisal Stadium,Jeddah,90,,15,FIFA Intercontinental Cup,2023,3rd Place Final,287,Urawa,1577,Al Ahly,2,4,1.0,2.0,,,,
-1150201,S. Marciniak,UTC,2023-12-22,18:00:00,1364.0,King Abdullah Sports City,Jeddah,90,,15,FIFA Intercontinental Cup,2023,Final,50,Manchester City,124,Fluminense,4,0,2.0,0.0,,,,
-1035344,A. Taylor,UTC,2023-12-22,20:00:00,495.0,Villa Park,Birmingham,90,,39,Premier League,2023,Regular Season - 18,66,Aston Villa,62,Sheffield Utd,1,1,0.0,0.0,,,,
+1150202,T. Penso,UTC,2023-12-22,14:30:00,19932,Prince Abdullah al-Faisal Stadium,Jeddah,90,,15,FIFA Intercontinental Cup,2023,3rd Place Final,287,Urawa,1577,Al Ahly,2,4,1,2,,,,
+1150201,S. Marciniak,UTC,2023-12-22,18:00:00,1364,King Abdullah Sports City,Jeddah,90,,15,FIFA Intercontinental Cup,2023,Final,50,Manchester City,124,Fluminense,4,0,2,0,,,,
+1035344,A. Taylor,UTC,2023-12-22,20:00:00,495,Villa Park,Birmingham,90,,39,Premier League,2023,Regular Season - 18,66,Aston Villa,62,Sheffield Utd,1,1,0,0,,,,
