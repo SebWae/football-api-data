@@ -160,3 +160,180 @@ def register_fixtures(date):
                         away_ft, home_ht, away_ht, home_et, away_et, home_pen, away_pen
                     ])
 
+
+def register_manager(manager_id):
+    """
+    manager_id (int): id of the manager to be registered
+    """
+    url = "https://api-football-v1.p.rapidapi.com/v3/coachs"
+
+    querystring = {"id":f"{manager_id}"}
+    
+    response = requests.get(url, headers=headers, params=querystring)
+    main_dict = response.json()["response"][0]
+
+    name = main_dict["name"]
+    firstname = main_dict["firstname"]
+    lastname = main_dict["lastname"]
+
+    birthdate = main_dict["birth"]["date"]
+    birthplace = main_dict["birth"]["place"]
+    birthcountry = main_dict["birth"]["country"]
+
+    nationality = main_dict["nationality"]
+    height = main_dict["height"]
+    weight = main_dict["weight"]
+    photo = main_dict["photo"]
+
+    info = [manager_id,
+            name,
+            firstname,
+            lastname,
+            birthdate,
+            birthplace,
+            birthcountry,
+            nationality,
+            height,
+            weight,
+            photo
+            ]
+
+    with open("data/managers.csv", 'a', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(info)
+
+
+def register_player(player_id, season):
+    """
+    player_id (int): id of player to register
+    season (int): season the player has featured in, should be equal to a year, e.g. 2024
+    """  
+    url = "https://api-football-v1.p.rapidapi.com/v3/players"
+    querystring = {"id": f"{player_id}","season": f"{season}"}
+
+    response = requests.get(url, headers=headers, params=querystring)
+    main_dict = response.json()["response"][0]["player"]
+
+    name = main_dict["name"]
+    firstname = main_dict["firstname"]
+    lastname = main_dict["lastname"]
+
+    birthdate = main_dict["birth"]["date"]
+    birthplace = main_dict["birth"]["place"]
+    birthcountry = main_dict["birth"]["country"]
+
+    nationality = main_dict["nationality"]
+    height = main_dict["height"]
+    weight = main_dict["weight"]
+    photo = main_dict["photo"]
+
+    info = [player_id,
+            name,
+            firstname,
+            lastname,
+            birthdate,
+            birthplace,
+            birthcountry,
+            nationality,
+            height,
+            weight,
+            photo
+            ]
+
+    with open("data/players.csv", 'a', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(info)
+
+
+def register_fixture(fixture_id):
+    """
+    fixture_id (int): id of the fixture to be registered 
+    """
+    url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
+    querystring = {"id": f"{fixture_id}"}
+
+    response = requests.get(url, headers=headers, params=querystring)
+    main_dict = response.json()["response"][0]
+
+    date_list = main_dict["fixture"]["date"].split("T")
+    date = date_list[0]
+    season = utils.season_from_fixture_id(fixture_id, date)
+
+    events = main_dict["events"]
+
+    with open("data/events.csv", 'a', newline='') as file:
+        writer = csv.writer(file)
+
+        for event in events:
+            time_elapsed = event["time"]["elapsed"]
+            time_extra = event["time"]["extra"]
+            team_id = event["team"]["id"]
+            player_id = event["player"]["id"]
+            assist_id = event["assist"]["id"]
+            event_type = event["type"]
+            detail = event["detail"]
+            comment = event["comment"]
+
+            info = [fixture_id, 
+                    team_id, 
+                    player_id,
+                    time_elapsed, 
+                    time_extra, 
+                    event_type,
+                    assist_id,
+                    detail,
+                    comment
+                    ]
+            
+            writer.writerow(info)
+    
+    lineups = main_dict["lineups"]
+    home_away_dict = {0: "home", 1: "away"}
+
+    registered_managers = utils.ids_from_csv("data/managers.csv")
+    registered_players = utils.ids_from_csv("data/players.csv")
+
+    with open("data/lineups.csv", 'a', newline='') as file:
+        writer = csv.writer(file)
+
+        for idx, lineup in enumerate(lineups):
+            team_id = lineup["team"]
+            home_away = home_away_dict[idx]
+            manager_id = lineup["coach"]["id"]
+            formation = lineup["formation"]
+
+            if manager_id not in registered_managers:
+                register_manager(manager_id)
+
+            info = [fixture_id, 
+                    team_id, 
+                    home_away, 
+                    manager_id, 
+                    formation
+                    ]
+
+            start_xi = lineup["startXI"]
+            player_info = []
+
+            for player in start_xi:
+                player_dict = player["player"]
+                player_id = player_dict["id"]
+                number = player_dict["number"]
+                grid = player_dict["grid"]
+                
+                player_info.extend([player_id, number, grid])
+
+                if player_id not in registered_players:
+                    register_player(player_id, season)
+        
+        total_info = info + player_info
+
+        writer.writerow(total_info)
+
+
+
+
+
+        
+
+        
