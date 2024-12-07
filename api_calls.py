@@ -272,7 +272,7 @@ def register_fixture(fixture_id):
             assist_id = event["assist"]["id"]
             event_type = event["type"]
             detail = event["detail"]
-            comment = event["comment"]
+            comment = event["comments"]
 
             info = [fixture_id, 
                     team_id, 
