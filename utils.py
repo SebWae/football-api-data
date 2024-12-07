@@ -97,3 +97,21 @@ def season_from_fixture_id(fixture_id, fixture_date):
     season = row['season'].iloc[0] if not row.empty else None
 
     return season
+
+
+def get_subbed_in_players(fixture_id, team_id):
+    """
+    fixture_id (int): id of the relevant fixture
+    team_id (int): id of the team to find subbed in players for
+    """
+    events_df = pd.read_csv("data/events.csv")
+
+    relevant_events = events_df[(events_df['fixture_id'] == fixture_id) &
+                                (events_df['team_id'] == team_id)
+                                ]
+    
+    subs = relevant_events[relevant_events['event_type'] == 'subst']
+
+    subbed_in_players = set(subs["assist_id"])
+    
+    return subbed_in_players
