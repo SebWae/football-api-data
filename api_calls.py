@@ -293,7 +293,7 @@ def register_fixture(fixture_id):
     registered_players = utils.ids_from_csv("data/players.csv")
 
     for lineup in lineups:
-        team_id = lineup["team"]
+        team_id = lineup["team"]["id"]
         manager_id = lineup["coach"]["id"]
         formation = lineup["formation"]
 
@@ -352,6 +352,9 @@ def register_fixture(fixture_id):
                             subbed_in
                             ]
                 
+                if player_id not in registered_players:
+                    register_player(player_id, season)
+
                 writer_subs.writerow(sub_info)
     
     with open("data/team_stats.csv", 'a', newline='') as file:
