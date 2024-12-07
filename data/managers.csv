@@ -1,3 +1,5 @@
 manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,height,weight,photo
 6025,R. Martin,Russell,Martin,1986-01-04,Brighton,England,Scotland,183 cm,74 kg,https://media.api-sports.io/football/coachs/6025.png
 2006,A. Slot,Arne,Slot,1978-09-17,Bergentheim,Netherlands,Netherlands,185 cm,75 kg,https://media.api-sports.io/football/coachs/2006.png
+16556,K. McKenna,Kieran,McKenna,1986-05-14,,England,England,,,https://media.api-sports.io/football/coachs/16556.png
+4720,Ruben Amorim,Rúben Filipe,Marques Diogo Amorim,1985-01-27,Lisboa,Portugal,Portugal,182 cm,72 kg,https://media.api-sports.io/football/coachs/4720.png
