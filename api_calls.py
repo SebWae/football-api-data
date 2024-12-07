@@ -262,7 +262,7 @@ def register_fixture(fixture_id):
     events = main_dict["events"]
 
     with open("data/events.csv", 'a', newline='') as file:
-        writer = csv.writer(file)
+        writer_events = csv.writer(file)
 
         for event in events:
             time_elapsed = event["time"]["elapsed"]
@@ -285,35 +285,35 @@ def register_fixture(fixture_id):
                     comment
                     ]
             
-            writer.writerow(info)
+            writer_events.writerow(info)
     
     lineups = main_dict["lineups"]
-    home_away_dict = {0: "home", 1: "away"}
 
     registered_managers = utils.ids_from_csv("data/managers.csv")
     registered_players = utils.ids_from_csv("data/players.csv")
 
-    with open("data/lineups.csv", 'a', newline='') as file:
-        writer = csv.writer(file)
+    for lineup in lineups:
+        team_id = lineup["team"]
+        manager_id = lineup["coach"]["id"]
+        formation = lineup["formation"]
 
-        for idx, lineup in enumerate(lineups):
-            team_id = lineup["team"]
-            home_away = home_away_dict[idx]
-            manager_id = lineup["coach"]["id"]
-            formation = lineup["formation"]
+        tactics_info = [fixture_id, 
+                        team_id, 
+                        manager_id, 
+                        formation
+                        ]
+        
+        if manager_id not in registered_managers:
+            register_manager(manager_id)
 
-            if manager_id not in registered_managers:
-                register_manager(manager_id)
+        with open("data/lineups_tactics.csv", 'a', newline='') as file:
+            writer_tactics = csv.writer(file)
+            writer_tactics.writerow(tactics_info)
 
-            info = [fixture_id, 
-                    team_id, 
-                    home_away, 
-                    manager_id, 
-                    formation
-                    ]
+        with open("data/lineups.csv", 'a', newline='') as file:
+            writer_lineups = csv.writer(file)
 
             start_xi = lineup["startXI"]
-            player_info = []
 
             for player in start_xi:
                 player_dict = player["player"]
@@ -321,14 +321,150 @@ def register_fixture(fixture_id):
                 number = player_dict["number"]
                 grid = player_dict["grid"]
                 
-                player_info.extend([player_id, number, grid])
+                player_info = [fixture_id, 
+                               team_id, 
+                               player_id, 
+                               number, 
+                               grid
+                               ]
 
                 if player_id not in registered_players:
                     register_player(player_id, season)
-        
-        total_info = info + player_info
 
-        writer.writerow(total_info)
+                writer_lineups.writerow(player_info)
+        
+        with open("data/substitutes.csv", 'a', newline='') as file:
+            writer_subs = csv.writer(file)
+            
+            subs = lineup["substitutes"]
+            subbed_ins = utils.get_subbed_in_players(fixture_id, team_id)
+
+            for sub in subs:
+                sub_dict = sub["player"]
+                player_id = sub_dict["id"]
+                number = sub_dict["number"]
+                subbed_in = player_id in subbed_ins
+
+                sub_info = [fixture_id,
+                            team_id,
+                            player_id,
+                            number,
+                            subbed_in
+                            ]
+                
+                writer_subs.writerow(sub_info)
+    
+    with open("data/team_stats.csv", 'a', newline='') as file:
+        writer_team_stats = csv.writer(file)
+
+        team_stats = main_dict["statistics"]
+
+        for team_stat in team_stats:
+            team_id = team_stat["team"]["id"]
+
+            stats_list = team_stat["statistics"]
+            stats_info = [fixture_id, team_id] + [stat_dict["value"] for stat_dict in stats_list]
+            stats_info = [0 if stat is None else stat for stat in stats_info]
+
+            while len(stats_info) < 18:
+                stats_info.append(None)
+        
+            writer_team_stats.writerow(stats_info)
+
+    with open("data/player_stats.csv", 'a', newline='') as file:
+        writer_player_stats = csv.writer(file)
+
+        player_stats = main_dict["players"]
+
+        for player_stat in player_stats:
+            team_id = player_stat["team"]["id"]
+
+            for player_stat_dict in player_stat["players"]:
+                player_id = player_stat_dict["player"]["id"]
+                stats_dict = player_stat_dict["statistics"][0]
+
+                minutes = stats_dict["games"]["minutes"]
+                rating = float(stats_dict["games"]["rating"])
+                captain = stats_dict["games"]["captain"]
+
+                offsides = stats_dict["offsides"]
+                
+                total_shots = stats_dict["shots"]["total"]
+                shots_on = stats_dict["shots"]["on"]
+
+                goals_scored = stats_dict["goals"]["total"]
+                goals_conceded = stats_dict["goals"]["conceded"]
+                assists = stats_dict["goals"]["assists"]
+                saves = stats_dict["goals"]["saves"]
+
+                passes_attempted = stats_dict["passes"]["total"]
+                passes_completed = stats_dict["passes"]["accuracy"]
+                key_passes = stats_dict["passes"]["key"]
+
+                tackles = stats_dict["tackles"]["total"]
+                blocks = stats_dict["tackles"]["blocks"]
+                interceptions = stats_dict["tackles"]["interceptions"]
+
+                duels_total = stats_dict["duels"]["total"]
+                duels_won = stats_dict["duels"]["won"]
+
+                dribbles_attempted = stats_dict["dribbles"]["attempts"]
+                dribbles_completed = stats_dict["dribbles"]["success"]
+                dribbled_past = stats_dict["dribbles"]["past"]
+
+                fouls_drawn = stats_dict["fouls"]["drawn"]
+                fouls_committed = stats_dict["fouls"]["committed"]
+
+                yellow_cards = stats_dict["cards"]["yellow"]
+                red_cards = stats_dict["cards"]["red"]
+
+                penalties_won = stats_dict["penalty"]["won"]
+                penalties_committed = stats_dict["penalty"]["commited"]
+                penalties_scored = stats_dict["penalty"]["scored"]
+                penalties_missed = stats_dict["penalty"]["missed"]
+                penalties_saved = stats_dict["penalty"]["saved"]
+
+                player_stat_info = [fixture_id,
+                                    team_id,
+                                    player_id,
+                                    minutes,
+                                    rating,
+                                    captain,
+                                    offsides,
+                                    total_shots,
+                                    shots_on,
+                                    goals_scored,
+                                    goals_conceded,
+                                    assists,
+                                    saves,
+                                    passes_attempted,
+                                    passes_completed,
+                                    key_passes,
+                                    tackles,
+                                    blocks,
+                                    interceptions,
+                                    duels_total,
+                                    duels_won,
+                                    dribbles_attempted,
+                                    dribbles_completed,
+                                    dribbled_past,
+                                    fouls_drawn,
+                                    fouls_committed,
+                                    yellow_cards,
+                                    red_cards,
+                                    penalties_won,
+                                    penalties_committed,
+                                    penalties_scored,
+                                    penalties_missed,
+                                    penalties_saved]
+                
+                player_stat_info = [0 if stat is None else stat for stat in player_stat_info]
+
+                writer_player_stats.writerow(player_stat_info)
+
+        
+
+
 
 
 
