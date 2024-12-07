@@ -387,7 +387,8 @@ def register_fixture(fixture_id):
                 stats_dict = player_stat_dict["statistics"][0]
 
                 minutes = stats_dict["games"]["minutes"]
-                rating = float(stats_dict["games"]["rating"])
+                rating = stats_dict["games"]["rating"]
+                rating = float(rating) if rating is not None else 0.0
                 captain = stats_dict["games"]["captain"]
 
                 offsides = stats_dict["offsides"]
