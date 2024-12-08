@@ -255,6 +255,18 @@ def register_fixture(fixture_id):
     response = requests.get(url, headers=headers, params=querystring)
     main_dict = response.json()["response"][0]
 
+    registered_managers = utils.ids_from_csv("data/managers.csv")
+    registered_players = utils.ids_from_csv("data/players.csv")
+    n_new_managers, n_new_players, new_managers, new_players = utils.find_new_managers_and_players(main_dict, registered_managers, registered_players)
+    total_new_persons = n_new_managers + n_new_players
+
+    if total_new_persons > 29:
+        print(f"This fixture contains {n_new_managers} new managers and {n_new_players} new players")
+        print(f"New managers: {new_managers}")
+        print(f"New players: {new_players}")
+        print(f"Please make sure this total ({total_new_persons}) is below 30")
+        return
+
     date_list = main_dict["fixture"]["date"].split("T")
     date = date_list[0]
     season = utils.season_from_fixture_id(fixture_id, date)
@@ -288,9 +300,6 @@ def register_fixture(fixture_id):
             writer_events.writerow(info)
     
     lineups = main_dict["lineups"]
-
-    registered_managers = utils.ids_from_csv("data/managers.csv")
-    registered_players = utils.ids_from_csv("data/players.csv")
 
     for lineup in lineups:
         team_id = lineup["team"]["id"]
