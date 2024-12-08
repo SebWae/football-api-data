@@ -115,3 +115,35 @@ def get_subbed_in_players(fixture_id, team_id):
     subbed_in_players = set(subs["assist_id"])
     
     return subbed_in_players
+
+
+def find_new_managers_and_players(main_dict, existing_managers, existing_players):
+    """
+    main_dict (dict): dictionary item obtained from api call
+    existing_managers (set): set of already registered managers
+    existing_players (set): set of already registered players
+    """
+    manager_ids = set()
+    player_ids = set()
+
+    lineups = main_dict["lineups"]
+
+    for lineup in lineups:
+        manager_id = lineup["coach"]["id"]
+        manager_ids.add(manager_id)
+
+        for player in lineup["startXI"]:
+            player_id = player["player"]["id"]
+            player_ids.add(player_id)
+
+        for player in lineup["substitutes"]:
+            player_id = player["player"]["id"]
+            player_ids.add(player_id)
+
+    new_managers = manager_ids.difference(existing_managers)
+    new_players = player_ids.difference(existing_players)
+
+    n_new_managers = len(new_managers)
+    n_new_players = len(new_players)
+
+    return n_new_managers, n_new_players, new_managers, new_players
