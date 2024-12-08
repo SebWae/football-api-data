@@ -1,6 +1,8 @@
 manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,height,weight,photo
+4,Guardiola,Josep,Guardiola i Sala,1971-01-18,Santpedor,Spain,Spain,180 cm,70 kg,https://media.api-sports.io/football/coachs/4.png
 5,E. Howe,Edward John Frank,Howe,1977-11-29,Amersham,England,England,,,https://media.api-sports.io/football/coachs/5.png
 1594,Lopetegui,Julen,Lopetegui Argote,1966-08-28,Asteasu,Spain,Spain,185 cm,,https://media.api-sports.io/football/coachs/1594.png
+1682,B. Priske,Brian,Priske Pedersen,1977-05-14,Horsens,Denmark,Denmark,188 cm,79 kg,https://media.api-sports.io/football/coachs/1682.png
 2006,A. Slot,Arne,Slot,1978-09-17,Bergentheim,Netherlands,Netherlands,185 cm,75 kg,https://media.api-sports.io/football/coachs/2006.png
 4720,Ruben Amorim,Rúben Filipe,Marques Diogo Amorim,1985-01-27,Lisboa,Portugal,Portugal,182 cm,72 kg,https://media.api-sports.io/football/coachs/4720.png
 6025,R. Martin,Russell,Martin,1986-01-04,Brighton,England,Scotland,183 cm,74 kg,https://media.api-sports.io/football/coachs/6025.png
