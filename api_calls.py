@@ -1,7 +1,6 @@
 import requests
 import csv
 import pandas as pd
-import os
 import utils
 import time
 from headers import headers
@@ -494,15 +493,3 @@ def register_fixture(fixture_id):
                 writer_player_stats.writerow(player_stat_info)
 
     print(f"Fixture {fixture_id} has been registered successfully!")
-
-        
-
-
-
-
-
-
-
-        
-
-        
