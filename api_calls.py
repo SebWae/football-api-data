@@ -3,6 +3,7 @@ import csv
 import pandas as pd
 import os
 import utils
+import time
 from headers import headers
 
 def get_countries():
@@ -159,6 +160,9 @@ def register_fixtures(date):
                         home_team_id, home_team, away_team_id, away_team, home_ft,
                         away_ft, home_ht, away_ht, home_et, away_et, home_pen, away_pen
                     ])
+    
+    # sort teams.csv by id column
+    utils.sort_csv_by_column(input_file="data/teams.csv", output_file="data/teams.csv", column_name="id", ascending=True)
 
 
 def register_manager(manager_id):
@@ -249,27 +253,58 @@ def register_fixture(fixture_id):
     """
     fixture_id (int): id of the fixture to be registered 
     """
+    registered_fixtures = utils.ids_from_csv("data/lineups_tactics.csv")
+    if fixture_id in registered_fixtures:
+        print("This fixture has already been registered!")
+        return
+    
     url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
     querystring = {"id": f"{fixture_id}"}
 
     response = requests.get(url, headers=headers, params=querystring)
     main_dict = response.json()["response"][0]
 
-    registered_managers = utils.ids_from_csv("data/managers.csv")
-    registered_players = utils.ids_from_csv("data/players.csv")
-    n_new_managers, n_new_players, new_managers, new_players = utils.find_new_managers_and_players(main_dict, registered_managers, registered_players)
-    total_new_persons = n_new_managers + n_new_players
-
-    if total_new_persons > 29:
-        print(f"This fixture contains {n_new_managers} new managers and {n_new_players} new players")
-        print(f"New managers: {new_managers}")
-        print(f"New players: {new_players}")
-        print(f"Please make sure this total ({total_new_persons}) is below 30")
-        return
-
     date_list = main_dict["fixture"]["date"].split("T")
     date = date_list[0]
     season = utils.season_from_fixture_id(fixture_id, date)
+
+    registered_managers = utils.ids_from_csv("data/managers.csv")
+    registered_players = utils.ids_from_csv("data/players.csv")
+    n_new_managers, n_new_players, new_managers, new_players = utils.find_new_managers_and_players(main_dict, 
+                                                                                                   registered_managers, 
+                                                                                                   registered_players
+                                                                                                   )
+    total_new_persons = n_new_managers + n_new_players
+
+    if total_new_persons > 0:
+        print(f"This fixture contains {n_new_managers} new managers and {n_new_players} new players ({total_new_persons} in total)")
+        print("Do you wanna proceed [y/n]?")
+        answer = input().strip().lower()
+
+        if answer == "y":
+            remaining_persons = 29
+            new_players_list = list(new_players)
+            print(f"Registering players until {remaining_persons} persons are remaining in total")
+
+            while total_new_persons > remaining_persons:
+                player_to_register = new_players_list[-1]
+                register_player(player_to_register, season)
+                new_players_list.pop()
+                total_new_persons -= 1
+                
+            print(f"{remaining_persons} persons are now remaining")
+            print("Wait for 1 minute to make more API calls")
+            time.sleep(60)
+            print("Wait time is over")
+        
+        elif answer == "n":
+            return
+        
+        else:
+            return "Invalid input! The input should be 'y' or 'n'"
+
+    registered_managers = utils.ids_from_csv("data/managers.csv")
+    registered_players = utils.ids_from_csv("data/players.csv")
 
     events = main_dict["events"]
 
@@ -366,6 +401,18 @@ def register_fixture(fixture_id):
 
                 writer_subs.writerow(sub_info)
     
+    # sort managers.csv and players.csv by id column
+    utils.sort_csv_by_column(input_file="data/managers.csv", 
+                             output_file="data/managers.csv", 
+                             column_name="manager_id", 
+                             ascending=True
+                             )
+    utils.sort_csv_by_column(input_file="data/players.csv", 
+                             output_file="data/players.csv", 
+                             column_name="player_id", 
+                             ascending=True
+                             )
+
     with open("data/team_stats.csv", 'a', newline='') as file:
         writer_team_stats = csv.writer(file)
 
