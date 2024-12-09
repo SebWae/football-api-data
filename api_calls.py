@@ -58,38 +58,8 @@ def register_fixtures(date):
 
     selected_leagues = {2, 3, 15, 39, 45, 48, 528, 531, 848}
 
-    year = date[0:4]
-    month = date[5:7]
-
-    folder_path_all = f"data/fixtures_all/{year}/"
-    folder_path_selected = f"data/fixtures_selected/{year}/"
-    file_path_all = f"{folder_path_all}{year}_{month}_fixtures_all.csv"
-    file_path_selected = f"{folder_path_selected}{year}_{month}_fixtures_selected.csv"
-
-    # ensure directories exist
-    os.makedirs(folder_path_all, exist_ok=True)
-    os.makedirs(folder_path_selected, exist_ok=True)
-
-    # headers for csv files
-    headers_csv = [
-        "id", "referee", "timezone", "date", "kick_off", "venue_id", "venue",
-        "city", "elapsed_time", "extra_time", "league_id", "league", "season",
-        "stage", "home_team_id", "home_team", "away_team_id", "away_team",
-        "home_ft", "away_ft", "home_ht", "away_ht", "home_et", "away_et",
-        "home_pen", "away_pen"
-    ]
-
-    # add headers to csv file for all fixtures if the file does not exist
-    if not os.path.exists(file_path_all):
-        with open(file_path_all, 'w', newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(headers_csv)
-
-    # add headers to csv file for selected fixtures if the file does not exist
-    if not os.path.exists(file_path_selected):
-        with open(file_path_selected, 'w', newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(headers_csv)
+    file_path_all = "fixtures_all.csv"
+    file_path_selected = "fixtures_selected.csv"
 
     # add fixtures to csv files
     with open(file_path_all, 'a', newline='') as file:
@@ -522,7 +492,7 @@ def register_fixture(fixture_id):
                 player_stat_info = [0 if stat is None else stat for stat in player_stat_info]
 
                 writer_player_stats.writerow(player_stat_info)
-                
+
     print(f"Fixture {fixture_id} has been registered successfully!")
 
         
