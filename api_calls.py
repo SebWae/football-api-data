@@ -283,19 +283,20 @@ def register_fixture(fixture_id):
 
         if answer == "y":
             remaining_persons = 29
-            new_players_list = list(new_players)
-            print(f"Registering players until {remaining_persons} persons are remaining in total")
+            if total_new_persons > remaining_persons:
+                new_players_list = list(new_players)
+                print(f"Registering players until {remaining_persons} persons are remaining in total")
 
-            while total_new_persons > remaining_persons:
-                player_to_register = new_players_list[-1]
-                register_player(player_to_register, season)
-                new_players_list.pop()
-                total_new_persons -= 1
-                
-            print(f"{remaining_persons} persons are now remaining")
-            print("Wait for 1 minute to make more API calls")
-            time.sleep(60)
-            print("Wait time is over")
+                while total_new_persons > remaining_persons:
+                    player_to_register = new_players_list[-1]
+                    register_player(player_to_register, season)
+                    new_players_list.pop()
+                    total_new_persons -= 1
+                    
+                print(f"{remaining_persons} persons are now remaining")
+                print("Wait for 1 minute to make more API calls")
+                time.sleep(60)
+                print("Wait time is over")
         
         elif answer == "n":
             return
@@ -521,6 +522,8 @@ def register_fixture(fixture_id):
                 player_stat_info = [0 if stat is None else stat for stat in player_stat_info]
 
                 writer_player_stats.writerow(player_stat_info)
+                
+    print(f"Fixture {fixture_id} has been registered successfully!")
 
         
 
