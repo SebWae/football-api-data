@@ -6,4 +6,6 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 2006,A. Slot,Arne,Slot,1978-09-17,Bergentheim,Netherlands,Netherlands,185 cm,75 kg,https://media.api-sports.io/football/coachs/2006.png
 4720,Ruben Amorim,Rúben Filipe,Marques Diogo Amorim,1985-01-27,Lisboa,Portugal,Portugal,182 cm,72 kg,https://media.api-sports.io/football/coachs/4720.png
 6025,R. Martin,Russell,Martin,1986-01-04,Brighton,England,Scotland,183 cm,74 kg,https://media.api-sports.io/football/coachs/6025.png
+7248,Mikel Arteta,Mikel,Arteta Amatriain,1982-03-26,San Sebastián,Spain,Spain,175 cm,64 kg,https://media.api-sports.io/football/coachs/7248.png
 16556,K. McKenna,Kieran,McKenna,1986-05-14,,England,England,,,https://media.api-sports.io/football/coachs/16556.png
+22849,João Pereira,,,,,,,,,https://media.api-sports.io/football/coachs/22849.png
