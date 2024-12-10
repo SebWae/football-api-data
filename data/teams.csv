@@ -1144,6 +1144,7 @@ id,name,logo
 1536,Tajikistan,https://media.api-sports.io/football/teams/1536.png
 1537,India,https://media.api-sports.io/football/teams/1537.png
 1538,Malaysia,https://media.api-sports.io/football/teams/1538.png
+1542,Vietnam,https://media.api-sports.io/football/teams/1542.png
 1543,Cambodia,https://media.api-sports.io/football/teams/1543.png
 1546,Singapore,https://media.api-sports.io/football/teams/1546.png
 1547,Bahrain,https://media.api-sports.io/football/teams/1547.png
@@ -3096,6 +3097,7 @@ id,name,logo
 6153,Hapoel Herzliya,https://media.api-sports.io/football/teams/6153.png
 6154,Hapoel Hod HaSharon,https://media.api-sports.io/football/teams/6154.png
 6159,Hapoel Kfar Kana,https://media.api-sports.io/football/teams/6159.png
+6160,Hapoel Kfar Shalem,https://media.api-sports.io/football/teams/6160.png
 6162,Hapoel Lod,https://media.api-sports.io/football/teams/6162.png
 6164,Hapoel Migdal HaEmek,https://media.api-sports.io/football/teams/6164.png
 6171,Holon Yermiyahu,https://media.api-sports.io/football/teams/6171.png
@@ -5484,6 +5486,7 @@ id,name,logo
 15384,Newcastle United U18,https://media.api-sports.io/football/teams/15384.png
 15385,Stoke City U18,https://media.api-sports.io/football/teams/15385.png
 15386,Sunderland U18,https://media.api-sports.io/football/teams/15386.png
+15387,Wolves U18,https://media.api-sports.io/football/teams/15387.png
 15388,Arsenal U18,https://media.api-sports.io/football/teams/15388.png
 15389,Aston Villa U18,https://media.api-sports.io/football/teams/15389.png
 15390,Brighton U18,https://media.api-sports.io/football/teams/15390.png
@@ -5491,6 +5494,7 @@ id,name,logo
 15392,Crystal Palace U18,https://media.api-sports.io/football/teams/15392.png
 15393,Fulham U18,https://media.api-sports.io/football/teams/15393.png
 15394,Leicester City U18,https://media.api-sports.io/football/teams/15394.png
+15395,Norwich City U18,https://media.api-sports.io/football/teams/15395.png
 15396,Reading U18,https://media.api-sports.io/football/teams/15396.png
 15397,Southampton U18,https://media.api-sports.io/football/teams/15397.png
 15398,Tottenham Hotspur U18,https://media.api-sports.io/football/teams/15398.png
@@ -6803,6 +6807,7 @@ id,name,logo
 22322,Gulf United,https://media.api-sports.io/football/teams/22322.png
 22329,Pro Palazzolo,https://media.api-sports.io/football/teams/22329.png
 22334,Hapoel Ironi Arraba,https://media.api-sports.io/football/teams/22334.png
+22335,Hapoel Segev Shalom,https://media.api-sports.io/football/teams/22335.png
 22346,Hua Hin Maraleina,https://media.api-sports.io/football/teams/22346.png
 22351,Adriatiku,https://media.api-sports.io/football/teams/22351.png
 22352,Albanët,https://media.api-sports.io/football/teams/22352.png
@@ -6915,6 +6920,7 @@ id,name,logo
 22817,Suhareka,https://media.api-sports.io/football/teams/22817.png
 22824,Gloria Bistriţa,https://media.api-sports.io/football/teams/22824.png
 22855,Rhode Island,https://media.api-sports.io/football/teams/22855.png
+22856,Ironi Beit Shemesh,https://media.api-sports.io/football/teams/22856.png
 22858,Bodø / Glimt,https://media.api-sports.io/football/teams/22858.png
 22890,Shenavarsazi Qeshm,https://media.api-sports.io/football/teams/22890.png
 22892,SC Bengaluru,https://media.api-sports.io/football/teams/22892.png
@@ -6936,8 +6942,12 @@ id,name,logo
 23085,Zorya Luhansk U19,https://media.api-sports.io/football/teams/23085.png
 23152,Dnepr Mogilev Res.,https://media.api-sports.io/football/teams/23152.png
 23153,Arsenal Res.,https://media.api-sports.io/football/teams/23153.png
+23160,AFC Fylde U18,https://media.api-sports.io/football/teams/23160.png
+23161,AFC Wimbledon U18,https://media.api-sports.io/football/teams/23161.png
+23164,Brentford U18,https://media.api-sports.io/football/teams/23164.png
 23174,Grimsby Town U18,https://media.api-sports.io/football/teams/23174.png
 23178,Hull City U18,https://media.api-sports.io/football/teams/23178.png
+23180,Leyton Orient U18,https://media.api-sports.io/football/teams/23180.png
 23183,Millwall U18,https://media.api-sports.io/football/teams/23183.png
 23184,Oxford United U18,https://media.api-sports.io/football/teams/23184.png
 23186,Preston North End U18,https://media.api-sports.io/football/teams/23186.png
@@ -7456,3 +7466,4 @@ id,name,logo
 25422,TOP Football,https://media.api-sports.io/football/teams/25422.png
 25423,Accrington Stanley U18,https://media.api-sports.io/football/teams/25423.png
 25425,Hertford Town U18,https://media.api-sports.io/football/teams/25425.png
+25427,Woking U18,https://media.api-sports.io/football/teams/25427.png
