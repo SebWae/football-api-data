@@ -60,6 +60,9 @@ def register_fixtures(date):
     file_path_all = "data/fixtures_all.csv"
     file_path_selected = "data/fixtures_selected.csv"
 
+    new_selected_fixtures = False
+    new_teams = False
+
     # add fixtures to csv files
     with open(file_path_all, 'a', newline='') as file:
         writer_all = csv.writer(file)
@@ -89,6 +92,7 @@ def register_fixtures(date):
             home_team = fixture["teams"]["home"]["name"]
 
             if home_team_id not in team_ids:
+                new_teams = True
                 home_team_logo = fixture["teams"]["home"]["logo"]
                 utils.register_team(home_team_id, home_team, home_team_logo)
 
@@ -96,6 +100,7 @@ def register_fixtures(date):
             away_team = fixture["teams"]["away"]["name"]
 
             if away_team_id not in team_ids:
+                new_teams = True
                 away_team_logo = fixture["teams"]["away"]["logo"]
                 utils.register_team(away_team_id, away_team, away_team_logo)
 
@@ -120,6 +125,7 @@ def register_fixtures(date):
             
             # add fixture to csv file storing selected fixtures if league id is defined in selected_leagues set  
             if league_id in selected_leagues:
+                new_selected_fixtures = True
                 with open(file_path_selected, 'a', newline='') as file:
                     writer_selected = csv.writer(file)
 
@@ -134,7 +140,13 @@ def register_fixtures(date):
     utils.sort_csv_by_column(input_file="data/teams.csv", output_file="data/teams.csv", column_name="id", ascending=True)
 
     # commit changes to git
-    files_to_commit = ["data/fixtures_all.csv", "data/fixtures_selected.csv", "data/teams.csv"]
+    files_to_commit = ["data/fixtures_all.csv"]
+
+    if new_teams:
+        files_to_commit.append("data/teams.csv")
+    if new_selected_fixtures:
+        files_to_commit.append("data/fixtures_selected.csv")
+
     commit_message = f"registered fixtures {date}"
     utils.commit_and_push_to_git(files_to_commit, commit_message)
     
