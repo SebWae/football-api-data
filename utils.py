@@ -150,7 +150,7 @@ def find_new_managers_and_players(main_dict, existing_managers, existing_players
     return n_new_managers, n_new_players, new_managers, new_players
 
 
-def commit_to_git(files_to_commit, commit_message):
+def commit_and_push_to_git(files_to_commit, commit_message):
     """
     files_to_commit (list): list of filenames to commit
     commit_message (str): commit message as a string
@@ -158,7 +158,9 @@ def commit_to_git(files_to_commit, commit_message):
     try:
         subprocess.run(["git", "add"] + files_to_commit, check=True)
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
-        print("Changes committed successfully.")
+        print("Changes committed successfully!")
+        subprocess.run(["git", "push"], check=True)
+        print("Changes pushed successfully!")
 
     except subprocess.CalledProcessError as e:
         print(f"Error during Git operations: {e}")
