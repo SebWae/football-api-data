@@ -134,7 +134,7 @@ def register_fixtures(date):
     utils.sort_csv_by_column(input_file="data/teams.csv", output_file="data/teams.csv", column_name="id", ascending=True)
 
     # commit changes to git
-    files_to_commit = ["fixtures_all.csv", "fixtures_selected.csv", "data/teams.csv"]
+    files_to_commit = ["data/fixtures_all.csv", "data/fixtures_selected.csv", "data/teams.csv"]
     commit_message = f"registered fixtures {date}"
     utils.commit_and_push_to_git(files_to_commit, commit_message)
     
