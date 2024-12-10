@@ -256,7 +256,7 @@ def register_fixture(fixture_id):
         answer = input().strip().lower()
 
         if answer == "y":
-            remaining_persons = 29
+            remaining_persons = 27
             if total_new_persons > remaining_persons:
                 new_players_list = list(new_players)
                 print(f"Registering players until {remaining_persons} persons are remaining in total")
@@ -266,10 +266,11 @@ def register_fixture(fixture_id):
                     register_player(player_to_register, season)
                     new_players_list.pop()
                     total_new_persons -= 1
-                    
+                
+                delay_time = 60
                 print(f"{remaining_persons} persons are now remaining")
-                print("Wait for 1 minute to make more API calls")
-                time.sleep(60)
+                print(f"Wait for {delay_time} seconds to make more API calls")
+                time.sleep(delay_time)
                 print("Wait time is over")
         
         elif answer == "n":
