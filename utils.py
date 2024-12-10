@@ -90,10 +90,7 @@ def season_from_fixture_id(fixture_id, fixture_date):
     fixture_id (int): id of the fixture for which we want to find the season
     fixture_date (str): date of fixture on the format "yyyy-mm-dd"
     """
-    year = fixture_date[0:4]
-    month = fixture_date[5:7]
-
-    df = pd.read_csv(f"data/fixtures_selected/{year}/{year}_{month}_fixtures_selected.csv")
+    df = pd.read_csv(f"data/fixtures_selected.csv")
     row = df[df['id'] == fixture_id]
     season = row['season'].iloc[0] if not row.empty else None
 
