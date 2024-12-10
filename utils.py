@@ -51,9 +51,14 @@ def sort_csv_by_column(input_file, output_file, column_name, ascending=True, sec
         # Sort the DataFrame
         sorted_df = df.sort_values(by=sort_columns, ascending=sort_order)
         
-        # Restore the original data types to prevent type conversion issues
+        # Restore the original data types carefully
         for col in sorted_df.columns:
-            sorted_df[col] = sorted_df[col].astype(original_dtypes[col])
+            if pd.api.types.is_integer_dtype(original_dtypes[col]) and sorted_df[col].isnull().any():
+                # Fill NaN with a placeholder value before converting back to integer
+                sorted_df[col] = sorted_df[col].fillna(0).astype(original_dtypes[col])
+            else:
+                # Directly convert to original dtype
+                sorted_df[col] = sorted_df[col].astype(original_dtypes[col])
         
         # Save the sorted DataFrame to the output file
         sorted_df.to_csv(output_file, index=False)
