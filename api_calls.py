@@ -57,8 +57,8 @@ def register_fixtures(date):
 
     selected_leagues = {2, 3, 15, 39, 45, 48, 528, 531, 848}
 
-    file_path_all = "fixtures_all.csv"
-    file_path_selected = "fixtures_selected.csv"
+    file_path_all = "data/fixtures_all.csv"
+    file_path_selected = "data/fixtures_selected.csv"
 
     # add fixtures to csv files
     with open(file_path_all, 'a', newline='') as file:
@@ -136,7 +136,7 @@ def register_fixtures(date):
     # commit changes to git
     files_to_commit = ["fixtures_all.csv", "fixtures_selected.csv", "data/teams.csv"]
     commit_message = f"registered fixtures {date}"
-    utils.commit_to_git(files_to_commit, commit_message)
+    utils.commit_and_push_to_git(files_to_commit, commit_message)
     
 
 def register_manager(manager_id):
