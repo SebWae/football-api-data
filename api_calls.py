@@ -524,7 +524,8 @@ def register_fixture(fixture_id):
                        "data/lineups_tactics.csv", 
                        "data/lineups.csv", 
                        "data/player_stats.csv", 
-                       "data/substitutes.csv"
+                       "data/substitutes.csv",
+                       "data/team_stats.csv"
                        ]
 
     if new_managers:
