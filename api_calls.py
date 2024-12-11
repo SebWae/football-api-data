@@ -254,8 +254,8 @@ def register_fixture(fixture_id):
     date = date_list[0]
     season = utils.season_from_fixture_id(fixture_id, date)
 
-    new_managers = False
-    new_players = False
+    any_new_managers = False
+    any_new_players = False
 
     registered_managers = utils.ids_from_csv("data/managers.csv")
     registered_players = utils.ids_from_csv("data/players.csv")
@@ -273,7 +273,7 @@ def register_fixture(fixture_id):
         if answer == "y":
             remaining_persons = 27
             if total_new_persons > remaining_persons:
-                new_players = True
+                any_new_players = True
                 new_players_list = list(new_players)
                 print(f"Registering players until {remaining_persons} persons are remaining in total")
 
@@ -340,7 +340,7 @@ def register_fixture(fixture_id):
                         ]
         
         if manager_id not in registered_managers:
-            new_managers = True
+            any_new_managers = True
             register_manager(manager_id)
 
         with open("data/lineups_tactics.csv", 'a', newline='') as file:
@@ -366,7 +366,7 @@ def register_fixture(fixture_id):
                                ]
 
                 if player_id not in registered_players:
-                    new_players = True
+                    any_new_players = True
                     register_player(player_id, season)
 
                 writer_lineups.writerow(player_info)
@@ -391,7 +391,7 @@ def register_fixture(fixture_id):
                             ]
                 
                 if player_id not in registered_players:
-                    new_players = True
+                    any_new_players = True
                     register_player(player_id, season)
 
                 writer_subs.writerow(sub_info)
@@ -528,9 +528,9 @@ def register_fixture(fixture_id):
                        "data/team_stats.csv"
                        ]
 
-    if new_managers:
+    if any_new_managers:
         files_to_commit.append("data/managers.csv")
-    if new_players:
+    if any_new_players:
         files_to_commit.append("data/players.csv")
 
     commit_message = f"registered fixture {fixture_id}"
