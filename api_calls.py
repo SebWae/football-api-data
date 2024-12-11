@@ -283,7 +283,7 @@ def register_fixture(fixture_id):
                     new_players_list.pop()
                     total_new_persons -= 1
                 
-                delay_time = 60
+                delay_time = 65
                 print(f"{remaining_persons} persons are now remaining")
                 print(f"Wait for {delay_time} seconds to make more API calls")
                 time.sleep(delay_time)
