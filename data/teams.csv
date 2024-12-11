@@ -408,6 +408,7 @@ id,name,logo
 442,Defensa Y Justicia,https://media.api-sports.io/football/teams/442.png
 445,Huracan,https://media.api-sports.io/football/teams/445.png
 446,Lanus,https://media.api-sports.io/football/teams/446.png
+448,Colon Santa Fe,https://media.api-sports.io/football/teams/448.png
 449,Banfield,https://media.api-sports.io/football/teams/449.png
 450,Estudiantes L.P.,https://media.api-sports.io/football/teams/450.png
 451,Boca Juniors,https://media.api-sports.io/football/teams/451.png
@@ -5569,6 +5570,7 @@ id,name,logo
 12466,UPDF,https://media.api-sports.io/football/teams/12466.png
 12509,Hungary U17,https://media.api-sports.io/football/teams/12509.png
 12510,Italy U17,https://media.api-sports.io/football/teams/12510.png
+12520,Spain U17,https://media.api-sports.io/football/teams/12520.png
 12523,Ayeyawady United,https://media.api-sports.io/football/teams/12523.png
 12525,Hantharwady United,https://media.api-sports.io/football/teams/12525.png
 12526,I.S.P.E,https://media.api-sports.io/football/teams/12526.png
@@ -6374,6 +6376,7 @@ id,name,logo
 16007,Mallbacken W,https://media.api-sports.io/football/teams/16007.png
 16008,Norrköping W,https://media.api-sports.io/football/teams/16008.png
 16009,Sundsvall W,https://media.api-sports.io/football/teams/16009.png
+16010,Älvsjö AIK W,https://media.api-sports.io/football/teams/16010.png
 16011,Lidköping W,https://media.api-sports.io/football/teams/16011.png
 16028,Örebro Söder W,https://media.api-sports.io/football/teams/16028.png
 16032,Gamla Upsala W,https://media.api-sports.io/football/teams/16032.png
@@ -6811,9 +6814,12 @@ id,name,logo
 17926,Barra Mansa,https://media.api-sports.io/football/teams/17926.png
 17940,Azerbaijan U17,https://media.api-sports.io/football/teams/17940.png
 17943,Bosnia-Herzegovina U17,https://media.api-sports.io/football/teams/17943.png
+17950,Estonia U17,https://media.api-sports.io/football/teams/17950.png
 17952,Finland U17,https://media.api-sports.io/football/teams/17952.png
 17956,Greece U17,https://media.api-sports.io/football/teams/17956.png
+17957,Iceland U17,https://media.api-sports.io/football/teams/17957.png
 17961,Liechtenstein U17,https://media.api-sports.io/football/teams/17961.png
+17967,North Macedonia U17,https://media.api-sports.io/football/teams/17967.png
 17969,Norway U17,https://media.api-sports.io/football/teams/17969.png
 17971,Portugal U17,https://media.api-sports.io/football/teams/17971.png
 17973,Romania U17,https://media.api-sports.io/football/teams/17973.png
@@ -7577,6 +7583,7 @@ id,name,logo
 21878,Nikarm,https://media.api-sports.io/football/teams/21878.png
 21879,Noah II,https://media.api-sports.io/football/teams/21879.png
 21885,Csep-Gól,https://media.api-sports.io/football/teams/21885.png
+21905,Chiclana,https://media.api-sports.io/football/teams/21905.png
 21939,AZ,https://media.api-sports.io/football/teams/21939.png
 21940,Utrecht W,https://media.api-sports.io/football/teams/21940.png
 21943,Hohenwestedt,https://media.api-sports.io/football/teams/21943.png
@@ -7727,6 +7734,7 @@ id,name,logo
 22321,Dubai United,https://media.api-sports.io/football/teams/22321.png
 22322,Gulf United,https://media.api-sports.io/football/teams/22322.png
 22329,Pro Palazzolo,https://media.api-sports.io/football/teams/22329.png
+22331,FC Tirat HaCarmel,https://media.api-sports.io/football/teams/22331.png
 22334,Hapoel Ironi Arraba,https://media.api-sports.io/football/teams/22334.png
 22335,Hapoel Segev Shalom,https://media.api-sports.io/football/teams/22335.png
 22346,Hua Hin Maraleina,https://media.api-sports.io/football/teams/22346.png
@@ -8296,6 +8304,7 @@ id,name,logo
 24979,Girona U19,https://media.api-sports.io/football/teams/24979.png
 24981,IFK Göteborg U19,https://media.api-sports.io/football/teams/24981.png
 24982,IMT Novi Beograd U19,https://media.api-sports.io/football/teams/24982.png
+24984,Progrès Niederkorn U19,https://media.api-sports.io/football/teams/24984.png
 24985,Rapid Wien U19,https://media.api-sports.io/football/teams/24985.png
 24986,Sabah U19,https://media.api-sports.io/football/teams/24986.png
 24988,Sturm Graz U19,https://media.api-sports.io/football/teams/24988.png
