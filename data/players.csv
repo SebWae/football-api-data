@@ -42,6 +42,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 723,Joelinton,Joelinton Cássio,Apolinário de Lira,1996-08-14,Aliança,Brazil,Brazil,186 cm,81 kg,https://media.api-sports.io/football/players/723.png
 747,Casemiro,Carlos Henrique,Casimiro,1992-02-23,São José dos Campos,Brazil,Brazil,185 cm,84 kg,https://media.api-sports.io/football/players/747.png
 792,J. Kluivert,Justin Dean,Kluivert,1999-05-05,Amsterdam,Netherlands,Netherlands,171 cm,67 kg,https://media.api-sports.io/football/players/792.png
+863,R. Bentancur,Rodrigo,Bentancur Colmán,1997-06-25,Nueva Helvecia,Uruguay,Uruguay,187 cm,72 kg,https://media.api-sports.io/football/players/863.png
 879,S. Mavididi,Stephy Alvaro,Mavididi,1998-05-31,Derby,England,England,182 cm,71 kg,https://media.api-sports.io/football/players/879.png
 886,Diogo Dalot,José Diogo,Dalot Teixeira,1999-03-18,Braga,Portugal,Portugal,183 cm,78 kg,https://media.api-sports.io/football/players/886.png
 889,V. Lindelöf,Victor Jörgen,Nilsson Lindelöf,1994-07-17,Västerås,Sweden,Sweden,187 cm,80 kg,https://media.api-sports.io/football/players/889.png
@@ -101,6 +102,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 8500,W. Endo,Wataru,Endo,1993-02-09,Yokohama,Japan,Japan,178 cm,76 kg,https://media.api-sports.io/football/players/8500.png
 8598,T. Awoniyi,Taiwo Micheal,Awoniyi,1997-08-12,Ilorin,Nigeria,Nigeria,183 cm,84 kg,https://media.api-sports.io/football/players/8598.png
 8694,W. Faes,Wout Felix Lina,Faes,1998-04-03,Mol,Belgium,Belgium,187 cm,84 kg,https://media.api-sports.io/football/players/8694.png
+8794,G. Hirst,George David Eric,Hirst,1999-02-15,Sheffield,England,England,191 cm,84 kg,https://media.api-sports.io/football/players/8794.png
 9363,Igor Paixão,Igor Guilherme,Barbosa da Paixão,2000-06-28,Macapá,Brazil,Brazil,168 cm,65 kg,https://media.api-sports.io/football/players/9363.png
 9971,Antony,Antony Matheus,dos Santos,2000-02-24,Osasco,Brazil,Brazil,174 cm,63 kg,https://media.api-sports.io/football/players/9971.png
 10135,Bruno Guimarães,Bruno,Guimarães Rodriguez Moura,1997-11-16,Rio de Janeiro,Brazil,Brazil,182 cm,74 kg,https://media.api-sports.io/football/players/10135.png
@@ -128,6 +130,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 18788,J. Vardy,Jamie Richard,Vardy,1987-01-11,Sheffield,England,England,179 cm,74 kg,https://media.api-sports.io/football/players/18788.png
 18813,A. Cresswell,Aaron William,Cresswell,1989-12-15,Liverpool,England,England,170 cm,66 kg,https://media.api-sports.io/football/players/18813.png
 18819,M. Antonio,Michail Gregory,Antonio,1990-03-28,London,England,Jamaica,180 cm,82 kg,https://media.api-sports.io/football/players/18819.png
+18823,B. Johnson,Benjamin Anthony,Johnson,2000-01-24,,England,England,175 cm,67 kg,https://media.api-sports.io/football/players/18823.png
 18846,A. Wan-Bissaka,Aaron,Wan-Bissaka,1997-11-26,London,England,England,183 cm,72 kg,https://media.api-sports.io/football/players/18846.png
 18860,M. Travers,Mark,Travers,1999-05-18,Maynooth,Republic of Ireland,Republic of Ireland,191 cm,82 kg,https://media.api-sports.io/football/players/18860.png
 18861,N. Aké,Nathan Benjamin,Aké,1995-02-18,Den Haag,Netherlands,Netherlands,180 cm,75 kg,https://media.api-sports.io/football/players/18861.png
@@ -194,6 +197,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 30399,D. Hancko,Dávid,Hancko,1997-12-13,Prievidza,Slovakia,Slovakia,188 cm,82 kg,https://media.api-sports.io/football/players/30399.png
 30427,C. Okoli,Memeh Caleb,Okoli,2001-07-13,Vicenza,Italy,Italy,191 cm,91 kg,https://media.api-sports.io/football/players/30427.png
 30435,D. Kulusevski,Dejan,Kulusevski,2000-04-25,Stockholm,Sweden,Sweden,186 cm,80 kg,https://media.api-sports.io/football/players/30435.png
+30776,C. Romero,Cristian Gabriel,Romero,1998-04-27,Córdoba,Argentina,Argentina,185 cm,78 kg,https://media.api-sports.io/football/players/30776.png
 31146,S. Tonali,Sandro,Tonali,2000-05-08,Lodi,Italy,Italy,181 cm,79 kg,https://media.api-sports.io/football/players/31146.png
 31354,G. Vicario,Guglielmo,Vicario,1996-10-07,Udine,Italy,Italy,194 cm,83 kg,https://media.api-sports.io/football/players/31354.png
 32887,Y. Sugawara,Yukinari,Sugawara,2000-06-28,Toyokawa,Japan,Japan,179 cm,69 kg,https://media.api-sports.io/football/players/32887.png
