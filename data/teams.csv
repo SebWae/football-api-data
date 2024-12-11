@@ -422,12 +422,14 @@ id,name,logo
 461,San Martin S.J.,https://media.api-sports.io/football/teams/461.png
 464,All Boys,https://media.api-sports.io/football/teams/464.png
 465,Atletico DE Rafaela,https://media.api-sports.io/football/teams/465.png
+471,Flandria,https://media.api-sports.io/football/teams/471.png
 473,Independ. Rivadavia,https://media.api-sports.io/football/teams/473.png
 474,Sarmiento Junin,https://media.api-sports.io/football/teams/474.png
 475,Santamarina,https://media.api-sports.io/football/teams/475.png
 476,Deportivo Riestra,https://media.api-sports.io/football/teams/476.png
 478,Instituto Cordoba,https://media.api-sports.io/football/teams/478.png
 480,Quilmes,https://media.api-sports.io/football/teams/480.png
+481,Villa Dalmine,https://media.api-sports.io/football/teams/481.png
 483,Los Andes,https://media.api-sports.io/football/teams/483.png
 484,Nueva Chicago,https://media.api-sports.io/football/teams/484.png
 485,San Martin Tucuman,https://media.api-sports.io/football/teams/485.png
@@ -1448,6 +1450,7 @@ id,name,logo
 1919,Espanyol W,https://media.api-sports.io/football/teams/1919.png
 1920,Sevilla W,https://media.api-sports.io/football/teams/1920.png
 1921,Madrid CFF W,https://media.api-sports.io/football/teams/1921.png
+1924,Deportivo Laferrere,https://media.api-sports.io/football/teams/1924.png
 1927,Talleres Remedios,https://media.api-sports.io/football/teams/1927.png
 1929,Deportivo Madryn,https://media.api-sports.io/football/teams/1929.png
 1931,Sportivo Barracas,https://media.api-sports.io/football/teams/1931.png
@@ -1457,6 +1460,7 @@ id,name,logo
 1940,Leandro N. Alem,https://media.api-sports.io/football/teams/1940.png
 1952,Pacifico,https://media.api-sports.io/football/teams/1952.png
 1955,General Lamadrid,https://media.api-sports.io/football/teams/1955.png
+1956,UAI Urquiza,https://media.api-sports.io/football/teams/1956.png
 1958,Lujan,https://media.api-sports.io/football/teams/1958.png
 1963,Midland,https://media.api-sports.io/football/teams/1963.png
 1964,Victoriano Arenas,https://media.api-sports.io/football/teams/1964.png
@@ -2435,6 +2439,7 @@ id,name,logo
 4000,Louisville City,https://media.api-sports.io/football/teams/4000.png
 4003,New Mexico United,https://media.api-sports.io/football/teams/4003.png
 4007,Orange County SC,https://media.api-sports.io/football/teams/4007.png
+4009,Phoenix Rising,https://media.api-sports.io/football/teams/4009.png
 4021,Tampa Bay Rowdies,https://media.api-sports.io/football/teams/4021.png
 4048,Discoveries,https://media.api-sports.io/football/teams/4048.png
 4110,Adama Kenema,https://media.api-sports.io/football/teams/4110.png
@@ -4336,12 +4341,15 @@ id,name,logo
 8371,Slovan HAC,https://media.api-sports.io/football/teams/8371.png
 8372,Union Mauer,https://media.api-sports.io/football/teams/8372.png
 8373,Vorwärts Brigittenau,https://media.api-sports.io/football/teams/8373.png
+8374,Fénix,https://media.api-sports.io/football/teams/8374.png
 8376,Argentino Quilmes,https://media.api-sports.io/football/teams/8376.png
 8377,Colegiales,https://media.api-sports.io/football/teams/8377.png
 8378,JJ Urquiza,https://media.api-sports.io/football/teams/8378.png
 8379,San Miguel,https://media.api-sports.io/football/teams/8379.png
+8380,Villa San Carlos,https://media.api-sports.io/football/teams/8380.png
 8381,Deportivo Español,https://media.api-sports.io/football/teams/8381.png
 8382,Berazategui,https://media.api-sports.io/football/teams/8382.png
+8383,Deportivo Merlo,https://media.api-sports.io/football/teams/8383.png
 8384,El Porvenir,https://media.api-sports.io/football/teams/8384.png
 8385,Excursionistas,https://media.api-sports.io/football/teams/8385.png
 8386,Ituzaingó,https://media.api-sports.io/football/teams/8386.png
@@ -5568,6 +5576,7 @@ id,name,logo
 12460,Wakiso Giants,https://media.api-sports.io/football/teams/12460.png
 12461,Police,https://media.api-sports.io/football/teams/12461.png
 12466,UPDF,https://media.api-sports.io/football/teams/12466.png
+12507,France U17,https://media.api-sports.io/football/teams/12507.png
 12509,Hungary U17,https://media.api-sports.io/football/teams/12509.png
 12510,Italy U17,https://media.api-sports.io/football/teams/12510.png
 12520,Spain U17,https://media.api-sports.io/football/teams/12520.png
@@ -6066,9 +6075,11 @@ id,name,logo
 14868,América W,https://media.api-sports.io/football/teams/14868.png
 14869,Juárez W,https://media.api-sports.io/football/teams/14869.png
 14870,Pumas UNAM W,https://media.api-sports.io/football/teams/14870.png
+14872,Tijuana W,https://media.api-sports.io/football/teams/14872.png
 14876,Guadalajara W,https://media.api-sports.io/football/teams/14876.png
 14879,Monterrey W,https://media.api-sports.io/football/teams/14879.png
 14881,Pachuca W,https://media.api-sports.io/football/teams/14881.png
+14883,Santos Laguna W,https://media.api-sports.io/football/teams/14883.png
 14884,Tigres UANL W,https://media.api-sports.io/football/teams/14884.png
 14885,Toluca W,https://media.api-sports.io/football/teams/14885.png
 14894,FCM Ungheni,https://media.api-sports.io/football/teams/14894.png
@@ -6386,8 +6397,11 @@ id,name,logo
 16041,St. Gallen W,https://media.api-sports.io/football/teams/16041.png
 16043,CRB U23,https://media.api-sports.io/football/teams/16043.png
 16047,Fluminense U23,https://media.api-sports.io/football/teams/16047.png
+16048,Fortaleza U23,https://media.api-sports.io/football/teams/16048.png
+16050,Juventude U23,https://media.api-sports.io/football/teams/16050.png
 16053,RB Bragantino U23,https://media.api-sports.io/football/teams/16053.png
 16056,Santos U23,https://media.api-sports.io/football/teams/16056.png
+16057,Vila Nova U23,https://media.api-sports.io/football/teams/16057.png
 16061,North Macedonia,https://media.api-sports.io/football/teams/16061.png
 16062,Azerbaijan W,https://media.api-sports.io/football/teams/16062.png
 16067,Dornbreite Lübeck,https://media.api-sports.io/football/teams/16067.png
@@ -6552,6 +6566,7 @@ id,name,logo
 16718,JK Tabasalu,https://media.api-sports.io/football/teams/16718.png
 16730,Deportes Limache,https://media.api-sports.io/football/teams/16730.png
 16733,Cuiabá U23,https://media.api-sports.io/football/teams/16733.png
+16736,Vitória U23,https://media.api-sports.io/football/teams/16736.png
 16740,Uruguay Montevideo,https://media.api-sports.io/football/teams/16740.png
 16747,Be1 NFA,https://media.api-sports.io/football/teams/16747.png
 16749,Mladost DG,https://media.api-sports.io/football/teams/16749.png
@@ -6814,17 +6829,25 @@ id,name,logo
 17926,Barra Mansa,https://media.api-sports.io/football/teams/17926.png
 17940,Azerbaijan U17,https://media.api-sports.io/football/teams/17940.png
 17943,Bosnia-Herzegovina U17,https://media.api-sports.io/football/teams/17943.png
+17944,Bulgaria U17,https://media.api-sports.io/football/teams/17944.png
+17946,Cyprus U17,https://media.api-sports.io/football/teams/17946.png
 17950,Estonia U17,https://media.api-sports.io/football/teams/17950.png
 17952,Finland U17,https://media.api-sports.io/football/teams/17952.png
+17955,Gibraltar U17,https://media.api-sports.io/football/teams/17955.png
 17956,Greece U17,https://media.api-sports.io/football/teams/17956.png
 17957,Iceland U17,https://media.api-sports.io/football/teams/17957.png
 17961,Liechtenstein U17,https://media.api-sports.io/football/teams/17961.png
+17962,Lithuania U17,https://media.api-sports.io/football/teams/17962.png
 17967,North Macedonia U17,https://media.api-sports.io/football/teams/17967.png
+17968,Northern Ireland U17,https://media.api-sports.io/football/teams/17968.png
 17969,Norway U17,https://media.api-sports.io/football/teams/17969.png
 17971,Portugal U17,https://media.api-sports.io/football/teams/17971.png
+17972,Republic of Ireland U17,https://media.api-sports.io/football/teams/17972.png
 17973,Romania U17,https://media.api-sports.io/football/teams/17973.png
 17975,San Marino U17,https://media.api-sports.io/football/teams/17975.png
+17976,Scotland U17,https://media.api-sports.io/football/teams/17976.png
 17977,Serbia U17,https://media.api-sports.io/football/teams/17977.png
+17978,Slovakia U17,https://media.api-sports.io/football/teams/17978.png
 17982,Turkey U17,https://media.api-sports.io/football/teams/17982.png
 17984,Wales U17,https://media.api-sports.io/football/teams/17984.png
 17985,Comércio Indústria,https://media.api-sports.io/football/teams/17985.png
@@ -6976,6 +6999,8 @@ id,name,logo
 19048,Myawady,https://media.api-sports.io/football/teams/19048.png
 19053,UKS Łódź,https://media.api-sports.io/football/teams/19053.png
 19054,Botafogo U23,https://media.api-sports.io/football/teams/19054.png
+19057,Criciuma U23,https://media.api-sports.io/football/teams/19057.png
+19059,Sport Recife U23,https://media.api-sports.io/football/teams/19059.png
 19095,Uganda W,https://media.api-sports.io/football/teams/19095.png
 19159,Matagalpa,https://media.api-sports.io/football/teams/19159.png
 19165,Kleinmünchen / BW Linz,https://media.api-sports.io/football/teams/19165.png
@@ -7161,6 +7186,7 @@ id,name,logo
 19901,Seraing II,https://media.api-sports.io/football/teams/19901.png
 19902,Union Saint-Gilloise II,https://media.api-sports.io/football/teams/19902.png
 19903,Csikszereda MC,https://media.api-sports.io/football/teams/19903.png
+19905,CDS Tampico Madero,https://media.api-sports.io/football/teams/19905.png
 19907,Deportiva Venados,https://media.api-sports.io/football/teams/19907.png
 19908,Los Cabos United,https://media.api-sports.io/football/teams/19908.png
 19909,Mexicali FC,https://media.api-sports.io/football/teams/19909.png
@@ -8059,6 +8085,7 @@ id,name,logo
 24521,CSKA Sofia III,https://media.api-sports.io/football/teams/24521.png
 24522,Botev Plovdiv III,https://media.api-sports.io/football/teams/24522.png
 24523,Eiche Horn,https://media.api-sports.io/football/teams/24523.png
+24528,La Libertad,https://media.api-sports.io/football/teams/24528.png
 24530,Cacahuatique,https://media.api-sports.io/football/teams/24530.png
 24531,Teutonia Weiden,https://media.api-sports.io/football/teams/24531.png
 24533,Dundee North End,https://media.api-sports.io/football/teams/24533.png
@@ -8278,6 +8305,7 @@ id,name,logo
 24906,AS Le Moule,https://media.api-sports.io/football/teams/24906.png
 24908,Carmona,https://media.api-sports.io/football/teams/24908.png
 24909,Luanda City,https://media.api-sports.io/football/teams/24909.png
+24916,America TO,https://media.api-sports.io/football/teams/24916.png
 24938,Padriew City,https://media.api-sports.io/football/teams/24938.png
 24939,Cordobés,https://media.api-sports.io/football/teams/24939.png
 24940,Deportivo Yautepec,https://media.api-sports.io/football/teams/24940.png
@@ -8365,6 +8393,8 @@ id,name,logo
 25119,Krems / Rehberg,https://media.api-sports.io/football/teams/25119.png
 25121,Lokeren-Temse U21,https://media.api-sports.io/football/teams/25121.png
 25123,Laguna,https://media.api-sports.io/football/teams/25123.png
+25125,Atletico-MG U23,https://media.api-sports.io/football/teams/25125.png
+25126,Goias U23,https://media.api-sports.io/football/teams/25126.png
 25127,Mirassol U23,https://media.api-sports.io/football/teams/25127.png
 25128,Vasco U23,https://media.api-sports.io/football/teams/25128.png
 25129,Tupan,https://media.api-sports.io/football/teams/25129.png
@@ -8408,6 +8438,7 @@ id,name,logo
 25219,Trabalhista U20,https://media.api-sports.io/football/teams/25219.png
 25221,Vila Rica SC U20,https://media.api-sports.io/football/teams/25221.png
 25222,Águia de Marabá U20,https://media.api-sports.io/football/teams/25222.png
+25224,Internacional 2,https://media.api-sports.io/football/teams/25224.png
 25225,Juventude II,https://media.api-sports.io/football/teams/25225.png
 25234,Alianza Arenal,https://media.api-sports.io/football/teams/25234.png
 25235,Alto Rendimiento,https://media.api-sports.io/football/teams/25235.png
