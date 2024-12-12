@@ -66,6 +66,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 1098,P. Daka,Patson,Daka,1998-10-09,Chingola,Zambia,Zambia,183 cm,71 kg,https://media.api-sports.io/football/players/1098.png
 1100,E. Haaland,Erling,Braut Haaland,2000-07-21,Leeds,England,Norway,194 cm,88 kg,https://media.api-sports.io/football/players/1100.png
 1117,K. Tierney,Kieran,Tierney,1997-06-05,Douglas,Scotland,Scotland,178 cm,70 kg,https://media.api-sports.io/football/players/1117.png
+1125,R. Christie,Ryan,Christie,1995-02-22,Inverness,Scotland,Scotland,178 cm,70 kg,https://media.api-sports.io/football/players/1125.png
 1135,O. Édouard,Odsonne,Édouard,1998-01-16,Kourou,French Guiana,France,187 cm,83 kg,https://media.api-sports.io/football/players/1135.png
 1138,T. Weah,Timothy,Tarpeh Weah,2000-02-22,New York,USA,USA,183 cm,66 kg,https://media.api-sports.io/football/players/1138.png
 1145,I. Konaté,Ibrahima,Konaté,1999-05-25,Paris,France,France,194 cm,95 kg,https://media.api-sports.io/football/players/1145.png
@@ -300,6 +301,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 47547,Álex Moreno,Alexandre,Moreno Lopera,1993-06-08,Sant Sadurní d'Anoia,Spain,Spain,179 cm,68 kg,https://media.api-sports.io/football/players/47547.png
 50132,A. Bayındır,Altay,Bayındır,1998-04-14,Bursa,Türkiye,Türkiye,198 cm,88 kg,https://media.api-sports.io/football/players/50132.png
 50999,M. Turner,Matthew Charles,Turner,1994-06-24,Park Ridge,USA,USA,191 cm,84 kg,https://media.api-sports.io/football/players/50999.png
+51051,J. Araujo,Julián Vicente,Araujo Zúñiga,2001-08-13,Lompoc,USA,Mexico,175 cm,70 kg,https://media.api-sports.io/football/players/51051.png
 51494,M. Ugarte,Manuel,Ugarte Ribeiro,2001-04-11,Montevideo,Uruguay,Uruguay,182 cm,77 kg,https://media.api-sports.io/football/players/51494.png
 51617,D. Núñez,Darwin Gabriel,Núñez Ribeiro,1999-06-24,Artigas,Uruguay,Uruguay,187 cm,81 kg,https://media.api-sports.io/football/players/51617.png
 51776,M. Araújo,Maximiliano Javier,Araújo Vilches,2000-02-15,Montevideo,Uruguay,Uruguay,179 cm,73 kg,https://media.api-sports.io/football/players/51776.png
