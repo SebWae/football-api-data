@@ -98,6 +98,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 2489,L. Díaz,Luis Fernando,Díaz Marulanda,1997-01-13,Barrancas,Colombia,Colombia,178 cm,65 kg,https://media.api-sports.io/football/players/2489.png
 2490,J. Lerma,Jefferson Andrés,Lerma Solís,1994-10-25,Cerrito,Colombia,Colombia,179 cm,70 kg,https://media.api-sports.io/football/players/2490.png
 2507,M. Almirón,Miguel Ángel,Almirón Rejala,1994-02-10,Asunción,Paraguay,Paraguay,174 cm,70 kg,https://media.api-sports.io/football/players/2507.png
+2601,D. Kamada,Daichi,Kamada,1996-08-05,Ehime,Japan,Japan,184 cm,76 kg,https://media.api-sports.io/football/players/2601.png
 2724,L. Digne,Lucas,Digne,1993-07-20,Meaux,France,France,178 cm,74 kg,https://media.api-sports.io/football/players/2724.png
 2729,J. Andersen,Joachim Christian,Andersen,1996-05-31,Frederiksberg,Denmark,Denmark,192 cm,86 kg,https://media.api-sports.io/football/players/2729.png
 2734,P. Billing,Philip,Anyanwu Billing,1996-06-11,Lagos,Denmark,Denmark,193 cm,83 kg,https://media.api-sports.io/football/players/2734.png
@@ -430,6 +431,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 356041,C. Baleba,Carlos Noom,Quomah Baleba,2004-01-03,Douala,Cameroon,Cameroon,179 cm,73 kg,https://media.api-sports.io/football/players/356041.png
 361497,D. Huijsen,Dean Donny,Huijsen,2005-04-14,Amsterdam,Netherlands,Netherlands,195 cm,87 kg,https://media.api-sports.io/football/players/361497.png
 363695,Murillo,Murillo,Santiago Costa dos Santos,2002-07-04,São Paulo,Brazil,Brazil,180 cm,75 kg,https://media.api-sports.io/football/players/363695.png
+363974,Z. Marsh,Zach,Marsh,2005-10-06,,England,England,,,https://media.api-sports.io/football/players/363974.png
 367634,A. Agbinone,Asher Chris,Ofega Agbinone,2005-09-28,,England,England,177 cm,69 kg,https://media.api-sports.io/football/players/367634.png
 371230,Z. Redmond,Zepiqueno,Redmond,2006-06-22,,Netherlands,Netherlands,,,https://media.api-sports.io/football/players/371230.png
 380492,Eric Emanuel da Silva Moreira,Eric Emanuel,da Silva Moreira,2006-05-03,Hamburg,Germany,Germany,184 cm,82 kg,https://media.api-sports.io/football/players/380492.png
