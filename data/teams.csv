@@ -3141,6 +3141,7 @@ id,name,logo
 5531,Dominica,https://media.api-sports.io/football/teams/5531.png
 5532,Dominican Republic,https://media.api-sports.io/football/teams/5532.png
 5533,Grenada,https://media.api-sports.io/football/teams/5533.png
+5534,Mongolia,https://media.api-sports.io/football/teams/5534.png
 5536,St. Kitts and Nevis,https://media.api-sports.io/football/teams/5536.png
 5537,Timor-Leste,https://media.api-sports.io/football/teams/5537.png
 5538,Brunei,https://media.api-sports.io/football/teams/5538.png
@@ -5563,9 +5564,12 @@ id,name,logo
 12417,Agios Nikolaos,https://media.api-sports.io/football/teams/12417.png
 12418,Giouchtas,https://media.api-sports.io/football/teams/12418.png
 12421,Rethymniakos,https://media.api-sports.io/football/teams/12421.png
+12422,Abu Salim,https://media.api-sports.io/football/teams/12422.png
 12428,Al-Anwar,https://media.api-sports.io/football/teams/12428.png
 12431,Al-Tahaddi,https://media.api-sports.io/football/teams/12431.png
+12438,Khaleej Sart,https://media.api-sports.io/football/teams/12438.png
 12440,Olympic Azzaweya,https://media.api-sports.io/football/teams/12440.png
+12448,Al-Tirsana,https://media.api-sports.io/football/teams/12448.png
 12449,BUL,https://media.api-sports.io/football/teams/12449.png
 12450,Bright Stars,https://media.api-sports.io/football/teams/12450.png
 12452,Express,https://media.api-sports.io/football/teams/12452.png
@@ -7911,6 +7915,7 @@ id,name,logo
 23152,Dnepr Mogilev Res.,https://media.api-sports.io/football/teams/23152.png
 23153,Arsenal Res.,https://media.api-sports.io/football/teams/23153.png
 23156,Hegelmann II,https://media.api-sports.io/football/teams/23156.png
+23159,AFC Bournemouth U18,https://media.api-sports.io/football/teams/23159.png
 23160,AFC Fylde U18,https://media.api-sports.io/football/teams/23160.png
 23161,AFC Wimbledon U18,https://media.api-sports.io/football/teams/23161.png
 23164,Brentford U18,https://media.api-sports.io/football/teams/23164.png
@@ -7919,13 +7924,16 @@ id,name,logo
 23172,Fleetwood Town U18,https://media.api-sports.io/football/teams/23172.png
 23174,Grimsby Town U18,https://media.api-sports.io/football/teams/23174.png
 23178,Hull City U18,https://media.api-sports.io/football/teams/23178.png
+23179,Ipswich Town U18,https://media.api-sports.io/football/teams/23179.png
 23180,Leyton Orient U18,https://media.api-sports.io/football/teams/23180.png
+23181,Lincoln City U18,https://media.api-sports.io/football/teams/23181.png
 23183,Millwall U18,https://media.api-sports.io/football/teams/23183.png
 23184,Oxford United U18,https://media.api-sports.io/football/teams/23184.png
 23185,Plymouth Argyle U18,https://media.api-sports.io/football/teams/23185.png
 23186,Preston North End U18,https://media.api-sports.io/football/teams/23186.png
 23189,Sheffield United U18,https://media.api-sports.io/football/teams/23189.png
 23190,Sheffield Wednesday U18,https://media.api-sports.io/football/teams/23190.png
+23192,Swansea City U18,https://media.api-sports.io/football/teams/23192.png
 23194,Watford U18,https://media.api-sports.io/football/teams/23194.png
 23214,Spartak Moskva,https://media.api-sports.io/football/teams/23214.png
 23255,Sarmiento de La Banda,https://media.api-sports.io/football/teams/23255.png
@@ -8577,5 +8585,10 @@ id,name,logo
 25421,FC Besa Peja,https://media.api-sports.io/football/teams/25421.png
 25422,TOP Football,https://media.api-sports.io/football/teams/25422.png
 25423,Accrington Stanley U18,https://media.api-sports.io/football/teams/25423.png
+25424,Burgess Hill Town U18,https://media.api-sports.io/football/teams/25424.png
 25425,Hertford Town U18,https://media.api-sports.io/football/teams/25425.png
+25426,Merstham U18,https://media.api-sports.io/football/teams/25426.png
 25427,Woking U18,https://media.api-sports.io/football/teams/25427.png
+25428,Wrexham U18,https://media.api-sports.io/football/teams/25428.png
+25456,Shabab Al-Ghar,https://media.api-sports.io/football/teams/25456.png
+25457,Wefaq Ajdabiya,https://media.api-sports.io/football/teams/25457.png
