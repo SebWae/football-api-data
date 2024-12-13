@@ -130,6 +130,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 2931,T. Heaton,Thomas David,Heaton,1986-04-15,Chester,England,England,188 cm,85 kg,https://media.api-sports.io/football/players/2931.png
 2932,J. Pickford,Jordan Lee,Pickford,1994-03-07,Washington,England,England,185 cm,82 kg,https://media.api-sports.io/football/players/2932.png
 2934,M. Keane,Michael Vincent,Keane,1993-01-11,Stockport,England,England,191 cm,82 kg,https://media.api-sports.io/football/players/2934.png
+2935,H. Maguire,Jacob Harry,Maguire,1993-03-05,Sheffield,England,England,194 cm,90 kg,https://media.api-sports.io/football/players/2935.png
 2936,J. Tarkowski,James Alan,Tarkowski,1992-11-19,Manchester,England,England,185 cm,81 kg,https://media.api-sports.io/football/players/2936.png
 2937,D. Rice,Declan,Rice,1999-01-14,London,England,England,188 cm,84 kg,https://media.api-sports.io/football/players/2937.png
 2938,J. Ward-Prowse,James Michael Edward,Ward-Prowse,1994-11-01,Portsmouth,England,England,173 cm,66 kg,https://media.api-sports.io/football/players/2938.png
@@ -181,6 +182,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 18746,M. Gibbs-White,Morgan Anthony,Gibbs-White,2000-01-27,Stafford,England,England,171 cm,66 kg,https://media.api-sports.io/football/players/18746.png
 18753,Adama Traoré,Adama,Traoré Diarra,1996-01-25,L'Hospitalet de Llobregat,Spain,Spain,178 cm,86 kg,https://media.api-sports.io/football/players/18753.png
 18755,João Virgínia,João Manuel,Neves Virgínia,1999-10-10,Faro,Portugal,Portugal,193 cm,83 kg,https://media.api-sports.io/football/players/18755.png
+18758,S. Coleman,Séamus,Coleman,1988-10-11,Donegal,Republic of Ireland,Republic of Ireland,177 cm,67 kg,https://media.api-sports.io/football/players/18758.png
 18766,D. Calvert-Lewin,Dominic Nathaniel,Calvert-Lewin,1997-03-16,Sheffield,England,England,187 cm,71 kg,https://media.api-sports.io/football/players/18766.png
 18772,J. Evans,Jonathan Grant,Evans,1988-01-03,Belfast,Northern Ireland,Northern Ireland,188 cm,77 kg,https://media.api-sports.io/football/players/18772.png
 18778,H. Barnes,Harvey Lewis,Barnes,1997-12-09,Burnley,England,England,174 cm,66 kg,https://media.api-sports.io/football/players/18778.png
