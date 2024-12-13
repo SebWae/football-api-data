@@ -240,6 +240,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 19088,D. Henderson,Dean Bradley,Henderson,1997-03-12,Whitehaven,England,England,188 cm,85 kg,https://media.api-sports.io/football/players/19088.png
 19119,L. Davis,Leif,Davis,1999-12-31,Newcastle,England,England,182 cm,70 kg,https://media.api-sports.io/football/players/19119.png
 19128,J. Harrison,Jack David,Harrison,1996-11-20,Stoke-on-Trent,England,England,175 cm,70 kg,https://media.api-sports.io/football/players/19128.png
+19130,K. Phillips,Kalvin Mark,Phillips,1995-12-02,Leeds,England,England,178 cm,72 kg,https://media.api-sports.io/football/players/19130.png
 19136,J. Clarke,Jack Raymond,Clarke,2000-11-23,York,England,England,181 cm,74 kg,https://media.api-sports.io/football/players/19136.png
 19143,S. Johnstone,Samuel Luke,Johnstone,1993-03-25,Preston,England,England,193 cm,85 kg,https://media.api-sports.io/football/players/19143.png
 19145,T. Adarabioyo,Abdul-Nasir Oluwatosin,Oluwadoyinsolami Adarabioyo,1997-09-24,Manchester,England,England,196 cm,80 kg,https://media.api-sports.io/football/players/19145.png
@@ -375,6 +376,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 126791,N. Broadhead,Nathan Paul,Broadhead,1998-04-05,Bangor,Wales,Wales,178 cm,73 kg,https://media.api-sports.io/football/players/126791.png
 126949,C. Richards,Christopher Jeffrey,Richards,2000-03-28,Birmingham,USA,USA,188 cm,87 kg,https://media.api-sports.io/football/players/126949.png
 127011,A. Cambiaso,Andrea,Cambiaso,2000-02-20,Genoa,Italy,Italy,182 cm,77 kg,https://media.api-sports.io/football/players/127011.png
+127579,J. Greaves,Jacob,Greaves,2000-09-12,Cottingham,England,England,185 cm,70 kg,https://media.api-sports.io/football/players/127579.png
 127769,Gabriel Martinelli,Gabriel Teodoro,Martinelli Silva,2001-06-18,Guarulhos,Brazil,Brazil,178 cm,75 kg,https://media.api-sports.io/football/players/127769.png
 129033,J. Gvardiol,Joško,Gvardiol,2002-01-23,Zagreb,Croatia,Croatia,185 cm,80 kg,https://media.api-sports.io/football/players/129033.png
 129047,R. Zerrouki,Ramiz Larbi,Zerrouki,1998-05-26,Amsterdam,Netherlands,Algeria,183 cm,76 kg,https://media.api-sports.io/football/players/129047.png
