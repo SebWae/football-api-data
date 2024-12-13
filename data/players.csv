@@ -85,6 +85,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 1455,A. Iwobi,Alexander Chuka,Iwobi,1996-05-03,Lagos,Nigeria,Nigeria,180 cm,75 kg,https://media.api-sports.io/football/players/1455.png
 1460,B. Saka,Bukayo Ayoyinka Temidayo,Saka,2001-09-05,London,England,England,178 cm,72 kg,https://media.api-sports.io/football/players/1460.png
 1463,J. Willock,Joseph George,Willock,1999-08-20,London,England,England,179 cm,71 kg,https://media.api-sports.io/football/players/1463.png
+1468,E. Nketiah,Edward,Keddar Nketiah,1999-05-30,,England,England,175 cm,72 kg,https://media.api-sports.io/football/players/1468.png
 1469,D. Welbeck,Daniel Nii,Tackie Mensah Welbeck,1990-11-26,Manchester,England,England,185 cm,73 kg,https://media.api-sports.io/football/players/1469.png
 1485,Bruno Fernandes,Bruno Miguel,Borges Fernandes,1994-09-08,Maia,Portugal,Portugal,179 cm,66 kg,https://media.api-sports.io/football/players/1485.png
 1590,José Sá,José Pedro,Malheiro de Sá,1993-01-17,Braga,Portugal,Portugal,192 cm,84 kg,https://media.api-sports.io/football/players/1590.png
@@ -271,6 +272,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 19549,A. Robinson,Antonee,Robinson,1997-08-08,Milton Keynes,England,USA,183 cm,70 kg,https://media.api-sports.io/football/players/19549.png
 19558,Sam Morsy,Samy Sayed,Morsy,1991-09-10,Wolverhampton,England,Egypt,175 cm,70 kg,https://media.api-sports.io/football/players/19558.png
 19573,J. Lumley,Joseph Patrick,Lumley,1995-02-15,Harlow,England,England,191 cm,73 kg,https://media.api-sports.io/football/players/19573.png
+19586,E. Eze,Eberechi Oluchi,Eze,1998-06-29,London,England,England,178 cm,73 kg,https://media.api-sports.io/football/players/19586.png
 19587,R. Manning,Ryan Phelim,Manning,1996-06-14,Galway,Republic of Ireland,Republic of Ireland,173 cm,66 kg,https://media.api-sports.io/football/players/19587.png
 19599,E. Martínez,Damián Emiliano,Martínez Romero,1992-09-02,Mar del Plata,Argentina,Argentina,195 cm,88 kg,https://media.api-sports.io/football/players/19599.png
 19684,R. Matthews,Remi Luke,Matthews,1994-02-10,Gorleston,England,England,184 cm,78 kg,https://media.api-sports.io/football/players/19684.png
