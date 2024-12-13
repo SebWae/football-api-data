@@ -393,6 +393,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 138787,A. Gordon,Anthony Michael,Gordon,2001-02-24,Liverpool,England,England,183 cm,72 kg,https://media.api-sports.io/football/players/138787.png
 138815,T. Lamptey,Tariq Kwame,Nii-Lante Lamptey,2000-09-30,Hillingdon,England,Ghana,163 cm,55 kg,https://media.api-sports.io/football/players/138815.png
 138816,I. Maatsen,Ian Ethan,Maatsen,2002-03-10,Vlaardingen,Netherlands,Netherlands,178 cm,57 kg,https://media.api-sports.io/football/players/138816.png
+138822,A. Broja,Armando,Broja,2001-09-10,Slough,England,Albania,191 cm,83 kg,https://media.api-sports.io/football/players/138822.png
 138836,H. Clarke,Harrison Thomas,Clarke,2001-03-02,Ipswich,England,England,180 cm,71 kg,https://media.api-sports.io/football/players/138836.png
 138908,E. Anderson,Elliot,Anderson,2002-11-06,Whitley Bay,England,Scotland,179 cm,69 kg,https://media.api-sports.io/football/players/138908.png
 138931,J. Philogene,Jaden,Philogene-Bidace,2002-02-08,London,England,England,181 cm,66 kg,https://media.api-sports.io/football/players/138931.png
@@ -536,5 +537,6 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 430734,Y. Konak,Yunus Emre,Konak,2006-01-10,Batman,Türkiye,Türkiye,181 cm,76 kg,https://media.api-sports.io/football/players/430734.png
 430774,Alexandre Miguel Soares Carvalho Brito,Alexandre Miguel,Soares Carvalho Brito,2005-07-19,Lisbon,Portugal,Portugal,190 cm,70 kg,https://media.api-sports.io/football/players/430774.png
 441274,I. Ka,Ismail,Ka,2006-03-09,,Netherlands,Netherlands,,,https://media.api-sports.io/football/players/441274.png
+449245,Pedro Lima,Pedro Henrique,Cardoso de Lima,2006-07-01,Cabedelo,Brazil,Brazil,174 cm,68 kg,https://media.api-sports.io/football/players/449245.png
 459203,M. Hardy,Malachi,Hardy,2008-03-10,Watford,England,England,188 cm,79 kg,https://media.api-sports.io/football/players/459203.png
 465310,L. Williams-Barnett,Luca Jamie,Williams-Barnett,2008-04-01,Luton,England,England,175 cm,,https://media.api-sports.io/football/players/465310.png
