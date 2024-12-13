@@ -501,6 +501,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 341700,Iván Fresneda,Iván,Fresneda Corraliza,2004-09-28,Madrid,Spain,Spain,183 cm,74 kg,https://media.api-sports.io/football/players/341700.png
 342243,T. Setford,Tommy,Hogan Setford,2006-03-13,Haarlem,England,England,185 cm,76 kg,https://media.api-sports.io/football/players/342243.png
 342320,K. Nedeljković,Kosta,Nedeljković,2005-12-16,,Serbia,Serbia,184 cm,72 kg,https://media.api-sports.io/football/players/342320.png
+342970,L. Yoro,Leny,Yoro,2005-11-13,Saint-Maurice,France,France,190 cm,83 kg,https://media.api-sports.io/football/players/342970.png
 343209,Ruairi McConville,Ruairi,McConville,2005-05-01,,Northern Ireland,Northern Ireland,193 cm,80 kg,https://media.api-sports.io/football/players/343209.png
 346866,S. Mbangula,Samuel-Germain,Kinduelu Mbangula Tshifunda,2004-01-16,,Belgium,Belgium,171 cm,64 kg,https://media.api-sports.io/football/players/346866.png
 347316,L. Bergvall,Lucas Erik Holger,Bergvall,2006-02-02,Stockholm,Sweden,Sweden,187 cm,74 kg,https://media.api-sports.io/football/players/347316.png
@@ -529,6 +530,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 393195,W. Lankshear,William,Lankshear,2005-04-20,Welwyn Garden City,England,England,188 cm,80 kg,https://media.api-sports.io/football/players/393195.png
 397997,T. Nyoni,Treymaurice,Nyoni,2007-06-30,Leicester,England,England,180 cm,75 kg,https://media.api-sports.io/football/players/397997.png
 400509,João Simões,João Pedro,Arnauth Barrocas Simões,2007-01-06,Portimão,Portugal,Portugal,175 cm,71 kg,https://media.api-sports.io/football/players/400509.png
+402329,A. Heaven,Ayden,Heaven,2006-09-22,London,England,England,189 cm,77 kg,https://media.api-sports.io/football/players/402329.png
 402432,Ben Winterburn,Ben,Winterburn,2004-09-04,,England,England,,,https://media.api-sports.io/football/players/402432.png
 404574,Luis Guilherme,Luis Guilherme,Lira dos Santos,2006-02-09,Aracaju,Brazil,Brazil,178 cm,74 kg,https://media.api-sports.io/football/players/404574.png
 404656,Jahmai Simpson-Pusey,Jahmai,Simpson-Pusey,2005-11-04,Huddersfield,England,England,187 cm,79 kg,https://media.api-sports.io/football/players/404656.png
@@ -541,6 +543,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 425819,G. Zechiël,Gjivai,Zechiël,2004-06-01,Rotterdam,Netherlands,Netherlands,171 cm,67 kg,https://media.api-sports.io/football/players/425819.png
 430734,Y. Konak,Yunus Emre,Konak,2006-01-10,Batman,Türkiye,Türkiye,181 cm,76 kg,https://media.api-sports.io/football/players/430734.png
 430774,Alexandre Miguel Soares Carvalho Brito,Alexandre Miguel,Soares Carvalho Brito,2005-07-19,Lisbon,Portugal,Portugal,190 cm,70 kg,https://media.api-sports.io/football/players/430774.png
+440159,G. Kukonki,Godwill,Kukonki,2008-02-06,,England,England,,,https://media.api-sports.io/football/players/440159.png
 441274,I. Ka,Ismail,Ka,2006-03-09,,Netherlands,Netherlands,,,https://media.api-sports.io/football/players/441274.png
 449245,Pedro Lima,Pedro Henrique,Cardoso de Lima,2006-07-01,Cabedelo,Brazil,Brazil,174 cm,68 kg,https://media.api-sports.io/football/players/449245.png
 459203,M. Hardy,Malachi,Hardy,2008-03-10,Watford,England,England,188 cm,79 kg,https://media.api-sports.io/football/players/459203.png
