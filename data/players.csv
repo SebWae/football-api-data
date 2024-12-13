@@ -81,6 +81,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 1166,T. Werner,Timo,Werner,1996-03-06,Stuttgart,Germany,Germany,180 cm,75 kg,https://media.api-sports.io/football/players/1166.png
 1231,V. Coufal,Vladimír,Coufal,1992-08-22,Ostrava,Czechia,Czechia,174 cm,76 kg,https://media.api-sports.io/football/players/1231.png
 1243,T. Souček,Tomáš,Souček,1995-02-27,Havlíčkův Brod,Czechia,Czechia,192 cm,86 kg,https://media.api-sports.io/football/players/1243.png
+1422,J. Doku,Jérémy Baffour,Doku,2002-05-27,Antwerp,Belgium,Belgium,173 cm,66 kg,https://media.api-sports.io/football/players/1422.png
 1438,B. Leno,Bernd,Leno,1992-03-04,Bietigheim-Bissingen,Germany,Germany,189 cm,82 kg,https://media.api-sports.io/football/players/1438.png
 1445,K. Mavropanos,Konstantinos,Mavropanos,1997-12-11,Athína,Greece,Greece,194 cm,94 kg,https://media.api-sports.io/football/players/1445.png
 1455,A. Iwobi,Alexander Chuka,Iwobi,1996-05-03,Lagos,Nigeria,Nigeria,180 cm,75 kg,https://media.api-sports.io/football/players/1455.png
@@ -516,6 +517,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 389302,T. Edozie,Tom,Edozie,2006-05-18,,England,England,178 cm,,https://media.api-sports.io/football/players/389302.png
 389315,Joshua King,Joshua,King,2007-01-03,,England,England,187 cm,74 kg,https://media.api-sports.io/football/players/389315.png
 393195,W. Lankshear,William,Lankshear,2005-04-20,Welwyn Garden City,England,England,188 cm,80 kg,https://media.api-sports.io/football/players/393195.png
+397997,T. Nyoni,Treymaurice,Nyoni,2007-06-30,Leicester,England,England,180 cm,75 kg,https://media.api-sports.io/football/players/397997.png
 400509,João Simões,João Pedro,Arnauth Barrocas Simões,2007-01-06,Portimão,Portugal,Portugal,175 cm,71 kg,https://media.api-sports.io/football/players/400509.png
 402432,Ben Winterburn,Ben,Winterburn,2004-09-04,,England,England,,,https://media.api-sports.io/football/players/402432.png
 404574,Luis Guilherme,Luis Guilherme,Lira dos Santos,2006-02-09,Aracaju,Brazil,Brazil,178 cm,74 kg,https://media.api-sports.io/football/players/404574.png
