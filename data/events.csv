@@ -610,3 +610,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208160,50,19187,90,,subst,41621,Substitution 3,
 1208160,50,18861,90,,subst,158697,Substitution 4,
 1208160,50,1422,90,,subst,266657,Substitution 5,
+1208161,40,6716,20,,Card,,Yellow Card,Persistent fouling
+1208161,34,2864,35,,Goal,10135,Normal Goal,
+1208161,40,158698,42,,Card,,Yellow Card,Foul
+1208161,40,542,45,,Card,,Yellow Card,Foul
+1208161,40,293,50,,Goal,306,Normal Goal,
+1208161,34,31146,58,,Card,,Yellow Card,Foul
+1208161,34,138787,62,,Goal,2864,Normal Goal,
+1208161,40,284,67,,subst,283,Substitution 1,
+1208161,40,542,67,,subst,1096,Substitution 2,
+1208161,40,247,67,,subst,2489,Substitution 3,
+1208161,40,306,68,,Goal,283,Normal Goal,
+1208161,40,283,69,,Card,,Yellow Card,Foul
+1208161,40,51617,71,,Card,,Yellow Card,Argument
+1208161,34,19163,74,,subst,18778,Substitution 1,
+1208161,40,306,83,,Goal,283,Normal Goal,
+1208161,34,31146,87,,subst,18901,Substitution 2,
+1208161,34,138787,87,,subst,2939,Substitution 3,
+1208161,34,723,88,,subst,1463,Substitution 4,
+1208161,34,18911,90,6,Card,,Yellow Card,Argument
+1208161,34,2806,90,,Goal,10135,Normal Goal,
