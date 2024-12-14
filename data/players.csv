@@ -2,6 +2,8 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 5,M. Akanji,Manuel Obafemi,Akanji,1995-07-19,Neftenbach,Switzerland,Switzerland,186 cm,91 kg,https://media.api-sports.io/football/players/5.png
 18,J. Sancho,Jadon Malik,Sancho,2000-03-25,London,England,England,180 cm,76 kg,https://media.api-sports.io/football/players/18.png
 49,T. Partey,Thomas,Teye Partey,1993-06-13,Odumase Krobo,Ghana,Ghana,185 cm,77 kg,https://media.api-sports.io/football/players/49.png
+69,B. Mechele,Brandon,Mechele,1993-01-28,Bredene,Belgium,Belgium,190 cm,81 kg,https://media.api-sports.io/football/players/69.png
+78,H. Vanaken,Hans,Vanaken,1992-08-24,Neerpelt,Belgium,Belgium,195 cm,77 kg,https://media.api-sports.io/football/players/78.png
 95,B. Badiashile,Benoît Ntambue,Badiashile Mukinayi Baya,2001-03-26,Limoges,France,France,194 cm,75 kg,https://media.api-sports.io/football/players/95.png
 104,Carlos Vinícius,Carlos Vinícius,Alves Morais,1995-03-25,Rio de Janeiro,Brazil,Brazil,190 cm,86 kg,https://media.api-sports.io/football/players/104.png
 116,K. Thuram,Khéphren,Thuram-Ulien,2001-03-26,Reggio Emilia,France,France,192 cm,80 kg,https://media.api-sports.io/football/players/116.png
@@ -19,6 +21,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 253,A. Areola,Alphonse Francis,Areola,1993-02-27,Paris,France,France,195 cm,94 kg,https://media.api-sports.io/football/players/253.png
 269,C. Nkunku,Christopher Alan,Nkunku,1997-11-14,Lagny-sur-Marne,France,France,178 cm,68 kg,https://media.api-sports.io/football/players/269.png
 281,C. Kelleher,Caoimhín Odhrán,Kelleher,1998-11-23,Cork,Republic of Ireland,Republic of Ireland,188 cm,74 kg,https://media.api-sports.io/football/players/281.png
+282,S. Mignolet,Simon Luc Hildebert,Mignolet,1988-03-06,Sint-Truiden,Belgium,Belgium,193 cm,88 kg,https://media.api-sports.io/football/players/282.png
 283,T. Alexander-Arnold,Trent John,Alexander-Arnold,1998-10-07,Liverpool,England,England,175 cm,67 kg,https://media.api-sports.io/football/players/283.png
 284,J. Gomez,Joseph Dave,Gomez,1997-05-23,London,England,England,188 cm,80 kg,https://media.api-sports.io/football/players/284.png
 289,A. Robertson,Andrew Henry,Robertson,1994-03-11,Glasgow,Scotland,Scotland,178 cm,64 kg,https://media.api-sports.io/football/players/289.png
@@ -105,6 +108,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 1736,W. Foderingham,Wesley Andrew,Foderingham,1991-01-14,Hammersmith,England,England,185 cm,75 kg,https://media.api-sports.io/football/players/1736.png
 1864,Pedro Neto,Pedro,Lomba Neto,2000-03-09,Viana do Castelo,Portugal,Portugal,172 cm,62 kg,https://media.api-sports.io/football/players/1864.png
 1904,B. Kamara,Boubacar Bernard,Kamara,1999-11-23,Marseille,France,France,184 cm,68 kg,https://media.api-sports.io/football/players/1904.png
+1923,N. Jackers,Nordin,Jackers,1997-09-05,Veldwezelt,Belgium,Belgium,187 cm,82 kg,https://media.api-sports.io/football/players/1923.png
 1934,S. Berge,Sander Gard,Bolin Berge,1998-02-14,Bærum,Norway,Norway,195 cm,96 kg,https://media.api-sports.io/football/players/1934.png
 1946,L. Trossard,Leandro,Trossard,1994-12-04,Waterschei,Belgium,Belgium,172 cm,61 kg,https://media.api-sports.io/football/players/1946.png
 2032,J. Strand Larsen,Jørgen,Strand Larsen,2000-02-06,Halden,Norway,Norway,193 cm,79 kg,https://media.api-sports.io/football/players/2032.png
@@ -176,10 +180,12 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 15745,M. Roerslev,Mads,Roerslev Rasmussen,1999-06-24,København,Denmark,Denmark,184 cm,77 kg,https://media.api-sports.io/football/players/15745.png
 15797,J. Cajuste,Jens-Lys Michel,Cajuste,1999-08-10,Gothenburg,Sweden,Sweden,188 cm,77 kg,https://media.api-sports.io/football/players/15797.png
 15812,P. Onuachu,Ebere Paul,Onuachu,1994-05-28,Owerri,Nigeria,Nigeria,201 cm,98 kg,https://media.api-sports.io/football/players/15812.png
+15862,C. Nielsen,Casper,Mørup Nielsen,1994-04-29,Esbjerg,Denmark,Denmark,182 cm,71 kg,https://media.api-sports.io/football/players/15862.png
 15870,M. Hermansen,Mads,Hermansen,2000-07-11,Odense,Denmark,Denmark,187 cm,81 kg,https://media.api-sports.io/football/players/15870.png
 15884,J. Lindstrøm,Jesper Grænge,Lindstrøm,2000-02-29,Taastrup,Denmark,Denmark,182 cm,66 kg,https://media.api-sports.io/football/players/15884.png
 15908,M. Damsgaard,Mikkel,Krogh Damsgaard,2000-07-03,Jyllinge,Denmark,Denmark,180 cm,66 kg,https://media.api-sports.io/football/players/15908.png
 15911,M. Kudus,Mohammed,Kudus,2000-08-02,Accra,Ghana,Ghana,177 cm,70 kg,https://media.api-sports.io/football/players/15911.png
+15916,A. Skov Olsen,Andreas,Skov Olsen,1999-12-29,Hillerød,Denmark,Denmark,187 cm,75 kg,https://media.api-sports.io/football/players/15916.png
 17365,H. Toffolo,Harry Stefano,Toffolo,1995-08-19,Welwyn Garden City,England,England,183 cm,71 kg,https://media.api-sports.io/football/players/17365.png
 17579,S. Szmodics,Samuel Joseph,Szmodics,1995-09-24,Colchester,England,Republic of Ireland,168 cm,64 kg,https://media.api-sports.io/football/players/17579.png
 17597,D. O&apos;Shea,Dara Joseph,O'Shea,1999-03-04,Dublin,Republic of Ireland,Republic of Ireland,189 cm,75 kg,https://media.api-sports.io/football/players/17597.png
@@ -354,6 +360,8 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 38746,J. Timber,Jurriën David Norman,Timber,2001-06-17,Utrecht,Netherlands,Netherlands,179 cm,79 kg,https://media.api-sports.io/football/players/38746.png
 38747,Q. Timber,Quinten Ryan Crispito,Timber,2001-06-17,Utrecht,Netherlands,Netherlands,179 cm,71 kg,https://media.api-sports.io/football/players/38747.png
 39071,V. Boniface,Victor Okoh,Boniface,2000-12-23,Akure,Nigeria,Nigeria,189 cm,91 kg,https://media.api-sports.io/football/players/39071.png
+39291,H. Vetlesen,Hugo Vegard,Vetlesen,2000-02-29,Oslo,Belgium,Norway,174 cm,72 kg,https://media.api-sports.io/football/players/39291.png
+40809,M. Skóraś,Michał Krzysztof,Skóraś,2000-02-15,Jastrzębie-Zdrój,Poland,Poland,172 cm,64 kg,https://media.api-sports.io/football/players/40809.png
 40911,J. Moder,Jakub Piotr,Moder,1999-04-07,Szczecinek,Poland,Poland,188 cm,78 kg,https://media.api-sports.io/football/players/40911.png
 41099,Ricardo Esgaio,Ricardo,Sousa Esgaio,1993-05-16,Nazaré,Portugal,Portugal,172 cm,73 kg,https://media.api-sports.io/football/players/41099.png
 41112,Trincão,Francisco António,Machado Mota de Castro Trincão,1999-12-29,Viana do Castelo,Portugal,Portugal,184 cm,76 kg,https://media.api-sports.io/football/players/41112.png
@@ -393,6 +401,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 106725,K. Lewis-Potter,Keane William,Lewis-Potter,2001-02-22,Hull,England,England,170 cm,67 kg,https://media.api-sports.io/football/players/106725.png
 106835,K. Mitoma,Kaoru,Mitoma,1997-05-20,Kawasaki,Japan,Japan,178 cm,73 kg,https://media.api-sports.io/football/players/106835.png
 116117,M. Caicedo,Moisés Isaac,Caicedo Corozo,2001-11-02,Santo Domingo,Ecuador,Ecuador,178 cm,73 kg,https://media.api-sports.io/football/players/116117.png
+122734,Ferran Jutglà,Ferran,Jutglà Blanch,1999-02-01,Sant Julià de Vilatorta,Spain,Spain,176 cm,75 kg,https://media.api-sports.io/football/players/122734.png
 125743,Beto,Norberto Bercique,Gomes Betuncal,1998-01-31,Lisboa,Portugal,Portugal,194 cm,88 kg,https://media.api-sports.io/football/players/125743.png
 126791,N. Broadhead,Nathan Paul,Broadhead,1998-04-05,Bangor,Wales,Wales,178 cm,73 kg,https://media.api-sports.io/football/players/126791.png
 126949,C. Richards,Christopher Jeffrey,Richards,2000-03-28,Birmingham,USA,USA,188 cm,87 kg,https://media.api-sports.io/football/players/126949.png
@@ -444,8 +453,10 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 159420,R. Edwards,Ronnie,Lee Edwards,2003-03-28,Harlow,England,England,180 cm,76 kg,https://media.api-sports.io/football/players/159420.png
 161585,Francisco Conceição,Francisco,Fernandes da Conceição,2002-12-14,Coimbra,Portugal,Portugal,170 cm,64 kg,https://media.api-sports.io/football/players/161585.png
 161671,I. Zabarnyi,Illia,Zabarnyi,2002-09-01,Kyiv,Ukraine,Ukraine,189 cm,80 kg,https://media.api-sports.io/football/players/161671.png
+161800,C. Tzolis,Christos,Tzolis,2002-01-30,Thessaloniki,Greece,Greece,179 cm,70 kg,https://media.api-sports.io/football/players/161800.png
 161907,M. Gusto,Malo,Gusto,2003-05-19,Décines-Charpieu,France,France,179 cm,67 kg,https://media.api-sports.io/football/players/161907.png
 161948,L. Delap,Liam Rory,Delap,2003-02-08,Winchester,England,England,186 cm,72 kg,https://media.api-sports.io/football/players/161948.png
+162007,M. De Cuyper,Maxim,De Cuyper,2000-12-22,Knokke-Heist,Belgium,Belgium,182 cm,72 kg,https://media.api-sports.io/football/players/162007.png
 162075,P. Maghoma,Edmond-Paris,Maghoma,2001-05-08,London,England,England,181 cm,69 kg,https://media.api-sports.io/football/players/162075.png
 162188,P. Kalulu,Pierre Kazeye Rommel,Kalulu Kyatengwa,2000-06-05,Lyon,France,France,179 cm,69 kg,https://media.api-sports.io/football/players/162188.png
 162498,R. Drăgușin,Radu,Matei Drăgușin,2002-02-03,București,Romania,Romania,191 cm,85 kg,https://media.api-sports.io/football/players/162498.png
@@ -455,6 +466,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 178077,K. Schade,Kevin,Schade,2001-11-27,Potsdam,Germany,Germany,183 cm,74 kg,https://media.api-sports.io/football/players/178077.png
 180316,H. Davies,Harvey,Davies,2003-09-03,Liverpool,England,England,190 cm,77 kg,https://media.api-sports.io/football/players/180316.png
 180317,C. Bradley,Conor,Bradley,2003-07-09,Dungannon,Northern Ireland,Northern Ireland,180 cm,64 kg,https://media.api-sports.io/football/players/180317.png
+180927,Z. Romero,Zaid Abner,Romero,1999-12-15,Mendoza,Argentina,Argentina,193 cm,85 kg,https://media.api-sports.io/football/players/180927.png
 181806,N. Savona,Nicolò,Savona,2003-03-19,,Italy,Italy,192 cm,80 kg,https://media.api-sports.io/football/players/181806.png
 182201,T. Mitchell,Tyrick Kwon,Mitchell,1999-09-01,,England,England,175 cm,68 kg,https://media.api-sports.io/football/players/182201.png
 195103,João Gomes,João Victor,Gomes da Silva,2001-02-12,Rio de Janeiro,Brazil,Brazil,176 cm,74 kg,https://media.api-sports.io/football/players/195103.png
@@ -469,6 +481,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 237129,P. Sarr,Pape Matar,Sarr,2002-09-14,Thiaroye,Senegal,Senegal,185 cm,70 kg,https://media.api-sports.io/football/players/237129.png
 262845,Eduardo Quaresma,Eduardo Filipe,Quaresma Vieira Coimbra Simões,2002-03-02,Barreiro,Portugal,Portugal,184 cm,76 kg,https://media.api-sports.io/football/players/262845.png
 263538,Y. Yarmolyuk,Yehor,Yarmolyuk,2004-03-01,Verkhnyodniprovsk,Ukraine,Ukraine,180 cm,72 kg,https://media.api-sports.io/football/players/263538.png
+264705,A. Jashari,Ardon,Jashari,2002-07-30,Cham,Switzerland,Switzerland,181 cm,81 kg,https://media.api-sports.io/football/players/264705.png
 265595,Gonçalo Inácio,Gonçalo Bernardo,Inácio,2001-08-25,Almada,Portugal,Portugal,185 cm,78 kg,https://media.api-sports.io/football/players/265595.png
 265784,André,André Trindade,da Costa Neto,2001-07-16,Ibirataia,Brazil,Brazil,176 cm,77 kg,https://media.api-sports.io/football/players/265784.png
 265820,Y. Ayari,Yasin,Abbas Ayari,2003-10-06,Solna,Sweden,Sweden,172 cm,69 kg,https://media.api-sports.io/football/players/265820.png
@@ -476,6 +489,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 268341,F. Gatti,Federico,Gatti,1998-06-24,Rivoli,Italy,Italy,190 cm,82 kg,https://media.api-sports.io/football/players/268341.png
 270139,J. O&apos;Brien,Jake,O'Brien,2001-05-15,Cork,Republic of Ireland,Republic of Ireland,197 cm,92 kg,https://media.api-sports.io/football/players/270139.png
 270508,L. Ugochukwu,Lesley Chimuanya,Ugochukwu,2004-03-26,Rennes,France,France,190 cm,72 kg,https://media.api-sports.io/football/players/270508.png
+271276,R. Vermant,Romeo,Vermant,2004-01-24,Gelsenkirchen,Belgium,Belgium,181 cm,74 kg,https://media.api-sports.io/football/players/271276.png
 273758,I. Samuels,Imari-Narain,Che Hines-Samuels,2003-02-05,Hammersmith,England,England,187 cm,79 kg,https://media.api-sports.io/football/players/273758.png
 278128,J. Wilson-Esbrand,Joshua Darius,Kamani Wilson-Esbrand,2002-12-26,London,England,England,176 cm,70 kg,https://media.api-sports.io/football/players/278128.png
 282125,R. Lavia,Roméo,Lavia,2004-01-06,Brussels,Belgium,Belgium,181 cm,76 kg,https://media.api-sports.io/football/players/282125.png
@@ -490,23 +504,28 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 284428,O. Hutchinson,Omari Elijah,Giraud-Hutchinson,2003-10-29,Redhill,England,Jamaica,174 cm,65 kg,https://media.api-sports.io/football/players/284428.png
 284457,L. Bogarde,Lamare Trenton,Chansey Bogarde,2004-01-05,,Netherlands,Netherlands,183 cm,76 kg,https://media.api-sports.io/football/players/284457.png
 284492,L. Hall,Lewis Kieran,Hall,2004-09-08,Slough,England,England,179 cm,73 kg,https://media.api-sports.io/football/players/284492.png
+284523,S. Swinkels,Sil,Laurentius Swinkels,2004-01-06,,Netherlands,Netherlands,190 cm,78 kg,https://media.api-sports.io/football/players/284523.png
 284797,D. Ouattara,Dango Aboubacar Faissal,Ouattara,2002-02-11,Ouagadougou,Burkina Faso,Burkina Faso,177 cm,71 kg,https://media.api-sports.io/football/players/284797.png
 286458,J. Devenny,Justin,Devenny,2003-10-11,,Scotland,Scotland,178 cm,74 kg,https://media.api-sports.io/football/players/286458.png
 286595,Facundo González,Facundo,González Molino,2003-07-06,Montevideo,Uruguay,Uruguay,193 cm,78 kg,https://media.api-sports.io/football/players/286595.png
 286616,F. Jörgensen,Filip,Jörgensen,2002-04-16,,Sweden,Denmark,190 cm,85 kg,https://media.api-sports.io/football/players/286616.png
 288006,R. Højlund,Rasmus,Winther Højlund,2003-02-04,København,Denmark,Denmark,191 cm,86 kg,https://media.api-sports.io/football/players/288006.png
 288116,K. Casey,Kaelan,Casey,2004-10-28,Brentwood,England,England,185 cm,70 kg,https://media.api-sports.io/football/players/288116.png
+290213,H. Siquet,Hugo Thierry,Siquet,2002-07-09,Marche-en-Famenne,Belgium,Belgium,180 cm,70 kg,https://media.api-sports.io/football/players/290213.png
 297583,J. Mitchell,Jeyland Yahir,Mitchell Baltodano,2004-09-29,Puerto Limón,Costa Rica,Costa Rica,187 cm,82 kg,https://media.api-sports.io/football/players/297583.png
 299813,Ali Al Hamadi,Ali Ibrahim Karim,Al Hamadi,2002-03-01,,Iraq,Iraq,183 cm,82 kg,https://media.api-sports.io/football/players/299813.png
+301322,K. Sabbe,Kyriani,Sabbe,2005-01-26,Gent,Belgium,Belgium,176 cm,68 kg,https://media.api-sports.io/football/players/301322.png
 301771,S. Adingra,Simon,Adingra,2002-01-01,Yamoussoukro,Côte d'Ivoire,Côte d'Ivoire,175 cm,68 kg,https://media.api-sports.io/football/players/301771.png
 303467,A. Fatawu,Issahaku Abdul,Fatawu,2004-03-08,Tamale,Ghana,Ghana,177 cm,73 kg,https://media.api-sports.io/football/players/303467.png
 304228,Z. Debast,Zeno Koen,Debast,2003-10-24,Halle,Belgium,Belgium,191 cm,78 kg,https://media.api-sports.io/football/players/304228.png
 304317,T. Dibling,Tyler-Jay,Dibling,2006-03-12,Exeter,England,England,178 cm,72 kg,https://media.api-sports.io/football/players/304317.png
+304984,J. Spileers,Jorne,Spileers,2005-01-21,,Belgium,Belgium,188 cm,78 kg,https://media.api-sports.io/football/players/304984.png
 305730,J. Hinshelwood,Jack Luca,Hinshelwood,2005-04-11,Chichester,England,England,181 cm,76 kg,https://media.api-sports.io/football/players/305730.png
 307123,N. O&apos;Reilly,Nico,O'Reilly,2005-03-21,Manchester,England,England,188 cm,77 kg,https://media.api-sports.io/football/players/307123.png
 311334,F. Buonanotte,Facundo Valentín,Buonanotte,2004-12-23,,Argentina,Argentina,174 cm,66 kg,https://media.api-sports.io/football/players/311334.png
 313236,E. Nwaneri,Ethan Chidiebere,Nwaneri,2007-03-21,London,England,England,176 cm,70 kg,https://media.api-sports.io/football/players/313236.png
 313245,M. Lewis-Skelly,Myles Anthony,Lewis-Skelly,2006-09-26,,England,England,178 cm,72 kg,https://media.api-sports.io/football/players/313245.png
+314265,B. Meijer,Bjorn Thomas,Meijer,2003-03-18,Groningen,Netherlands,Netherlands,191 cm,89 kg,https://media.api-sports.io/football/players/314265.png
 315237,W. Osula,William Idamudia,Daugaard Osula,2003-08-04,Aarhus,Denmark,Denmark,180 cm,81 kg,https://media.api-sports.io/football/players/315237.png
 319517,A. Milambo,Antoni-Djibu,Milambo,2005-04-03,Rotterdam,Netherlands,Netherlands,179 cm,68 kg,https://media.api-sports.io/football/players/319517.png
 322305,J. O&apos;Brien-Whitmarsh,Joseph,O'Brien-Whitmarsh,2005-05-11,Cork,Republic of Ireland,Republic of Ireland,173 cm,73 kg,https://media.api-sports.io/football/players/322305.png
@@ -520,6 +539,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 334035,S. Amo-Ameyaw,Samuel,Amo-Ameyaw,2006-07-18,London,England,England,174 cm,64 kg,https://media.api-sports.io/football/players/334035.png
 335101,J. Rouhi,Jonas Jakob,Rouhi,2004-01-07,,Sweden,Sweden,,,https://media.api-sports.io/football/players/335101.png
 336585,Mateus Fernandes,Mateus Gonçalo,Espanha Fernandes,2004-07-10,Olhão,Portugal,Portugal,178 cm,72 kg,https://media.api-sports.io/football/players/336585.png
+336659,C. Talbi,Chemsdine,Talbi,2005-05-09,,Belgium,Belgium,175 cm,65 kg,https://media.api-sports.io/football/players/336659.png
 336671,Renato Veiga,Renato,da Palma Veiga,2003-07-29,Lisboa,Portugal,Portugal,190 cm,88 kg,https://media.api-sports.io/football/players/336671.png
 336676,Diogo Pinto,Diogo,de Carvalho Pinto,2004-06-18,Felgueiras,Portugal,Portugal,195 cm,87 kg,https://media.api-sports.io/football/players/336676.png
 339883,K. Yıldız,Kenan,Yıldız,2005-05-04,Regensburg,Germany,Türkiye,185 cm,77 kg,https://media.api-sports.io/football/players/339883.png
@@ -533,6 +553,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 347316,L. Bergvall,Lucas Erik Holger,Bergvall,2006-02-02,Stockholm,Sweden,Sweden,187 cm,74 kg,https://media.api-sports.io/football/players/347316.png
 350625,J. Meghoma,Jayden,Meghoma,2006-06-28,,England,England,175 cm,80 kg,https://media.api-sports.io/football/players/350625.png
 352375,Arthur,Arthur Augusto,de Matos Soares,2003-03-17,Belo Horizonte,Brazil,Brazil,173 cm,70 kg,https://media.api-sports.io/football/players/352375.png
+354027,J. Ordoñez,Joel Leandro,Ordóñez Guerrero,2004-04-21,Guayaquil,Ecuador,Ecuador,188 cm,76 kg,https://media.api-sports.io/football/players/354027.png
 354753,O. Diomande,Ousmane,Diomande,2003-12-04,Abidjan,Côte d'Ivoire,Côte d'Ivoire,190 cm,86 kg,https://media.api-sports.io/football/players/354753.png
 356041,C. Baleba,Carlos Noom,Quomah Baleba,2004-01-03,Douala,Cameroon,Cameroon,179 cm,73 kg,https://media.api-sports.io/football/players/356041.png
 359386,M. Godo,Becket Fabrice-Martial,Godo,2003-03-14,,England,England,169 cm,61 kg,https://media.api-sports.io/football/players/359386.png
@@ -542,6 +563,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 363974,Z. Marsh,Zach,Marsh,2005-10-06,,England,England,,,https://media.api-sports.io/football/players/363974.png
 367634,A. Agbinone,Asher Chris,Ofega Agbinone,2005-09-28,,England,England,177 cm,69 kg,https://media.api-sports.io/football/players/367634.png
 371230,Z. Redmond,Zepiqueno,Redmond,2006-06-22,,Netherlands,Netherlands,,,https://media.api-sports.io/football/players/371230.png
+375974,J. Seys,Joaquin,Seys,2005-03-28,Oostende,Belgium,Belgium,168 cm,52 kg,https://media.api-sports.io/football/players/375974.png
 379618,J. Slater,Jacob Vaughan,Slater,2004-10-05,,England,England,,,https://media.api-sports.io/football/players/379618.png
 380492,Eric Emanuel da Silva Moreira,Eric Emanuel,da Silva Moreira,2006-05-03,Hamburg,Germany,Germany,184 cm,82 kg,https://media.api-sports.io/football/players/380492.png
 380679,C. Kporha,Caleb Billy,Mawuko Kporha,2006-07-15,,England,England,170 cm,67 kg,https://media.api-sports.io/football/players/380679.png
