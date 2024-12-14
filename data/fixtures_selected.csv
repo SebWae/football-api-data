@@ -296,3 +296,8 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1208108,D. Bond,UTC,2024-10-27,13:00:00,525,Selhurst Park,London,90,8,39,Premier League,2024,Regular Season - 9,52,Crystal Palace,47,Tottenham,1,0,1,0,,,,
 1208112,D. Coote,UTC,2024-10-27,13:00:00,598,London Stadium,London,90,14,39,Premier League,2024,Regular Season - 9,48,West Ham,33,Manchester United,2,1,0,0,,,,
 1208103,A. Taylor,UTC,2024-10-27,15:30:00,494,Emirates Stadium,London,90,7,39,Premier League,2024,Regular Season - 9,42,Arsenal,40,Liverpool,2,2,2,1,,,,
+1208104,C. Kavanagh,UTC,2024-10-26,14:00:00,495,Villa Park,Birmingham,90,8,39,Premier League,2024,Regular Season - 9,66,Aston Villa,35,Bournemouth,1,1,0,0,,,,
+1208105,L. Smith,UTC,2024-10-26,14:00:00,10503,Gtech Community Stadium,"Brentford, Middlesex",90,10,39,Premier League,2024,Regular Season - 9,55,Brentford,57,Ipswich,4,3,2,2,,,,
+1208106,M. Oliver,UTC,2024-10-26,14:00:00,508,American Express Stadium,"Falmer, East Sussex",90,8,39,Premier League,2024,Regular Season - 9,51,Brighton,39,Wolves,2,2,1,0,,,,
+1208111,T. Harrington,UTC,2024-10-26,14:00:00,555,Etihad Stadium,Manchester,90,7,39,Premier League,2024,Regular Season - 9,50,Manchester City,41,Southampton,1,0,1,0,,,,
+1208109,J. Brooks,UTC,2024-10-26,16:30:00,8560,Goodison Park,Liverpool,90,7,39,Premier League,2024,Regular Season - 9,45,Everton,36,Fulham,1,1,0,0,,,,
