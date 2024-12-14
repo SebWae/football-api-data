@@ -282,3 +282,5 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1312076,S. Parkinson,UTC,2024-11-02,15:00:00,553,York Road Stadium,"Maidenhead, Berkshire",120,,45,FA Cup,2024,1st Round,1838,Maidenhead,1362,Crawley Town,1,1,0,0,0,1,,
 1208122,A. Taylor,UTC,2024-11-02,17:30:00,600,Molineux Stadium,"Wolverhampton, West Midlands",90,6,39,Premier League,2024,Regular Season - 10,39,Wolves,52,Crystal Palace,2,2,0,0,,,,
 1311843,E. Bell,UTC,2024-11-02,17:30:00,11881,Sixfields Stadium,"Northampton, East Midlands",120,,45,FA Cup,2024,1st Round,1337,Northampton,8654,Kettering Town,1,1,1,0,0,1,,
+1311827,B. Speedie,UTC,2024-11-01,19:45:00,5610,The Lamb Ground,"Tamworth, Staffordshire",90,9,45,FA Cup,2024,1st Round,7752,Tamworth,37,Huddersfield,1,0,1,0,,,,
+1311851,S. Simpson,UTC,2024-11-01,19:45:00,567,Meadow Lane,"Nottingham, Nottinghamshire",90,5,45,FA Cup,2024,1st Round,1376,Notts County,4677,Alfreton Town,5,1,1,1,,,,
