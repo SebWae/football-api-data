@@ -290,3 +290,5 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1309285,S. Barrott,UTC,2024-10-30,19:45:00,495,Villa Park,Birmingham,90,5,48,League Cup,2024,Round of 16,66,Aston Villa,52,Crystal Palace,1,2,1,1,,,,
 1310475,C. Kavanagh,UTC,2024-10-30,19:45:00,562,St. James' Park,Newcastle upon Tyne,90,4,48,League Cup,2024,Round of 16,34,Newcastle,49,Chelsea,2,0,2,0,,,,
 1309281,R. Jones,UTC,2024-10-30,20:15:00,593,Tottenham Hotspur Stadium,London,90,7,48,League Cup,2024,Round of 16,47,Tottenham,50,Manchester City,2,1,2,1,,,,
+1309280,L. Smith,UTC,2024-10-29,19:45:00,585,St. Mary's Stadium,"Southampton, Hampshire",90,9,48,League Cup,2024,Round of 16,41,Southampton,75,Stoke City,3,2,2,1,,,,
+1309279,W. Finnie,UTC,2024-10-29,20:00:00,10503,Gtech Community Stadium,"Brentford, Middlesex",120,,48,League Cup,2024,Round of 16,55,Brentford,74,Sheffield Wednesday,1,1,1,0,0,0,5,4
