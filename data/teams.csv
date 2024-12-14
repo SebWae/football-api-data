@@ -3200,9 +3200,11 @@ id,name,logo
 5161,Guatemala,https://media.api-sports.io/football/teams/5161.png
 5162,Guyana,https://media.api-sports.io/football/teams/5162.png
 5163,New Caledonia,https://media.api-sports.io/football/teams/5163.png
+5164,Nicaragua,https://media.api-sports.io/football/teams/5164.png
 5165,Solomon Islands,https://media.api-sports.io/football/teams/5165.png
 5166,Sri Lanka,https://media.api-sports.io/football/teams/5166.png
 5167,Tahiti,https://media.api-sports.io/football/teams/5167.png
+5168,Trinidad and Tobago,https://media.api-sports.io/football/teams/5168.png
 5169,Turks and Caicos Islands,https://media.api-sports.io/football/teams/5169.png
 5170,Vanuatu,https://media.api-sports.io/football/teams/5170.png
 5171,Abia Warriors,https://media.api-sports.io/football/teams/5171.png
@@ -3378,6 +3380,7 @@ id,name,logo
 5426,Police XI,https://media.api-sports.io/football/teams/5426.png
 5429,Security Systems,https://media.api-sports.io/football/teams/5429.png
 5431,Township Rollers,https://media.api-sports.io/football/teams/5431.png
+5433,Bhutan U19,https://media.api-sports.io/football/teams/5433.png
 5443,Dandy Town Hornets,https://media.api-sports.io/football/teams/5443.png
 5444,Devonshire Cougars,https://media.api-sports.io/football/teams/5444.png
 5445,North Village Rams,https://media.api-sports.io/football/teams/5445.png
@@ -4697,12 +4700,51 @@ id,name,logo
 8171,Suriname,https://media.api-sports.io/football/teams/8171.png
 8175,Papua New Guinea,https://media.api-sports.io/football/teams/8175.png
 8176,Samoa,https://media.api-sports.io/football/teams/8176.png
+8177,Albania U21,https://media.api-sports.io/football/teams/8177.png
+8178,Andorra U21,https://media.api-sports.io/football/teams/8178.png
+8179,Armenia U21,https://media.api-sports.io/football/teams/8179.png
+8180,Austria U21,https://media.api-sports.io/football/teams/8180.png
+8181,Azerbaijan U21,https://media.api-sports.io/football/teams/8181.png
+8182,Belarus U21,https://media.api-sports.io/football/teams/8182.png
 8183,Belgium U21,https://media.api-sports.io/football/teams/8183.png
+8184,Bosnia-Herzegovina U21,https://media.api-sports.io/football/teams/8184.png
+8185,Bulgaria U21,https://media.api-sports.io/football/teams/8185.png
 8186,Croatia U21,https://media.api-sports.io/football/teams/8186.png
+8187,Cyprus U21,https://media.api-sports.io/football/teams/8187.png
 8188,Czech Republic U21,https://media.api-sports.io/football/teams/8188.png
+8189,Denmark U21,https://media.api-sports.io/football/teams/8189.png
+8190,England U21,https://media.api-sports.io/football/teams/8190.png
+8191,Estonia U21,https://media.api-sports.io/football/teams/8191.png
+8192,Faroe Islands U21,https://media.api-sports.io/football/teams/8192.png
 8193,Finland U21,https://media.api-sports.io/football/teams/8193.png
+8194,France U21,https://media.api-sports.io/football/teams/8194.png
 8195,Georgia U21,https://media.api-sports.io/football/teams/8195.png
+8196,Germany U21,https://media.api-sports.io/football/teams/8196.png
+8198,Greece U21,https://media.api-sports.io/football/teams/8198.png
+8199,Iceland U21,https://media.api-sports.io/football/teams/8199.png
+8200,Israel U21,https://media.api-sports.io/football/teams/8200.png
+8201,Italy U21,https://media.api-sports.io/football/teams/8201.png
+8202,Kazakhstan U21,https://media.api-sports.io/football/teams/8202.png
+8203,Kosovo U21,https://media.api-sports.io/football/teams/8203.png
+8204,Latvia U21,https://media.api-sports.io/football/teams/8204.png
+8206,Lithuania U21,https://media.api-sports.io/football/teams/8206.png
+8207,Luxembourg U21,https://media.api-sports.io/football/teams/8207.png
+8208,Malta U21,https://media.api-sports.io/football/teams/8208.png
+8210,Montenegro U21,https://media.api-sports.io/football/teams/8210.png
+8212,North Macedonia U21,https://media.api-sports.io/football/teams/8212.png
+8213,Northern Ireland U21,https://media.api-sports.io/football/teams/8213.png
 8214,Norway U21,https://media.api-sports.io/football/teams/8214.png
+8215,Poland U21,https://media.api-sports.io/football/teams/8215.png
+8216,Portugal U21,https://media.api-sports.io/football/teams/8216.png
+8217,Republic of Ireland U21,https://media.api-sports.io/football/teams/8217.png
+8218,Romania U21,https://media.api-sports.io/football/teams/8218.png
+8220,San Marino U21,https://media.api-sports.io/football/teams/8220.png
+8221,Scotland U21,https://media.api-sports.io/football/teams/8221.png
+8222,Serbia U21,https://media.api-sports.io/football/teams/8222.png
+8224,Spain U21,https://media.api-sports.io/football/teams/8224.png
+8226,Switzerland U21,https://media.api-sports.io/football/teams/8226.png
+8227,Turkey U21,https://media.api-sports.io/football/teams/8227.png
+8228,Ukraine U21,https://media.api-sports.io/football/teams/8228.png
 8232,Nacional,https://media.api-sports.io/football/teams/8232.png
 8234,Britannia,https://media.api-sports.io/football/teams/8234.png
 8237,Dakota,https://media.api-sports.io/football/teams/8237.png
@@ -5668,19 +5710,26 @@ id,name,logo
 10327,Belgium U19,https://media.api-sports.io/football/teams/10327.png
 10328,Bulgaria U19,https://media.api-sports.io/football/teams/10328.png
 10329,Croatia U19,https://media.api-sports.io/football/teams/10329.png
+10330,Czech Republic U19,https://media.api-sports.io/football/teams/10330.png
 10331,Denmark U19,https://media.api-sports.io/football/teams/10331.png
 10332,England U19,https://media.api-sports.io/football/teams/10332.png
+10333,Finland U19,https://media.api-sports.io/football/teams/10333.png
 10334,France U19,https://media.api-sports.io/football/teams/10334.png
 10335,Georgia U19,https://media.api-sports.io/football/teams/10335.png
 10336,Germany U19,https://media.api-sports.io/football/teams/10336.png
 10337,Iceland U19,https://media.api-sports.io/football/teams/10337.png
 10338,Italy U19,https://media.api-sports.io/football/teams/10338.png
+10339,Latvia U19,https://media.api-sports.io/football/teams/10339.png
 10340,Netherlands U19,https://media.api-sports.io/football/teams/10340.png
+10341,North Macedonia U19,https://media.api-sports.io/football/teams/10341.png
 10342,Norway U19,https://media.api-sports.io/football/teams/10342.png
 10345,Scotland U19,https://media.api-sports.io/football/teams/10345.png
 10346,Serbia U19,https://media.api-sports.io/football/teams/10346.png
+10347,Slovakia U19,https://media.api-sports.io/football/teams/10347.png
 10348,Slovenia U19,https://media.api-sports.io/football/teams/10348.png
 10349,Spain U19,https://media.api-sports.io/football/teams/10349.png
+10350,Switzerland U19,https://media.api-sports.io/football/teams/10350.png
+10351,Turkey U19,https://media.api-sports.io/football/teams/10351.png
 10352,Ukraine U19,https://media.api-sports.io/football/teams/10352.png
 10353,Wales U19,https://media.api-sports.io/football/teams/10353.png
 10354,Albania U19,https://media.api-sports.io/football/teams/10354.png
@@ -5692,6 +5741,7 @@ id,name,logo
 10360,Cyprus U19,https://media.api-sports.io/football/teams/10360.png
 10361,Estonia U19,https://media.api-sports.io/football/teams/10361.png
 10362,Faroe Islands U19,https://media.api-sports.io/football/teams/10362.png
+10363,Gibraltar U19,https://media.api-sports.io/football/teams/10363.png
 10364,Greece U19,https://media.api-sports.io/football/teams/10364.png
 10365,Hungary U19,https://media.api-sports.io/football/teams/10365.png
 10366,Israel U19,https://media.api-sports.io/football/teams/10366.png
@@ -5699,10 +5749,14 @@ id,name,logo
 10368,AS Marsa,https://media.api-sports.io/football/teams/10368.png
 10369,Liechtenstein U19,https://media.api-sports.io/football/teams/10369.png
 10370,Lithuania U19,https://media.api-sports.io/football/teams/10370.png
+10371,Luxembourg U19,https://media.api-sports.io/football/teams/10371.png
+10372,Malta U19,https://media.api-sports.io/football/teams/10372.png
 10373,Moldova U19,https://media.api-sports.io/football/teams/10373.png
 10374,Montenegro U19,https://media.api-sports.io/football/teams/10374.png
 10375,Northern Ireland U19,https://media.api-sports.io/football/teams/10375.png
+10376,Poland U19,https://media.api-sports.io/football/teams/10376.png
 10377,Republic of Ireland U19,https://media.api-sports.io/football/teams/10377.png
+10379,San Marino U19,https://media.api-sports.io/football/teams/10379.png
 10380,Sweden U19,https://media.api-sports.io/football/teams/10380.png
 10388,Mes Shahr-e Babak,https://media.api-sports.io/football/teams/10388.png
 10399,Naft Gachsaran,https://media.api-sports.io/football/teams/10399.png
@@ -5851,6 +5905,8 @@ id,name,logo
 10985,Sint Maarten,https://media.api-sports.io/football/teams/10985.png
 11022,Burundi U20,https://media.api-sports.io/football/teams/11022.png
 11034,Kenya U20,https://media.api-sports.io/football/teams/11034.png
+11042,Rwanda U20,https://media.api-sports.io/football/teams/11042.png
+11046,Sudan U20,https://media.api-sports.io/football/teams/11046.png
 11047,Tanzania U20,https://media.api-sports.io/football/teams/11047.png
 11050,Uganda U20,https://media.api-sports.io/football/teams/11050.png
 11054,Flamengo U20,https://media.api-sports.io/football/teams/11054.png
@@ -6115,6 +6171,7 @@ id,name,logo
 12510,Italy U17,https://media.api-sports.io/football/teams/12510.png
 12511,Japan U17,https://media.api-sports.io/football/teams/12511.png
 12512,Korea Republic U17,https://media.api-sports.io/football/teams/12512.png
+12514,Netherlands U17,https://media.api-sports.io/football/teams/12514.png
 12520,Spain U17,https://media.api-sports.io/football/teams/12520.png
 12521,Tajikistan U17,https://media.api-sports.io/football/teams/12521.png
 12523,Ayeyawady United,https://media.api-sports.io/football/teams/12523.png
@@ -7220,6 +7277,7 @@ id,name,logo
 16493,Lao Army,https://media.api-sports.io/football/teams/16493.png
 16494,Eskhata,https://media.api-sports.io/football/teams/16494.png
 16498,Treaty United,https://media.api-sports.io/football/teams/16498.png
+16500,Hungary U21,https://media.api-sports.io/football/teams/16500.png
 16507,Irao,https://media.api-sports.io/football/teams/16507.png
 16516,Shturmi,https://media.api-sports.io/football/teams/16516.png
 16522,Banga II,https://media.api-sports.io/football/teams/16522.png
@@ -7555,16 +7613,30 @@ id,name,logo
 17923,Vitesse,https://media.api-sports.io/football/teams/17923.png
 17924,AC Douane,https://media.api-sports.io/football/teams/17924.png
 17926,Barra Mansa,https://media.api-sports.io/football/teams/17926.png
+17936,Albania U17,https://media.api-sports.io/football/teams/17936.png
+17937,Andorra U17,https://media.api-sports.io/football/teams/17937.png
+17938,Armenia U17,https://media.api-sports.io/football/teams/17938.png
+17939,Austria U17,https://media.api-sports.io/football/teams/17939.png
 17940,Azerbaijan U17,https://media.api-sports.io/football/teams/17940.png
+17941,Belarus U17,https://media.api-sports.io/football/teams/17941.png
+17942,Belgium U17,https://media.api-sports.io/football/teams/17942.png
 17943,Bosnia-Herzegovina U17,https://media.api-sports.io/football/teams/17943.png
 17944,Bulgaria U17,https://media.api-sports.io/football/teams/17944.png
+17945,Croatia U17,https://media.api-sports.io/football/teams/17945.png
 17946,Cyprus U17,https://media.api-sports.io/football/teams/17946.png
+17947,Czech Republic U17,https://media.api-sports.io/football/teams/17947.png
+17948,Denmark U17,https://media.api-sports.io/football/teams/17948.png
 17949,England U17,https://media.api-sports.io/football/teams/17949.png
 17950,Estonia U17,https://media.api-sports.io/football/teams/17950.png
+17951,Faroe Islands U17,https://media.api-sports.io/football/teams/17951.png
 17952,Finland U17,https://media.api-sports.io/football/teams/17952.png
+17953,Georgia U17,https://media.api-sports.io/football/teams/17953.png
+17954,Germany U17,https://media.api-sports.io/football/teams/17954.png
 17955,Gibraltar U17,https://media.api-sports.io/football/teams/17955.png
 17956,Greece U17,https://media.api-sports.io/football/teams/17956.png
 17957,Iceland U17,https://media.api-sports.io/football/teams/17957.png
+17958,Kazakhstan U17,https://media.api-sports.io/football/teams/17958.png
+17959,Kosovo U17,https://media.api-sports.io/football/teams/17959.png
 17960,Latvia U17,https://media.api-sports.io/football/teams/17960.png
 17961,Liechtenstein U17,https://media.api-sports.io/football/teams/17961.png
 17962,Lithuania U17,https://media.api-sports.io/football/teams/17962.png
@@ -7574,6 +7646,7 @@ id,name,logo
 17967,North Macedonia U17,https://media.api-sports.io/football/teams/17967.png
 17968,Northern Ireland U17,https://media.api-sports.io/football/teams/17968.png
 17969,Norway U17,https://media.api-sports.io/football/teams/17969.png
+17970,Poland U17,https://media.api-sports.io/football/teams/17970.png
 17971,Portugal U17,https://media.api-sports.io/football/teams/17971.png
 17972,Republic of Ireland U17,https://media.api-sports.io/football/teams/17972.png
 17973,Romania U17,https://media.api-sports.io/football/teams/17973.png
@@ -7581,9 +7654,11 @@ id,name,logo
 17976,Scotland U17,https://media.api-sports.io/football/teams/17976.png
 17977,Serbia U17,https://media.api-sports.io/football/teams/17977.png
 17978,Slovakia U17,https://media.api-sports.io/football/teams/17978.png
+17979,Slovenia U17,https://media.api-sports.io/football/teams/17979.png
 17980,Sweden U17,https://media.api-sports.io/football/teams/17980.png
 17981,Switzerland U17,https://media.api-sports.io/football/teams/17981.png
 17982,Turkey U17,https://media.api-sports.io/football/teams/17982.png
+17983,Ukraine U17,https://media.api-sports.io/football/teams/17983.png
 17984,Wales U17,https://media.api-sports.io/football/teams/17984.png
 17985,Comércio Indústria,https://media.api-sports.io/football/teams/17985.png
 17987,CD Lunda-Sul,https://media.api-sports.io/football/teams/17987.png
@@ -7591,6 +7666,7 @@ id,name,logo
 17992,Accra Lions,https://media.api-sports.io/football/teams/17992.png
 17993,Bibiani Gold Stars,https://media.api-sports.io/football/teams/17993.png
 17996,FC Jerusalem,https://media.api-sports.io/football/teams/17996.png
+17999,Maccabi Bnei Abu Snan,https://media.api-sports.io/football/teams/17999.png
 18002,Vaduz II,https://media.api-sports.io/football/teams/18002.png
 18005,Delhi FC,https://media.api-sports.io/football/teams/18005.png
 18009,Rajasthan United,https://media.api-sports.io/football/teams/18009.png
@@ -7937,6 +8013,7 @@ id,name,logo
 19618,Mławianka Mława,https://media.api-sports.io/football/teams/19618.png
 19619,Warta Sieradz,https://media.api-sports.io/football/teams/19619.png
 19620,Vineta Wolin,https://media.api-sports.io/football/teams/19620.png
+19625,Djibouti U20,https://media.api-sports.io/football/teams/19625.png
 19637,Nação,https://media.api-sports.io/football/teams/19637.png
 19639,Jiskra Domažlice II,https://media.api-sports.io/football/teams/19639.png
 19640,Admira Praha II,https://media.api-sports.io/football/teams/19640.png
@@ -9390,6 +9467,8 @@ id,name,logo
 24997,Persiku Kudus,https://media.api-sports.io/football/teams/24997.png
 24999,Capitao Poco,https://media.api-sports.io/football/teams/24999.png
 25000,Izabelense,https://media.api-sports.io/football/teams/25000.png
+25001,Pinheirense,https://media.api-sports.io/football/teams/25001.png
+25002,Santos PA,https://media.api-sports.io/football/teams/25002.png
 25003,Uniao Paraense,https://media.api-sports.io/football/teams/25003.png
 25004,ESMAC,https://media.api-sports.io/football/teams/25004.png
 25006,Guarany Alagoano,https://media.api-sports.io/football/teams/25006.png
