@@ -1306,6 +1306,7 @@ id,name,logo
 1612,Minnesota United FC,https://media.api-sports.io/football/teams/1612.png
 1613,Columbus Crew,https://media.api-sports.io/football/teams/1613.png
 1616,Los Angeles FC,https://media.api-sports.io/football/teams/1616.png
+1617,Portland Timbers,https://media.api-sports.io/football/teams/1617.png
 1618,BFC Preussen,https://media.api-sports.io/football/teams/1618.png
 1619,FC 08 Villingen,https://media.api-sports.io/football/teams/1619.png
 1620,FC Viktoria Köln,https://media.api-sports.io/football/teams/1620.png
@@ -1618,6 +1619,7 @@ id,name,logo
 2110,Volos NFC,https://media.api-sports.io/football/teams/2110.png
 2113,HK Kopavogur,https://media.api-sports.io/football/teams/2113.png
 2117,Fram Reykjavik,https://media.api-sports.io/football/teams/2117.png
+2138,Guairena FC,https://media.api-sports.io/football/teams/2138.png
 2140,2 de Mayo,https://media.api-sports.io/football/teams/2140.png
 2142,Bryne,https://media.api-sports.io/football/teams/2142.png
 2143,KFUM Oslo,https://media.api-sports.io/football/teams/2143.png
@@ -2850,6 +2852,7 @@ id,name,logo
 4547,Akzhayik,https://media.api-sports.io/football/teams/4547.png
 4551,Ekibastuz,https://media.api-sports.io/football/teams/4551.png
 4552,Kaspiy,https://media.api-sports.io/football/teams/4552.png
+4553,Kyran,https://media.api-sports.io/football/teams/4553.png
 4554,Kyzyl-Zhar,https://media.api-sports.io/football/teams/4554.png
 4556,Sport Academy Kairat,https://media.api-sports.io/football/teams/4556.png
 4558,Okzhetpes,https://media.api-sports.io/football/teams/4558.png
@@ -6146,10 +6149,12 @@ id,name,logo
 12968,Palmeiras U20,https://media.api-sports.io/football/teams/12968.png
 12972,São José PA U20,https://media.api-sports.io/football/teams/12972.png
 12973,São Paulo U20,https://media.api-sports.io/football/teams/12973.png
+12999,Criciuma U20,https://media.api-sports.io/football/teams/12999.png
 13000,Cruzeiro U20,https://media.api-sports.io/football/teams/13000.png
 13011,Grêmio U20,https://media.api-sports.io/football/teams/13011.png
 13020,Juventude U20,https://media.api-sports.io/football/teams/13020.png
 13033,Novorizontino U20,https://media.api-sports.io/football/teams/13033.png
+13050,Retrô U20,https://media.api-sports.io/football/teams/13050.png
 13087,Campo Grande,https://media.api-sports.io/football/teams/13087.png
 13098,Retrô,https://media.api-sports.io/football/teams/13098.png
 13106,Artsul,https://media.api-sports.io/football/teams/13106.png
@@ -6795,6 +6800,7 @@ id,name,logo
 15955,Lyn W,https://media.api-sports.io/football/teams/15955.png
 15956,Rosenborg W,https://media.api-sports.io/football/teams/15956.png
 15960,Ibri,https://media.api-sports.io/football/teams/15960.png
+15962,Smail,https://media.api-sports.io/football/teams/15962.png
 15970,Vasas Femina W,https://media.api-sports.io/football/teams/15970.png
 15976,Trenčín W,https://media.api-sports.io/football/teams/15976.png
 15977,Dukla Banská Bystrica W,https://media.api-sports.io/football/teams/15977.png
@@ -7599,6 +7605,7 @@ id,name,logo
 19310,Köflach,https://media.api-sports.io/football/teams/19310.png
 19315,UFC Hallein,https://media.api-sports.io/football/teams/19315.png
 19331,Cooper,https://media.api-sports.io/football/teams/19331.png
+19333,Durazno,https://media.api-sports.io/football/teams/19333.png
 19349,Río Negro,https://media.api-sports.io/football/teams/19349.png
 19398,Stará Ľubovňa,https://media.api-sports.io/football/teams/19398.png
 19412,Dragón,https://media.api-sports.io/football/teams/19412.png
@@ -8008,6 +8015,7 @@ id,name,logo
 20767,Pinheirense U20,https://media.api-sports.io/football/teams/20767.png
 20780,Fortis,https://media.api-sports.io/football/teams/20780.png
 20785,Kosovo U19,https://media.api-sports.io/football/teams/20785.png
+20786,Sportivo Carapeguá,https://media.api-sports.io/football/teams/20786.png
 20788,UMECIT,https://media.api-sports.io/football/teams/20788.png
 20799,Aigle Royal de Moungo,https://media.api-sports.io/football/teams/20799.png
 20800,Victoria United,https://media.api-sports.io/football/teams/20800.png
@@ -8041,6 +8049,7 @@ id,name,logo
 20985,Manonyane,https://media.api-sports.io/football/teams/20985.png
 21010,Ulytau,https://media.api-sports.io/football/teams/21010.png
 21011,Yelimay Semey,https://media.api-sports.io/football/teams/21011.png
+21012,Zhetisay,https://media.api-sports.io/football/teams/21012.png
 21015,Luangprabang FC,https://media.api-sports.io/football/teams/21015.png
 21016,Namtha United,https://media.api-sports.io/football/teams/21016.png
 21024,AC Malcantone,https://media.api-sports.io/football/teams/21024.png
