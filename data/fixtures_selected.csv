@@ -292,3 +292,7 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1309281,R. Jones,UTC,2024-10-30,20:15:00,593,Tottenham Hotspur Stadium,London,90,7,48,League Cup,2024,Round of 16,47,Tottenham,50,Manchester City,2,1,2,1,,,,
 1309280,L. Smith,UTC,2024-10-29,19:45:00,585,St. Mary's Stadium,"Southampton, Hampshire",90,9,48,League Cup,2024,Round of 16,41,Southampton,75,Stoke City,3,2,2,1,,,,
 1309279,W. Finnie,UTC,2024-10-29,20:00:00,10503,Gtech Community Stadium,"Brentford, Middlesex",120,,48,League Cup,2024,Round of 16,55,Brentford,74,Sheffield Wednesday,1,1,1,0,0,0,5,4
+1208107,S. Hooper,UTC,2024-10-27,13:00:00,519,Stamford Bridge,London,90,10,39,Premier League,2024,Regular Season - 9,49,Chelsea,34,Newcastle,2,1,1,1,,,,
+1208108,D. Bond,UTC,2024-10-27,13:00:00,525,Selhurst Park,London,90,8,39,Premier League,2024,Regular Season - 9,52,Crystal Palace,47,Tottenham,1,0,1,0,,,,
+1208112,D. Coote,UTC,2024-10-27,13:00:00,598,London Stadium,London,90,14,39,Premier League,2024,Regular Season - 9,48,West Ham,33,Manchester United,2,1,0,0,,,,
+1208103,A. Taylor,UTC,2024-10-27,15:30:00,494,Emirates Stadium,London,90,7,39,Premier League,2024,Regular Season - 9,42,Arsenal,40,Liverpool,2,2,2,1,,,,
