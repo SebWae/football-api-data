@@ -136,14 +136,14 @@ def register_fixtures(date):
                         away_ft, home_ht, away_ht, home_et, away_et, home_pen, away_pen
                     ])
     
-    # sort teams.csv by id column
-    utils.sort_csv_by_column(input_file="data/teams.csv", output_file="data/teams.csv", column_name="id", ascending=True)
-
     # commit changes to git
     files_to_commit = ["data/fixtures_all.csv"]
 
+    # sorting teams.csv if new teams have been added
     if new_teams:
+        utils.sort_csv_by_column(input_file="data/teams.csv", output_file="data/teams.csv", column_name="id", ascending=True)
         files_to_commit.append("data/teams.csv")
+
     if new_selected_fixtures:
         files_to_commit.append("data/fixtures_selected.csv")
 
