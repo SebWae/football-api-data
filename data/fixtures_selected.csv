@@ -409,3 +409,6 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1311146,D. Baines,UTC,2024-10-12,14:00:00,5587,Crown Meadow,"Lowestoft, Suffolk",90,7,45,FA Cup,2024,4th Round Qualifying,7729,Lowestoft Town,4687,Weston-super-Mare,1,3,1,0,,,,
 1311147,S. Tallis,UTC,2024-10-12,14:00:00,3551,The Meadow,"Chesham, Buckinghamshire",90,11,45,FA Cup,2024,4th Round Qualifying,4702,Chesham United,1377,Yeovil Town,1,0,0,0,,,,
 1309875,A. Humphries,UTC,2024-10-12,14:30:00,5515,Hertingfordbury Park,"Hertford, Hertfordshire",90,12,45,FA Cup,2024,4th Round Qualifying,7721,Hednesford Town,1823,Gateshead,1,1,0,0,,,,
+1306645,,UTC,2024-10-08,18:45:00,5485,The Carlsberg Stadium,"Biggleswade, Bedfordshire",90,5,45,FA Cup,2024,3rd Round Qualifying,7700,Biggleswade Town,4677,Alfreton Town,0,6,0,1,,,,
+1309660,,UTC,2024-10-08,18:45:00,5587,Crown Meadow,"Lowestoft, Suffolk",90,9,45,FA Cup,2024,3rd Round Qualifying Replays,7729,Lowestoft Town,4681,Haringey Borough,3,1,3,0,,,,
+1309663,,UTC,2024-10-08,18:45:00,3551,The Meadow,"Chesham, Buckinghamshire",90,6,45,FA Cup,2024,3rd Round Qualifying Replays,4702,Chesham United,8709,Bishop's Cleeve,4,0,2,0,,,,
