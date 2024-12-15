@@ -41,6 +41,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 537,J. Veltman,Joël Ivo,Veltman,1992-01-15,Velsen,Netherlands,Netherlands,184 cm,75 kg,https://media.api-sports.io/football/players/537.png
 542,R. Gravenberch,Ryan Jiro,Gravenberch,2002-05-16,Amsterdam,Netherlands,Netherlands,190 cm,83 kg,https://media.api-sports.io/football/players/542.png
 545,N. Mazraoui,Noussair,Mazraoui,1997-11-14,Leiderdorp,Netherlands,Morocco,183 cm,63 kg,https://media.api-sports.io/football/players/545.png
+557,O. Vlachodimos,Odysseas,Vlachodimos,1994-04-26,Stuttgart,Germany,Greece,188 cm,78 kg,https://media.api-sports.io/football/players/557.png
 563,Álex Grimaldo,Alejandro,Grimaldo García,1995-09-20,Valencia,Spain,Spain,171 cm,63 kg,https://media.api-sports.io/football/players/563.png
 567,Rúben Dias,Rúben,dos Santos Gato Alves Dias,1997-05-14,Amadora,Portugal,Portugal,187 cm,76 kg,https://media.api-sports.io/football/players/567.png
 579,A. Živković,Andrija,Živković,1996-07-11,Niš,Serbia,Serbia,169 cm,66 kg,https://media.api-sports.io/football/players/579.png
@@ -600,6 +601,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 301771,S. Adingra,Simon,Adingra,2002-01-01,Yamoussoukro,Côte d'Ivoire,Côte d'Ivoire,175 cm,68 kg,https://media.api-sports.io/football/players/301771.png
 303467,A. Fatawu,Issahaku Abdul,Fatawu,2004-03-08,Tamale,Ghana,Ghana,177 cm,73 kg,https://media.api-sports.io/football/players/303467.png
 304228,Z. Debast,Zeno Koen,Debast,2003-10-24,Halle,Belgium,Belgium,191 cm,78 kg,https://media.api-sports.io/football/players/304228.png
+304316,Henry Cartwright,Henry,Cartwright,2004-12-11,,England,England,,,https://media.api-sports.io/football/players/304316.png
 304317,T. Dibling,Tyler-Jay,Dibling,2006-03-12,Exeter,England,England,178 cm,72 kg,https://media.api-sports.io/football/players/304317.png
 304984,J. Spileers,Jorne,Spileers,2005-01-21,,Belgium,Belgium,188 cm,78 kg,https://media.api-sports.io/football/players/304984.png
 305730,J. Hinshelwood,Jack Luca,Hinshelwood,2005-04-11,Chichester,England,England,181 cm,76 kg,https://media.api-sports.io/football/players/305730.png
