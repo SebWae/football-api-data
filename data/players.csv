@@ -24,6 +24,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 253,A. Areola,Alphonse Francis,Areola,1993-02-27,Paris,France,France,195 cm,94 kg,https://media.api-sports.io/football/players/253.png
 269,C. Nkunku,Christopher Alan,Nkunku,1997-11-14,Lagny-sur-Marne,France,France,178 cm,68 kg,https://media.api-sports.io/football/players/269.png
 278,Kylian Mbappé,Kylian,Mbappé Lottin,1998-12-20,Paris,France,France,178 cm,75 kg,https://media.api-sports.io/football/players/278.png
+280,Alisson Becker,Alisson Ramsés,Becker,1992-10-02,Novo Hamburgo,Brazil,Brazil,193 cm,91 kg,https://media.api-sports.io/football/players/280.png
 281,C. Kelleher,Caoimhín Odhrán,Kelleher,1998-11-23,Cork,Republic of Ireland,Republic of Ireland,188 cm,74 kg,https://media.api-sports.io/football/players/281.png
 282,S. Mignolet,Simon Luc Hildebert,Mignolet,1988-03-06,Sint-Truiden,Belgium,Belgium,193 cm,88 kg,https://media.api-sports.io/football/players/282.png
 283,T. Alexander-Arnold,Trent John,Alexander-Arnold,1998-10-07,Liverpool,England,England,175 cm,67 kg,https://media.api-sports.io/football/players/283.png
@@ -156,6 +157,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 2490,J. Lerma,Jefferson Andrés,Lerma Solís,1994-10-25,Cerrito,Colombia,Colombia,179 cm,70 kg,https://media.api-sports.io/football/players/2490.png
 2507,M. Almirón,Miguel Ángel,Almirón Rejala,1994-02-10,Asunción,Paraguay,Paraguay,174 cm,70 kg,https://media.api-sports.io/football/players/2507.png
 2601,D. Kamada,Daichi,Kamada,1996-08-05,Ehime,Japan,Japan,184 cm,76 kg,https://media.api-sports.io/football/players/2601.png
+2678,Diogo Jota,Diogo José,Teixeira da Silva,1996-12-04,Massarelos,Portugal,Portugal,178 cm,68 kg,https://media.api-sports.io/football/players/2678.png
 2724,L. Digne,Lucas,Digne,1993-07-20,Meaux,France,France,178 cm,74 kg,https://media.api-sports.io/football/players/2724.png
 2725,B. Pavard,Benjamin Jacques Marcel,Pavard,1996-03-28,Maubeuge,France,France,186 cm,76 kg,https://media.api-sports.io/football/players/2725.png
 2729,J. Andersen,Joachim Christian,Andersen,1996-05-31,Frederiksberg,Denmark,Denmark,192 cm,86 kg,https://media.api-sports.io/football/players/2729.png
@@ -378,6 +380,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 26862,K. Thymianis,Konstantinos,Thymianis,2001-02-28,,Greece,Greece,,,https://media.api-sports.io/football/players/26862.png
 30399,D. Hancko,Dávid,Hancko,1997-12-13,Prievidza,Slovakia,Slovakia,188 cm,82 kg,https://media.api-sports.io/football/players/30399.png
 30407,C. Nørgaard,Christian,Thers Nørgaard,1994-03-10,København,Denmark,Denmark,187 cm,73 kg,https://media.api-sports.io/football/players/30407.png
+30410,F. Chiesa,Federico,Chiesa,1997-10-25,Genova,Italy,Italy,175 cm,70 kg,https://media.api-sports.io/football/players/30410.png
 30427,C. Okoli,Memeh Caleb,Okoli,2001-07-13,Vicenza,Italy,Italy,191 cm,91 kg,https://media.api-sports.io/football/players/30427.png
 30435,D. Kulusevski,Dejan,Kulusevski,2000-04-25,Stockholm,Sweden,Sweden,186 cm,80 kg,https://media.api-sports.io/football/players/30435.png
 30444,O. Colley,Omar,Colley Daniel,1992-10-24,Banjul,Gambia,Gambia,191 cm,90 kg,https://media.api-sports.io/football/players/30444.png

@@ -989,3 +989,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208174,42,127769,74,,subst,1946,Substitution 5,
 1208174,45,2932,77,,Card,,Yellow Card,Time wasting
 1208174,45,138822,81,,Card,,Yellow Card,Time wasting
+1208177,36,18814,2,,Card,,Yellow Card,Foul
+1208177,40,2489,7,,Card,,Yellow Card,Foul
+1208177,36,899,9,,Card,,Yellow Card,Foul
+1208177,36,899,11,,Goal,19549,Normal Goal,
+1208177,40,289,17,,Card,,Red Card,Professional foul last man
+1208177,36,19549,27,,Card,,Yellow Card,Foul
+1208177,40,247,47,,Goal,306,Normal Goal,
+1208177,36,657,55,,subst,2920,Substitution 1,
+1208177,40,293,57,,Card,,Yellow Card,Foul
+1208177,36,2887,68,,subst,195106,Substitution 2,
+1208177,36,899,69,,subst,1161,Substitution 3,
+1208177,40,293,70,,subst,158698,Substitution 1,
+1208177,40,247,70,,subst,51617,Substitution 2,
+1208177,36,195106,76,,Goal,19549,Normal Goal,
+1208177,40,1096,79,,subst,19035,Substitution 3,
+1208177,40,283,79,,subst,2678,Substitution 4,
+1208177,36,1934,83,,Card,,Yellow Card,Foul
+1208177,40,2678,86,,Goal,51617,Normal Goal,
+1208177,36,19221,87,,subst,18753,Substitution 4,
+1208177,40,51617,88,,Card,,Yellow Card,Foul
