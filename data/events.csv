@@ -943,3 +943,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1299196,619,684,84,,subst,163054,Substitution 4,
 1299196,33,747,85,,Card,,Yellow Card,Handball
 1299196,33,288006,90,,subst,70100,Substitution 5,
+1299338,49,19145,12,,Goal,5996,Normal Goal,
+1299338,49,392270,13,,Goal,,Normal Goal,
+1299338,49,21998,18,,Goal,5996,Normal Goal,
+1299338,49,583,21,,Goal,5996,Normal Goal,
+1299338,49,63577,39,,Goal,269,Normal Goal,
+1299338,49,583,41,,Goal,21998,Normal Goal,
+1299338,49,5996,46,,subst,270507,Substitution 1,
+1299338,49,392270,46,,subst,148099,Substitution 2,
+1299338,3684,272457,46,,subst,37465,Substitution 1,
+1299338,3684,24121,59,,Card,,Yellow Card,Foul
+1299338,3684,41529,62,,subst,122688,Substitution 2,
+1299338,3684,24121,62,,subst,22017,Substitution 3,
+1299338,3684,15514,62,,subst,65360,Substitution 4,
+1299338,49,334037,68,,subst,138935,Substitution 3,
+1299338,49,269,69,,Goal,,Normal Goal,
+1299338,49,148099,73,,Var,,Penalty confirmed,
+1299338,3684,40250,75,,subst,69129,Substitution 5,
+1299338,49,269,76,,Goal,,Penalty,
+1299338,49,269,79,,subst,327733,Substitution 4,
+1299338,3684,3466,90,4,Card,,Yellow Card,Foul
