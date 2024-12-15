@@ -397,16 +397,19 @@ def register_fixture(fixture_id):
                 writer_subs.writerow(sub_info)
     
     # sort managers.csv and players.csv by id column
-    utils.sort_csv_by_column(input_file="data/managers.csv", 
-                             output_file="data/managers.csv", 
-                             column_name="manager_id", 
-                             ascending=True
-                             )
-    utils.sort_csv_by_column(input_file="data/players.csv", 
-                             output_file="data/players.csv", 
-                             column_name="player_id", 
-                             ascending=True
-                             )
+    if any_new_managers:
+        utils.sort_csv_by_column(input_file="data/managers.csv", 
+                                 output_file="data/managers.csv", 
+                                 column_name="manager_id", 
+                                 ascending=True
+                                 )
+        
+    if any_new_players:
+        utils.sort_csv_by_column(input_file="data/players.csv", 
+                                 output_file="data/players.csv", 
+                                 column_name="player_id", 
+                                 ascending=True
+                                 )
 
     with open("data/team_stats.csv", 'a', newline='') as file:
         writer_team_stats = csv.writer(file)
