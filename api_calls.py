@@ -271,7 +271,7 @@ def register_fixture(fixture_id):
         answer = input().strip().lower()
 
         if answer == "y":
-            remaining_persons = 24
+            remaining_persons = 23
             if total_new_persons > remaining_persons:
                 any_new_players = True
                 new_players_list = list(new_players)
