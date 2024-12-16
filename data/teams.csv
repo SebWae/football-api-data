@@ -2690,6 +2690,7 @@ id,name,logo
 3983,Chayka,https://media.api-sports.io/football/teams/3983.png
 3984,Tekstilshchik,https://media.api-sports.io/football/teams/3984.png
 3985,Torpedo Moskva,https://media.api-sports.io/football/teams/3985.png
+3986,Atlanta United II,https://media.api-sports.io/football/teams/3986.png
 3988,Bethlehem Steel,https://media.api-sports.io/football/teams/3988.png
 3989,Birmingham Legion,https://media.api-sports.io/football/teams/3989.png
 3990,Charleston Battery,https://media.api-sports.io/football/teams/3990.png
@@ -2887,6 +2888,13 @@ id,name,logo
 4377,NŠ Drava,https://media.api-sports.io/football/teams/4377.png
 4378,Radomlje,https://media.api-sports.io/football/teams/4378.png
 4381,Ilirija,https://media.api-sports.io/football/teams/4381.png
+4382,Ba,https://media.api-sports.io/football/teams/4382.png
+4384,Lautoka,https://media.api-sports.io/football/teams/4384.png
+4385,Nadi,https://media.api-sports.io/football/teams/4385.png
+4386,Nasinu,https://media.api-sports.io/football/teams/4386.png
+4387,Rewa,https://media.api-sports.io/football/teams/4387.png
+4388,Suva,https://media.api-sports.io/football/teams/4388.png
+4392,Nadroga,https://media.api-sports.io/football/teams/4392.png
 4394,Gosier,https://media.api-sports.io/football/teams/4394.png
 4395,La Gauloise,https://media.api-sports.io/football/teams/4395.png
 4397,Siroco Les Abymes,https://media.api-sports.io/football/teams/4397.png
@@ -2983,7 +2991,11 @@ id,name,logo
 4563,Aktobe,https://media.api-sports.io/football/teams/4563.png
 4564,Atyrau,https://media.api-sports.io/football/teams/4564.png
 4566,Shakhter Karagandy,https://media.api-sports.io/football/teams/4566.png
+4569,Al Ansar,https://media.api-sports.io/football/teams/4569.png
 4570,Al Nejmeh,https://media.api-sports.io/football/teams/4570.png
+4572,Racing,https://media.api-sports.io/football/teams/4572.png
+4576,Shabab Al Sahel,https://media.api-sports.io/football/teams/4576.png
+4577,Tadamon Sour,https://media.api-sports.io/football/teams/4577.png
 4583,Be Forward Wanderers,https://media.api-sports.io/football/teams/4583.png
 4585,Chitipa United,https://media.api-sports.io/football/teams/4585.png
 4588,Kamuzu Barracks,https://media.api-sports.io/football/teams/4588.png
@@ -4637,6 +4649,7 @@ id,name,logo
 7845,Itumbiara,https://media.api-sports.io/football/teams/7845.png
 7848,Mirassol,https://media.api-sports.io/football/teams/7848.png
 7850,Prudentópolis,https://media.api-sports.io/football/teams/7850.png
+7852,Anápolis,https://media.api-sports.io/football/teams/7852.png
 7859,Luziânia,https://media.api-sports.io/football/teams/7859.png
 7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png
 7866,São Paulo RS,https://media.api-sports.io/football/teams/7866.png
@@ -5802,11 +5815,17 @@ id,name,logo
 10282,North Texas,https://media.api-sports.io/football/teams/10282.png
 10283,Union Omaha,https://media.api-sports.io/football/teams/10283.png
 10289,Italy U20,https://media.api-sports.io/football/teams/10289.png
+10290,Japan U20,https://media.api-sports.io/football/teams/10290.png
+10291,Korea Republic U20,https://media.api-sports.io/football/teams/10291.png
 10298,Poland U20,https://media.api-sports.io/football/teams/10298.png
 10299,Portugal U20,https://media.api-sports.io/football/teams/10299.png
+10300,Qatar U20,https://media.api-sports.io/football/teams/10300.png
+10301,Saudi Arabia U20,https://media.api-sports.io/football/teams/10301.png
 10303,South Africa U20,https://media.api-sports.io/football/teams/10303.png
 10309,England U20,https://media.api-sports.io/football/teams/10309.png
 10310,Germany U20,https://media.api-sports.io/football/teams/10310.png
+10312,Iran U20,https://media.api-sports.io/football/teams/10312.png
+10315,Vietnam U20,https://media.api-sports.io/football/teams/10315.png
 10316,Zambia U20,https://media.api-sports.io/football/teams/10316.png
 10320,Sparta Rotterdam II,https://media.api-sports.io/football/teams/10320.png
 10326,Austria U19,https://media.api-sports.io/football/teams/10326.png
@@ -6582,6 +6601,7 @@ id,name,logo
 13320,Kasem Bundit University,https://media.api-sports.io/football/teams/13320.png
 13358,Progrès Sakiet Eddaïer,https://media.api-sports.io/football/teams/13358.png
 13407,Ayvalıkgücü Belediyespor,https://media.api-sports.io/football/teams/13407.png
+13469,Tailevu Naitasiri,https://media.api-sports.io/football/teams/13469.png
 13583,Colmar,https://media.api-sports.io/football/teams/13583.png
 13592,Brétigny Foot,https://media.api-sports.io/football/teams/13592.png
 13601,Espaly-Saint-Marcel,https://media.api-sports.io/football/teams/13601.png
@@ -8259,7 +8279,15 @@ id,name,logo
 19618,Mławianka Mława,https://media.api-sports.io/football/teams/19618.png
 19619,Warta Sieradz,https://media.api-sports.io/football/teams/19619.png
 19620,Vineta Wolin,https://media.api-sports.io/football/teams/19620.png
+19624,Bahrain U20,https://media.api-sports.io/football/teams/19624.png
 19625,Djibouti U20,https://media.api-sports.io/football/teams/19625.png
+19626,Iraq U20,https://media.api-sports.io/football/teams/19626.png
+19627,Jordan U20,https://media.api-sports.io/football/teams/19627.png
+19628,Lebanon U20,https://media.api-sports.io/football/teams/19628.png
+19629,Oman U20,https://media.api-sports.io/football/teams/19629.png
+19630,Palestine U20,https://media.api-sports.io/football/teams/19630.png
+19632,UAE U20,https://media.api-sports.io/football/teams/19632.png
+19633,Yemen U20,https://media.api-sports.io/football/teams/19633.png
 19637,Nação,https://media.api-sports.io/football/teams/19637.png
 19639,Jiskra Domažlice II,https://media.api-sports.io/football/teams/19639.png
 19640,Admira Praha II,https://media.api-sports.io/football/teams/19640.png
@@ -8678,6 +8706,12 @@ id,name,logo
 21052,Hòa Bình,https://media.api-sports.io/football/teams/21052.png
 21053,Green Fuel,https://media.api-sports.io/football/teams/21053.png
 21055,Simba Bhora,https://media.api-sports.io/football/teams/21055.png
+21056,Australia U20,https://media.api-sports.io/football/teams/21056.png
+21057,Indonesia U20,https://media.api-sports.io/football/teams/21057.png
+21058,Kyrgyz Republic U20,https://media.api-sports.io/football/teams/21058.png
+21059,Syria U20,https://media.api-sports.io/football/teams/21059.png
+21060,Tajikistan U20,https://media.api-sports.io/football/teams/21060.png
+21061,Uzbekistan U20,https://media.api-sports.io/football/teams/21061.png
 21066,Baffour Academy,https://media.api-sports.io/football/teams/21066.png
 21070,Bofoakwe Tano,https://media.api-sports.io/football/teams/21070.png
 21071,Debibi United,https://media.api-sports.io/football/teams/21071.png
@@ -9958,6 +9992,26 @@ id,name,logo
 25086,Sparta Rotterdam U19,https://media.api-sports.io/football/teams/25086.png
 25087,Utrecht U19,https://media.api-sports.io/football/teams/25087.png
 25088,Vitesse U19,https://media.api-sports.io/football/teams/25088.png
+25089,Afghanistan U20,https://media.api-sports.io/football/teams/25089.png
+25090,Bangladesh U20,https://media.api-sports.io/football/teams/25090.png
+25091,Bhutan U20,https://media.api-sports.io/football/teams/25091.png
+25092,Brunei U20,https://media.api-sports.io/football/teams/25092.png
+25093,Cambodia U20,https://media.api-sports.io/football/teams/25093.png
+25094,Chinese Taipei U20,https://media.api-sports.io/football/teams/25094.png
+25096,"Hong Kong, China U20",https://media.api-sports.io/football/teams/25096.png
+25097,India U20,https://media.api-sports.io/football/teams/25097.png
+25098,Kuwait U20,https://media.api-sports.io/football/teams/25098.png
+25099,Laos U20,https://media.api-sports.io/football/teams/25099.png
+25101,Malaysia U20,https://media.api-sports.io/football/teams/25101.png
+25102,Maldives U20,https://media.api-sports.io/football/teams/25102.png
+25103,Mongolia U20,https://media.api-sports.io/football/teams/25103.png
+25104,Myanmar U20,https://media.api-sports.io/football/teams/25104.png
+25107,Philippines U20,https://media.api-sports.io/football/teams/25107.png
+25108,Singapore U20,https://media.api-sports.io/football/teams/25108.png
+25109,Sri Lanka U20,https://media.api-sports.io/football/teams/25109.png
+25110,Thailand U20,https://media.api-sports.io/football/teams/25110.png
+25111,Timor-Leste U20,https://media.api-sports.io/football/teams/25111.png
+25112,Turkmenistan U20,https://media.api-sports.io/football/teams/25112.png
 25115,FC Porto,https://media.api-sports.io/football/teams/25115.png
 25116,Fluminense-SC,https://media.api-sports.io/football/teams/25116.png
 25117,Jaraguá,https://media.api-sports.io/football/teams/25117.png
