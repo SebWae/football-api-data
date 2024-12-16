@@ -6007,6 +6007,7 @@ id,name,logo
 10983,Guadeloupe,https://media.api-sports.io/football/teams/10983.png
 10984,Saint Martin,https://media.api-sports.io/football/teams/10984.png
 10985,Sint Maarten,https://media.api-sports.io/football/teams/10985.png
+11018,Angola U20,https://media.api-sports.io/football/teams/11018.png
 11022,Burundi U20,https://media.api-sports.io/football/teams/11022.png
 11029,Ethiopia U20,https://media.api-sports.io/football/teams/11029.png
 11034,Kenya U20,https://media.api-sports.io/football/teams/11034.png
@@ -6506,6 +6507,7 @@ id,name,logo
 12968,Palmeiras U20,https://media.api-sports.io/football/teams/12968.png
 12972,São José PA U20,https://media.api-sports.io/football/teams/12972.png
 12973,São Paulo U20,https://media.api-sports.io/football/teams/12973.png
+12977,União ABC U20,https://media.api-sports.io/football/teams/12977.png
 12979,Vasco da Gama U20,https://media.api-sports.io/football/teams/12979.png
 12981,América Mineiro U20,https://media.api-sports.io/football/teams/12981.png
 12990,CSA U20,https://media.api-sports.io/football/teams/12990.png
@@ -7343,6 +7345,7 @@ id,name,logo
 16191,Maharlika,https://media.api-sports.io/football/teams/16191.png
 16192,Mendiola,https://media.api-sports.io/football/teams/16192.png
 16193,Stallion,https://media.api-sports.io/football/teams/16193.png
+16198,Zimbabwe U20,https://media.api-sports.io/football/teams/16198.png
 16204,Funnefoss / Vormsund,https://media.api-sports.io/football/teams/16204.png
 16206,Kongsvinger II,https://media.api-sports.io/football/teams/16206.png
 16207,Lillestrøm II,https://media.api-sports.io/football/teams/16207.png
@@ -7462,7 +7465,9 @@ id,name,logo
 16545,Zurrieq,https://media.api-sports.io/football/teams/16545.png
 16554,Brann U19,https://media.api-sports.io/football/teams/16554.png
 16556,Haugesund U19,https://media.api-sports.io/football/teams/16556.png
+16563,Stabæk U19,https://media.api-sports.io/football/teams/16563.png
 16565,Strømsgodset U19,https://media.api-sports.io/football/teams/16565.png
+16567,Viking U19,https://media.api-sports.io/football/teams/16567.png
 16568,Vålerenga U19,https://media.api-sports.io/football/teams/16568.png
 16588,Stella,https://media.api-sports.io/football/teams/16588.png
 16594,Dinamo Moskva U19,https://media.api-sports.io/football/teams/16594.png
@@ -9007,6 +9012,7 @@ id,name,logo
 22359,São Salvador,https://media.api-sports.io/football/teams/22359.png
 22360,União de Malanje,https://media.api-sports.io/football/teams/22360.png
 22362,EC de Patos,https://media.api-sports.io/football/teams/22362.png
+22364,Picuiense,https://media.api-sports.io/football/teams/22364.png
 22371,Arsenal U19,https://media.api-sports.io/football/teams/22371.png
 22375,Sporting Braga U19,https://media.api-sports.io/football/teams/22375.png
 22378,Polokwane City U23,https://media.api-sports.io/football/teams/22378.png
@@ -9166,6 +9172,7 @@ id,name,logo
 22816,Prishtina e Re,https://media.api-sports.io/football/teams/22816.png
 22817,Suhareka,https://media.api-sports.io/football/teams/22817.png
 22824,Gloria Bistriţa,https://media.api-sports.io/football/teams/22824.png
+22833,Coimbra U20,https://media.api-sports.io/football/teams/22833.png
 22838,Macapá U20,https://media.api-sports.io/football/teams/22838.png
 22847,Serra Branca U20,https://media.api-sports.io/football/teams/22847.png
 22855,Rhode Island,https://media.api-sports.io/football/teams/22855.png
@@ -9521,6 +9528,7 @@ id,name,logo
 24592,Fleetwood United,https://media.api-sports.io/football/teams/24592.png
 24593,Amanecer,https://media.api-sports.io/football/teams/24593.png
 24596,Nueva Santa Cruz,https://media.api-sports.io/football/teams/24596.png
+24599,Cruzeiro PB,https://media.api-sports.io/football/teams/24599.png
 24600,1926 Polatlı Belediye,https://media.api-sports.io/football/teams/24600.png
 24601,Kahramanmaraş İstiklalsp,https://media.api-sports.io/football/teams/24601.png
 24602,Nilüfer Belediye,https://media.api-sports.io/football/teams/24602.png
@@ -9667,6 +9675,7 @@ id,name,logo
 24804,Boquinhense,https://media.api-sports.io/football/teams/24804.png
 24805,Botafogo ASF,https://media.api-sports.io/football/teams/24805.png
 24806,Caninde,https://media.api-sports.io/football/teams/24806.png
+24807,Coritiba SE,https://media.api-sports.io/football/teams/24807.png
 24808,Cotinguiba,https://media.api-sports.io/football/teams/24808.png
 24809,Desportiva Aracaju,https://media.api-sports.io/football/teams/24809.png
 24810,Flamengo SE,https://media.api-sports.io/football/teams/24810.png
@@ -9675,10 +9684,12 @@ id,name,logo
 24813,Independente Simão Dias,https://media.api-sports.io/football/teams/24813.png
 24814,Propriá,https://media.api-sports.io/football/teams/24814.png
 24815,Riachao,https://media.api-sports.io/football/teams/24815.png
+24816,Santa Cruz SE,https://media.api-sports.io/football/teams/24816.png
 24817,Sete de Junho,https://media.api-sports.io/football/teams/24817.png
 24818,Socorrense,https://media.api-sports.io/football/teams/24818.png
 24819,Socorro Sport,https://media.api-sports.io/football/teams/24819.png
 24820,Alajuelense W,https://media.api-sports.io/football/teams/24820.png
+24821,Frazsiers Whip W,https://media.api-sports.io/football/teams/24821.png
 24822,Vancouver Whitecaps W,https://media.api-sports.io/football/teams/24822.png
 24823,Cambé,https://media.api-sports.io/football/teams/24823.png
 24824,Campo Mourão,https://media.api-sports.io/football/teams/24824.png
@@ -9731,7 +9742,9 @@ id,name,logo
 24906,AS Le Moule,https://media.api-sports.io/football/teams/24906.png
 24908,Carmona,https://media.api-sports.io/football/teams/24908.png
 24909,Luanda City,https://media.api-sports.io/football/teams/24909.png
+24911,GREVAL,https://media.api-sports.io/football/teams/24911.png
 24912,Legião,https://media.api-sports.io/football/teams/24912.png
+24913,Riacho City,https://media.api-sports.io/football/teams/24913.png
 24914,SESP Samambaense,https://media.api-sports.io/football/teams/24914.png
 24915,Taguatinga EC,https://media.api-sports.io/football/teams/24915.png
 24916,America TO,https://media.api-sports.io/football/teams/24916.png
