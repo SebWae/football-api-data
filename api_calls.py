@@ -46,6 +46,12 @@ def register_fixtures(date):
     """
     date (str): date as a string in the format "yyyy-mm-dd"
     """
+    df = pd.read_csv("data/fixtures_all.csv")
+    registered_dates = set(df["date"])
+
+    if date in registered_dates:
+        return f"Fixtures from {date} has already been registered!"
+
     url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
     querystring = {"date": date}
 
