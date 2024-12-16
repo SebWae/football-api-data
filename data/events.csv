@@ -1055,3 +1055,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208180,66,2724,90,1,subst,138816,Substitution 3,
 1208180,66,1904,90,1,subst,2287,Substitution 4,
 1208180,65,153430,90,3,Goal,138908,Normal Goal,
+1299349,49,95,2,,Card,,Yellow Card,Foul
+1299349,49,63577,34,,Var,,Penalty cancelled,
+1299349,180,25502,41,,Card,,Yellow Card,Foul
+1299349,49,270507,45,,Card,,Yellow Card,Foul
+1299349,49,269,51,,Goal,,Normal Goal,
+1299349,180,24955,56,,subst,125720,Substitution 1,
+1299349,180,24904,57,,subst,127619,Substitution 2,
+1299349,49,392270,62,,subst,583,Substitution 1,
+1299349,180,25502,68,,subst,128849,Substitution 3,
+1299349,180,24842,68,,subst,8959,Substitution 4,
+1299349,49,269,75,,subst,138935,Substitution 2,
+1299349,180,15732,77,,subst,25203,Substitution 5,
+1299349,49,286616,81,,Card,,Yellow Card,Time wasting
+1299349,49,336671,84,,Card,,Yellow Card,Foul
+1299349,180,127619,85,,Card,,Yellow Card,Foul
+1299349,49,63577,86,,Goal,18,Normal Goal,
+1299349,49,270507,90,6,Card,,Red Card,Foul
+1299349,49,18,90,2,subst,334037,Substitution 3,
+1299349,49,148099,90,2,subst,327733,Substitution 4,
+1299349,49,270507,90,6,Card,,Yellow Card,Foul

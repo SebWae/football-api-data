@@ -9,6 +9,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 98,S. Cooper,Steven David,Cooper,1979-12-10,Hopkinstown,Wales,Wales,,,https://media.api-sports.io/football/coachs/98.png
 548,A. Postecoglou,Angelos,Postecoglou,1965-08-27,Athina,Greece,Australia,,,https://media.api-sports.io/football/coachs/548.png
 1163,R. Lucescu,Răzvan,Lucescu,1969-02-17,București,Romania,Romania,,,https://media.api-sports.io/football/coachs/1163.png
+1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
 1534,O. Glasner,Oliver,Glasner,1974-08-28,Salzburg,Austria,Austria,181 cm,72 kg,https://media.api-sports.io/football/coachs/1534.png
 1594,Lopetegui,Julen,Lopetegui Argote,1966-08-28,Asteasu,Spain,Spain,185 cm,,https://media.api-sports.io/football/coachs/1594.png
 1682,B. Priske,Brian,Priske Pedersen,1977-05-14,Horsens,Denmark,Denmark,188 cm,79 kg,https://media.api-sports.io/football/coachs/1682.png
