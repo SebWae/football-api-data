@@ -1093,3 +1093,19 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1299212,327,39065,83,,subst,262598,Substitution 5,
 1299212,33,526,89,,Card,,Yellow Card,Time wasting
 1299212,33,747,90,1,Card,,Yellow Card,Handball
+1299217,47,237129,4,,Var,,Penalty confirmed,
+1299217,47,186,5,,Goal,,Penalty,
+1299217,497,1807,20,,Goal,875,Normal Goal,
+1299217,497,791,24,,Var,,Goal cancelled,
+1299217,47,30435,28,,Card,,Yellow Card,Argument
+1299217,497,271,28,,Card,,Yellow Card,Argument
+1299217,47,129711,33,,Goal,30435,Normal Goal,
+1299217,497,875,46,,subst,323936,Substitution 1,
+1299217,497,22222,65,,subst,203474,Substitution 2,
+1299217,47,129711,68,,subst,18784,Substitution 1,
+1299217,47,237129,69,,subst,18968,Substitution 2,
+1299217,497,791,69,,subst,1417,Substitution 3,
+1299217,47,863,72,,Card,,Yellow Card,Foul
+1299217,47,863,77,,subst,347316,Substitution 3,
+1299217,47,186,78,,subst,1166,Substitution 4,
+1299217,497,501,90,1,Goal,227,Normal Goal,
