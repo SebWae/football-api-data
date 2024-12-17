@@ -1196,3 +1196,13 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1299009,50,129033,78,,subst,627,Substitution 3,
 1299009,50,631,78,,subst,19187,Substitution 4,
 1299009,656,56132,85,,subst,1213,Substitution 5,
+1299010,42,978,20,,Goal,1946,Normal Goal,
+1299010,42,1460,35,,Goal,,Normal Goal,
+1299010,42,38746,46,,subst,61431,Substitution 1,
+1299010,42,49,64,,subst,47311,Substitution 2,
+1299010,85,128384,64,,subst,328,Substitution 1,
+1299010,85,343027,64,,subst,21104,Substitution 2,
+1299010,42,1946,74,,subst,643,Substitution 3,
+1299010,42,157052,76,,Card,,Yellow Card,Argument
+1299010,85,328,76,,Card,,Yellow Card,Argument
+1299010,42,1460,90,2,subst,313245,Substitution 4,
