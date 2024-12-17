@@ -901,6 +901,7 @@ id,name,logo
 1030,Ismaily SC,https://media.api-sports.io/football/teams/1030.png
 1031,AL Masry,https://media.api-sports.io/football/teams/1031.png
 1032,El Dakhleya,https://media.api-sports.io/football/teams/1032.png
+1034,El Entag EL Harby,https://media.api-sports.io/football/teams/1034.png
 1036,Pyramids FC,https://media.api-sports.io/football/teams/1036.png
 1037,Enppi,https://media.api-sports.io/football/teams/1037.png
 1039,El Geish,https://media.api-sports.io/football/teams/1039.png
@@ -909,6 +910,7 @@ id,name,logo
 1044,Smouha SC,https://media.api-sports.io/football/teams/1044.png
 1045,Tanta SC,https://media.api-sports.io/football/teams/1045.png
 1046,Wadi Degla,https://media.api-sports.io/football/teams/1046.png
+1047,Al Nasr Taaden,https://media.api-sports.io/football/teams/1047.png
 1048,Aswan Sc,https://media.api-sports.io/football/teams/1048.png
 1049,El Sharkia,https://media.api-sports.io/football/teams/1049.png
 1050,CD Marathon,https://media.api-sports.io/football/teams/1050.png
@@ -6655,7 +6657,9 @@ id,name,logo
 13736,Marmande,https://media.api-sports.io/football/teams/13736.png
 13803,Vesoul,https://media.api-sports.io/football/teams/13803.png
 13819,Ghazl El Mehalla,https://media.api-sports.io/football/teams/13819.png
+13821,El Minya,https://media.api-sports.io/football/teams/13821.png
 13822,Olympic El Qanah,https://media.api-sports.io/football/teams/13822.png
+13823,Telephonaat Beni Suef,https://media.api-sports.io/football/teams/13823.png
 13826,Nõmme Kalju II,https://media.api-sports.io/football/teams/13826.png
 13843,Zawisza Bydgoszcz,https://media.api-sports.io/football/teams/13843.png
 13847,Meshakhte,https://media.api-sports.io/football/teams/13847.png
@@ -8608,6 +8612,7 @@ id,name,logo
 20445,Fuentes,https://media.api-sports.io/football/teams/20445.png
 20448,Santa Amalia,https://media.api-sports.io/football/teams/20448.png
 20453,Saudi Arabia W,https://media.api-sports.io/football/teams/20453.png
+20455,Asmant Asyut,https://media.api-sports.io/football/teams/20455.png
 20458,Kahraba Ismailia,https://media.api-sports.io/football/teams/20458.png
 20459,Gomhoreyat Shebin,https://media.api-sports.io/football/teams/20459.png
 20461,Proxy,https://media.api-sports.io/football/teams/20461.png
@@ -9509,6 +9514,7 @@ id,name,logo
 23660,Stenungsunds,https://media.api-sports.io/football/teams/23660.png
 23664,São Cristóvão RJ,https://media.api-sports.io/football/teams/23664.png
 23665,Zinza,https://media.api-sports.io/football/teams/23665.png
+23679,El Wasty,https://media.api-sports.io/football/teams/23679.png
 23684,Tamper,https://media.api-sports.io/football/teams/23684.png
 23712,HBC,https://media.api-sports.io/football/teams/23712.png
 23741,Atletico Lusaka,https://media.api-sports.io/football/teams/23741.png
@@ -10395,6 +10401,7 @@ id,name,logo
 25407,Carlisle United U18,https://media.api-sports.io/football/teams/25407.png
 25408,Chesterfield U18,https://media.api-sports.io/football/teams/25408.png
 25410,Notts County U18,https://media.api-sports.io/football/teams/25410.png
+25411,Portsmouth U18,https://media.api-sports.io/football/teams/25411.png
 25413,Gasco,https://media.api-sports.io/football/teams/25413.png
 25414,Madbacadda,https://media.api-sports.io/football/teams/25414.png
 25415,Dhaka Wanderers,https://media.api-sports.io/football/teams/25415.png
@@ -10423,7 +10430,11 @@ id,name,logo
 25462,Delphi,https://media.api-sports.io/football/teams/25462.png
 25463,El Margh,https://media.api-sports.io/football/teams/25463.png
 25464,El Shams,https://media.api-sports.io/football/teams/25464.png
+25465,Golden Gate,https://media.api-sports.io/football/teams/25465.png
+25466,Madinat Nasr,https://media.api-sports.io/football/teams/25466.png
 25467,Maleyet Kafr El Zayiat,https://media.api-sports.io/football/teams/25467.png
+25468,Masar,https://media.api-sports.io/football/teams/25468.png
 25469,Misr Lel Taamen,https://media.api-sports.io/football/teams/25469.png
 25470,Ra,https://media.api-sports.io/football/teams/25470.png
 25471,Seid El Mahalla,https://media.api-sports.io/football/teams/25471.png
+25472,Team,https://media.api-sports.io/football/teams/25472.png
