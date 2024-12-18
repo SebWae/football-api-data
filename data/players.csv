@@ -299,6 +299,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 17597,D. O'Shea,Dara Joseph,O'Shea,1999-03-04,Dublin,Republic of Ireland,Republic of Ireland,189 cm,75 kg,https://media.api-sports.io/football/players/17597.png
 17661,J. Branthwaite,Jarrad Paul,Branthwaite,2002-06-27,Carlisle,England,England,195 cm,87 kg,https://media.api-sports.io/football/players/17661.png
 17714,L. Woolfenden,Luke Matthew,Woolfenden,1998-10-21,Ipswich,England,England,193 cm,70 kg,https://media.api-sports.io/football/players/17714.png
+17736,D. Iversen,Daniel,Lønne Iversen,1997-07-19,,Denmark,Denmark,193 cm,80 kg,https://media.api-sports.io/football/players/17736.png
 18146,D. Ward,Daniel,Ward,1993-06-22,Wrexham,Wales,Wales,191 cm,88 kg,https://media.api-sports.io/football/players/18146.png
 18397,J. Taylor,Jack Henry Philip,Taylor,1998-06-23,Hammersmith,England,Republic of Ireland,185 cm,70 kg,https://media.api-sports.io/football/players/18397.png
 18592,I. Ndiaye,Iliman Cheikh,Baroy Ndiaye,2000-03-06,Rouen,France,Senegal,180 cm,70 kg,https://media.api-sports.io/football/players/18592.png
@@ -313,6 +314,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 18755,João Virgínia,João Manuel,Neves Virgínia,1999-10-10,Faro,Portugal,Portugal,193 cm,83 kg,https://media.api-sports.io/football/players/18755.png
 18758,S. Coleman,Séamus,Coleman,1988-10-11,Donegal,Republic of Ireland,Republic of Ireland,177 cm,67 kg,https://media.api-sports.io/football/players/18758.png
 18766,D. Calvert-Lewin,Dominic Nathaniel,Calvert-Lewin,1997-03-16,Sheffield,England,England,187 cm,71 kg,https://media.api-sports.io/football/players/18766.png
+18771,Ricardo Pereira,Ricardo Domingos,Barbosa Pereira,1993-10-06,Lisbonne,Portugal,Portugal,175 cm,70 kg,https://media.api-sports.io/football/players/18771.png
 18772,J. Evans,Jonathan Grant,Evans,1988-01-03,Belfast,Northern Ireland,Northern Ireland,188 cm,77 kg,https://media.api-sports.io/football/players/18772.png
 18778,H. Barnes,Harvey Lewis,Barnes,1997-12-09,Burnley,England,England,174 cm,66 kg,https://media.api-sports.io/football/players/18778.png
 18779,H. Choudhury,Hamza,Dewan Choudhury,1997-10-01,Loughborough,England,England,178 cm,64 kg,https://media.api-sports.io/football/players/18779.png
@@ -807,6 +809,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 304317,T. Dibling,Tyler-Jay,Dibling,2006-03-12,Exeter,England,England,178 cm,72 kg,https://media.api-sports.io/football/players/304317.png
 304984,J. Spileers,Jorne,Spileers,2005-01-21,,Belgium,Belgium,188 cm,78 kg,https://media.api-sports.io/football/players/304984.png
 305730,J. Hinshelwood,Jack Luca,Hinshelwood,2005-04-11,Chichester,England,England,181 cm,76 kg,https://media.api-sports.io/football/players/305730.png
+305733,W. Alves,William Thomas,Alves,2005-05-04,Leicester,England,England,192 cm,83 kg,https://media.api-sports.io/football/players/305733.png
 307123,N. O'Reilly,Nico,O'Reilly,2005-03-21,Manchester,England,England,188 cm,77 kg,https://media.api-sports.io/football/players/307123.png
 307835,Beraldo,Lucas,Lopes Beraldo,2003-11-24,Piracicaba,Brazil,Brazil,186 cm,78 kg,https://media.api-sports.io/football/players/307835.png
 308907,A. Hrdina,Adam,Hrdina,2004-02-12,,Slovakia,Slovakia,194 cm,,https://media.api-sports.io/football/players/308907.png
@@ -900,6 +903,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 382925,R. Trevitt,Ryan,Trevitt,2003-03-12,London,England,England,170 cm,65 kg,https://media.api-sports.io/football/players/382925.png
 383041,N. Marcelli,Nino,Marcelli,2005-05-29,,Slovakia,Slovakia,178 cm,,https://media.api-sports.io/football/players/383041.png
 383685,Y. Minteh,Yankuba,Minteh Moat,2004-07-22,Bakoteh,Gambia,Gambia,180 cm,65 kg,https://media.api-sports.io/football/players/383685.png
+383770,J. Fletcher,Jack Andrew,Davidson Fletcher,2007-03-19,,England,England,180 cm,78 kg,https://media.api-sports.io/football/players/383770.png
 384981,S. Amissah,Samuel,Amissah,2007-03-07,,England,England,,,https://media.api-sports.io/football/players/384981.png
 385674,Mauro Couto,Mauro,Meireles Couto,2005-11-15,Paredes,Portugal,Portugal,170 cm,63 kg,https://media.api-sports.io/football/players/385674.png
 386285,Yoram\t Zague,Yoram,Zague,2006-05-15,Paris,France,France,168 cm,58 kg,https://media.api-sports.io/football/players/386285.png
