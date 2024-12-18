@@ -205,6 +205,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 2289,Jorginho,Jorge Luiz,Frello Filho,1991-12-20,Imbituba,Brazil,Italy,180 cm,65 kg,https://media.api-sports.io/football/players/2289.png
 2291,M. Kovačić,Mateo,Kovačić,1994-05-06,Linz,Austria,Croatia,177 cm,78 kg,https://media.api-sports.io/football/players/2291.png
 2298,C. Hudson-Odoi,Callum James,Hudson-Odoi,2000-11-07,London,England,England,182 cm,76 kg,https://media.api-sports.io/football/players/2298.png
+2413,Richarlison,Richarlison,de Andrade,1997-05-10,Nova Venécia,Brazil,Brazil,184 cm,83 kg,https://media.api-sports.io/football/players/2413.png
 2467,Lisandro Martínez,Lisandro,Martínez,1998-01-18,Gualeguay,Argentina,Argentina,175 cm,72 kg,https://media.api-sports.io/football/players/2467.png
 2476,G. Rodríguez,Guido,Rodríguez,1994-04-12,Caseros,Argentina,Argentina,185 cm,80 kg,https://media.api-sports.io/football/players/2476.png
 2489,L. Díaz,Luis Fernando,Díaz Marulanda,1997-01-13,Barrancas,Colombia,Colombia,178 cm,65 kg,https://media.api-sports.io/football/players/2489.png
@@ -902,6 +903,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 380657,R. Young,Ranel Jerva,Young,2005-12-26,,England,England,175 cm,65 kg,https://media.api-sports.io/football/players/380657.png
 380679,C. Kporha,Caleb Billy,Mawuko Kporha,2006-07-15,,England,England,170 cm,67 kg,https://media.api-sports.io/football/players/380679.png
 380689,C. Olusesi,Callum,Latif Olusesi,2007-03-11,London,England,England,175 cm,65 kg,https://media.api-sports.io/football/players/380689.png
+380690,M. Moore,Mikey Steven Danny,Moore,2007-08-11,Southwark,England,England,180 cm,75 kg,https://media.api-sports.io/football/players/380690.png
 380696,Joshua Nichols,Joshua,Nichols,2006-07-26,London,England,England,165 cm,56 kg,https://media.api-sports.io/football/players/380696.png
 380697,M. Kacurri,Maldini,Kacurri,2005-10-04,London,England,Albania,183 cm,84 kg,https://media.api-sports.io/football/players/380697.png
 380715,B. Broggio,Benjamin Tomaso,Broggio,2007-01-29,,England,England,181 cm,75 kg,https://media.api-sports.io/football/players/380715.png
@@ -917,6 +919,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 386837,A. Sojka,Alexandr,Sojka,2003-04-02,,Czechia,Czechia,,,https://media.api-sports.io/football/players/386837.png
 388777,B. Meupiyou,Ndemeni Bastien,Meupiyou Menadjou,2006-03-19,Paris,France,France,191 cm,80 kg,https://media.api-sports.io/football/players/388777.png
 389031,Jayce Fitzgerald,Jayce,Fitzgerald,2007-05-09,,England,England,179 cm,70 kg,https://media.api-sports.io/football/players/389031.png
+389035,Farid Alfa-Ruprecht,Farid,Alfa-Ruprecht,2006-03-28,Hamburg,Germany,Germany,175 cm,75 kg,https://media.api-sports.io/football/players/389035.png
 389302,T. Edozie,Tom,Edozie,2006-05-18,,England,England,178 cm,,https://media.api-sports.io/football/players/389302.png
 389315,Joshua King,Joshua,King,2007-01-03,,England,England,187 cm,74 kg,https://media.api-sports.io/football/players/389315.png
 390567,T. Slončík,Tom,Slončík,2004-12-21,,Czechia,Czechia,,,https://media.api-sports.io/football/players/390567.png
