@@ -1336,3 +1336,17 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1309285,66,19179,89,,Card,,Yellow Card,Foul
 1309285,52,67971,90,4,Card,,Yellow Card,Foul
 1309285,52,13736,90,1,Card,,Yellow Card,
+1310475,34,2806,16,,Card,,Yellow Card,Foul
+1310475,34,18901,19,,Card,,Yellow Card,Foul
+1310475,34,2864,23,,Goal,31146,Normal Goal,
+1310475,34,21998,26,,Goal,,Own Goal,
+1310475,49,95,29,,Card,,Yellow Card,Foul
+1310475,34,138787,52,,Card,,Yellow Card,Foul
+1310475,34,18911,55,,Card,,Yellow Card,Time wasting
+1310475,49,148099,57,,subst,136723,Substitution 1,
+1310475,34,2864,63,,subst,315237,Substitution 1,
+1310475,34,1463,63,,subst,10135,Substitution 2,
+1310475,34,284492,72,,subst,18961,Substitution 3,
+1310475,34,138787,72,,subst,158694,Substitution 4,
+1310475,49,583,85,,Card,,Yellow Card,Argument
+1310475,34,31146,90,2,subst,328105,Substitution 5,
