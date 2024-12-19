@@ -1515,3 +1515,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208075,45,18766,84,,Card,,Yellow Card,Time wasting
 1208075,52,288102,88,,subst,18806,Substitution 3,
 1208075,45,2932,90,3,Card,,Yellow Card,Time wasting
+1208076,57,161948,8,,Goal,19136,Normal Goal,
+1208076,66,19170,15,,Goal,19366,Normal Goal,
+1208076,66,19366,32,,Goal,983,Normal Goal,
+1208076,57,161948,45,3,Card,,Yellow Card,Argument
+1208076,57,19558,45,2,Card,,Yellow Card,Foul
+1208076,66,2724,46,,Card,,Yellow Card,Time wasting
+1208076,57,19182,54,,Card,,Yellow Card,Foul
+1208076,66,19170,64,,subst,13489,Substitution 1,
+1208076,66,983,64,,subst,138931,Substitution 2,
+1208076,57,19130,69,,subst,18397,Substitution 1,
+1208076,57,19365,69,,subst,20089,Substitution 2,
+1208076,57,161948,72,,Goal,284428,Normal Goal,
+1208076,57,127579,74,,Card,,Yellow Card,Foul
+1208076,66,2724,84,,subst,138816,Substitution 3,
+1208076,66,2926,84,,subst,2287,Substitution 4,
+1208076,66,19366,84,,subst,19071,Substitution 5,
+1208076,57,161948,90,1,subst,8794,Substitution 3,
+1208076,57,19558,90,1,subst,2752,Substitution 4,
+1208076,57,19136,90,1,subst,17579,Substitution 5,
