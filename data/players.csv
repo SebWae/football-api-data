@@ -945,6 +945,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 354027,J. Ordoñez,Joel Leandro,Ordóñez Guerrero,2004-04-21,Guayaquil,Ecuador,Ecuador,188 cm,76 kg,https://media.api-sports.io/football/players/354027.png
 354753,O. Diomande,Ousmane,Diomande,2003-12-04,Abidjan,Côte d'Ivoire,Côte d'Ivoire,190 cm,86 kg,https://media.api-sports.io/football/players/354753.png
 356041,C. Baleba,Carlos Noom,Quomah Baleba,2004-01-03,Douala,Cameroon,Cameroon,179 cm,73 kg,https://media.api-sports.io/football/players/356041.png
+356237,Kim Ji-Soo,Ji-Soo,Kim,2004-12-24,Bucheon,Korea Republic,Korea Republic,192 cm,83 kg,https://media.api-sports.io/football/players/356237.png
 356888,N. Pisilli,Niccolò,Pisilli,2004-09-23,Roma,Italy,Italy,181 cm,73 kg,https://media.api-sports.io/football/players/356888.png
 359117,Shumaira Mheuka,Shumaira,Mheuka,2007-10-20,Birmingham,England,England,182 cm,75 kg,https://media.api-sports.io/football/players/359117.png
 359386,M. Godo,Becket Fabrice-Martial,Godo,2003-03-14,,England,England,169 cm,61 kg,https://media.api-sports.io/football/players/359386.png
@@ -984,6 +985,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 385674,Mauro Couto,Mauro,Meireles Couto,2005-11-15,Paredes,Portugal,Portugal,170 cm,63 kg,https://media.api-sports.io/football/players/385674.png
 386285,Yoram\t Zague,Yoram,Zague,2006-05-15,Paris,France,France,168 cm,58 kg,https://media.api-sports.io/football/players/386285.png
 386837,A. Sojka,Alexandr,Sojka,2003-04-02,,Czechia,Czechia,,,https://media.api-sports.io/football/players/386837.png
+388510,Tony Yogane,Tony,Yogane,2005-09-24,,England,England,178 cm,68 kg,https://media.api-sports.io/football/players/388510.png
 388777,B. Meupiyou,Ndemeni Bastien,Meupiyou Menadjou,2006-03-19,Paris,France,France,191 cm,80 kg,https://media.api-sports.io/football/players/388777.png
 389031,Jayce Fitzgerald,Jayce,Fitzgerald,2007-05-09,,England,England,179 cm,70 kg,https://media.api-sports.io/football/players/389031.png
 389035,Farid Alfa-Ruprecht,Farid,Alfa-Ruprecht,2006-03-28,Hamburg,Germany,Germany,175 cm,75 kg,https://media.api-sports.io/football/players/389035.png
