@@ -6,6 +6,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 10,Marco Silva,Marco Alexandre,Saraiva da Silva,1977-07-12,Lisboa,Portugal,Portugal,,,https://media.api-sports.io/football/coachs/10.png
 16,Nuno Espírito Santo,Nuno Herlander,Simões Espírito Santo,1974-01-25,São Tomé,São Tomé e Príncipe,Portugal,,,https://media.api-sports.io/football/coachs/16.png
 18,Unai Emery,Unai,Emery Etxegoien,1971-11-03,Hondarribia,Spain,Spain,,,https://media.api-sports.io/football/coachs/18.png
+82,Míchel,Miguel Ángel,Sánchez Muñoz,1975-10-30,Madrid,Spain,Spain,174 cm,66 kg,https://media.api-sports.io/football/coachs/82.png
 90,T. Frank,Thomas,Frank,1973-10-09,,Denmark,Denmark,,,https://media.api-sports.io/football/coachs/90.png
 98,S. Cooper,Steven David,Cooper,1979-12-10,Hopkinstown,Wales,Wales,,,https://media.api-sports.io/football/coachs/98.png
 185,V. Weiss,Vladimír,Weiss,1964-09-22,Bratislava,Slovakia,Slovakia,182 cm,,https://media.api-sports.io/football/coachs/185.png
@@ -14,6 +15,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1163,R. Lucescu,Răzvan,Lucescu,1969-02-17,București,Romania,Romania,,,https://media.api-sports.io/football/coachs/1163.png
 1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
 1534,O. Glasner,Oliver,Glasner,1974-08-28,Salzburg,Austria,Austria,181 cm,72 kg,https://media.api-sports.io/football/coachs/1534.png
+1540,M. Rose,Marco,Rose,1976-09-11,Leipzig,Germany,Germany,187 cm,83 kg,https://media.api-sports.io/football/coachs/1540.png
 1594,Lopetegui,Julen,Lopetegui Argote,1966-08-28,Asteasu,Spain,Spain,185 cm,,https://media.api-sports.io/football/coachs/1594.png
 1611,V. Italiano,Vincenzo,Italiano,1977-12-10,Karlsruhe,Germany,Italy,175 cm,67 kg,https://media.api-sports.io/football/coachs/1611.png
 1682,B. Priske,Brian,Priske Pedersen,1977-05-14,Horsens,Denmark,Denmark,188 cm,79 kg,https://media.api-sports.io/football/coachs/1682.png
