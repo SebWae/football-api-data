@@ -54,6 +54,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 328,Fabián Ruiz,Fabián,Ruiz Peña,1996-04-03,Los Palacios y Villafranca,Spain,Spain,189 cm,70 kg,https://media.api-sports.io/football/players/328.png
 329,P. Zieliński,Piotr Sebastian,Zieliński,1994-05-20,Zabkowice Slaskie,Poland,Poland,180 cm,76 kg,https://media.api-sports.io/football/players/329.png
 355,E. Jirka,Erik,Jirka,1997-09-19,Drahovce,Slovakia,Slovakia,182 cm,73 kg,https://media.api-sports.io/football/players/355.png
+415,W. McKennie,Weston James Earl,McKennie,1998-08-28,Little Elm,USA,USA,183 cm,84 kg,https://media.api-sports.io/football/players/415.png
 497,M. Neuer,Manuel Peter,Neuer,1986-03-27,Gelsenkirchen,Germany,Germany,193 cm,93 kg,https://media.api-sports.io/football/players/497.png
 498,S. Ulreich,Sven,Ulreich,1988-08-03,Schorndorf,Germany,Germany,192 cm,87 kg,https://media.api-sports.io/football/players/498.png
 501,M. Hummels,Mats Julian,Hummels,1988-12-16,Bergisch Gladbach,Germany,Germany,191 cm,94 kg,https://media.api-sports.io/football/players/501.png
@@ -517,6 +518,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 30399,D. Hancko,Dávid,Hancko,1997-12-13,Prievidza,Slovakia,Slovakia,188 cm,82 kg,https://media.api-sports.io/football/players/30399.png
 30407,C. Nørgaard,Christian,Thers Nørgaard,1994-03-10,København,Denmark,Denmark,187 cm,73 kg,https://media.api-sports.io/football/players/30407.png
 30410,F. Chiesa,Federico,Chiesa,1997-10-25,Genova,Italy,Italy,175 cm,70 kg,https://media.api-sports.io/football/players/30410.png
+30415,D. Vlahović,Dušan,Vlahović,2000-01-28,Beograd,Serbia,Serbia,190 cm,88 kg,https://media.api-sports.io/football/players/30415.png
 30425,G. Mancini,Gianluca,Mancini,1996-04-17,Pontedera,Italy,Italy,190 cm,77 kg,https://media.api-sports.io/football/players/30425.png
 30427,C. Okoli,Memeh Caleb,Okoli,2001-07-13,Vicenza,Italy,Italy,191 cm,91 kg,https://media.api-sports.io/football/players/30427.png
 30435,D. Kulusevski,Dejan,Kulusevski,2000-04-25,Stockholm,Sweden,Sweden,186 cm,80 kg,https://media.api-sports.io/football/players/30435.png
@@ -927,6 +929,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 336711,Gonzalo García,Gonzalo,García Torres,2004-03-24,Madrid,Spain,Spain,182 cm,74 kg,https://media.api-sports.io/football/players/336711.png
 338998,J. Paluska,Jan,Paluska,2005-06-25,,Czech Republic,Czech Republic,,,https://media.api-sports.io/football/players/338998.png
 339180,N. Bagnolini,Nicola,Bagnolini,2004-03-14,Cesena,Italy,Italy,194 cm,87 kg,https://media.api-sports.io/football/players/339180.png
+339872,Vasilije Adžić,Vasilije,Adžić,2006-05-12,,Montenegro,Montenegro,185 cm,75 kg,https://media.api-sports.io/football/players/339872.png
 339883,K. Yıldız,Kenan,Yıldız,2005-05-04,Regensburg,Germany,Türkiye,185 cm,77 kg,https://media.api-sports.io/football/players/339883.png
 340136,F. Umeh,Franco,Umeh-Chibueze,2005-01-26,,Republic of Ireland,Republic of Ireland,185 cm,73 kg,https://media.api-sports.io/football/players/340136.png
 340154,A. Vermeeren,Arthur Denis,Vermeeren,2005-02-07,Lier,Belgium,Belgium,180 cm,76 kg,https://media.api-sports.io/football/players/340154.png
@@ -1029,6 +1032,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 430774,Alexandre Miguel Soares Carvalho Brito,Alexandre Miguel,Soares Carvalho Brito,2005-07-19,Lisbon,Portugal,Portugal,190 cm,70 kg,https://media.api-sports.io/football/players/430774.png
 434180,Aidan Borland,Aidan Gerald,Borland,2007-04-25,,Scotland,Scotland,177 cm,65 kg,https://media.api-sports.io/football/players/434180.png
 437099,Renato Bellucci,Renato,Bellucci Marin,2006-07-10,São Paulo,Brazil,Italy,190 cm,,https://media.api-sports.io/football/players/437099.png
+437559,M. Hudson,Max,Hudson,2007-09-20,,Wales,Wales,,,https://media.api-sports.io/football/players/437559.png
 440159,G. Kukonki,Godwill,Kukonki,2008-02-06,,England,England,,,https://media.api-sports.io/football/players/440159.png
 441274,I. Ka,Ismail,Ka,2006-03-09,,Netherlands,Netherlands,,,https://media.api-sports.io/football/players/441274.png
 441284,Naoufel El Hannach,Naoufel,El Hannach,2006-12-07,,Morocco,Morocco,183 cm,75 kg,https://media.api-sports.io/football/players/441284.png
