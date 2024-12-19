@@ -1534,3 +1534,25 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208076,57,161948,90,1,subst,8794,Substitution 3,
 1208076,57,19558,90,1,subst,2752,Substitution 4,
 1208076,57,19136,90,1,subst,17579,Substitution 5,
+1208077,47,129711,3,,Goal,152849,Normal Goal,
+1208077,33,545,34,,Card,,Yellow Card,Foul
+1208077,33,886,39,,Card,,Yellow Card,Foul
+1208077,33,1485,42,,Card,,Red Card,Foul
+1208077,33,19220,45,4,Card,,Yellow Card,Foul
+1208077,47,129711,45,1,Card,,Yellow Card,Time wasting
+1208077,33,284322,45,,subst,19220,Substitution 1,
+1208077,33,70100,46,,subst,747,Substitution 2,
+1208077,47,204039,46,,subst,19235,Substitution 1,
+1208077,47,30435,47,,Goal,,Normal Goal,
+1208077,47,19235,54,,Card,,Yellow Card,Handball
+1208077,33,2467,55,,Card,,Yellow Card,Foul
+1208077,33,51494,66,,Card,,Yellow Card,Foul
+1208077,33,51494,72,,subst,174,Substitution 3,
+1208077,33,909,73,,subst,288006,Substitution 4,
+1208077,47,47519,73,,Card,,Yellow Card,Foul
+1208077,47,129711,76,,subst,380690,Substitution 2,
+1208077,47,18784,77,,subst,237129,Substitution 3,
+1208077,47,1166,77,,subst,347316,Substitution 4,
+1208077,47,18883,77,,Goal,237129,Normal Goal,
+1208077,47,152849,81,,subst,162498,Substitution 5,
+1208077,33,19220,85,,subst,157997,Substitution 5,
