@@ -2091,3 +2091,19 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208107,34,18901,90,,Card,,Yellow Card,Argument
 1208107,49,269,90,4,Card,,Yellow Card,Time wasting
 1208107,49,269,90,2,Var,,Penalty cancelled,
+1208108,52,2490,22,,subst,18806,Substitution 1,
+1208108,52,25927,31,,Goal,19586,Normal Goal,
+1208108,52,25927,32,,Card,,Yellow Card,Foul
+1208108,47,30435,37,,Card,,Yellow Card,Argument
+1208108,52,13736,41,,Card,,Yellow Card,Foul
+1208108,47,129711,52,,Card,,Yellow Card,Foul
+1208108,52,20995,61,,Card,,Yellow Card,Time wasting
+1208108,47,30435,62,,subst,237129,Substitution 1,
+1208108,47,380690,62,,subst,1166,Substitution 2,
+1208108,47,18784,62,,subst,2413,Substitution 3,
+1208108,47,152849,65,,Card,,Yellow Card,Foul
+1208108,52,2218,67,,subst,1468,Substitution 2,
+1208108,52,18806,77,,Card,,Yellow Card,Foul
+1208108,47,2413,85,,Card,,Yellow Card,Foul
+1208108,47,18968,87,,subst,863,Substitution 4,
+1208108,52,288102,88,,subst,2601,Substitution 3,
