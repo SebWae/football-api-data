@@ -341,6 +341,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 18146,D. Ward,Daniel,Ward,1993-06-22,Wrexham,Wales,Wales,191 cm,88 kg,https://media.api-sports.io/football/players/18146.png
 18397,J. Taylor,Jack Henry Philip,Taylor,1998-06-23,Hammersmith,England,Republic of Ireland,185 cm,70 kg,https://media.api-sports.io/football/players/18397.png
 18592,I. Ndiaye,Iliman Cheikh,Baroy Ndiaye,2000-03-06,Rouen,France,Senegal,180 cm,70 kg,https://media.api-sports.io/football/players/18592.png
+18737,J. Ruddy,John Thomas Gordon,Ruddy,1986-10-24,St Ives,England,England,192 cm,96 kg,https://media.api-sports.io/football/players/18737.png
 18739,W. Boly,Willy-Arnaud,Zobo Boly,1991-02-03,Melun,France,Côte d'Ivoire,195 cm,92 kg,https://media.api-sports.io/football/players/18739.png
 18740,Jonny,Jonathan,Castro Otto,1994-03-03,Vigo,Spain,Spain,175 cm,70 kg,https://media.api-sports.io/football/players/18740.png
 18741,C. Coady,Conor David,Coady,1993-02-25,St Helens,England,England,185 cm,80 kg,https://media.api-sports.io/football/players/18741.png
@@ -882,6 +883,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 291964,A. Güler,Arda,Güler,2005-02-25,Ankara,Türkiye,Türkiye,176 cm,67 kg,https://media.api-sports.io/football/players/291964.png
 295027,M. Ryneš,Matěj,Ryneš,2001-05-30,,Czechia,Czechia,186 cm,82 kg,https://media.api-sports.io/football/players/295027.png
 297583,J. Mitchell,Jeyland Yahir,Mitchell Baltodano,2004-09-29,Puerto Limón,Costa Rica,Costa Rica,187 cm,82 kg,https://media.api-sports.io/football/players/297583.png
+297640,Roman Dixon,Roman,Dixon,2004-12-26,Stafford,England,England,175 cm,65 kg,https://media.api-sports.io/football/players/297640.png
 299813,Ali Al Hamadi,Ali Ibrahim Karim,Al Hamadi,2002-03-01,,Iraq,Iraq,183 cm,82 kg,https://media.api-sports.io/football/players/299813.png
 299925,Pedrinho,Pedro Henrique,Azevedo Pereira,2002-07-11,Salvador,Brazil,Brazil,177 cm,65 kg,https://media.api-sports.io/football/players/299925.png
 301322,K. Sabbe,Kyriani,Sabbe,2005-01-26,Gent,Belgium,Belgium,176 cm,68 kg,https://media.api-sports.io/football/players/301322.png
