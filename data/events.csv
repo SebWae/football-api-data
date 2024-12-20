@@ -1912,3 +1912,27 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208097,65,18931,84,,subst,8598,Substitution 5,
 1208097,52,2601,88,,subst,367634,Substitution 4,
 1208097,52,13736,90,5,Card,,Yellow Card,Foul
+1208098,41,19587,6,,Card,,Yellow Card,Foul
+1208098,41,137302,8,,Goal,,Normal Goal,
+1208098,41,336585,10,,Card,,Yellow Card,Foul
+1208098,41,19825,28,,Goal,171,Normal Goal,
+1208098,41,144729,33,,Card,,Yellow Card,Foul
+1208098,41,304317,36,,Card,,Yellow Card,Foul
+1208098,46,180,46,,subst,182,Substitution 1,
+1208098,41,32887,49,,Card,,Yellow Card,Time wasting
+1208098,46,18788,52,,Card,,Yellow Card,Foul
+1208098,46,158710,59,,subst,303467,Substitution 2,
+1208098,46,311334,62,,Card,,Yellow Card,Foul
+1208098,41,32887,62,,subst,18873,Substitution 1,
+1208098,46,311334,64,,Goal,303467,Normal Goal,
+1208098,41,137302,68,,subst,15812,Substitution 2,
+1208098,46,340573,68,,subst,3428,Substitution 3,
+1208098,41,336585,68,,subst,130421,Substitution 3,
+1208098,46,182,70,,Card,,Yellow Card,Foul
+1208098,46,18788,73,,Var,,Penalty confirmed,
+1208098,41,18873,73,,Card,,Red Card,Professional foul last man
+1208098,46,18788,74,,Goal,,Penalty,
+1208098,41,304317,78,,subst,199837,Substitution 4,
+1208098,41,19587,78,,subst,18918,Substitution 5,
+1208098,46,879,88,,subst,19004,Substitution 4,
+1208098,46,3428,90,8,Goal,182,Normal Goal,
