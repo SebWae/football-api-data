@@ -1956,3 +1956,17 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208099,48,15911,85,,Var,,Card upgrade,
 1208099,48,15911,86,,Card,,Red Card,Violent conduct
 1208099,47,204039,88,,subst,328089,Substitution 5,
+1299233,257,199638,20,,Card,,Yellow Card,Handball
+1299233,257,44865,35,,subst,2767,Substitution 1,
+1299233,47,1166,46,,subst,30435,Substitution 1,
+1299233,257,306979,47,,Goal,1744,Normal Goal,
+1299233,47,129711,60,,subst,18883,Substitution 2,
+1299233,47,863,61,,subst,237129,Substitution 3,
+1299233,47,18968,61,,subst,347316,Substitution 4,
+1299233,47,162498,68,,Card,,Yellow Card,Foul
+1299233,257,48577,68,,subst,138460,Substitution 2,
+1299233,257,549,69,,subst,19990,Substitution 3,
+1299233,47,347316,72,,Card,,Yellow Card,Foul
+1299233,47,30435,75,,Goal,18883,Normal Goal,
+1299233,257,306979,80,,subst,37186,Substitution 4,
+1299233,257,1987,80,,subst,327533,Substitution 5,

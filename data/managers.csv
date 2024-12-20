@@ -14,6 +14,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 548,A. Postecoglou,Angelos,Postecoglou,1965-08-27,Athina,Greece,Australia,,,https://media.api-sports.io/football/coachs/548.png
 1163,R. Lucescu,Răzvan,Lucescu,1969-02-17,București,Romania,Romania,,,https://media.api-sports.io/football/coachs/1163.png
 1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
+1518,P. Clement,Philippe,Clement,1974-03-22,Antwerpen,Belgium,Belgium,191 cm,87 kg,https://media.api-sports.io/football/coachs/1518.png
 1534,O. Glasner,Oliver,Glasner,1974-08-28,Salzburg,Austria,Austria,181 cm,72 kg,https://media.api-sports.io/football/coachs/1534.png
 1540,M. Rose,Marco,Rose,1976-09-11,Leipzig,Germany,Germany,187 cm,83 kg,https://media.api-sports.io/football/coachs/1540.png
 1542,A. Hütter,Adi,Hütter,1970-02-11,Hohenems,Austria,Austria,184 cm,,https://media.api-sports.io/football/coachs/1542.png
