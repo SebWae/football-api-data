@@ -1936,3 +1936,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208098,41,19587,78,,subst,18918,Substitution 5,
 1208098,46,879,88,,subst,19004,Substitution 4,
 1208098,46,3428,90,8,Goal,182,Normal Goal,
+1208099,48,15911,18,,Goal,,Normal Goal,
+1208099,47,30435,36,,Goal,18784,Normal Goal,
+1208099,48,1646,43,,Card,,Yellow Card,Foul
+1208099,47,18784,46,,subst,237129,Substitution 1,
+1208099,47,18968,52,,Goal,204039,Normal Goal,
+1208099,47,253,55,,Goal,,Own Goal,
+1208099,48,1243,56,,Card,,Yellow Card,Off the ball foul
+1208099,47,186,60,,Goal,237129,Normal Goal,
+1208099,48,1646,61,,subst,2869,Substitution 1,
+1208099,48,1243,61,,subst,930,Substitution 2,
+1208099,48,18819,61,,subst,37724,Substitution 3,
+1208099,48,930,67,,Card,,Yellow Card,Argument
+1208099,48,2476,70,,subst,1445,Substitution 4,
+1208099,47,186,70,,subst,1166,Substitution 2,
+1208099,47,18968,81,,subst,863,Substitution 3,
+1208099,47,18883,81,,subst,2413,Substitution 4,
+1208099,47,152849,84,,Card,,Yellow Card,Argument
+1208099,48,15911,85,,Var,,Card upgrade,
+1208099,48,15911,86,,Card,,Red Card,Violent conduct
+1208099,47,204039,88,,subst,328089,Substitution 5,
