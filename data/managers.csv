@@ -16,6 +16,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
 1534,O. Glasner,Oliver,Glasner,1974-08-28,Salzburg,Austria,Austria,181 cm,72 kg,https://media.api-sports.io/football/coachs/1534.png
 1540,M. Rose,Marco,Rose,1976-09-11,Leipzig,Germany,Germany,187 cm,83 kg,https://media.api-sports.io/football/coachs/1540.png
+1542,A. Hütter,Adi,Hütter,1970-02-11,Hohenems,Austria,Austria,184 cm,,https://media.api-sports.io/football/coachs/1542.png
 1594,Lopetegui,Julen,Lopetegui Argote,1966-08-28,Asteasu,Spain,Spain,185 cm,,https://media.api-sports.io/football/coachs/1594.png
 1611,V. Italiano,Vincenzo,Italiano,1977-12-10,Karlsruhe,Germany,Italy,175 cm,67 kg,https://media.api-sports.io/football/coachs/1611.png
 1682,B. Priske,Brian,Priske Pedersen,1977-05-14,Horsens,Denmark,Denmark,188 cm,79 kg,https://media.api-sports.io/football/coachs/1682.png
