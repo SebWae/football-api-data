@@ -581,3 +581,7 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1299399,"John Beaton, Scotland",UTC,2024-12-19,20:00:00,145,Allianz Stadion,Wien,90,10,848,UEFA Europa Conference League,2024,League Stage - 6,781,Rapid Vienna,400,FC Copenhagen,3,0,1,0,,,,
 1299400,"Juxhin Xhaja, Albania",UTC,2024-12-19,20:00:00,1295,Estádio Dom Afonso Henriques,Guimarães,90,6,848,UEFA Europa Conference League,2024,League Stage - 6,224,Guimaraes,502,Fiorentina,1,1,1,0,,,,
 1314296,"John Brooks, England",UTC,2024-12-19,20:00:00,593,Tottenham Hotspur Stadium,London,90,9,48,League Cup,2024,Quarter-finals,47,Tottenham,33,Manchester United,4,3,1,0,,,,
+1298641,"David Webb, England",UTC,2024-09-24,18:45:00,555,Etihad Stadium,Manchester,90,5,48,League Cup,2024,3rd Round,50,Manchester City,38,Watford,2,1,2,0,,,,
+1298654,"Oliver Langford, England",UTC,2024-09-24,18:45:00,519,Stamford Bridge,London,90,1,48,League Cup,2024,3rd Round,49,Chelsea,1819,Barrow,5,0,3,0,,,,
+1298655,"Tom Nield, England",UTC,2024-09-24,18:45:00,18620,Poundland Bescot Stadium,"Walsall, West Midlands",120,7,48,League Cup,2024,3rd Round,1342,Walsall,46,Leicester,0,0,0,0,0,0,0,3
+1298644,"Sam Allison, England",UTC,2024-09-24,19:00:00,602,Adams Park,"High Wycombe, Buckinghamshire",90,6,48,League Cup,2024,3rd Round,1358,Wycombe,66,Aston Villa,1,2,0,0,,,,
