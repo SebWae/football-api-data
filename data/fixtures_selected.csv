@@ -585,3 +585,5 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1298654,"Oliver Langford, England",UTC,2024-09-24,18:45:00,519,Stamford Bridge,London,90,1,48,League Cup,2024,3rd Round,49,Chelsea,1819,Barrow,5,0,3,0,,,,
 1298655,"Tom Nield, England",UTC,2024-09-24,18:45:00,18620,Poundland Bescot Stadium,"Walsall, West Midlands",120,7,48,League Cup,2024,3rd Round,1342,Walsall,46,Leicester,0,0,0,0,0,0,0,3
 1298644,"Sam Allison, England",UTC,2024-09-24,19:00:00,602,Adams Park,"High Wycombe, Buckinghamshire",90,6,48,League Cup,2024,3rd Round,1358,Wycombe,66,Aston Villa,1,2,0,0,,,,
+1208062,R. Jones,UTC,2024-09-22,13:00:00,508,American Express Stadium,"Falmer, East Sussex",90,7,39,Premier League,2024,Regular Season - 5,51,Brighton,65,Nottingham Forest,2,2,2,1,,,,
+1208067,M. Oliver,UTC,2024-09-22,15:30:00,555,Etihad Stadium,Manchester,90,10,39,Premier League,2024,Regular Season - 5,50,Manchester City,42,Arsenal,2,2,1,2,,,,
