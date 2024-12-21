@@ -999,6 +999,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 313245,M. Lewis-Skelly,Myles Anthony,Lewis-Skelly,2006-09-26,,England,England,178 cm,72 kg,https://media.api-sports.io/football/players/313245.png
 314265,B. Meijer,Bjorn Thomas,Meijer,2003-03-18,Groningen,Netherlands,Netherlands,191 cm,89 kg,https://media.api-sports.io/football/players/314265.png
 314511,A. Nusa,Antonio,Eromonsele Nordby Nusa,2005-04-17,Ski,Norway,Norway,180 cm,73 kg,https://media.api-sports.io/football/players/314511.png
+314661,J. Danns,Jayden,Danns,2006-01-16,,England,England,,,https://media.api-sports.io/football/players/314661.png
 315237,W. Osula,William Idamudia,Daugaard Osula,2003-08-04,Aarhus,Denmark,Denmark,180 cm,81 kg,https://media.api-sports.io/football/players/315237.png
 317825,S. Dweh,Sampson,Kargeoh Dweh Jr.,2001-10-10,,Liberia,Liberia,,,https://media.api-sports.io/football/players/317825.png
 318056,A. Murphy,Alex,Murphy,2004-06-25,Galway,Republic of Ireland,Republic of Ireland,188 cm,78 kg,https://media.api-sports.io/football/players/318056.png
@@ -1169,6 +1170,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 449656,Jiří Maxim Panoš,Jiří Maxim,Panoš,2007-11-15,,Czech Republic,Czech Republic,,,https://media.api-sports.io/football/players/449656.png
 449676,S. Nibombé,Samuel Kondi,Nibombé,2007-08-15,,Belgium,Belgium,198 cm,83 kg,https://media.api-sports.io/football/players/449676.png
 451355,Diego Aguado,Diego,Aguado Facio,2007-02-07,Madrid,Spain,Spain,,,https://media.api-sports.io/football/players/451355.png
+452685,R. Ngumoha,Rio,Ngumoha,2008-08-29,,England,England,,,https://media.api-sports.io/football/players/452685.png
 456518,A. Ploshchadny,Aleksey,Ploshchadny,2004-04-21,,Russia,Russia,191 cm,,https://media.api-sports.io/football/players/456518.png
 459203,M. Hardy,Malachi,Hardy,2008-03-10,Watford,England,England,188 cm,79 kg,https://media.api-sports.io/football/players/459203.png
 465310,L. Williams-Barnett,Luca Jamie,Williams-Barnett,2008-04-01,Luton,England,England,175 cm,,https://media.api-sports.io/football/players/465310.png
