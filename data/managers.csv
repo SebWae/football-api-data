@@ -36,6 +36,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 5380,R. van Nistelrooy,Ruud,van Nistelrooij,1976-07-01,Oss,Netherlands,Netherlands,188 cm,80 kg,https://media.api-sports.io/football/coachs/5380.png
 6025,R. Martin,Russell,Martin,1986-01-04,Brighton,England,Scotland,183 cm,74 kg,https://media.api-sports.io/football/coachs/6025.png
 6608,N. Hayen,Nicky,Hayen,1980-08-16,Sint-Truiden,Belgium,Belgium,188 cm,78 kg,https://media.api-sports.io/football/coachs/6608.png
+6671,J. Oosting,Joseph,Oosting,1972-01-29,,Netherlands,Netherlands,,,https://media.api-sports.io/football/coachs/6671.png
 6801,Xabi Alonso,Xabier,Alonso Olano,1981-11-25,Tolosa,Spain,Spain,183 cm,80 kg,https://media.api-sports.io/football/coachs/6801.png
 7248,Mikel Arteta,Mikel,Arteta Amatriain,1982-03-26,San Sebastián,Spain,Spain,175 cm,64 kg,https://media.api-sports.io/football/coachs/7248.png
 9443,B. Dawson,Ben,Dawson,1981-02-11,,England,England,,,https://media.api-sports.io/football/coachs/9443.png
