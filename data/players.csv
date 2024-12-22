@@ -3,6 +3,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 8,Raphaël Guerreiro,Raphaël Adelino José,Guerreiro,1993-12-22,Le Blanc-Mesnil,France,Portugal,170 cm,71 kg,https://media.api-sports.io/football/players/8.png
 9,A. Hakimi,Achraf,Hakimi Mouh,1998-11-04,Madrid,Spain,Morocco,181 cm,73 kg,https://media.api-sports.io/football/players/9.png
 18,J. Sancho,Jadon Malik,Sancho,2000-03-25,London,England,England,180 cm,76 kg,https://media.api-sports.io/football/players/18.png
+44,Rodri,Rodrigo,Hernández Cascante,1996-06-22,Madrid,Spain,Spain,190 cm,82 kg,https://media.api-sports.io/football/players/44.png
 49,T. Partey,Thomas,Teye Partey,1993-06-13,Odumase Krobo,Ghana,Ghana,185 cm,77 kg,https://media.api-sports.io/football/players/49.png
 69,B. Mechele,Brandon,Mechele,1993-01-28,Bredene,Belgium,Belgium,190 cm,81 kg,https://media.api-sports.io/football/players/69.png
 78,H. Vanaken,Hans,Vanaken,1992-08-24,Neerpelt,Belgium,Belgium,195 cm,77 kg,https://media.api-sports.io/football/players/78.png
