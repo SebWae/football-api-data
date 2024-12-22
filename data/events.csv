@@ -2777,3 +2777,25 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208188,57,17579,78,,subst,126791,Substitution 4,
 1208188,57,20089,78,,subst,18823,Substitution 5,
 1208188,34,10135,80,,subst,328105,Substitution 5,
+1208061,39,21138,7,,Card,,Yellow Card,Foul
+1208061,39,130,16,,Card,,Yellow Card,Foul
+1208061,39,1165,25,,Goal,,Normal Goal,
+1208061,39,195103,27,,Card,,Yellow Card,Foul
+1208061,66,46815,28,,Card,,Yellow Card,Argument
+1208061,66,19191,46,,subst,138816,Substitution 1,
+1208061,66,2724,46,,subst,983,Substitution 2,
+1208061,39,18947,61,,Card,,Yellow Card,Foul
+1208061,66,162714,62,,subst,2287,Substitution 3,
+1208061,66,19192,62,,subst,13489,Substitution 4,
+1208061,39,2032,65,,subst,925,Substitution 1,
+1208061,39,20665,71,,subst,282770,Substitution 2,
+1208061,66,19366,73,,Goal,19170,Normal Goal,
+1208061,66,19170,74,,Card,,Yellow Card,Argument
+1208061,39,195717,81,,Card,,Yellow Card,Foul
+1208061,39,195103,82,,subst,144732,Substitution 3,
+1208061,39,195717,82,,subst,135334,Substitution 4,
+1208061,66,19354,88,,Goal,2926,Normal Goal,
+1208061,66,19366,90,9,subst,19071,Substitution 5,
+1208061,39,1165,90,12,Card,,Yellow Card,Argument
+1208061,66,2287,90,11,Card,,Yellow Card,Time wasting
+1208061,66,13489,90,4,Goal,19170,Normal Goal,
