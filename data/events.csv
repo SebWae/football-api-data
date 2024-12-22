@@ -2641,3 +2641,12 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1298987,489,59,84,,subst,48389,Substitution 5,
 1298987,40,6716,90,3,subst,8500,Substitution 4,
 1298987,40,306,90,3,subst,30410,Substitution 5,
+1298994,50,567,33,,Card,,Yellow Card,Foul
+1298994,50,629,46,,subst,633,Substitution 1,
+1298994,50,266657,46,,subst,631,Substitution 2,
+1298994,505,21509,65,,subst,217,Substitution 1,
+1298994,505,329,66,,subst,1457,Substitution 2,
+1298994,505,887,75,,subst,226,Substitution 3,
+1298994,505,24953,75,,subst,2725,Substitution 4,
+1298994,50,636,80,,subst,1422,Substitution 3,
+1298994,505,1640,82,,subst,31173,Substitution 5,
