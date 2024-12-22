@@ -2700,3 +2700,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1298649,45,19128,120,10,Goal,,Penalty,Penalty Shootout
 1298649,41,19719,120,11,Goal,,Penalty,Penalty Shootout
 1298649,45,894,120,12,Goal,,Missed Penalty,Penalty Shootout
+1208185,42,643,6,,Goal,22224,Normal Goal,
+1208185,52,2218,11,,Goal,182201,Normal Goal,
+1208185,42,643,14,,Goal,49,Normal Goal,
+1208185,42,1460,24,,subst,1946,Substitution 1,
+1208185,42,22224,31,,Card,,Yellow Card,Foul
+1208185,42,38746,36,,Card,,Yellow Card,Time wasting
+1208185,42,978,38,,Goal,,Normal Goal,
+1208185,42,313245,58,,subst,157052,Substitution 2,
+1208185,42,978,58,,subst,2937,Substitution 3,
+1208185,42,127769,60,,Goal,2937,Normal Goal,
+1208185,52,2601,61,,subst,1468,Substitution 1,
+1208185,52,67971,64,,Card,,Yellow Card,Foul
+1208185,52,2490,68,,subst,3339,Substitution 2,
+1208185,52,18806,69,,subst,286458,Substitution 3,
+1208185,52,18862,79,,Card,,Yellow Card,Foul
+1208185,52,18862,81,,subst,380679,Substitution 4,
+1208185,52,25927,81,,subst,18843,Substitution 5,
+1208185,42,2937,84,,Goal,157052,Normal Goal,
+1208185,42,38746,86,,subst,47311,Substitution 4,
+1208185,42,643,86,,subst,313236,Substitution 5,
