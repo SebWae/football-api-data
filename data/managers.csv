@@ -29,7 +29,9 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 2006,A. Slot,Arne,Slot,1978-09-17,Bergentheim,Netherlands,Netherlands,185 cm,75 kg,https://media.api-sports.io/football/coachs/2006.png
 2108,Andoni Iraola,Andoni,Iraola Sagarna,1982-06-22,Usurbil,Spain,Spain,178 cm,77 kg,https://media.api-sports.io/football/coachs/2108.png
 2392,S. Inzaghi,Simone,Inzaghi,1976-04-05,Piacenza,Italy,Italy,185 cm,82 kg,https://media.api-sports.io/football/coachs/2392.png
+2393,G. Gasperini,Gian Piero,Gasperini,1958-01-26,Grugliasco,Italy,Italy,,,https://media.api-sports.io/football/coachs/2393.png
 2407,C. Ancelotti,Carlo,Ancelotti,1959-06-10,Reggiolo,Italy,Italy,179 cm,74 kg,https://media.api-sports.io/football/coachs/2407.png
+2431,Paulo Fonseca,Paulo Alexandre,Rodrigues Fonseca,1973-03-05,Maputo,Mozambique,Portugal,,,https://media.api-sports.io/football/coachs/2431.png
 2853,C. Ranieri,Claudio,Ranieri,1951-10-20,Roma,Italy,Italy,182 cm,,https://media.api-sports.io/football/coachs/2853.png
 3173,M. Pusic,Marino,Pusic,1971-08-18,Mostar,Bosnia and Herzegovina,Netherlands,,,https://media.api-sports.io/football/coachs/3173.png
 4669,G. Babayan,Grigoriy,Babayan,1980-04-02,,Kazakhstan,Kazakhstan,,,https://media.api-sports.io/football/coachs/4669.png
