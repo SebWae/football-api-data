@@ -13,6 +13,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 193,Luis Enrique,Luis Enrique,Martínez García,1970-05-08,Gijón,Spain,Spain,180 cm,73 kg,https://media.api-sports.io/football/coachs/193.png
 548,A. Postecoglou,Angelos,Postecoglou,1965-08-27,Athina,Greece,Australia,,,https://media.api-sports.io/football/coachs/548.png
 600,S. Rusk,Simon Edward,Rusk,1981-12-17,Peterborough,England,England,180 cm,,https://media.api-sports.io/football/coachs/600.png
+1127,Q. Qurbanov,Qurban,Qurbanov,1972-04-13,"Aşağı Tala, Nearby Zaqatala",Azerbaijan,Azerbaijan,,,https://media.api-sports.io/football/coachs/1127.png
 1163,R. Lucescu,Răzvan,Lucescu,1969-02-17,București,Romania,Romania,,,https://media.api-sports.io/football/coachs/1163.png
 1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
 1499,P. Rahmen,Patrick,Rahmen,1969-04-03,Basel,Switzerland,Switzerland,,,https://media.api-sports.io/football/coachs/1499.png
