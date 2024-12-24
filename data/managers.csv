@@ -6,6 +6,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 10,Marco Silva,Marco Alexandre,Saraiva da Silva,1977-07-12,Lisboa,Portugal,Portugal,,,https://media.api-sports.io/football/coachs/10.png
 16,Nuno Espírito Santo,Nuno Herlander,Simões Espírito Santo,1974-01-25,São Tomé,São Tomé e Príncipe,Portugal,,,https://media.api-sports.io/football/coachs/16.png
 18,Unai Emery,Unai,Emery Etxegoien,1971-11-03,Hondarribia,Spain,Spain,,,https://media.api-sports.io/football/coachs/18.png
+55,Vítor Pereira,Vítor Manuel,de Oliveira Lopes Pereira,1968-07-26,Espinho,Portugal,Portugal,,,https://media.api-sports.io/football/coachs/55.png
 82,Míchel,Miguel Ángel,Sánchez Muñoz,1975-10-30,Madrid,Spain,Spain,174 cm,66 kg,https://media.api-sports.io/football/coachs/82.png
 90,T. Frank,Thomas,Frank,1973-10-09,,Denmark,Denmark,,,https://media.api-sports.io/football/coachs/90.png
 98,S. Cooper,Steven David,Cooper,1979-12-10,Hopkinstown,Wales,Wales,,,https://media.api-sports.io/football/coachs/98.png
