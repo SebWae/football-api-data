@@ -3075,3 +3075,15 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208062,65,18746,83,,Card,,Yellow Card,Foul
 1208062,51,18963,90,4,Card,,Yellow Card,Foul
 1208062,65,2298,90,3,Card,,Yellow Card,Time wasting
+1208063,33,284324,36,,Card,,Yellow Card,Foul
+1208063,52,25927,46,,subst,2218,Substitution 1,
+1208063,52,288102,46,,subst,2490,Substitution 2,
+1208063,33,70100,61,,subst,909,Substitution 1,
+1208063,52,19088,63,,Card,,Yellow Card,Argument
+1208063,33,2467,63,,Card,,Yellow Card,Foul
+1208063,52,1468,66,,subst,18806,Substitution 3,
+1208063,33,157997,76,,subst,288006,Substitution 2,
+1208063,33,174,76,,subst,51494,Substitution 3,
+1208063,52,18806,83,,Card,,Yellow Card,Foul
+1208063,52,20995,90,5,Card,,Yellow Card,Foul
+1208063,52,19586,90,1,subst,18843,Substitution 4,
