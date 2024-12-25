@@ -3021,3 +3021,20 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1298655,1342,284204,120,4,Goal,,Missed Penalty,Penalty Shootout
 1298655,46,180,120,5,Goal,,Penalty,Penalty Shootout
 1298655,1342,18523,120,6,Goal,,Missed Penalty,Penalty Shootout
+1309284,59,298128,23,,Card,,Yellow Card,Foul
+1309284,42,643,24,,Goal,61431,Normal Goal,
+1309284,42,313236,33,,Goal,643,Normal Goal,
+1309284,42,47311,46,,subst,978,Substitution 1,
+1309284,42,38746,46,,subst,49,Substitution 2,
+1309284,59,17534,55,,Card,,Yellow Card,Foul
+1309284,42,978,57,,Goal,61431,Normal Goal,
+1309284,59,83029,59,,subst,15858,Substitution 1,
+1309284,59,153400,60,,subst,15705,Substitution 2,
+1309284,59,298128,60,,subst,19455,Substitution 3,
+1309284,42,127769,62,,subst,1460,Substitution 3,
+1309284,42,641,62,,subst,313245,Substitution 4,
+1309284,59,17534,68,,subst,430236,Substitution 4,
+1309284,59,28714,73,,Card,,Yellow Card,Foul
+1309284,59,19787,77,,subst,19442,Substitution 5,
+1309284,42,313236,80,,subst,402329,Substitution 5,
+1309284,59,15858,83,,Card,,Yellow Card,Argument
