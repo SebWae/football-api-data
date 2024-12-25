@@ -3052,3 +3052,26 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1299176,33,9971,89,,subst,157997,Substitution 4,
 1299176,611,1719,90,2,Card,,Yellow Card,Foul
 1299176,611,40403,90,,subst,50097,Substitution 5,
+1208062,65,18931,13,,Goal,,Penalty,
+1208062,51,356041,25,,Card,,Yellow Card,Foul
+1208062,51,1469,39,,Card,,Yellow Card,Argument
+1208062,51,305730,42,,Goal,38695,Normal Goal,
+1208062,65,2771,44,,Card,,Yellow Card,Foul
+1208062,51,1469,45,,Goal,,Normal Goal,
+1208062,65,138780,46,,Card,,Yellow Card,Handball
+1208062,65,2938,46,,subst,19305,Substitution 1,
+1208062,65,47547,46,,subst,138780,Substitution 2,
+1208062,65,153430,46,,subst,141901,Substitution 3,
+1208062,65,138908,59,,subst,196298,Substitution 4,
+1208062,65,18746,60,,Card,,Yellow Card,Foul
+1208062,51,356041,62,,subst,92993,Substitution 1,
+1208062,51,301771,62,,subst,383685,Substitution 2,
+1208062,65,141901,64,,Card,,Yellow Card,Argument
+1208062,65,196298,70,,Goal,141901,Normal Goal,
+1208062,51,90590,71,,subst,10329,Substitution 3,
+1208062,65,18931,72,,subst,67943,Substitution 5,
+1208062,51,46731,82,,subst,129643,Substitution 4,
+1208062,65,18746,83,,Card,,Red Card,Foul
+1208062,65,18746,83,,Card,,Yellow Card,Foul
+1208062,51,18963,90,4,Card,,Yellow Card,Foul
+1208062,65,2298,90,3,Card,,Yellow Card,Time wasting
