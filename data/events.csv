@@ -3132,3 +3132,27 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1299181,47,380690,88,,subst,336564,Substitution 5,
 1299181,201,37154,90,,Card,,Yellow Card,Argument
 1299181,201,340597,90,,Card,,Yellow Card,Foul
+1299187,645,454,6,,Goal,,Normal Goal,
+1299187,645,332,16,,Card,,Yellow Card,Foul
+1299187,47,393195,18,,Goal,129711,Normal Goal,
+1299187,645,2780,31,,Goal,332,Normal Goal,
+1299187,47,162498,32,,Card,,Yellow Card,Foul
+1299187,645,2780,39,,Goal,332,Normal Goal,
+1299187,47,129711,46,,subst,863,Substitution 1,
+1299187,47,186,46,,subst,30435,Substitution 2,
+1299187,47,30435,48,,Card,,Yellow Card,Foul
+1299187,47,393195,53,,Card,,Yellow Card,Foul
+1299187,645,80552,54,,Card,,Yellow Card,Foul
+1299187,47,393195,60,,Card,,Red Card,Foul
+1299187,47,393195,60,,Card,,Yellow Card,Foul
+1299187,47,18968,60,,Card,,Yellow Card,Argument
+1299187,47,18784,66,,subst,237129,Substitution 3,
+1299187,47,347316,66,,subst,18883,Substitution 4,
+1299187,47,18883,69,,Goal,47519,Normal Goal,
+1299187,645,332,73,,subst,548,Substitution 1,
+1299187,645,2780,80,,subst,717,Substitution 2,
+1299187,645,454,80,,subst,341234,Substitution 3,
+1299187,645,80552,85,,subst,264627,Substitution 4,
+1299187,645,216,85,,subst,2927,Substitution 5,
+1299187,47,863,90,3,Card,,Yellow Card,Argument
+1299187,645,1462,90,6,Card,,Yellow Card,Time wasting

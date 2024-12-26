@@ -20,6 +20,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1127,Q. Qurbanov,Qurban,Qurbanov,1972-04-13,"Aşağı Tala, Nearby Zaqatala",Azerbaijan,Azerbaijan,,,https://media.api-sports.io/football/coachs/1127.png
 1163,R. Lucescu,Răzvan,Lucescu,1969-02-17,București,Romania,Romania,,,https://media.api-sports.io/football/coachs/1163.png
 1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
+1442,O. Buruk,Okan,Buruk,1973-10-19,İstanbul,Türkiye,Türkiye,169 cm,69 kg,https://media.api-sports.io/football/coachs/1442.png
 1499,P. Rahmen,Patrick,Rahmen,1969-04-03,Basel,Switzerland,Switzerland,,,https://media.api-sports.io/football/coachs/1499.png
 1516,W. Vrancken,Wouter,Vrancken,1979-02-03,Sint-Truiden,Belgium,Belgium,185 cm,76 kg,https://media.api-sports.io/football/coachs/1516.png
 1518,P. Clement,Philippe,Clement,1974-03-22,Antwerpen,Belgium,Belgium,191 cm,87 kg,https://media.api-sports.io/football/coachs/1518.png
@@ -57,6 +58,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 12629,E. Maresca,Vincenzo,Maresca,1980-02-10,Ponte Cagnano,Italy,Italy,180 cm,77 kg,https://media.api-sports.io/football/coachs/12629.png
 13947,L. Friis,Lars,Friis,1976-05-07,,Denmark,Denmark,,,https://media.api-sports.io/football/coachs/13947.png
 15041,M. Koubek,Miroslav,Koubek,1951-09-01,Praha,Czechia,Czechia,,,https://media.api-sports.io/football/coachs/15041.png
+15114,M. Martens,Maarten,Martens,1984-07-02,Eeklo,Belgium,Belgium,176 cm,,https://media.api-sports.io/football/coachs/15114.png
 16556,K. McKenna,Kieran,McKenna,1986-05-14,,England,England,,,https://media.api-sports.io/football/coachs/16556.png
 18151,G. O'Neil,Gary Paul,O'Neil,1983-05-18,Bromley,England,England,173 cm,60 kg,https://media.api-sports.io/football/coachs/18151.png
 18432,Chicho Pèlach,Narcís,Pèlach Nadal,1988-09-05,Girona,Spain,Spain,,,https://media.api-sports.io/football/coachs/18432.png
