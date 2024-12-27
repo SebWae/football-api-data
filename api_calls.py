@@ -161,42 +161,43 @@ def register_manager(manager_id):
     """
     manager_id (int): id of the manager to be registered
     """
-    url = "https://api-football-v1.p.rapidapi.com/v3/coachs"
+    if manager_id is not None:
+        url = "https://api-football-v1.p.rapidapi.com/v3/coachs"
 
-    querystring = {"id":f"{manager_id}"}
-    
-    response = requests.get(url, headers=headers, params=querystring)
-    main_dict = response.json()["response"][0]
+        querystring = {"id":f"{manager_id}"}
+        
+        response = requests.get(url, headers=headers, params=querystring)
+        main_dict = response.json()["response"][0]
 
-    name = main_dict["name"]
-    firstname = main_dict["firstname"]
-    lastname = main_dict["lastname"]
+        name = main_dict["name"]
+        firstname = main_dict["firstname"]
+        lastname = main_dict["lastname"]
 
-    birthdate = main_dict["birth"]["date"]
-    birthplace = main_dict["birth"]["place"]
-    birthcountry = main_dict["birth"]["country"]
+        birthdate = main_dict["birth"]["date"]
+        birthplace = main_dict["birth"]["place"]
+        birthcountry = main_dict["birth"]["country"]
 
-    nationality = main_dict["nationality"]
-    height = main_dict["height"]
-    weight = main_dict["weight"]
-    photo = main_dict["photo"]
+        nationality = main_dict["nationality"]
+        height = main_dict["height"]
+        weight = main_dict["weight"]
+        photo = main_dict["photo"]
 
-    info = [manager_id,
-            name,
-            firstname,
-            lastname,
-            birthdate,
-            birthplace,
-            birthcountry,
-            nationality,
-            height,
-            weight,
-            photo
-            ]
+        info = [manager_id,
+                name,
+                firstname,
+                lastname,
+                birthdate,
+                birthplace,
+                birthcountry,
+                nationality,
+                height,
+                weight,
+                photo
+                ]
 
-    with open("data/managers.csv", 'a', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(info)
+        with open("data/managers.csv", 'a', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(info)
 
 
 def register_player(player_id, season):
@@ -204,41 +205,42 @@ def register_player(player_id, season):
     player_id (int): id of player to register
     season (int): season the player has featured in, should be equal to a year, e.g. 2024
     """  
-    url = "https://api-football-v1.p.rapidapi.com/v3/players"
-    querystring = {"id": f"{player_id}","season": f"{season}"}
+    if player_id is not None:
+        url = "https://api-football-v1.p.rapidapi.com/v3/players"
+        querystring = {"id": f"{player_id}","season": f"{season}"}
 
-    response = requests.get(url, headers=headers, params=querystring)
-    main_dict = response.json()["response"][0]["player"]
+        response = requests.get(url, headers=headers, params=querystring)
+        main_dict = response.json()["response"][0]["player"]
 
-    name = main_dict["name"]
-    firstname = main_dict["firstname"]
-    lastname = main_dict["lastname"]
+        name = main_dict["name"]
+        firstname = main_dict["firstname"]
+        lastname = main_dict["lastname"]
 
-    birthdate = main_dict["birth"]["date"]
-    birthplace = main_dict["birth"]["place"]
-    birthcountry = main_dict["birth"]["country"]
+        birthdate = main_dict["birth"]["date"]
+        birthplace = main_dict["birth"]["place"]
+        birthcountry = main_dict["birth"]["country"]
 
-    nationality = main_dict["nationality"]
-    height = main_dict["height"]
-    weight = main_dict["weight"]
-    photo = main_dict["photo"]
+        nationality = main_dict["nationality"]
+        height = main_dict["height"]
+        weight = main_dict["weight"]
+        photo = main_dict["photo"]
 
-    info = [player_id,
-            name,
-            firstname,
-            lastname,
-            birthdate,
-            birthplace,
-            birthcountry,
-            nationality,
-            height,
-            weight,
-            photo
-            ]
+        info = [player_id,
+                name,
+                firstname,
+                lastname,
+                birthdate,
+                birthplace,
+                birthcountry,
+                nationality,
+                height,
+                weight,
+                photo
+                ]
 
-    with open("data/players.csv", 'a', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(info)
+        with open("data/players.csv", 'a', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(info)
 
 
 def register_fixture(fixture_id):
