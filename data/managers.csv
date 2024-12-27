@@ -18,6 +18,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 605,M. Robins,Mark Gordon,Robins,1969-12-22,Ashton-under-Lyne,England,England,,,https://media.api-sports.io/football/coachs/605.png
 606,D. Clarke,Darrell James,Clarke,1977-12-16,Mansfield,England,England,178 cm,72 kg,https://media.api-sports.io/football/coachs/606.png
 685,I. Evatt,Ian Ross,Evatt,1981-11-19,Coventry,England,England,191 cm,88 kg,https://media.api-sports.io/football/coachs/685.png
+993,D. Alonso,Diego Martín,Alonso López,1975-04-16,Montevideo,Uruguay,Uruguay,188 cm,80 kg,https://media.api-sports.io/football/coachs/993.png
 1127,Q. Qurbanov,Qurban,Qurbanov,1972-04-13,"Aşağı Tala, Nearby Zaqatala",Azerbaijan,Azerbaijan,,,https://media.api-sports.io/football/coachs/1127.png
 1163,R. Lucescu,Răzvan,Lucescu,1969-02-17,București,Romania,Romania,,,https://media.api-sports.io/football/coachs/1163.png
 1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
