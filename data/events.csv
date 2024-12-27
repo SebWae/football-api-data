@@ -3198,3 +3198,16 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208196,36,19549,90,1,Card,,Yellow Card,Foul
 1208196,36,1455,90,2,subst,19032,Substitution 4,
 1208196,36,195106,90,5,Goal,2823,Normal Goal,
+1208198,50,636,14,,Goal,1422,Normal Goal,
+1208198,45,18592,36,,Goal,,Normal Goal,
+1208198,45,2165,42,,Card,,Yellow Card,Foul
+1208198,45,18758,52,,Card,,Yellow Card,
+1208198,45,18766,70,,subst,138822,Substitution 1,
+1208198,50,1422,75,,subst,629,Substitution 1,
+1208198,45,24882,79,,Card,,Yellow Card,Foul
+1208198,45,18592,81,,subst,15884,Substitution 2,
+1208198,50,2291,85,,subst,633,Substitution 2,
+1208198,50,18861,85,,subst,404656,Substitution 3,
+1208198,45,17661,87,,Card,,Yellow Card,Foul
+1208198,50,631,90,4,Card,,Yellow Card,Foul
+1208198,45,18758,90,,subst,138417,Substitution 3,

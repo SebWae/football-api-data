@@ -1309,6 +1309,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 291994,M. Bruns,Max,Bruns,2002-11-06,Almelo,Netherlands,Netherlands,183 cm,67 kg,https://media.api-sports.io/football/players/291994.png
 293161,Z. Vancsa,Zalán,Vancsa,2004-10-27,Budapest,Hungary,Hungary,175 cm,70 kg,https://media.api-sports.io/football/players/293161.png
 293163,J. Donley,Jamie,Donley,2005-01-03,,Northern Ireland,England,,,https://media.api-sports.io/football/players/293163.png
+293168,Max Alleyne,Max,Alleyne,2005-07-21,,England,England,,,https://media.api-sports.io/football/players/293168.png
 294552,J. Tchamadeu,Junior Baptiste,Tchamadeu,2003-12-22,Redbridge,England,England,180 cm,72 kg,https://media.api-sports.io/football/players/294552.png
 295027,M. Ryneš,Matěj,Ryneš,2001-05-30,,Czechia,Czechia,186 cm,82 kg,https://media.api-sports.io/football/players/295027.png
 297583,J. Mitchell,Jeyland Yahir,Mitchell Baltodano,2004-09-29,Puerto Limón,Costa Rica,Costa Rica,187 cm,82 kg,https://media.api-sports.io/football/players/297583.png
@@ -1578,6 +1579,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 433272,Findlay Curtis,Findlay,Curtis,2006-10-01,,Scotland,Scotland,,,https://media.api-sports.io/football/players/433272.png
 434180,Aidan Borland,Aidan Gerald,Borland,2007-04-25,,Scotland,Scotland,177 cm,65 kg,https://media.api-sports.io/football/players/434180.png
 437099,Renato Bellucci,Renato,Bellucci Marin,2006-07-10,São Paulo,Brazil,Italy,190 cm,,https://media.api-sports.io/football/players/437099.png
+437557,S. Brits,Thorsten Spike,Brits,2007-06-24,,England,England,,,https://media.api-sports.io/football/players/437557.png
 437559,M. Hudson,Max,Hudson,2007-09-20,,Wales,Wales,,,https://media.api-sports.io/football/players/437559.png
 440156,L. Giani,Laurence,Giani,2008-03-11,,England,Italy,,,https://media.api-sports.io/football/players/440156.png
 440159,G. Kukonki,Godwill,Kukonki,2008-02-06,,England,England,,,https://media.api-sports.io/football/players/440159.png
