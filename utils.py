@@ -166,3 +166,14 @@ def commit_and_push_to_git(files_to_commit, commit_message):
 
     except subprocess.CalledProcessError as e:
         print(f"Error during Git operations: {e}")
+
+
+def transform_to_integer_cols(df, integer_cols):
+    """
+    df (pandas dataframe): pandas dataframe object
+    integer_cols (list): list of column names to transform to into integers
+    """
+
+    df[integer_cols] = df[integer_cols].astype("Int64")
+
+    return df
