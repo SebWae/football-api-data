@@ -135,6 +135,7 @@ id,name,logo
 139,Ponte Preta,https://media.api-sports.io/football/teams/139.png
 140,Criciuma,https://media.api-sports.io/football/teams/140.png
 142,Vila Nova,https://media.api-sports.io/football/teams/142.png
+143,Oeste,https://media.api-sports.io/football/teams/143.png
 144,Atletico Goianiense,https://media.api-sports.io/football/teams/144.png
 145,Avai,https://media.api-sports.io/football/teams/145.png
 146,CRB,https://media.api-sports.io/football/teams/146.png
@@ -2713,6 +2714,7 @@ id,name,logo
 3782,Port Darwin,https://media.api-sports.io/football/teams/3782.png
 3783,Uni Azzurri,https://media.api-sports.io/football/teams/3783.png
 3784,Adelaide Blue Eagles,https://media.api-sports.io/football/teams/3784.png
+3785,Adelaide City,https://media.api-sports.io/football/teams/3785.png
 3791,Campbelltown City,https://media.api-sports.io/football/teams/3791.png
 3793,MetroStars,https://media.api-sports.io/football/teams/3793.png
 3798,Avondale,https://media.api-sports.io/football/teams/3798.png
@@ -4237,6 +4239,7 @@ id,name,logo
 6736,Dundonald Bluebell,https://media.api-sports.io/football/teams/6736.png
 6737,Easthouses Lily,https://media.api-sports.io/football/teams/6737.png
 6738,Girvan,https://media.api-sports.io/football/teams/6738.png
+6739,Glasgow University,https://media.api-sports.io/football/teams/6739.png
 6740,Golspie Sutherland,https://media.api-sports.io/football/teams/6740.png
 6741,Hawick Royal Albert,https://media.api-sports.io/football/teams/6741.png
 6742,Hill Of Beath Hawthorn,https://media.api-sports.io/football/teams/6742.png
@@ -8913,6 +8916,7 @@ id,name,logo
 19787,Tongeren,https://media.api-sports.io/football/teams/19787.png
 19788,Benburb,https://media.api-sports.io/football/teams/19788.png
 19789,Bonnyton Thistle,https://media.api-sports.io/football/teams/19789.png
+19793,Kilwinning Rangers,https://media.api-sports.io/football/teams/19793.png
 19794,Pollok,https://media.api-sports.io/football/teams/19794.png
 19795,Rutherglen Glencairn,https://media.api-sports.io/football/teams/19795.png
 19796,St Andrews United,https://media.api-sports.io/football/teams/19796.png
@@ -9322,6 +9326,7 @@ id,name,logo
 20813,Odd U19,https://media.api-sports.io/football/teams/20813.png
 20817,Belgrano Córdoba Res.,https://media.api-sports.io/football/teams/20817.png
 20818,Instituto Res.,https://media.api-sports.io/football/teams/20818.png
+20822,Redcliffe Dolphins,https://media.api-sports.io/football/teams/20822.png
 20831,Muscelul Câmpulung Elite,https://media.api-sports.io/football/teams/20831.png
 20835,Farsta,https://media.api-sports.io/football/teams/20835.png
 20837,Säffle SK,https://media.api-sports.io/football/teams/20837.png
@@ -9509,7 +9514,10 @@ id,name,logo
 21599,Calcutta Customs,https://media.api-sports.io/football/teams/21599.png
 21601,Diamond Harbour,https://media.api-sports.io/football/teams/21601.png
 21602,Eastern Railway,https://media.api-sports.io/football/teams/21602.png
+21604,George Telegraph,https://media.api-sports.io/football/teams/21604.png
 21605,Kalighat,https://media.api-sports.io/football/teams/21605.png
+21608,Peerless,https://media.api-sports.io/football/teams/21608.png
+21609,Railway,https://media.api-sports.io/football/teams/21609.png
 21611,Tollygunge Agragami,https://media.api-sports.io/football/teams/21611.png
 21612,Wari,https://media.api-sports.io/football/teams/21612.png
 21614,Police,https://media.api-sports.io/football/teams/21614.png
@@ -10003,8 +10011,10 @@ id,name,logo
 22875,Botafogo U20,https://media.api-sports.io/football/teams/22875.png
 22890,Shenavarsazi Qeshm,https://media.api-sports.io/football/teams/22890.png
 22892,SC Bengaluru,https://media.api-sports.io/football/teams/22892.png
+22893,Sporting Goa,https://media.api-sports.io/football/teams/22893.png
 22916,Moreton City Excelsior,https://media.api-sports.io/football/teams/22916.png
 22917,Hornau,https://media.api-sports.io/football/teams/22917.png
+22921,Springfield United,https://media.api-sports.io/football/teams/22921.png
 22929,Jordan U17,https://media.api-sports.io/football/teams/22929.png
 22932,Falu BS,https://media.api-sports.io/football/teams/22932.png
 22933,Öckerö,https://media.api-sports.io/football/teams/22933.png
@@ -10172,7 +10182,9 @@ id,name,logo
 23519,Queanbeyan City,https://media.api-sports.io/football/teams/23519.png
 23520,Wagga City Wanderers,https://media.api-sports.io/football/teams/23520.png
 23521,Clarence Zebras II,https://media.api-sports.io/football/teams/23521.png
+23522,Glenorchy Knights II,https://media.api-sports.io/football/teams/23522.png
 23523,Hobart City,https://media.api-sports.io/football/teams/23523.png
+23524,Hobart Utd.,https://media.api-sports.io/football/teams/23524.png
 23525,New Town,https://media.api-sports.io/football/teams/23525.png
 23526,South East Utd.,https://media.api-sports.io/football/teams/23526.png
 23527,South Hobart II,https://media.api-sports.io/football/teams/23527.png
