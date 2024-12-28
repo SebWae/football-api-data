@@ -776,3 +776,7 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1299828,,UTC,2024-09-03,18:45:00,10626,Salters Lane,"Faversham, Kent",90,,45,FA Cup,2024,1st Round Qualifying Replays,7641,Faversham Town,8724,Broadbridge Heath,1,3,0,2,,,,
 1299567,,UTC,2024-09-02,18:45:00,3531,Top Field,"Hitchin, Hertfordshire",90,,45,FA Cup,2024,1st Round Qualifying Replays,7616,Bedford Town,7742,Royston Town,0,3,0,2,,,,
 1299568,,UTC,2024-09-02,18:45:00,10663,Westwood Road,"St Ives, Cambridgeshire",90,,45,FA Cup,2024,1st Round Qualifying Replays,7747,St Ives Town,8814,Harpenden Town,5,2,4,1,,,,
+1208043,"Jarred Gillett, Australia",UTC,2024-09-01,12:30:00,519,Stamford Bridge,London,90,,39,Premier League,2024,Regular Season - 3,49,Chelsea,52,Crystal Palace,1,1,1,0,,,,
+1208048,"Robert Jones, England",UTC,2024-09-01,12:30:00,562,St. James' Park,Newcastle upon Tyne,90,,39,Premier League,2024,Regular Season - 3,34,Newcastle,47,Tottenham,2,1,1,0,,,,
+1293366,,UTC,2024-09-01,13:00:00,21336,Wellesley Recreation Ground,"Great Yarmouth, Norfolk",90,,45,FA Cup,2024,1st Round Qualifying,8794,Great Yarmouth Town,7708,Cheshunt,1,2,0,0,,,,
+1208047,"Anthony Taylor, England",UTC,2024-09-01,15:00:00,556,Old Trafford,Manchester,90,,39,Premier League,2024,Regular Season - 3,33,Manchester United,40,Liverpool,0,3,0,2,,,,
