@@ -3560,6 +3560,7 @@ id,name,logo
 5478,San Pedro Pirates,https://media.api-sports.io/football/teams/5478.png
 5479,Al Najma,https://media.api-sports.io/football/teams/5479.png
 5480,Al Shabab,https://media.api-sports.io/football/teams/5480.png
+5481,Al Hala,https://media.api-sports.io/football/teams/5481.png
 5482,Al Riffa,https://media.api-sports.io/football/teams/5482.png
 5485,East Riffa,https://media.api-sports.io/football/teams/5485.png
 5486,Malkiya,https://media.api-sports.io/football/teams/5486.png
@@ -6730,6 +6731,7 @@ id,name,logo
 13000,Cruzeiro U20,https://media.api-sports.io/football/teams/13000.png
 13001,Cuiabá U20,https://media.api-sports.io/football/teams/13001.png
 13003,Desportivo Brasil U20,https://media.api-sports.io/football/teams/13003.png
+13006,Ferroviária U20,https://media.api-sports.io/football/teams/13006.png
 13008,Fluminense U20,https://media.api-sports.io/football/teams/13008.png
 13009,Fortaleza U20,https://media.api-sports.io/football/teams/13009.png
 13011,Grêmio U20,https://media.api-sports.io/football/teams/13011.png
@@ -6740,6 +6742,7 @@ id,name,logo
 13050,Retrô U20,https://media.api-sports.io/football/teams/13050.png
 13055,Santos U20,https://media.api-sports.io/football/teams/13055.png
 13057,Sertãozinho U20,https://media.api-sports.io/football/teams/13057.png
+13059,São Bento U20,https://media.api-sports.io/football/teams/13059.png
 13076,XV de Jaú U20,https://media.api-sports.io/football/teams/13076.png
 13087,Campo Grande,https://media.api-sports.io/football/teams/13087.png
 13097,Decisão,https://media.api-sports.io/football/teams/13097.png
@@ -6792,6 +6795,7 @@ id,name,logo
 13516,Futura,https://media.api-sports.io/football/teams/13516.png
 13552,EBK,https://media.api-sports.io/football/teams/13552.png
 13563,JPS,https://media.api-sports.io/football/teams/13563.png
+13575,I-Kissat,https://media.api-sports.io/football/teams/13575.png
 13583,Colmar,https://media.api-sports.io/football/teams/13583.png
 13592,Brétigny Foot,https://media.api-sports.io/football/teams/13592.png
 13601,Espaly-Saint-Marcel,https://media.api-sports.io/football/teams/13601.png
@@ -8404,8 +8408,10 @@ id,name,logo
 19078,Spain U20 W,https://media.api-sports.io/football/teams/19078.png
 19079,Brazil U20 W,https://media.api-sports.io/football/teams/19079.png
 19081,Colombia U20 W,https://media.api-sports.io/football/teams/19081.png
+19083,France U20 W,https://media.api-sports.io/football/teams/19083.png
 19084,Germany U20 W,https://media.api-sports.io/football/teams/19084.png
 19086,Japan U20 W,https://media.api-sports.io/football/teams/19086.png
+19090,Nigeria U20 W,https://media.api-sports.io/football/teams/19090.png
 19091,United States U20 W,https://media.api-sports.io/football/teams/19091.png
 19095,Uganda W,https://media.api-sports.io/football/teams/19095.png
 19159,Matagalpa,https://media.api-sports.io/football/teams/19159.png
@@ -9726,6 +9732,8 @@ id,name,logo
 23447,Kakadl,https://media.api-sports.io/football/teams/23447.png
 23448,OTR,https://media.api-sports.io/football/teams/23448.png
 23450,Tambo,https://media.api-sports.io/football/teams/23450.png
+23479,Jose Bonifacio EC U20,https://media.api-sports.io/football/teams/23479.png
+23485,Referencia U20,https://media.api-sports.io/football/teams/23485.png
 23515,ANU,https://media.api-sports.io/football/teams/23515.png
 23516,Brindabella,https://media.api-sports.io/football/teams/23516.png
 23519,Queanbeyan City,https://media.api-sports.io/football/teams/23519.png
@@ -9780,6 +9788,7 @@ id,name,logo
 24176,Inhulets' U19,https://media.api-sports.io/football/teams/24176.png
 24177,Karpaty Lviv U19,https://media.api-sports.io/football/teams/24177.png
 24178,Aemme,https://media.api-sports.io/football/teams/24178.png
+24179,Besa St. Gallen,https://media.api-sports.io/football/teams/24179.png
 24187,Jablonec U19,https://media.api-sports.io/football/teams/24187.png
 24188,Pustá Polom,https://media.api-sports.io/football/teams/24188.png
 24189,Kvasice,https://media.api-sports.io/football/teams/24189.png
