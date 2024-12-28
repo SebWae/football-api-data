@@ -556,6 +556,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 18961,D. Burn,Daniel Johnson,Burn,1992-05-09,Blyth,England,England,198 cm,87 kg,https://media.api-sports.io/football/players/18961.png
 18963,L. Dunk,Lewis Carl,Dunk,1991-11-21,Brighton,England,England,192 cm,88 kg,https://media.api-sports.io/football/players/18963.png
 18968,Y. Bissouma,Yves,Bissouma,1996-08-30,Issia,Côte d'Ivoire,Mali,182 cm,80 kg,https://media.api-sports.io/football/players/18968.png
+18973,S. March,Solomon Benjamin,March,1994-07-20,Eastbourne,England,England,180 cm,88 kg,https://media.api-sports.io/football/players/18973.png
 18979,V. Gyökeres,Viktor Einar,Gyökeres,1998-06-04,Stockholm,Sweden,Sweden,187 cm,90 kg,https://media.api-sports.io/football/players/18979.png
 19004,B. De Cordova-Reid,Bobby Armani,De Cordova-Reid,1993-02-02,Bristol,England,Jamaica,170 cm,68 kg,https://media.api-sports.io/football/players/19004.png
 19012,M. Bettinelli,Marcus,Bettinelli,1992-05-24,Camberwell,England,England,193 cm,82 kg,https://media.api-sports.io/football/players/19012.png
@@ -1646,6 +1647,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 430236,Kian Andrew Best,Kian Andrew,Best,2005-08-27,,England,England,181 cm,,https://media.api-sports.io/football/players/430236.png
 430734,Y. Konak,Yunus Emre,Konak,2006-01-10,Batman,Türkiye,Türkiye,181 cm,76 kg,https://media.api-sports.io/football/players/430734.png
 430774,Alexandre Miguel Soares Carvalho Brito,Alexandre Miguel,Soares Carvalho Brito,2005-07-19,Lisbon,Portugal,Portugal,190 cm,70 kg,https://media.api-sports.io/football/players/430774.png
+430827,Benjamin Arthur,Benjamin,Arthur,2005-10-09,,England,England,,,https://media.api-sports.io/football/players/430827.png
 430829,Vimal Yoganathan,Vimal,Yoganathan,2006-01-31,,Sri Lanka,Sri Lanka,191 cm,,https://media.api-sports.io/football/players/430829.png
 431884,Kai Andrews,Kai,Andrews,2006-08-06,,England,England,186 cm,72 kg,https://media.api-sports.io/football/players/431884.png
 432436,F. Anderson,Freddie,Anderson,2006-10-13,,England,England,,,https://media.api-sports.io/football/players/432436.png
