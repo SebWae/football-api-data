@@ -3452,3 +3452,24 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1298654,49,269,76,,subst,392270,Substitution 4,
 1298654,49,583,76,,subst,138935,Substitution 5,
 1298654,1819,17393,86,,subst,17928,Substitution 5,
+1309279,55,178077,11,,Goal,,Normal Goal,
+1309279,74,336563,57,,Goal,,Normal Goal,
+1309279,74,394595,59,,subst,19394,Substitution 1,
+1309279,74,19375,60,,subst,138807,Substitution 2,
+1309279,55,47438,66,,subst,15908,Substitution 1,
+1309279,55,153066,66,,subst,20649,Substitution 2,
+1309279,74,67973,68,,subst,19866,Substitution 3,
+1309279,74,336563,69,,subst,19680,Substitution 4,
+1309279,74,37380,69,,subst,19566,Substitution 5,
+1309279,55,350625,70,,subst,15745,Substitution 3,
+1309279,74,19680,90,,Card,,Yellow Card,Foul
+1309279,55,20589,120,1,Goal,,Penalty,Penalty Shootout
+1309279,74,19680,120,2,Goal,,Penalty,Penalty Shootout
+1309279,55,106725,120,3,Goal,,Penalty,Penalty Shootout
+1309279,74,19566,120,4,Goal,,Penalty,Penalty Shootout
+1309279,55,15908,120,5,Goal,,Penalty,Penalty Shootout
+1309279,74,19866,120,6,Goal,,Penalty,Penalty Shootout
+1309279,55,20649,120,7,Goal,,Penalty,Penalty Shootout
+1309279,74,19103,120,8,Goal,,Penalty,Penalty Shootout
+1309279,55,25073,120,9,Goal,,Penalty,Penalty Shootout
+1309279,74,19394,120,10,Goal,,Missed Penalty,Penalty Shootout
