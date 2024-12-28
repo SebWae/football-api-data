@@ -1511,6 +1511,7 @@ id,name,logo
 1795,Ferroviaria W,https://media.api-sports.io/football/teams/1795.png
 1798,Corinthians W,https://media.api-sports.io/football/teams/1798.png
 1811,Santos W,https://media.api-sports.io/football/teams/1811.png
+1817,Gremio W,https://media.api-sports.io/football/teams/1817.png
 1818,Aldershot Town,https://media.api-sports.io/football/teams/1818.png
 1819,Barrow,https://media.api-sports.io/football/teams/1819.png
 1820,Chester,https://media.api-sports.io/football/teams/1820.png
@@ -2544,12 +2545,14 @@ id,name,logo
 3531,Tulevik,https://media.api-sports.io/football/teams/3531.png
 3532,Al Arabi,https://media.api-sports.io/football/teams/3532.png
 3533,Al Fahaheel,https://media.api-sports.io/football/teams/3533.png
+3534,Al Jahra,https://media.api-sports.io/football/teams/3534.png
 3535,Al Kuwait,https://media.api-sports.io/football/teams/3535.png
 3536,Al Nasar,https://media.api-sports.io/football/teams/3536.png
 3537,Al Qadsia,https://media.api-sports.io/football/teams/3537.png
 3538,Al Salmiyah,https://media.api-sports.io/football/teams/3538.png
 3539,Al Tadhamon,https://media.api-sports.io/football/teams/3539.png
 3540,Kazma,https://media.api-sports.io/football/teams/3540.png
+3541,Al Shabab,https://media.api-sports.io/football/teams/3541.png
 3543,Al Sulaibikhat,https://media.api-sports.io/football/teams/3543.png
 3544,Burgan,https://media.api-sports.io/football/teams/3544.png
 3545,Khaitan,https://media.api-sports.io/football/teams/3545.png
@@ -4943,6 +4946,7 @@ id,name,logo
 7958,Lech Poznań U19,https://media.api-sports.io/football/teams/7958.png
 7960,Manchester United U19,https://media.api-sports.io/football/teams/7960.png
 7961,Maribor U19,https://media.api-sports.io/football/teams/7961.png
+7962,Molde U19,https://media.api-sports.io/football/teams/7962.png
 7963,Monaco  U19,https://media.api-sports.io/football/teams/7963.png
 7965,PSV U19,https://media.api-sports.io/football/teams/7965.png
 7966,Roma U19,https://media.api-sports.io/football/teams/7966.png
@@ -8721,7 +8725,9 @@ id,name,logo
 19105,North Toronto Nitros,https://media.api-sports.io/football/teams/19105.png
 19107,ProStars,https://media.api-sports.io/football/teams/19107.png
 19108,Scrosoppi,https://media.api-sports.io/football/teams/19108.png
+19109,Sigma,https://media.api-sports.io/football/teams/19109.png
 19110,Simcoe County Rovers,https://media.api-sports.io/football/teams/19110.png
+19114,Woodbridge Strikers,https://media.api-sports.io/football/teams/19114.png
 19159,Matagalpa,https://media.api-sports.io/football/teams/19159.png
 19163,Deportivo Barberena,https://media.api-sports.io/football/teams/19163.png
 19164,San Benito,https://media.api-sports.io/football/teams/19164.png
@@ -9102,7 +9108,9 @@ id,name,logo
 20219,Železniki,https://media.api-sports.io/football/teams/20219.png
 20220,Bistrica Srednja B.,https://media.api-sports.io/football/teams/20220.png
 20221,Graničar Lendava,https://media.api-sports.io/football/teams/20221.png
+20223,Nedelica,https://media.api-sports.io/football/teams/20223.png
 20225,Turnišče,https://media.api-sports.io/football/teams/20225.png
+20226,Čentiba,https://media.api-sports.io/football/teams/20226.png
 20238,Pyunik U19,https://media.api-sports.io/football/teams/20238.png
 20240,Rukh Vynnyky U19,https://media.api-sports.io/football/teams/20240.png
 20243,Trenčín U19,https://media.api-sports.io/football/teams/20243.png
@@ -9326,6 +9334,7 @@ id,name,logo
 20813,Odd U19,https://media.api-sports.io/football/teams/20813.png
 20817,Belgrano Córdoba Res.,https://media.api-sports.io/football/teams/20817.png
 20818,Instituto Res.,https://media.api-sports.io/football/teams/20818.png
+20821,North Brisbane,https://media.api-sports.io/football/teams/20821.png
 20822,Redcliffe Dolphins,https://media.api-sports.io/football/teams/20822.png
 20831,Muscelul Câmpulung Elite,https://media.api-sports.io/football/teams/20831.png
 20835,Farsta,https://media.api-sports.io/football/teams/20835.png
@@ -9516,8 +9525,11 @@ id,name,logo
 21602,Eastern Railway,https://media.api-sports.io/football/teams/21602.png
 21604,George Telegraph,https://media.api-sports.io/football/teams/21604.png
 21605,Kalighat,https://media.api-sports.io/football/teams/21605.png
+21606,Kidderpore,https://media.api-sports.io/football/teams/21606.png
+21607,Patha Chakra,https://media.api-sports.io/football/teams/21607.png
 21608,Peerless,https://media.api-sports.io/football/teams/21608.png
 21609,Railway,https://media.api-sports.io/football/teams/21609.png
+21610,Southern Samity,https://media.api-sports.io/football/teams/21610.png
 21611,Tollygunge Agragami,https://media.api-sports.io/football/teams/21611.png
 21612,Wari,https://media.api-sports.io/football/teams/21612.png
 21614,Police,https://media.api-sports.io/football/teams/21614.png
@@ -9649,6 +9661,7 @@ id,name,logo
 21998,Silifke Belediyespor,https://media.api-sports.io/football/teams/21998.png
 21999,Viven Bornova,https://media.api-sports.io/football/teams/21999.png
 22000,FC Bacau,https://media.api-sports.io/football/teams/22000.png
+22001,Aryan,https://media.api-sports.io/football/teams/22001.png
 22009,Adana 1954 FK,https://media.api-sports.io/football/teams/22009.png
 22010,Sebat Gençlikspor,https://media.api-sports.io/football/teams/22010.png
 22015,Antioquia,https://media.api-sports.io/football/teams/22015.png
@@ -10102,6 +10115,7 @@ id,name,logo
 23222,Irvine Zeta,https://media.api-sports.io/football/teams/23222.png
 23255,Sarmiento de La Banda,https://media.api-sports.io/football/teams/23255.png
 23261,Lisburn,https://media.api-sports.io/football/teams/23261.png
+23262,Petrópolis,https://media.api-sports.io/football/teams/23262.png
 23265,Shenzhen Juniors,https://media.api-sports.io/football/teams/23265.png
 23266,Leevon / PPK,https://media.api-sports.io/football/teams/23266.png
 23267,Garuda,https://media.api-sports.io/football/teams/23267.png
