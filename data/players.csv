@@ -757,6 +757,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 22090,W. Saliba,William Alain André Gabriel,Saliba,2001-03-24,Bondy,France,France,192 cm,92 kg,https://media.api-sports.io/football/players/22090.png
 22094,W. Fofana,Wesley Tidjan,Fofana,2000-12-17,Marseille,France,France,190 cm,84 kg,https://media.api-sports.io/football/players/22094.png
 22147,M. Koné,Kouadio Emmanuel,Koné,2001-05-17,Colombes,France,France,185 cm,80 kg,https://media.api-sports.io/football/players/22147.png
+22149,I. Sangaré,Ibrahim,Sangaré,1997-12-02,Abidjan,Côte d'Ivoire,Côte d'Ivoire,191 cm,77 kg,https://media.api-sports.io/football/players/22149.png
 22173,A. Saint-Maximin,Allan Irénée,Saint-Maximin,1997-03-12,Châtenay-Malabry,France,France,173 cm,67 kg,https://media.api-sports.io/football/players/22173.png
 22221,M. Maignan,Mike Peterson,Maignan,1995-07-03,Cayenne,Guyana,France,191 cm,89 kg,https://media.api-sports.io/football/players/22221.png
 22222,Z. Çelik,Mehmet Zeki,Çelik,1997-02-17,Bursa,Türkiye,Türkiye,180 cm,78 kg,https://media.api-sports.io/football/players/22222.png
@@ -1549,6 +1550,8 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 328141,T. Beelen,Thomas,Beelen,2001-06-11,Harderwijk,Netherlands,Netherlands,180 cm,80 kg,https://media.api-sports.io/football/players/328141.png
 328225,B. Gruda,Brajan,Gruda,2004-05-31,,Germany,Germany,178 cm,70 kg,https://media.api-sports.io/football/players/328225.png
 328978,M. Sonko,Momodou Lamin,Sonko,2005-01-31,Göteborg,Sweden,Sweden,176 cm,70 kg,https://media.api-sports.io/football/players/328978.png
+329344,Ben Perry,Benjamin,Marshall Perry,2004-10-11,,England,England,184 cm,75 kg,https://media.api-sports.io/football/players/329344.png
+329357,Z. Abbott,Zach,Abbott,2006-05-13,,England,England,180 cm,70 kg,https://media.api-sports.io/football/players/329357.png
 330296,Diego Callai,Diego,Callai Silva,2004-07-18,Caxias do Sul,Brazil,Brazil,190 cm,88 kg,https://media.api-sports.io/football/players/330296.png
 330316,N. Bassette,Norman Jaquy,Bassette Van Acker,2004-11-09,Arlon,Belgium,Belgium,186 cm,74 kg,https://media.api-sports.io/football/players/330316.png
 330412,Youssef Chermiti,Youssef,Ramalho Chermiti,2004-05-24,"Santa Maria, Açores",Portugal,Portugal,192 cm,84 kg,https://media.api-sports.io/football/players/330412.png
