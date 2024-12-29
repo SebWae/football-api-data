@@ -10,6 +10,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 82,Míchel,Miguel Ángel,Sánchez Muñoz,1975-10-30,Madrid,Spain,Spain,174 cm,66 kg,https://media.api-sports.io/football/coachs/82.png
 90,T. Frank,Thomas,Frank,1973-10-09,,Denmark,Denmark,,,https://media.api-sports.io/football/coachs/90.png
 98,S. Cooper,Steven David,Cooper,1979-12-10,Hopkinstown,Wales,Wales,,,https://media.api-sports.io/football/coachs/98.png
+99,G. McCann,Grant,McCann,1980-04-15,Belfast,Northern Ireland,Northern Ireland,178 cm,69 kg,https://media.api-sports.io/football/coachs/99.png
 109,D. Cowley,Danny,Cowley,1978-10-22,,England,England,,,https://media.api-sports.io/football/coachs/109.png
 136,Fernando Diniz,Fernando,Diniz Silva,1974-03-27,Patos de Minas,Brazil,Brazil,,,https://media.api-sports.io/football/coachs/136.png
 185,V. Weiss,Vladimír,Weiss,1964-09-22,Bratislava,Slovakia,Slovakia,182 cm,,https://media.api-sports.io/football/coachs/185.png
