@@ -3623,3 +3623,24 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208036,40,306,83,,subst,19035,Substitution 4,
 1208036,55,20589,90,4,Card,,Yellow Card,Argument
 1208036,40,542,90,1,subst,8500,Substitution 5,
+1208037,57,17579,7,,Goal,18823,Normal Goal,
+1208037,50,266657,10,,Var,,Penalty confirmed,
+1208037,50,1100,12,,Goal,,Penalty,
+1208037,50,629,14,,Goal,266657,Normal Goal,
+1208037,50,1100,16,,Goal,629,Normal Goal,
+1208037,57,19558,36,,Card,,Yellow Card,Foul
+1208037,50,2291,50,,subst,626,Substitution 1,
+1208037,57,17579,55,,Card,,Yellow Card,Foul
+1208037,50,567,59,,Card,,Yellow Card,Foul
+1208037,50,1422,71,,subst,633,Substitution 2,
+1208037,50,266657,71,,subst,19187,Substitution 3,
+1208037,57,2752,72,,subst,18397,Substitution 1,
+1208037,57,17579,72,,subst,20031,Substitution 2,
+1208037,57,161948,83,,subst,299813,Substitution 3,
+1208037,50,1100,88,,Goal,,Normal Goal,
+1208037,57,19182,89,,subst,17739,Substitution 4,
+1208037,57,284428,89,,subst,20007,Substitution 5,
+1208037,50,629,90,,subst,41621,Substitution 4,
+1208037,50,1100,90,,subst,158697,Substitution 5,
+1208037,57,299813,90,4,Card,,Yellow Card,Foul
+1208037,50,19187,90,5,Card,,Yellow Card,Simulation
