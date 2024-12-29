@@ -40,6 +40,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1952,K. Knutsen,Kjetil,Knutsen,1968-10-02,Bergen,Norway,Norway,,,https://media.api-sports.io/football/coachs/1952.png
 1993,E. ten Hag,Erik,ten Hag,1970-02-02,Haaksbergen,Netherlands,Netherlands,,,https://media.api-sports.io/football/coachs/1993.png
 2006,A. Slot,Arne,Slot,1978-09-17,Bergentheim,Netherlands,Netherlands,185 cm,75 kg,https://media.api-sports.io/football/coachs/2006.png
+2016,T. Häberli,Thomas,Häberli,1974-04-11,Luzern,Switzerland,Switzerland,,,https://media.api-sports.io/football/coachs/2016.png
 2108,Andoni Iraola,Andoni,Iraola Sagarna,1982-06-22,Usurbil,Spain,Spain,178 cm,77 kg,https://media.api-sports.io/football/coachs/2108.png
 2392,S. Inzaghi,Simone,Inzaghi,1976-04-05,Piacenza,Italy,Italy,185 cm,82 kg,https://media.api-sports.io/football/coachs/2392.png
 2393,G. Gasperini,Gian Piero,Gasperini,1958-01-26,Grugliasco,Italy,Italy,,,https://media.api-sports.io/football/coachs/2393.png
