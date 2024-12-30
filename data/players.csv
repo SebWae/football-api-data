@@ -659,6 +659,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 19337,O. McBurnie,Oliver Robert,McBurnie,1996-06-04,Leeds,England,Scotland,188 cm,79 kg,https://media.api-sports.io/football/players/19337.png
 19341,D. Bentley,Daniel Ian,Bentley,1993-07-13,Basildon,England,England,188 cm,73 kg,https://media.api-sports.io/football/players/19341.png
 19354,E. Konsa,Ezri,Konsa Ngoyo,1997-10-23,London,England,England,183 cm,73 kg,https://media.api-sports.io/football/players/19354.png
+19364,N. Maupay,Neal,Maupay,1996-08-14,Versailles,France,France,173 cm,69 kg,https://media.api-sports.io/football/players/19364.png
 19365,C. Ogbene,Chiedozie,Ogbene,1997-05-01,Lagos,Nigeria,Republic of Ireland,181 cm,78 kg,https://media.api-sports.io/football/players/19365.png
 19366,O. Watkins,Oliver George Arthur,Watkins,1995-12-30,Torbay,England,England,180 cm,75 kg,https://media.api-sports.io/football/players/19366.png
 19375,D. Iorfa,Dominic,Iorfa,1995-06-24,Southend,England,England,193 cm,78 kg,https://media.api-sports.io/football/players/19375.png
@@ -1549,6 +1550,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 297522,John Kennedy,John Kennedy,Batista de Souza,2002-05-18,,Brazil,Brazil,173 cm,71 kg,https://media.api-sports.io/football/players/297522.png
 297583,J. Mitchell,Jeyland Yahir,Mitchell Baltodano,2004-09-29,Puerto Limón,Costa Rica,Costa Rica,187 cm,82 kg,https://media.api-sports.io/football/players/297583.png
 297640,Roman Dixon,Roman,Dixon,2004-12-26,Stafford,England,England,175 cm,65 kg,https://media.api-sports.io/football/players/297640.png
+297641,Jenson Metcalfe,Jenson,Metcalfe,2004-09-06,,England,England,,,https://media.api-sports.io/football/players/297641.png
 298104,C. Barrett,Connor Ellis,Barrett,2002-03-01,Leicester,England,England,,,https://media.api-sports.io/football/players/298104.png
 298128,K. Kesler-Hayden,Kaine,Kesler-Hayden,2002-10-23,,England,England,175 cm,,https://media.api-sports.io/football/players/298128.png
 299802,J. McGrath,John-Alan,McGrath,2003-04-15,Doncaster,England,England,190 cm,,https://media.api-sports.io/football/players/299802.png
