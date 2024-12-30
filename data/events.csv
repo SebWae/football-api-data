@@ -4000,3 +4000,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208047,40,283,76,,subst,180317,Substitution 3,
 1208047,40,289,83,,subst,1600,Substitution 4,
 1208047,33,70100,86,,subst,174,Substitution 4,
+1208048,34,19263,28,,Card,,Yellow Card,Foul
+1208048,47,237129,34,,Card,,Yellow Card,Foul
+1208048,34,18778,37,,Goal,19263,Normal Goal,
+1208048,34,18901,41,,Card,,Yellow Card,Foul
+1208048,34,723,45,2,Card,,Yellow Card,Persistent fouling
+1208048,47,237129,46,,subst,129711,Substitution 1,
+1208048,47,18968,48,,Card,,Yellow Card,Foul
+1208048,47,18961,56,,Goal,,Own Goal,
+1208048,34,10135,58,,Card,,Yellow Card,Foul
+1208048,34,18778,61,,subst,19163,Substitution 1,
+1208048,34,19263,68,,subst,284492,Substitution 2,
+1208048,34,18901,68,,subst,31146,Substitution 3,
+1208048,47,18784,68,,Card,,Yellow Card,Foul
+1208048,47,336564,74,,subst,1166,Substitution 2,
+1208048,34,2864,78,,Goal,19163,Normal Goal,
+1208048,47,18968,82,,subst,863,Substitution 3,
+1208048,47,18784,82,,subst,347316,Substitution 4,
+1208048,47,863,84,,Card,,Yellow Card,Foul
+1208048,34,138787,90,4,subst,2507,Substitution 4,
