@@ -8,6 +8,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 18,Unai Emery,Unai,Emery Etxegoien,1971-11-03,Hondarribia,Spain,Spain,,,https://media.api-sports.io/football/coachs/18.png
 55,Vítor Pereira,Vítor Manuel,de Oliveira Lopes Pereira,1968-07-26,Espinho,Portugal,Portugal,,,https://media.api-sports.io/football/coachs/55.png
 82,Míchel,Miguel Ángel,Sánchez Muñoz,1975-10-30,Madrid,Spain,Spain,174 cm,66 kg,https://media.api-sports.io/football/coachs/82.png
+87,S. Parker,Scott Matthew,Parker,1980-10-13,Lambeth,England,England,175 cm,69 kg,https://media.api-sports.io/football/coachs/87.png
 90,T. Frank,Thomas,Frank,1973-10-09,,Denmark,Denmark,,,https://media.api-sports.io/football/coachs/90.png
 98,S. Cooper,Steven David,Cooper,1979-12-10,Hopkinstown,Wales,Wales,,,https://media.api-sports.io/football/coachs/98.png
 99,G. McCann,Grant,McCann,1980-04-15,Belfast,Northern Ireland,Northern Ireland,178 cm,69 kg,https://media.api-sports.io/football/coachs/99.png
