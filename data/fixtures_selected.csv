@@ -1205,3 +1205,40 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1277994,,UTC,2024-08-16,18:45:00,5559,Kirkby Road,"Barwell, Leicestershire",90,,45,FA Cup,2024,Preliminary Round,11989,Hinckley AFC,8870,Malvern Town,2,5,,,,,,
 1282266,,UTC,2024-08-16,18:45:00,20897,Skye Direct Stadium,"Golcar, West Yorkshire",90,,45,FA Cup,2024,Preliminary Round,17044,Golcar United,8967,Thackley,0,1,,,,,,
 1208021,"Robert Jones, England",UTC,2024-08-16,19:00:00,556,Old Trafford,Manchester,90,,39,Premier League,2024,Regular Season - 1,33,Manchester United,36,Fulham,1,0,0,0,,,,
+1274778,"Manfredas Lukjancukas, Lithuania",UTC,2024-08-15,16:00:00,145,Allianz Stadion,Wien,90,,3,UEFA Europa League,2024,3rd Qualifying Round,781,Rapid Vienna,998,Trabzonspor,2,0,0,0,,,,
+1274792,"Anastasios Papapetrou, Greece",UTC,2024-08-15,16:00:00,,Victoria Stadium,Gibraltar,90,,3,UEFA Europa League,2024,3rd Qualifying Round,667,Lincoln Red Imps FC,394,Dinamo Minsk,2,1,1,0,,,,
+1274812,M. Bîrsan,UTC,2024-08-15,16:00:00,,Bank Respublika Arena,Masazir,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,13976,Sabah FA,3843,St Patrick's Athl.,0,1,0,0,,,,
+1274828,C. Theouli,UTC,2024-08-15,16:00:00,1253,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,Warszawa,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,339,Legia Warszawa,407,Brondby,1,1,1,1,,,,
+1274844,M. Očenáš,UTC,2024-08-15,16:00:00,605,A. Le Coq Arena,Tallinn,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,687,Flora Tallinn,278,Vikingur Reykjavik,1,2,0,2,,,,
+1274846,Miguel Nogueira,UTC,2024-08-15,16:00:00,121,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,Yerevan,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,709,Pyunik Yerevan,692,Ordabasy,1,0,0,0,,,,
+1274834,J. Weinberger,UTC,2024-08-15,16:30:00,,Liv Bona Dea Arena,Baku,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,648,Zira,616,NK Osijek,2,2,0,1,0,0,2,1
+1253322,"Horatiu Fesnic, Romania",UTC,2024-08-15,17:00:00,438,Doosan Aréna,Plzeň,90,,3,UEFA Europa League,2024,3rd Qualifying Round,567,Plzen,6489,Kryvbas KR,1,0,0,0,,,,
+1274776,"Andris Treimanis, Latvia",UTC,2024-08-15,17:00:00,1507,Borås Arena,Borås,90,,3,UEFA Europa League,2024,3rd Qualifying Round,372,IF Elfsborg,561,HNK Rijeka,2,0,0,0,,,,
+1274794,S. Attwell,UTC,2024-08-15,17:00:00,2495,Městský stadion - Vítkovice Aréna,Ostrava,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,3713,Baník Ostrava,400,FC Copenhagen,1,0,1,0,0,0,1,2
+1274796,J. Jaanovits,UTC,2024-08-15,17:00:00,299,Gradski stadion,Lovech,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,563,Hapoel Beer Sheva,640,Mlada Boleslav,2,4,2,0,,,,
+1274808,A. Chivulete,UTC,2024-08-15,17:00:00,19681,Romssa Arena,Tromsø,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,325,Tromso,250,Kilmarnock,0,1,0,1,,,,
+1274814,R. Gidzhenov,UTC,2024-08-15,17:00:00,1176,Brann Stadion,Bergen,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,319,Brann,251,ST Mirren,3,1,1,0,,,,
+1274816,L. D'hondt,UTC,2024-08-15,17:00:00,19616,Alphamega Stadium,Kolossi,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,3403,Pafos,1426,CSKA 1948,1,0,0,0,3,0,,
+1274818,E. Məsiyev,UTC,2024-08-15,17:00:00,1506,Tele2 Arena,Stockholm,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,364,Djurgardens IF,1163,Ilves,3,1,2,1,,,,
+1274830,T. Bognár,UTC,2024-08-15,17:00:00,1311,Stadionul Dr. Constantin Rădulescu,Cluj-Napoca,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,2246,CFR 1907 Cluj,4495,Maccabi Petah Tikva,1,0,0,0,,,,
+1274842,M. Mariani,UTC,2024-08-15,17:00:00,1093,Bolshaya Sportivnaya Arena,Tiraspol,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,568,Sheriff Tiraspol,677,Olimpija Ljubljana,0,1,0,0,,,,
+1274824,R. Schröder,UTC,2024-08-15,17:30:00,,OPAP Arena,Athens,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,575,AEK Athens FC,3684,FC Noah,1,0,0,0,,,,
+1274826,P. Raczkowski,UTC,2024-08-15,17:45:00,1584,Başakşehir Fatih Terim Stadyumu,İstanbul,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,564,Istanbul Basaksehir,3502,Saburtalo,2,0,0,0,,,,
+1273691,K. Karlsson,UTC,2024-08-15,18:00:00,,Stadiumi Fadil Vokrri,Pristina,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,14281,Drita,4135,Auda,1,0,0,0,2,1,,
+1274780,"Balazs Berke, Hungary",UTC,2024-08-15,18:00:00,176,Jan Breydelstadion,Brugge,90,,3,UEFA Europa League,2024,3rd Qualifying Round,741,Cercle Brugge,329,Molde,1,0,1,0,,,,
+1274806,Gustavo Correia,UTC,2024-08-15,18:00:00,18679,TSC Arena,Bačka Topola,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,702,Vojvodina,552,Maribor,1,0,1,0,0,0,2,4
+1274838,R. Hennessy,UTC,2024-08-15,18:00:00,202,Stadion Bijeli Brijeg,Mostar,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,588,Zrinjski,634,Botev Plovdiv,2,0,1,0,,,,
+1274782,"Chris Kavanagh, England",UTC,2024-08-15,18:15:00,1117,Johan Cruijff Arena,Amsterdam,120,,3,UEFA Europa League,2024,3rd Qualifying Round,194,Ajax,617,Panathinaikos,0,1,0,0,0,0,13,12
+1274774,"Nick Walsh, Scotland",UTC,2024-08-15,18:30:00,812,Haladás Stadion,Szombathely,90,,3,UEFA Europa League,2024,3rd Qualifying Round,604,Maccabi Tel Aviv,3874,Panevėžys,3,0,1,0,,,,
+1274784,"Igor Pajač, Croatia",UTC,2024-08-15,18:30:00,,Stade de Genéve,Geneva,90,,3,UEFA Europa League,2024,3rd Qualifying Round,2184,Servette FC,217,SC Braga,1,2,0,1,,,,
+1274790,"Ricardo De Burgos Bengoetxea, Spain",UTC,2024-08-15,18:30:00,1544,Stockhorn Arena,Thun,120,,3,UEFA Europa League,2024,3rd Qualifying Round,606,FC Lugano,573,FK Partizan,1,2,0,1,1,0,,
+1274810,D. Robertson,UTC,2024-08-15,18:30:00,1258,Stadion Miejski im. Henryka Reymana,Kraków,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,338,Wisla Krakow,1120,Spartak Trnava,2,0,1,0,1,1,12,11
+1274832,José Munuera,UTC,2024-08-15,18:30:00,20727,Planet Group Arena,Gent,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,631,Gent,2073,Silkeborg,2,2,1,1,1,0,,
+1274836,D. Strukan,UTC,2024-08-15,18:30:00,18628,Tarczyński Arena,Wrocław,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,337,Slask Wroclaw,1011,FC ST. Gallen,3,2,3,1,,,,
+1271724,R. Valikonis,UTC,2024-08-15,19:00:00,4045,Inver Park,Larne,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,5354,Larne,12733,Ballkani,0,1,0,1,0,0,4,1
+1271726,A. Ladebäck,UTC,2024-08-15,19:00:00,1098,Stadion Kraj Bistrice,Nikšić,120,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,3745,Dečić,649,HJK helsinki,2,1,1,1,0,0,3,4
+1273693,"Ovidiu Hategan, Romania",UTC,2024-08-15,19:00:00,865,Tallaght Stadium,Dublin,120,,3,UEFA Europa League,2024,3rd Qualifying Round,652,Shamrock Rovers,4360,Celje,2,1,2,0,1,0,,
+1274786,"Georgi Kabakov, Bulgaria",UTC,2024-08-15,19:00:00,2187,Gradski Stadion,Banja Luka,120,,3,UEFA Europa League,2024,3rd Qualifying Round,3364,Borac Banja Luka,701,KI Klaksvik,2,1,1,0,1,0,,
+1274798,G. Nuza,UTC,2024-08-15,19:00:00,1764,Puskás Akadémia Pancho Aréna,Felcsút,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,2391,Puskas Academy,3683,Ararat-Armenia,3,3,1,2,,,,
+1274822,L. Pairetto,UTC,2024-08-15,19:00:00,413,Stadion Poljud,Split,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,608,HNK Hajduk Split,3549,Ružomberok,0,1,0,1,,,,
+1274800,O. Derevinskyi,UTC,2024-08-15,19:15:00,1295,Estádio Dom Afonso Henriques,Guimarães,90,,848,UEFA Europa Conference League,2024,3rd Qualifying Round,224,Guimaraes,783,FC Zurich,2,0,0,0,,,,
