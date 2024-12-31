@@ -4181,3 +4181,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208051,49,336671,87,,Card,,Yellow Card,
 1208051,49,583,90,1,Card,,Yellow Card,Foul
 1208051,35,19281,90,6,Card,,Yellow Card,Argument
+1208052,45,18592,14,,Card,,Yellow Card,Time wasting
+1208052,45,18929,16,,Goal,,Normal Goal,
+1208052,45,284500,19,,Card,,Yellow Card,Foul
+1208052,45,2165,26,,subst,895,Substitution 1,
+1208052,45,18766,27,,Goal,18929,Normal Goal,
+1208052,66,19366,36,,Goal,2724,Normal Goal,
+1208052,66,162714,46,,subst,2287,Substitution 1,
+1208052,66,19599,47,,Card,,Yellow Card,Time wasting
+1208052,66,19366,58,,Goal,,Normal Goal,
+1208052,45,19128,64,,subst,270139,Substitution 2,
+1208052,45,2990,64,,subst,24882,Substitution 3,
+1208052,66,19192,69,,subst,13489,Substitution 2,
+1208052,66,2724,69,,subst,138816,Substitution 3,
+1208052,66,13489,76,,Goal,2287,Normal Goal,
+1208052,45,894,80,,Card,,Yellow Card,Argument
+1208052,45,18592,81,,subst,15884,Substitution 4,
+1208052,45,284500,81,,subst,125743,Substitution 5,
+1208052,66,19366,84,,subst,19071,Substitution 4,
+1208052,45,270139,88,,Card,,Yellow Card,Foul
+1208052,66,19191,90,,subst,138931,Substitution 5,
