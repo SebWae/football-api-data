@@ -4284,3 +4284,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208057,50,626,84,,subst,567,Substitution 4,
 1208057,55,15908,84,,subst,263538,Substitution 4,
 1208057,50,266657,90,2,subst,41621,Substitution 5,
+1208058,33,284322,26,,Card,,Yellow Card,Handball
+1208058,33,532,35,,Goal,1485,Normal Goal,
+1208058,33,909,41,,Goal,157997,Normal Goal,
+1208058,33,174,57,,Card,,Yellow Card,Foul
+1208058,41,137302,62,,subst,45078,Substitution 1,
+1208058,41,304317,63,,subst,295,Substitution 2,
+1208058,41,270508,64,,subst,665,Substitution 3,
+1208058,41,19485,64,,subst,18873,Substitution 4,
+1208058,33,1485,68,,Card,,Yellow Card,Time wasting
+1208058,41,665,71,,Card,,Yellow Card,
+1208058,33,174,73,,subst,51494,Substitution 1,
+1208058,33,909,73,,subst,284324,Substitution 2,
+1208058,33,545,74,,subst,2935,Substitution 3,
+1208058,33,2935,75,,Card,,Yellow Card,Time wasting
+1208058,33,2467,77,,subst,18772,Substitution 4,
+1208058,41,18940,79,,Card,,Red Card,Foul
+1208058,41,336585,81,,subst,144729,Substitution 5,
+1208058,33,532,87,,subst,747,Substitution 5,
+1208058,33,284324,90,6,Goal,886,Normal Goal,
