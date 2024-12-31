@@ -1059,3 +1059,5 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1208203,"Craig Pawson, England",UTC,2024-12-30,19:45:00,495,Villa Park,Birmingham,90,6,39,Premier League,2024,Regular Season - 19,66,Aston Villa,51,Brighton,2,2,1,1,,,,
 1208208,"John Brooks, England",UTC,2024-12-30,19:45:00,545,Portman Road,"Ipswich, Suffolk",90,7,39,Premier League,2024,Regular Season - 19,57,Ipswich,49,Chelsea,2,0,1,0,,,,
 1208210,"Simon Hooper, England",UTC,2024-12-30,20:00:00,556,Old Trafford,Manchester,90,4,39,Premier League,2024,Regular Season - 19,33,Manchester United,34,Newcastle,0,2,0,2,,,,
+1292983,,UTC,2024-08-19,18:45:00,5242,infiLED Arena,"Melksham, Wiltshire",90,,45,FA Cup,2024,Preliminary Round Replays,7241,Melksham Town,8926,Shaftesbury Town,4,1,,,,,,
+1208030,"Chris Kavanagh, England",UTC,2024-08-19,19:00:00,547,King Power Stadium,"Leicester, Leicestershire",90,,39,Premier League,2024,Regular Season - 1,46,Leicester,47,Tottenham,1,1,0,1,,,,
