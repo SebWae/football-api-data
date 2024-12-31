@@ -177,3 +177,31 @@ def transform_to_integer_cols(df, integer_cols):
     df[integer_cols] = df[integer_cols].astype("Int64")
 
     return df
+
+
+def fixtures_to_register(team_ids, league_ids, mode):
+    """
+    mode (str): teams or leagues
+    team_ids (set): set of team ids to register fixtures for
+    league_ids (set): set of league ids to register fixtures for
+    """
+    registered_df = pd.read_csv("data/lineups_tactics.csv")
+    registered_fixtures = set(registered_df["fixture_id"])
+    selected_fixtures_df = pd.read_csv("data/fixtures_selected.csv")
+
+    if mode == "teams":    
+        selected_fixtures_df = selected_fixtures_df[(selected_fixtures_df["home_team_id"].isin(team_ids)) |
+                                                    (selected_fixtures_df["away_team_id"].isin(team_ids))
+                                                    ]
+    elif mode == "leagues":
+        selected_fixtures_df = selected_fixtures_df[(selected_fixtures_df["league_id"].isin(league_ids))]
+        
+    all_fixtures = set(selected_fixtures_df["id"])
+    fixtures_to_register = all_fixtures.difference(registered_fixtures)
+    n = len(fixtures_to_register)
+
+    if n == 0:
+        print("All fixtures have been registered!")
+    else:
+        print(f"There are {n} fixtures to be registered!")
+        print(fixtures_to_register)
