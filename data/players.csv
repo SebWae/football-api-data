@@ -888,6 +888,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 31009,A. Bastoni,Alessandro,Bastoni,1999-04-13,Casalmaggiore,Italy,Italy,190 cm,75 kg,https://media.api-sports.io/football/players/31009.png
 31010,F. Dimarco,Federico,Dimarco,1997-11-10,Milano,Italy,Italy,175 cm,75 kg,https://media.api-sports.io/football/players/31010.png
 31035,B. Drągowski,Bartłomiej,Drągowski,1997-08-19,Białystok,Poland,Poland,191 cm,74 kg,https://media.api-sports.io/football/players/31035.png
+31057,H. Traorè,Hamed Junior,Traorè,2000-02-16,,Côte d'Ivoire,Côte d'Ivoire,184 cm,77 kg,https://media.api-sports.io/football/players/31057.png
 31098,F. Ravaglia,Federico,Ravaglia,1999-11-11,Bologna,Italy,Italy,196 cm,88 kg,https://media.api-sports.io/football/players/31098.png
 31099,N. Casale,Nicolò,Casale,1998-02-14,Negrar,Italy,Italy,191 cm,84 kg,https://media.api-sports.io/football/players/31099.png
 31146,S. Tonali,Sandro,Tonali,2000-05-08,Lodi,Italy,Italy,181 cm,79 kg,https://media.api-sports.io/football/players/31146.png
@@ -1488,6 +1489,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 274300,M. Akliouche,Maghnes,Akliouche,2002-02-25,Tremblay-en-France,France,France,183 cm,72 kg,https://media.api-sports.io/football/players/274300.png
 274550,H. Vale,Harvey James,Vale,2003-09-11,,England,England,181 cm,73 kg,https://media.api-sports.io/football/players/274550.png
 275102,C. Barker,Charlie Mel,Barker,2003-02-12,Rotherham,England,England,180 cm,74 kg,https://media.api-sports.io/football/players/275102.png
+275170,Danilo,Danilo,dos Santos de Oliveira,2001-04-29,Salvador,Brazil,Brazil,176 cm,69 kg,https://media.api-sports.io/football/players/275170.png
 275385,U. Simbakoli,Usman,Mamadou Simbakoli,2001-12-12,Bangui,France,Central African Republic,189 cm,79 kg,https://media.api-sports.io/football/players/275385.png
 275559,R. Khaleel,Rafiq Salah-Edine,Khaleel,2003-02-24,Camden,England,Morocco,177 cm,64 kg,https://media.api-sports.io/football/players/275559.png
 275776,K. Asllani,Kristjan,Asllani,2002-03-09,Elbasan,Albania,Albania,175 cm,69 kg,https://media.api-sports.io/football/players/275776.png
