@@ -4512,3 +4512,12 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208028,55,47438,84,,subst,15799,Substitution 4,
 1208028,55,20589,90,,subst,18917,Substitution 5,
 1208028,52,3428,90,1,Card,,Yellow Card,Foul
+1208029,50,1100,18,,Goal,636,Normal Goal,
+1208029,50,266657,46,,subst,631,Substitution 1,
+1208029,49,269,58,,subst,1864,Substitution 1,
+1208029,50,1100,66,,Card,,Yellow Card,Foul
+1208029,49,283058,66,,subst,392270,Substitution 2,
+1208029,49,282125,66,,subst,148099,Substitution 3,
+1208029,49,47380,80,,subst,336671,Substitution 4,
+1208029,50,2291,84,,Goal,,Normal Goal,
+1208029,49,116117,89,,Card,,Yellow Card,Foul
