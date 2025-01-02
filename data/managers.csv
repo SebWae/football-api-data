@@ -53,6 +53,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 2462,José Mourinho,José Mário,dos Santos Mourinho Félix,1963-01-26,Setúbal,Portugal,Portugal,,,https://media.api-sports.io/football/coachs/2462.png
 2853,C. Ranieri,Claudio,Ranieri,1951-10-20,Roma,Italy,Italy,182 cm,,https://media.api-sports.io/football/coachs/2853.png
 2950,N. Adkins,Nigel Howard,Adkins,1965-03-11,Birkenhead,England,England,,,https://media.api-sports.io/football/coachs/2950.png
+3044,A. Kombouare,Antoine,Kombouare,1963-11-16,Nouméa,New Caledonia,France,,,https://media.api-sports.io/football/coachs/3044.png
 3173,M. Pusic,Marino,Pusic,1971-08-18,Mostar,Bosnia and Herzegovina,Netherlands,,,https://media.api-sports.io/football/coachs/3173.png
 4669,G. Babayan,Grigoriy,Babayan,1980-04-02,,Kazakhstan,Kazakhstan,,,https://media.api-sports.io/football/coachs/4669.png
 4720,Ruben Amorim,Rúben Filipe,Marques Diogo Amorim,1985-01-27,Lisboa,Portugal,Portugal,182 cm,72 kg,https://media.api-sports.io/football/coachs/4720.png
@@ -65,6 +66,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 7248,Mikel Arteta,Mikel,Arteta Amatriain,1982-03-26,San Sebastián,Spain,Spain,175 cm,64 kg,https://media.api-sports.io/football/coachs/7248.png
 9443,B. Dawson,Ben,Dawson,1981-02-11,,England,England,,,https://media.api-sports.io/football/coachs/9443.png
 10421,P. Jansen,Pascal,Jansen,1973-01-27,,Netherlands,Netherlands,,,https://media.api-sports.io/football/coachs/10421.png
+10665,W. Still,William,Still,1992-10-14,Antwerpen,Belgium,Belgium,,,https://media.api-sports.io/football/coachs/10665.png
 12320,L. Manning,Liam,Manning,1985-08-20,,England,England,,,https://media.api-sports.io/football/coachs/12320.png
 12590,V. Kompany,Vincent Jean,Mpoy Kompany,1986-04-10,Uccle,Belgium,Belgium,193 cm,85 kg,https://media.api-sports.io/football/coachs/12590.png
 12629,E. Maresca,Vincenzo,Maresca,1980-02-10,Ponte Cagnano,Italy,Italy,180 cm,77 kg,https://media.api-sports.io/football/coachs/12629.png
