@@ -4550,3 +4550,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208204,42,47311,78,,subst,2937,Substitution 3,
 1208204,42,37127,88,,subst,2289,Substitution 4,
 1208204,42,643,90,1,subst,641,Substitution 5,
+1213841,91,10316,22,,Card,,Yellow Card,Foul
+1213841,95,161747,25,,Card,,Yellow Card,Foul
+1213841,95,161747,29,,Goal,335056,Normal Goal,
+1213841,91,374058,35,,Card,,Yellow Card,Foul
+1213841,91,10316,46,,subst,371916,Substitution 1,
+1213841,91,421,46,,subst,395040,Substitution 2,
+1213841,95,118307,63,,Card,,Yellow Card,Time wasting
+1213841,91,343320,77,,Var,,Penalty confirmed,
+1213841,95,335056,78,,Card,,Yellow Card,Handball
+1213841,91,343320,79,,Goal,,Penalty,
+1213841,95,327631,82,,Card,,Yellow Card,Argument
+1213841,95,226803,84,,subst,265733,Substitution 1,
+1213841,95,265733,86,,Card,,Yellow Card,Foul
+1213841,91,343320,89,,Goal,274300,Normal Goal,
+1213841,91,395040,90,1,Goal,,Normal Goal,
+1213841,91,1101,90,3,subst,81,Substitution 3,
+1213841,91,326176,90,5,subst,231,Substitution 4,
+1213841,95,327631,90,4,subst,438752,Substitution 2,
+1213841,95,271542,90,1,subst,346700,Substitution 3,
