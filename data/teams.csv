@@ -1649,6 +1649,7 @@ id,name,logo
 1978,South Africa W,https://media.api-sports.io/football/teams/1978.png
 1980,Manta FC,https://media.api-sports.io/football/teams/1980.png
 1983,Imbabura,https://media.api-sports.io/football/teams/1983.png
+1985,CD Olmedo,https://media.api-sports.io/football/teams/1985.png
 1986,Gualaceo SC,https://media.api-sports.io/football/teams/1986.png
 1992,Orense SC,https://media.api-sports.io/football/teams/1992.png
 1993,Fakel,https://media.api-sports.io/football/teams/1993.png
@@ -2630,6 +2631,7 @@ id,name,logo
 3617,Karpaty,https://media.api-sports.io/football/teams/3617.png
 3619,Oleksandria,https://media.api-sports.io/football/teams/3619.png
 3620,Ahrobiznes Volochysk,https://media.api-sports.io/football/teams/3620.png
+3623,Dnipro-1,https://media.api-sports.io/football/teams/3623.png
 3624,Hirnyk-Sport,https://media.api-sports.io/football/teams/3624.png
 3625,Inhulets,https://media.api-sports.io/football/teams/3625.png
 3627,Kolos Kovalivka,https://media.api-sports.io/football/teams/3627.png
@@ -6482,6 +6484,7 @@ id,name,logo
 10281,New England II,https://media.api-sports.io/football/teams/10281.png
 10282,North Texas,https://media.api-sports.io/football/teams/10282.png
 10283,Union Omaha,https://media.api-sports.io/football/teams/10283.png
+10288,Honduras U20,https://media.api-sports.io/football/teams/10288.png
 10289,Italy U20,https://media.api-sports.io/football/teams/10289.png
 10290,Japan U20,https://media.api-sports.io/football/teams/10290.png
 10291,Korea Republic U20,https://media.api-sports.io/football/teams/10291.png
@@ -7648,7 +7651,9 @@ id,name,logo
 14280,Tlaxcala,https://media.api-sports.io/football/teams/14280.png
 14281,Drita,https://media.api-sports.io/football/teams/14281.png
 14287,FC Tallinn,https://media.api-sports.io/football/teams/14287.png
+14288,Flora III,https://media.api-sports.io/football/teams/14288.png
 14289,Helios,https://media.api-sports.io/football/teams/14289.png
+14290,Hell Hunt,https://media.api-sports.io/football/teams/14290.png
 14292,Hiiumaa,https://media.api-sports.io/football/teams/14292.png
 14302,Kompanii Marjamaa,https://media.api-sports.io/football/teams/14302.png
 14307,Loo,https://media.api-sports.io/football/teams/14307.png
@@ -10442,6 +10447,7 @@ id,name,logo
 21865,Ueberstorf,https://media.api-sports.io/football/teams/21865.png
 21866,Locarno,https://media.api-sports.io/football/teams/21866.png
 21867,Bülach,https://media.api-sports.io/football/teams/21867.png
+21870,Kirovets Voskhozhdenie,https://media.api-sports.io/football/teams/21870.png
 21875,Mutondo Stars,https://media.api-sports.io/football/teams/21875.png
 21877,Andranik,https://media.api-sports.io/football/teams/21877.png
 21878,Nikarm,https://media.api-sports.io/football/teams/21878.png
@@ -11384,6 +11390,7 @@ id,name,logo
 24447,União Nogueirense U19,https://media.api-sports.io/football/teams/24447.png
 24449,Broke Boys,https://media.api-sports.io/football/teams/24449.png
 24451,Kristall,https://media.api-sports.io/football/teams/24451.png
+24453,ZOV,https://media.api-sports.io/football/teams/24453.png
 24454,Bad Waltersdorf,https://media.api-sports.io/football/teams/24454.png
 24455,Kindberg-Mürzhofen,https://media.api-sports.io/football/teams/24455.png
 24456,Waldhof Mannheim U19,https://media.api-sports.io/football/teams/24456.png
