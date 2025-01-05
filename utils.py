@@ -1,4 +1,5 @@
 import csv
+from datetime import datetime, timedelta
 import pandas as pd
 import subprocess
 from formations import formation_dict
@@ -205,3 +206,26 @@ def fixtures_to_register(team_ids, league_ids, mode):
     else:
         print(f"There are {n} fixtures to be registered!")
         print(fixtures_to_register)
+
+
+def generate_date_list(start_date: str, end_date: str) -> list:
+    """
+    Generates a list of dates in the format 'yyyy-mm-dd' between start_date and end_date.
+    
+    Args:
+        start_date (str): The starting date in the format 'yyyy-mm-dd'.
+        end_date (str): The ending date in the format 'yyyy-mm-dd'.
+
+    Returns:
+        list: A list of dates in the format 'yyyy-mm-dd'.
+    """
+    start = datetime.strptime(start_date, "%Y-%m-%d")
+    end = datetime.strptime(end_date, "%Y-%m-%d")
+    delta = timedelta(days=1)
+    
+    dates = []
+    while start <= end:
+        dates.append(start.strftime("%Y-%m-%d"))
+        start += delta
+    
+    return dates
