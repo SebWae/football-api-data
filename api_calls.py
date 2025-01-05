@@ -61,7 +61,7 @@ def register_fixtures(date):
     teams_df = pd.read_csv("data/teams.csv")
     team_ids = set(teams_df["id"])
 
-    selected_leagues = {2, 3, 15, 39, 45, 48, 528, 531, 848}
+    selected_leagues = {2, 3, 15, 39, 45, 48, 61, 78, 135, 140, 528, 531, 848}
 
     file_path_all = "data/fixtures_all.csv"
     file_path_selected = "data/fixtures_selected.csv"
