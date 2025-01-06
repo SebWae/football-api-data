@@ -1717,6 +1717,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 203224,F. Wirtz,Florian Richard,Wirtz,2003-05-03,Pulheim,Germany,Germany,176 cm,70 kg,https://media.api-sports.io/football/players/203224.png
 203474,N. Zalewski,Nicola,Zalewski,2002-01-23,Tivoli,Poland,Poland,175 cm,68 kg,https://media.api-sports.io/football/players/203474.png
 203483,A. N&apos;Diaye,Abdoulaye,Niakhate N'Diaye,2002-04-10,Boune,Senegal,Senegal,185 cm,75 kg,https://media.api-sports.io/football/players/203483.png
+203762,E. Emegha,Emanuel,Esseh Emegha,2003-02-03,Den Haag,Netherlands,Netherlands,195 cm,82 kg,https://media.api-sports.io/football/players/203762.png
 204039,D. Udogie,Iyenoma Destiny,Udogie,2002-11-28,Verona,Italy,Italy,186 cm,73 kg,https://media.api-sports.io/football/players/204039.png
 204109,A. Guðjohnsen,Andri Lucas,Guðjohnsen,2002-01-29,London,England,Iceland,187 cm,,https://media.api-sports.io/football/players/204109.png
 206254,M. Kerkez,Miloš,Kerkez,2003-11-07,Vrbas,Hungary,Hungary,180 cm,71 kg,https://media.api-sports.io/football/players/206254.png
@@ -1832,6 +1833,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 283290,K. McAteer,Kasey,McAteer,2001-11-22,Northampton,England,England,177 cm,69 kg,https://media.api-sports.io/football/players/283290.png
 283323,Léo Scienza,Leonardo,Weschenfelder Scienza,1998-09-13,Venâncio Aires,Brazil,Brazil,175 cm,69 kg,https://media.api-sports.io/football/players/283323.png
 283668,Arnau Martínez,Arnau,Martínez López,2003-04-25,Barcelona,Spain,Spain,182 cm,72 kg,https://media.api-sports.io/football/players/283668.png
+284071,O. Targhalline,Oussama,Targhalline,2002-05-20,Sidi Belyout,Morocco,Morocco,186 cm,70 kg,https://media.api-sports.io/football/players/284071.png
 284072,B. Dieng,Cheikh Ahmadou Bamba,Mbacké Dieng,2000-03-23,Pikine,Senegal,Senegal,178 cm,72 kg,https://media.api-sports.io/football/players/284072.png
 284174,M. Turner,Matthew David,Turner,2002-03-27,,Wales,Wales,191 cm,79 kg,https://media.api-sports.io/football/players/284174.png
 284204,D. Okagbue,David,Okagbue,2003-10-05,,Republic of Ireland,Republic of Ireland,184 cm,,https://media.api-sports.io/football/players/284204.png
