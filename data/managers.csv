@@ -6,6 +6,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 10,Marco Silva,Marco Alexandre,Saraiva da Silva,1977-07-12,Lisboa,Portugal,Portugal,,,https://media.api-sports.io/football/coachs/10.png
 16,Nuno Espírito Santo,Nuno Herlander,Simões Espírito Santo,1974-01-25,São Tomé,São Tomé e Príncipe,Portugal,,,https://media.api-sports.io/football/coachs/16.png
 18,Unai Emery,Unai,Emery Etxegoien,1971-11-03,Hondarribia,Spain,Spain,,,https://media.api-sports.io/football/coachs/18.png
+29,L. Elsner,Luka,Elsner,1982-08-02,,Slovenia,Slovenia,,,https://media.api-sports.io/football/coachs/29.png
 34,O. Dall’Oglio,Olivier,Dall’Oglio,1964-05-16,Alès,France,France,,,https://media.api-sports.io/football/coachs/34.png
 55,Vítor Pereira,Vítor Manuel,de Oliveira Lopes Pereira,1968-07-26,Espinho,Portugal,Portugal,,,https://media.api-sports.io/football/coachs/55.png
 68,B. Génésio,Bruno,Génésio,1966-09-01,Lyon,France,France,,,https://media.api-sports.io/football/coachs/68.png
@@ -96,6 +97,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 19839,M. Sadler,Mathew John,Sadler,1985-02-26,Birmingham,England,England,180 cm,72 kg,https://media.api-sports.io/football/coachs/19839.png
 20377,Carles Martínez,Carles,Martínez Novell,1984-05-18,Barcelona,Spain,Spain,,,https://media.api-sports.io/football/coachs/20377.png
 21382,S. Clemence,Stephen,Clemence,1978-03-31,,England,England,,,https://media.api-sports.io/football/coachs/21382.png
+21562,P. Sage,Pierre,Sage,1979-05-05,Belley,France,France,,,https://media.api-sports.io/football/coachs/21562.png
 21932,T. Cleverley,,,,,,,,,https://media.api-sports.io/football/coachs/21932.png
 21962,Rui Mota,,,,,,,,,https://media.api-sports.io/football/coachs/21962.png
 22764,Vítor Bruno,,,,,,,,,https://media.api-sports.io/football/coachs/22764.png
