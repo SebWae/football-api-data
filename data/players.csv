@@ -887,6 +887,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 20554,H. Belkebla,Haris,Belkebla,1994-01-28,Drancy,France,Algeria,177 cm,68 kg,https://media.api-sports.io/football/players/20554.png
 20558,H. Magnetti,Hugo,Magnetti,1998-05-30,Marseille,France,France,180 cm,75 kg,https://media.api-sports.io/football/players/20558.png
 20566,Y. Diouf,Yehvann,Diouf,1999-11-16,Montreuil-sous-Bois,France,France,184 cm,74 kg,https://media.api-sports.io/football/players/20566.png
+20576,Y. Salmier,Yoann,Salmier,1992-11-21,Villiers-le-Bel,France,French Guiana,188 cm,85 kg,https://media.api-sports.io/football/players/20576.png
 20586,R. Raveloson,Rayan Ny Aina Arnaldo,Raveloson,1997-01-16,Anosibe Ifanja,Madagascar,Madagascar,182 cm,73 kg,https://media.api-sports.io/football/players/20586.png
 20589,B. Mbeumo,Bryan Tetsadong Marceau,Mbeumo,1999-08-07,Avallon,France,Cameroon,173 cm,64 kg,https://media.api-sports.io/football/players/20589.png
 20638,E. Le Fée,Enzo Jérémy,Le Fée,2000-02-03,Lorient,France,France,170 cm,63 kg,https://media.api-sports.io/football/players/20638.png
@@ -919,6 +920,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 21090,Diego Carlos,Diego Carlos,Santos Silva,1993-03-15,Barra Bonita,Brazil,Brazil,186 cm,79 kg,https://media.api-sports.io/football/players/21090.png
 21100,I. Louza,Imrân,Louza,1999-05-01,Nantes,France,Morocco,178 cm,65 kg,https://media.api-sports.io/football/players/21100.png
 21102,V. Rongier,Valentin,Rongier,1994-12-07,Macon,France,France,172 cm,67 kg,https://media.api-sports.io/football/players/21102.png
+21103,A. Touré,Abdoulaye,Touré,1994-03-03,Nantes,France,France,188 cm,84 kg,https://media.api-sports.io/football/players/21103.png
 21104,R. Kolo Muani,Randal,Kolo Muani,1998-12-05,Bondy,France,France,187 cm,73 kg,https://media.api-sports.io/football/players/21104.png
 21138,R. Aït-Nouri,Rayan,Aït-Nouri,2001-06-06,Montreuil,France,Algeria,180 cm,70 kg,https://media.api-sports.io/football/players/21138.png
 21140,I. Cissé,Ibrahim,Cissé,1996-05-02,Paris,France,France,185 cm,76 kg,https://media.api-sports.io/football/players/21140.png
