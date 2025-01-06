@@ -1476,6 +1476,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 134320,Leandro Andrade,Leandro,Livramento Andrade,1999-09-24,Tavira,Portugal,Cape Verde,176 cm,70 kg,https://media.api-sports.io/football/players/134320.png
 134428,B. Chrisene,Benjamin Joshua,Chrisene,2004-01-12,Exeter,England,England,183 cm,80 kg,https://media.api-sports.io/football/players/134428.png
 134605,J. Roles,Jack,Roles,1999-02-26,London,England,Cyprus,176 cm,66 kg,https://media.api-sports.io/football/players/134605.png
+135068,E. Agbadou,Emmanuel Elysee,Djedje Agbadou Badobre,1997-06-17,Abidjan,Côte d'Ivoire,Côte d'Ivoire,192 cm,80 kg,https://media.api-sports.io/football/players/135068.png
 135334,S. Bueno,Santiago Ignacio,Bueno Sciutto,1998-11-09,Montevideo,Uruguay,Uruguay,190 cm,76 kg,https://media.api-sports.io/football/players/135334.png
 135839,G. Vagiannidis,Georgios,Vagiannidis,2001-09-12,Gerakas,Greece,Greece,182 cm,68 kg,https://media.api-sports.io/football/players/135839.png
 135965,D. Males,Darian,Males,2001-05-03,Luzern,Switzerland,Switzerland,188 cm,76 kg,https://media.api-sports.io/football/players/135965.png
@@ -2115,6 +2116,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 359117,Shumaira Mheuka,Shumaira,Mheuka,2007-10-20,Birmingham,England,England,182 cm,75 kg,https://media.api-sports.io/football/players/359117.png
 359386,M. Godo,Becket Fabrice-Martial,Godo,2003-03-14,,England,England,169 cm,61 kg,https://media.api-sports.io/football/players/359386.png
 360011,Ato Ampah,Ato,Ampah,2006-04-22,,England,England,,,https://media.api-sports.io/football/players/360011.png
+360114,A. Khusanov,Abduqodir,Khusanov,2004-02-29,Toshkent,Uzbekistan,Uzbekistan,186 cm,84 kg,https://media.api-sports.io/football/players/360114.png
 360268,J. Jimoh,Jamaldeen,Jimoh-Aloba,2006-10-02,,England,England,183 cm,71 kg,https://media.api-sports.io/football/players/360268.png
 360269,Triston Rowe,Triston,Rowe,2006-05-18,,England,England,183 cm,70 kg,https://media.api-sports.io/football/players/360269.png
 361348,M. Fofana,Malick Martin,Fofana,2005-03-31,Aalst,Belgium,Belgium,169 cm,61 kg,https://media.api-sports.io/football/players/361348.png
