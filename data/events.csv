@@ -4980,3 +4980,30 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213859,95,327631,84,,subst,356520,Substitution 3,
 1213859,95,358166,85,,Goal,226803,Normal Goal,
 1213859,106,2214,90,2,Goal,22264,Normal Goal,
+1213860,79,530,-5,,Card,,Red Card,Violent conduct
+1213860,82,320,9,,Card,,Yellow Card,Foul
+1213860,79,375598,26,,Card,,Yellow Card,Persistent fouling
+1213860,82,179399,35,,Card,,Yellow Card,Foul
+1213860,79,8489,44,,Goal,,Penalty,
+1213860,82,22141,45,2,Goal,21443,Normal Goal,
+1213860,79,142691,47,,Card,,Yellow Card,Foul
+1213860,79,22093,50,,Var,,Penalty confirmed,
+1213860,82,21443,52,,Card,,Yellow Card,Argument
+1213860,79,22093,52,,Card,,Yellow Card,Argument
+1213860,79,8489,54,,Goal,,Penalty,
+1213860,82,22102,63,,subst,361383,Substitution 1,
+1213860,82,21439,63,,subst,387120,Substitution 2,
+1213860,82,999,63,,subst,20661,Substitution 3,
+1213860,79,22093,68,,subst,99576,Substitution 1,
+1213860,79,375598,68,,subst,67889,Substitution 2,
+1213860,79,530,77,,subst,47969,Substitution 3,
+1213860,82,21443,81,,subst,113581,Substitution 4,
+1213860,82,20661,83,,Card,,Yellow Card,Foul
+1213860,82,320,88,,subst,48636,Substitution 5,
+1213860,79,382892,89,,Card,,Yellow Card,Foul
+1213860,79,8489,90,,subst,24288,Substitution 4,
+1213860,79,340077,90,,subst,264,Substitution 5,
+1213860,79,67889,90,13,Card,,Yellow Card,Foul
+1213860,82,22097,90,5,Var,,Goal confirmed,
+1213860,82,113581,90,9,Card,,Red Card,Violent conduct
+1213860,82,22097,90,3,Goal,,Normal Goal,
