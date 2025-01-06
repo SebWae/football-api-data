@@ -5007,3 +5007,15 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213860,82,22097,90,5,Var,,Goal confirmed,
 1213860,82,113581,90,9,Card,,Red Card,Violent conduct
 1213860,82,22097,90,3,Goal,,Normal Goal,
+1213862,91,109,41,,Goal,2810,Normal Goal,
+1213862,81,10077,53,,Goal,19364,Normal Goal,
+1213862,81,943,60,,subst,272460,Substitution 1,
+1213862,91,343320,68,,subst,1101,Substitution 1,
+1213862,91,138835,68,,subst,421,Substitution 2,
+1213862,81,19364,74,,subst,162707,Substitution 2,
+1213862,91,109,75,,subst,333137,Substitution 3,
+1213862,81,2973,87,,Var,,Penalty confirmed,
+1213862,81,897,89,,Goal,,Penalty,
+1213862,91,291649,90,2,Card,,Yellow Card,Argument
+1213862,81,897,90,3,subst,283216,Substitution 3,
+1213862,91,326176,90,,subst,395040,Substitution 4,
