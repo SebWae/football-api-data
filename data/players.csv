@@ -946,6 +946,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 21509,M. Thuram,Marcus Lilian,Thuram-Ulien,1997-08-06,Parma,Italy,France,192 cm,90 kg,https://media.api-sports.io/football/players/21509.png
 21565,D. Bertaud,Dimitry Jean Sylvain,Bertaud,1998-06-06,Montpellier,France,France,180 cm,85 kg,https://media.api-sports.io/football/players/21565.png
 21566,B. Lecomte,Benjamin Pascal,Lecomte,1991-04-26,Paris,France,France,186 cm,78 kg,https://media.api-sports.io/football/players/21566.png
+21568,R. Aguilar,Ruben,Aguilar,1993-04-26,Grenoble,France,France,172 cm,70 kg,https://media.api-sports.io/football/players/21568.png
 21570,N. Cozza,Nicolas Louis Marcel,Cozza,1999-01-08,Ganges,France,France,178 cm,72 kg,https://media.api-sports.io/football/players/21570.png
 21582,F. Mollet,Florent,Mollet,1991-11-19,Fontaine-lès-Dijon,France,France,170 cm,67 kg,https://media.api-sports.io/football/players/21582.png
 21592,G. Laborde,Gaëtan,Laborde,1994-05-03,Mont-de-Marsan,France,France,181 cm,78 kg,https://media.api-sports.io/football/players/21592.png
@@ -954,6 +955,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 21633,A. Djiku,Alexander Kwabena,Baidoo Djiku,1994-08-09,Montpellier,France,Ghana,182 cm,81 kg,https://media.api-sports.io/football/players/21633.png
 21635,J. Gradit,Jonathan,Gradit,1992-11-24,Talence,France,France,180 cm,75 kg,https://media.api-sports.io/football/players/21635.png
 21649,E. Crivelli,Enzo Vito Gabriel,Crivelli,1995-02-06,Rouen,France,France,183 cm,88 kg,https://media.api-sports.io/football/players/21649.png
+21715,W. Saïd,Wesley,Saïd,1995-04-19,Noisy-le-Grand,France,France,171 cm,72 kg,https://media.api-sports.io/football/players/21715.png
 21996,A. Baba,Abdul Rahman,Baba,1994-07-02,Tamale,Ghana,Ghana,180 cm,72 kg,https://media.api-sports.io/football/players/21996.png
 21997,Logan Costa,Logan,Evans Costa,2001-04-01,Saint-Denis,France,Cape Verde,190 cm,91 kg,https://media.api-sports.io/football/players/21997.png
 21998,A. Disasi,Axel Wilson Arthur,Disasi Mhakinis Belho,1998-03-11,Gonesse,France,France,190 cm,83 kg,https://media.api-sports.io/football/players/21998.png
@@ -964,6 +966,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 22093,R. Cabella,Rémy Joseph,Cabella,1990-03-08,Ajaccio,France,France,171 cm,68 kg,https://media.api-sports.io/football/players/22093.png
 22094,W. Fofana,Wesley Tidjan,Fofana,2000-12-17,Marseille,France,France,190 cm,84 kg,https://media.api-sports.io/football/players/22094.png
 22097,A. Nordin,Arnaud Dominique,Nordin,1998-06-17,Paris,France,France,170 cm,70 kg,https://media.api-sports.io/football/players/22097.png
+22100,L. Diony,Loïs,Diony,1992-12-20,Mont-de-Marsan,France,France,183 cm,85 kg,https://media.api-sports.io/football/players/22100.png
 22102,W. Khazri,Wahbi,Khazri,1991-02-08,Ajaccio,France,Tunisia,176 cm,80 kg,https://media.api-sports.io/football/players/22102.png
 22134,K. Amian,Kelvin,Amian Adou,1998-02-08,Toulouse,France,France,180 cm,78 kg,https://media.api-sports.io/football/players/22134.png
 22136,B. Diakité,Bafodé,Diakité,2001-01-06,Toulouse,France,France,185 cm,74 kg,https://media.api-sports.io/football/players/22136.png
@@ -2320,6 +2323,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 419583,T. Diallo,Tidiane,Diallo,2006-05-28,Orléans,France,France,176 cm,64 kg,https://media.api-sports.io/football/players/419583.png
 419584,J. Tincres,Joan,Tincres,2006-06-17,,France,France,188 cm,,https://media.api-sports.io/football/players/419584.png
 419916,C. Harder,Conrad,Harder Weibel Schandorf,2005-04-07,Holte,Denmark,Denmark,181 cm,71 kg,https://media.api-sports.io/football/players/419916.png
+421875,S. Cherif,Sidiki,Cherif,2006-12-15,Conakry,Guinea,France,185 cm,75 kg,https://media.api-sports.io/football/players/421875.png
 422595,L. Zogbe,Tolikpaley Luck Evrad,Zogbé,2005-03-24,Vieil Ousrou,Côte d'Ivoire,Côte d'Ivoire,178 cm,70 kg,https://media.api-sports.io/football/players/422595.png
 422929,D. Bennie,Daniel,Bennie,2006-04-13,Hong Kong,Australia,Australia,181 cm,,https://media.api-sports.io/football/players/422929.png
 423300,Miguel Monteiro Alves,Miguel,Monteiro Alves,2005-12-30,Ponte de Lima,Portugal,Portugal,187 cm,74 kg,https://media.api-sports.io/football/players/423300.png
