@@ -5263,3 +5263,18 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213759,1063,179856,85,,subst,339601,Substitution 5,
 1213759,111,174937,85,,subst,22266,Substitution 5,
 1213759,111,128342,90,,Card,,Yellow Card,Foul
+1213760,79,264,34,,Goal,67889,Normal Goal,
+1213760,77,174723,43,,Card,,Yellow Card,Persistent fouling
+1213760,79,386287,45,1,Card,,Yellow Card,Simulation
+1213760,77,174723,46,,subst,3177,Substitution 1,
+1213760,77,3177,63,,Card,,Yellow Card,Foul
+1213760,79,386287,67,,subst,22093,Substitution 1,
+1213760,77,21145,68,,subst,3175,Substitution 2,
+1213760,79,67889,77,,subst,375598,Substitution 2,
+1213760,79,264,78,,subst,379329,Substitution 3,
+1213760,77,3234,78,,subst,385569,Substitution 3,
+1213760,77,421875,78,,subst,163004,Substitution 4,
+1213760,77,343609,85,,subst,20537,Substitution 5,
+1213760,79,8489,89,,subst,24288,Substitution 4,
+1213760,79,99576,90,,subst,438688,Substitution 5,
+1213760,79,24288,90,5,Goal,22093,Normal Goal,
