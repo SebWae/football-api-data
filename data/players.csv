@@ -1417,6 +1417,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 85041,A. Gouiri,Amine Ferid,Gouiri,2000-02-16,Bourgoin-Jallieu,France,France,180 cm,72 kg,https://media.api-sports.io/football/players/85041.png
 85772,J. Le Douaron,Jérémy,Le Douaron,1998-04-21,Ploufragan,France,France,189 cm,78 kg,https://media.api-sports.io/football/players/85772.png
 85914,J. Le Cardinal,Julien,Le Cardinal,1997-08-03,Saint-Brieuc,France,France,182 cm,73 kg,https://media.api-sports.io/football/players/85914.png
+87381,R. Adiceam,Raphaël,Adiceam,1990-07-03,Argenteuil,France,France,179 cm,73 kg,https://media.api-sports.io/football/players/87381.png
 87791,D. Agyei,Daniel Ebenezer Kwasi,Agyei,1997-06-01,London,England,England,183 cm,77 kg,https://media.api-sports.io/football/players/87791.png
 87858,J. McAtee,John George,McAtee,1999-07-23,Manchester,England,England,180 cm,75 kg,https://media.api-sports.io/football/players/87858.png
 88457,B. Sheaf,Benjamin David,Sheaf,1998-02-05,Eynsford,England,England,185 cm,64 kg,https://media.api-sports.io/football/players/88457.png
@@ -2246,6 +2247,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 380715,B. Broggio,Benjamin Tomaso,Broggio,2007-01-29,,England,England,181 cm,75 kg,https://media.api-sports.io/football/players/380715.png
 381830,T. De Vlieger,Tibe,De Vlieger,2005-11-05,,Belgium,Belgium,182 cm,,https://media.api-sports.io/football/players/381830.png
 382170,M. Kinsey-Wellings,Maxwell,Kinsey-Wellings,2005-02-02,Guildford,England,England,184 cm,76 kg,https://media.api-sports.io/football/players/382170.png
+382252,Madiou Keita,Haladj Madiou,Keita,2004-08-29,Amilly,France,Guinea,184 cm,86 kg,https://media.api-sports.io/football/players/382252.png
 382340,G. Forsyth,Gabriel,Forsyth,2006-08-04,Glasgow,Scotland,Scotland,184 cm,79 kg,https://media.api-sports.io/football/players/382340.png
 382355,Jacob Wright,Jacob,Wright,2005-09-21,Manchester,England,England,178 cm,65 kg,https://media.api-sports.io/football/players/382355.png
 382925,R. Trevitt,Ryan,Trevitt,2003-03-12,London,England,England,170 cm,65 kg,https://media.api-sports.io/football/players/382925.png
