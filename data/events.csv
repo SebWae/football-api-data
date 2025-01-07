@@ -5089,3 +5089,24 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208222,65,18746,88,,subst,2938,Substitution 4,
 1208222,65,18931,88,,subst,8598,Substitution 5,
 1208222,65,8598,90,4,Goal,2938,Normal Goal,
+1213747,81,897,3,,Goal,412,Normal Goal,
+1213747,106,22264,7,,Var,,Penalty confirmed,
+1213747,81,51295,7,,Card,,Yellow Card,Foul
+1213747,106,20780,16,,Card,,Yellow Card,Foul
+1213747,81,10077,26,,Goal,412,Normal Goal,
+1213747,106,22258,30,,Card,,Yellow Card,Foul
+1213747,81,897,31,,Goal,,Penalty,
+1213747,106,22247,45,1,Card,,Yellow Card,Foul
+1213747,106,24147,45,6,Goal,2214,Normal Goal,
+1213747,81,10077,48,,Goal,,Normal Goal,
+1213747,106,22264,64,,subst,84082,Substitution 1,
+1213747,81,162707,69,,Goal,,Penalty,
+1213747,106,22258,70,,subst,129680,Substitution 2,
+1213747,106,20780,70,,subst,329209,Substitution 3,
+1213747,81,162707,71,,subst,102447,Substitution 1,
+1213747,81,30525,71,,subst,193501,Substitution 2,
+1213747,106,1901,74,,Card,,Yellow Card,Foul
+1213747,81,102447,79,,subst,449660,Substitution 3,
+1213747,106,1901,84,,subst,422595,Substitution 4,
+1213747,81,412,88,,subst,449158,Substitution 4,
+1213747,81,10077,88,,subst,21102,Substitution 5,
