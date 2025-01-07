@@ -5361,3 +5361,25 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213765,79,379329,85,,subst,22093,Substitution 5,
 1213765,79,22136,90,1,Card,,Yellow Card,Foul
 1213765,85,21104,90,2,Goal,343027,Normal Goal,
+1213766,95,226803,3,,Goal,,Normal Goal,
+1213766,95,161747,17,,Card,,Yellow Card,Foul
+1213766,80,9700,33,,Card,,Yellow Card,Foul
+1213766,80,519,45,2,Goal,,Normal Goal,
+1213766,95,325594,46,,subst,265733,Substitution 1,
+1213766,95,305834,48,,Goal,129695,Normal Goal,
+1213766,95,203762,58,,Goal,265733,Normal Goal,
+1213766,80,180496,59,,subst,361348,Substitution 1,
+1213766,80,9700,59,,subst,368260,Substitution 2,
+1213766,80,1456,61,,Goal,,Normal Goal,
+1213766,80,368260,63,,Goal,1467,Normal Goal,
+1213766,80,368260,65,,Var,,Goal confirmed,
+1213766,95,226803,68,,subst,190686,Substitution 2,
+1213766,95,327631,69,,subst,191240,Substitution 3,
+1213766,80,368260,72,,Goal,361348,Normal Goal,
+1213766,95,274328,74,,subst,335056,Substitution 4,
+1213766,95,191240,75,,Card,,Yellow Card,Foul
+1213766,95,203762,82,,subst,369885,Substitution 5,
+1213766,80,902,87,,subst,80752,Substitution 3,
+1213766,80,1902,90,1,subst,9566,Substitution 4,
+1213766,80,9566,90,7,Card,,Yellow Card,Unallowed field entering
+1213766,80,368260,90,8,Card,,Yellow Card,Argument
