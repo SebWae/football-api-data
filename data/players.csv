@@ -1007,6 +1007,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 24147,M. Camara,Mahdi,Camara,1998-06-30,Martigues,France,France,178 cm,73 kg,https://media.api-sports.io/football/players/24147.png
 24201,A. Confais,Aloïs,Confais,1996-09-07,Evreux,France,France,174 cm,61 kg,https://media.api-sports.io/football/players/24201.png
 24217,B. Mazikou,Bradley Lovelife,Mazikou,1996-06-02,Orléans,France,Congo,172 cm,68 kg,https://media.api-sports.io/football/players/24217.png
+24284,Y. Maçon,Yvann,Maçon,1998-10-01,Baie-Mahaut,Guadeloupe,France,176 cm,74 kg,https://media.api-sports.io/football/players/24284.png
 24288,M. Bayo,Mohamed Lamine,Bayo,1998-06-04,Clermont-Ferrand,France,Guinea,188 cm,76 kg,https://media.api-sports.io/football/players/24288.png
 24597,I. Azarovi,Irakli,Azarovi,2002-02-21,Tbilisi,Georgia,Georgia,179 cm,,https://media.api-sports.io/football/players/24597.png
 24743,Z. Davitashvili,Zuriko,Davitashvili,2001-02-15,Tbilisi,Georgia,Georgia,175 cm,63 kg,https://media.api-sports.io/football/players/24743.png
@@ -1682,6 +1683,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 174801,A. Moueffek,Aïmen,Moueffek,2001-04-09,Isère,France,France,179 cm,71 kg,https://media.api-sports.io/football/players/174801.png
 174837,E. Green,Etienne,Green,2000-07-19,Colchester,England,England,192 cm,76 kg,https://media.api-sports.io/football/players/174837.png
 174915,J. Casimir,Josué,Casimir,2001-09-24,Baie-Mahault,Guadeloupe,Guadeloupe,178 cm,68 kg,https://media.api-sports.io/football/players/174915.png
+174927,A. Sangante,Arouna,Sangante,2002-04-12,Mbao,Senegal,Senegal,189 cm,76 kg,https://media.api-sports.io/football/players/174927.png
 174937,Y. Kechta,Yassine,Kechta,2002-02-25,Paris,France,Morocco,174 cm,68 kg,https://media.api-sports.io/football/players/174937.png
 174973,M. Zinga,Melvin,Zinga,2002-03-16,Montivilliers,France,France,187 cm,80 kg,https://media.api-sports.io/football/players/174973.png
 177815,T. Siersleben,Tim,Siersleben,2000-03-09,Magdeburg,Germany,Germany,187 cm,80 kg,https://media.api-sports.io/football/players/177815.png
