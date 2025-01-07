@@ -1658,6 +1658,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 162473,Arnau Tenas,Arnau,Tenas Ureña,2001-05-30,Vic,Spain,Spain,185 cm,85 kg,https://media.api-sports.io/football/players/162473.png
 162493,M. Craig,Matthew George,Craig,2003-04-16,Barnet,England,Scotland,,,https://media.api-sports.io/football/players/162493.png
 162498,R. Drăgușin,Radu,Matei Drăgușin,2002-02-03,București,Romania,Romania,191 cm,85 kg,https://media.api-sports.io/football/players/162498.png
+162568,S. Coulibaly,Soumaïla,Coulibaly,2003-10-14,Montfermeil,France,France,191 cm,73 kg,https://media.api-sports.io/football/players/162568.png
 162590,T. Morton,Tyler Scott,Morton,2002-10-31,Wallasey,England,England,182 cm,75 kg,https://media.api-sports.io/football/players/162590.png
 162594,Alexandre Penetra,Alexandre Manuel,Penetra Correia,2001-09-09,Sátão,Portugal,Portugal,186 cm,73 kg,https://media.api-sports.io/football/players/162594.png
 162687,V. Jaroš,Vítězslav,Jaroš,2001-07-23,Příbram,Czechia,Czechia,190 cm,88 kg,https://media.api-sports.io/football/players/162687.png
@@ -2444,6 +2445,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 482027,A. Gbadehan,Adeteye,Gbadehan,2003-11-13,,England,England,190 cm,,https://media.api-sports.io/football/players/482027.png
 482073,Alex Noonan,Alex,Noonan,2008-07-15,,Republic of Ireland,Republic of Ireland,,,https://media.api-sports.io/football/players/482073.png
 482467,Yaël Nandjou,Yaël,Nandjou,2005-07-06,,France,France,185 cm,74 kg,https://media.api-sports.io/football/players/482467.png
+485957,Serigne Diop,Serigne,Diop,2005-05-12,,Senegal,Senegal,193 cm,84 kg,https://media.api-sports.io/football/players/485957.png
 490731,Harvey Broad,Harvey,Broad,2005-09-15,,England,England,,,https://media.api-sports.io/football/players/490731.png
 491103,A. Tape,Axel,Tape-Kobrissa,2007-08-10,,France,France,,,https://media.api-sports.io/football/players/491103.png
 496686,Sukur Tograk,Şükur,Toğrak,2006-10-08,,Türkiye,Türkiye,,77 kg,https://media.api-sports.io/football/players/496686.png

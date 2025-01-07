@@ -5383,3 +5383,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213766,80,1902,90,1,subst,9566,Substitution 4,
 1213766,80,9566,90,7,Card,,Yellow Card,Unallowed field entering
 1213766,80,368260,90,8,Card,,Yellow Card,Argument
+1213767,106,24147,10,,Goal,,Normal Goal,
+1213767,1063,20861,30,,Card,,Yellow Card,Handball
+1213767,106,2214,32,,Goal,,Penalty,
+1213767,106,277191,45,,Var,,Penalty cancelled,
+1213767,1063,24284,56,,Card,,Yellow Card,Foul
+1213767,1063,24284,59,,subst,1407,Substitution 1,
+1213767,1063,20861,59,,subst,174801,Substitution 2,
+1213767,1063,339601,59,,subst,39248,Substitution 3,
+1213767,1063,8445,66,,Card,,Yellow Card,Foul
+1213767,106,277191,67,,subst,22258,Substitution 1,
+1213767,106,85914,74,,subst,162568,Substitution 2,
+1213767,106,1901,74,,subst,422595,Substitution 3,
+1213767,106,84082,75,,subst,20780,Substitution 4,
+1213767,106,22264,77,,Goal,,Normal Goal,
+1213767,1063,22003,80,,Card,,Yellow Card,Foul
+1213767,1063,107199,82,,Card,,Yellow Card,Foul
+1213767,106,22247,84,,Goal,,Penalty,
+1213767,1063,395762,84,,subst,8624,Substitution 4,
+1213767,1063,107199,84,,subst,157146,Substitution 5,
+1213767,106,2214,86,,subst,329209,Substitution 5,
