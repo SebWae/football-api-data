@@ -1723,6 +1723,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 191971,J. Stansfield,Jay,Stansfield,2002-11-24,,England,England,,,https://media.api-sports.io/football/players/191971.png
 193501,B. Meité,Abdoul Bamo,Meité,2001-12-03,Kani,Côte d'Ivoire,Côte d'Ivoire,183 cm,75 kg,https://media.api-sports.io/football/players/193501.png
 193617,T. Louchet,Tom Alexis,Louchet,2003-05-04,Manosque,France,France,176 cm,65 kg,https://media.api-sports.io/football/players/193617.png
+193619,S. Ben Seghir,Salim,Ben Seghir,2003-02-24,Saint-Tropez,France,France,177 cm,66 kg,https://media.api-sports.io/football/players/193619.png
 193681,T. De Percin,Théo Franck Mathias,De Percin,2001-02-02,Tarbes,France,Martinique,185 cm,81 kg,https://media.api-sports.io/football/players/193681.png
 193952,J. Lepenant,Johann Théo Tom,Lepenant,2002-10-22,Granville,France,France,176 cm,69 kg,https://media.api-sports.io/football/players/193952.png
 194461,G. Thomason,George,Thomason,2001-01-12,Barrow-in-Furness,England,England,177 cm,69 kg,https://media.api-sports.io/football/players/194461.png
@@ -2121,6 +2122,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 341080,E. Addai,Emmanuel,Addai,2001-08-01,Kumasi,Ghana,Ghana,173 cm,65 kg,https://media.api-sports.io/football/players/341080.png
 341234,E. Jelert,Elias,Jelert Kristensen,2003-06-12,,Denmark,Denmark,170 cm,62 kg,https://media.api-sports.io/football/players/341234.png
 341640,Raúl Asencio,Raúl,Asencio del Rosario,2003-02-13,Las Palmas de Gran Canaria,Spain,Spain,184 cm,79 kg,https://media.api-sports.io/football/players/341640.png
+341646,V. Carboni,Valentín,Carboni,2005-03-05,Buenos Aires,Argentina,Argentina,185 cm,78 kg,https://media.api-sports.io/football/players/341646.png
 341700,Iván Fresneda,Iván,Fresneda Corraliza,2004-09-28,Madrid,Spain,Spain,183 cm,74 kg,https://media.api-sports.io/football/players/341700.png
 341974,T. Corazza,Tommaso,Corazza,2004-06-29,Bologna,Italy,Italy,174 cm,64 kg,https://media.api-sports.io/football/players/341974.png
 342228,S. Džodić,Stefan,Džodić,2005-03-15,Montpellier,France,Serbia,190 cm,80 kg,https://media.api-sports.io/football/players/342228.png
