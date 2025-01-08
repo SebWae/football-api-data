@@ -5978,3 +5978,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213825,111,20836,90,5,Card,,Yellow Card,Argument
 1213825,111,20836,90,5,Card,,Yellow Card,Argument
 1213825,111,20836,90,5,Card,,Red Card,Argument
+1213826,77,20692,7,,Goal,21618,Normal Goal,
+1213826,1063,337426,15,,Var,,Goal cancelled,
+1213826,1063,24743,16,,Goal,,Penalty,
+1213826,1063,2704,29,,Card,,Yellow Card,Foul
+1213826,77,174708,34,,Card,,Yellow Card,Foul
+1213826,1063,337426,38,,Card,,Yellow Card,Foul
+1213826,77,103,39,,Goal,,Normal Goal,
+1213826,77,174708,46,,subst,21145,Substitution 1,
+1213826,1063,2704,46,,subst,8445,Substitution 1,
+1213826,1063,24743,57,,Goal,322560,Normal Goal,
+1213826,1063,274355,65,,subst,22003,Substitution 2,
+1213826,1063,289555,65,,subst,174801,Substitution 3,
+1213826,1063,337426,65,,subst,395762,Substitution 4,
+1213826,77,20537,69,,Goal,,Penalty,
+1213826,1063,22003,71,,Card,,Yellow Card,Foul
+1213826,77,3177,77,,subst,20554,Substitution 2,
+1213826,1063,322560,78,,subst,20648,Substitution 5,
+1213826,77,20692,84,,subst,284072,Substitution 3,
+1213826,77,21618,90,2,subst,163004,Substitution 4,
+1213826,77,284072,90,3,Goal,,Normal Goal,
