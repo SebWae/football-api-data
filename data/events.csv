@@ -5697,3 +5697,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213783,81,278095,90,5,Goal,,Normal Goal,
 1213783,81,19364,90,3,Card,,Yellow Card,Argument
 1213783,80,1902,90,3,Card,,Yellow Card,Argument
+1213784,84,8445,4,,Goal,,Own Goal,
+1213784,84,662,7,,Goal,,Normal Goal,
+1213784,1063,278232,22,,Card,,Yellow Card,Foul
+1213784,84,274312,24,,Goal,25008,Normal Goal,
+1213784,84,161919,26,,Goal,,Normal Goal,
+1213784,1063,395762,35,,subst,179856,Substitution 1,
+1213784,1063,174801,35,,subst,22087,Substitution 2,
+1213784,84,137303,36,,Goal,161919,Normal Goal,
+1213784,1063,107199,36,,subst,157146,Substitution 3,
+1213784,84,161919,39,,Goal,137303,Normal Goal,
+1213784,1063,322560,46,,subst,20648,Substitution 4,
+1213784,84,137303,46,,subst,334879,Substitution 1,
+1213784,84,161919,62,,subst,107,Substitution 2,
+1213784,1063,22003,71,,subst,274355,Substitution 5,
+1213784,84,162465,71,,subst,49583,Substitution 3,
+1213784,84,25008,71,,subst,193617,Substitution 4,
+1213784,84,107,75,,Goal,,Normal Goal,
+1213784,84,274312,77,,subst,477124,Substitution 5,
+1213784,84,3099,85,,Var,,Penalty confirmed,
+1213784,84,240,86,,Goal,,Penalty,
