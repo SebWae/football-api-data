@@ -6420,3 +6420,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213878,84,107,85,,subst,275053,Substitution 3,
 1213878,84,662,85,,subst,444561,Substitution 4,
 1213878,82,387120,90,4,Card,,Yellow Card,Foul
+1213879,106,20546,15,,Card,,Yellow Card,Foul
+1213879,106,326068,24,,Goal,,Normal Goal,
+1213879,106,20546,27,,Goal,2214,Normal Goal,
+1213879,83,20545,46,,Card,,Yellow Card,Foul
+1213879,83,20655,46,,subst,2668,Substitution 1,
+1213879,83,10036,48,,Goal,2781,Normal Goal,
+1213879,106,20558,54,,Card,,Yellow Card,Foul
+1213879,83,21088,58,,Card,,Yellow Card,Foul
+1213879,83,93671,60,,Card,,Yellow Card,Persistent fouling
+1213879,106,41323,63,,subst,277191,Substitution 1,
+1213879,83,193952,73,,subst,22177,Substitution 2,
+1213879,83,2668,73,,subst,18599,Substitution 3,
+1213879,106,24147,76,,Card,,Yellow Card,Foul
+1213879,106,2214,77,,subst,20780,Substitution 2,
+1213879,106,326068,77,,subst,84082,Substitution 3,
+1213879,83,22134,83,,subst,21498,Substitution 4,
+1213879,83,93671,83,,subst,21582,Substitution 5,
+1213879,106,277191,88,,Goal,20780,Normal Goal,
+1213879,106,24147,90,4,subst,375000,Substitution 4,
+1213879,106,277191,90,3,Goal,84082,Normal Goal,
