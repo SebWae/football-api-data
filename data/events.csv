@@ -6317,3 +6317,11 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213869,116,21628,90,,Card,,Yellow Card,Time wasting
 1213869,82,179399,90,4,Card,,Yellow Card,Argument
 1213869,116,999,90,2,Goal,,Own Goal,
+1213870,95,271542,36,,Card,,Yellow Card,Foul
+1213870,93,343351,39,,Card,,Yellow Card,Handball
+1213870,93,343351,71,,subst,415089,Substitution 1,
+1213870,95,203762,73,,subst,369885,Substitution 1,
+1213870,95,190686,73,,subst,358166,Substitution 2,
+1213870,93,19546,76,,Card,,Yellow Card,Foul
+1213870,93,334429,79,,subst,352990,Substitution 2,
+1213870,93,33321,86,,subst,386481,Substitution 3,
