@@ -5634,3 +5634,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213780,79,47969,76,,subst,530,Substitution 5,
 1213780,1063,395762,81,,subst,289555,Substitution 3,
 1213780,1063,322560,81,,subst,20648,Substitution 4,
+1213781,84,22163,13,,Card,,Yellow Card,Foul
+1213781,81,126757,18,,Card,,Yellow Card,Foul
+1213781,81,19364,40,,Goal,,Normal Goal,
+1213781,81,10077,53,,Goal,412,Normal Goal,
+1213781,81,51295,63,,Card,,Yellow Card,Foul
+1213781,81,21102,64,,Card,,Yellow Card,Argument
+1213781,84,30531,68,,subst,161919,Substitution 1,
+1213781,84,274312,69,,subst,334879,Substitution 2,
+1213781,84,22163,69,,subst,49583,Substitution 3,
+1213781,81,19364,72,,subst,278095,Substitution 1,
+1213781,81,412,72,,subst,328046,Substitution 2,
+1213781,81,21102,73,,subst,30525,Substitution 3,
+1213781,81,51295,74,,Card,,Red Card,Time wasting
+1213781,81,51295,74,,Card,,Yellow Card,Time wasting
+1213781,84,49583,78,,Card,,Yellow Card,Argument
+1213781,84,240,79,,subst,193617,Substitution 4,
+1213781,81,10077,82,,subst,943,Substitution 4,
+1213781,84,662,88,,subst,107,Substitution 5,
+1213781,81,897,90,3,subst,193501,Substitution 5,
+1213781,81,278095,90,1,Card,,Yellow Card,Off the ball foul
