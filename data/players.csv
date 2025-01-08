@@ -373,6 +373,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 2674,Rui Patrício,Rui Pedro,dos Santos Patrício,1988-02-15,Marrazes,Portugal,Portugal,190 cm,84 kg,https://media.api-sports.io/football/players/2674.png
 2678,Diogo Jota,Diogo José,Teixeira da Silva,1996-12-04,Massarelos,Portugal,Portugal,178 cm,68 kg,https://media.api-sports.io/football/players/2678.png
 2704,Y. Abdelhamid,Yunis,Abdelhamid,1987-09-28,Montpellier,France,Morocco,190 cm,83 kg,https://media.api-sports.io/football/players/2704.png
+2707,O. El Hajjam,Oualid,El Hajjam,1991-02-19,Châteauroux,France,Morocco,181 cm,72 kg,https://media.api-sports.io/football/players/2707.png
 2724,L. Digne,Lucas,Digne,1993-07-20,Meaux,France,France,178 cm,74 kg,https://media.api-sports.io/football/players/2724.png
 2725,B. Pavard,Benjamin Jacques Marcel,Pavard,1996-03-28,Maubeuge,France,France,186 cm,76 kg,https://media.api-sports.io/football/players/2725.png
 2729,J. Andersen,Joachim Christian,Andersen,1996-05-31,Frederiksberg,Denmark,Denmark,192 cm,86 kg,https://media.api-sports.io/football/players/2729.png
@@ -2419,6 +2420,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 441497,Daniel Yañez,Daniel,Yáñez Barla,2007-03-28,Cádiz,Spain,Spain,177 cm,,https://media.api-sports.io/football/players/441497.png
 442379,G. Otegbayo,Gabriel,Otegbayo,2005-02-11,Cork,England,England,193 cm,,https://media.api-sports.io/football/players/442379.png
 442493,S. Inwood,Samuel Lawrence,Inwood,,,England,England,,,https://media.api-sports.io/football/players/442493.png
+442866,E. Pereira,Everton,Pereira da Silva,2007-04-12,Nice,France,France,,,https://media.api-sports.io/football/players/442866.png
 442929,A. Koné,Abdoul,Koné,2005-04-22,,France,France,192 cm,80 kg,https://media.api-sports.io/football/players/442929.png
 443674,Louis Leroux,Louis,Leroux,2006-01-23,,France,France,184 cm,75 kg,https://media.api-sports.io/football/players/443674.png
 443676,Bahereba Guirassy,Bahereba,Guirassy,2006-08-29,Angers,Guinea,Guinea,177 cm,66 kg,https://media.api-sports.io/football/players/443676.png
