@@ -927,6 +927,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 20850,C. Arcus,Carlens Jean Fedlaire Ruby,Arcus,1996-06-28,Port-au-Prince,Haiti,Haiti,180 cm,73 kg,https://media.api-sports.io/football/players/20850.png
 20861,L. Fomba,Lamine,Fomba,1998-01-26,Rosny-sous-Bois,France,France,188 cm,68 kg,https://media.api-sports.io/football/players/20861.png
 20863,D. Mancini,Daniel,Mancini,1996-11-11,Tránsito,Argentina,Argentina,171 cm,72 kg,https://media.api-sports.io/football/players/20863.png
+20866,B. Touré,Birama,Touré,1992-06-06,Kayes,Mali,Mali,183 cm,76 kg,https://media.api-sports.io/football/players/20866.png
 20916,C. Wooh,Christopher Maurice,Wooh,2001-09-18,Louvres,France,Cameroon,191 cm,92 kg,https://media.api-sports.io/football/players/20916.png
 20953,Q. Laçi,Qazim,Laçi,1996-01-19,Peshkopi,Albania,Albania,175 cm,67 kg,https://media.api-sports.io/football/players/20953.png
 20995,M. Lacroix,Maxence Guy,Lacroix,2000-04-06,Villeneuve-Saint-Georges,France,France,190 cm,88 kg,https://media.api-sports.io/football/players/20995.png
@@ -2088,6 +2089,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 330641,J. Westley,Joseph Anthony,Westley,2004-10-18,,England,England,,,https://media.api-sports.io/football/players/330641.png
 330986,M. Golding,Michael Heinz,Golding,2006-05-23,Kingston,England,England,178 cm,73 kg,https://media.api-sports.io/football/players/330986.png
 331678,H. Meister,Henrik,Wendel Meister,2003-11-17,,Denmark,Denmark,192 cm,83 kg,https://media.api-sports.io/football/players/331678.png
+333118,L. Mincarelli Davin,Lucas,Mincarelli Davin,2004-06-24,Saint-Martin d'Hères,France,France,180 cm,65 kg,https://media.api-sports.io/football/players/333118.png
 333137,K. Ouattara,Kassoum,Ouattara,2004-10-14,Paris,France,France,176 cm,73 kg,https://media.api-sports.io/football/players/333137.png
 334035,S. Amo-Ameyaw,Samuel,Amo-Ameyaw,2006-07-18,London,England,England,174 cm,64 kg,https://media.api-sports.io/football/players/334035.png
 334037,Tyrique George,Tyrique Aaron Delali Yusuff,George,2006-02-04,London,England,England,181 cm,75 kg,https://media.api-sports.io/football/players/334037.png
