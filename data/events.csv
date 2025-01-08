@@ -6259,3 +6259,13 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213864,84,21592,89,,subst,161919,Substitution 4,
 1213864,84,137303,90,5,Card,,Yellow Card,Argument
 1213864,111,64255,90,2,Goal,23637,Normal Goal,
+1213865,85,161904,62,,subst,153,Substitution 1,
+1213865,85,41585,62,,subst,21104,Substitution 2,
+1213865,85,927,66,,subst,343027,Substitution 3,
+1213865,108,31057,73,,Card,,Yellow Card,Foul
+1213865,108,90617,76,,Card,,Yellow Card,Time wasting
+1213865,108,20732,77,,subst,32940,Substitution 1,
+1213865,85,328,79,,subst,746,Substitution 4,
+1213865,108,90617,83,,subst,51293,Substitution 2,
+1213865,108,285,84,,subst,191392,Substitution 3,
+1213865,85,16367,85,,Card,,Yellow Card,Foul
