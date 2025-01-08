@@ -6504,3 +6504,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213883,82,387120,87,,subst,395760,Substitution 4,
 1213883,82,22141,87,,subst,21434,Substitution 5,
 1213883,80,326088,90,1,Goal,,Own Goal,
+1213884,116,3007,8,,Card,,Yellow Card,Foul
+1213884,96,278392,10,,Card,,Yellow Card,Foul
+1213884,116,25287,31,,Card,,Yellow Card,Foul
+1213884,116,129169,46,,subst,174607,Substitution 1,
+1213884,116,174607,60,,Var,,Card upgrade,
+1213884,116,174607,61,,Card,,Red Card,Foul
+1213884,116,21146,64,,Card,,Yellow Card,Argument
+1213884,96,243,71,,Var,,Penalty confirmed,
+1213884,96,243,73,,Goal,,Penalty,
+1213884,96,18881,74,,subst,174724,Substitution 1,
+1213884,96,243,74,,subst,328648,Substitution 2,
+1213884,116,2483,75,,subst,237191,Substitution 2,
+1213884,96,84128,77,,Card,,Yellow Card,Argument
+1213884,116,22220,77,,Card,,Yellow Card,Argument
+1213884,116,21146,80,,subst,237232,Substitution 3,
+1213884,116,20761,80,,subst,437133,Substitution 4,
+1213884,96,84128,83,,subst,36928,Substitution 3,
+1213884,96,412759,85,,subst,264383,Substitution 4,
+1213884,116,237191,87,,subst,439815,Substitution 5,
+1213884,116,237232,90,6,Card,,Yellow Card,Foul
