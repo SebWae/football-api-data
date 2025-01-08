@@ -5654,3 +5654,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213781,84,662,88,,subst,107,Substitution 5,
 1213781,81,897,90,3,subst,193501,Substitution 5,
 1213781,81,278095,90,1,Card,,Yellow Card,Off the ball foul
+1213782,85,307835,26,,Card,,Yellow Card,Foul
+1213782,85,263482,28,,Card,,Yellow Card,Foul
+1213782,106,2214,29,,Goal,,Penalty,
+1213782,106,24147,39,,Card,,Yellow Card,Foul
+1213782,85,153,42,,Goal,746,Normal Goal,
+1213782,106,22264,49,,Card,,Yellow Card,Foul
+1213782,106,277191,57,,subst,20780,Substitution 1,
+1213782,106,20546,59,,Card,,Yellow Card,Foul
+1213782,85,161904,63,,subst,343027,Substitution 1,
+1213782,85,263482,63,,subst,16367,Substitution 2,
+1213782,106,22264,68,,subst,41323,Substitution 2,
+1213782,106,2214,68,,subst,326068,Substitution 3,
+1213782,85,746,71,,subst,21104,Substitution 3,
+1213782,85,328,73,,Goal,9,Normal Goal,
+1213782,85,153,74,,Goal,,Normal Goal,
+1213782,106,24147,80,,subst,22258,Substitution 4,
+1213782,106,30405,80,,subst,375000,Substitution 5,
+1213782,85,335051,80,,subst,409216,Substitution 4,
+1213782,85,153,80,,subst,446249,Substitution 5,
