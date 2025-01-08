@@ -1688,6 +1688,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 174927,A. Sangante,Arouna,Sangante,2002-04-12,Mbao,Senegal,Senegal,189 cm,76 kg,https://media.api-sports.io/football/players/174927.png
 174937,Y. Kechta,Yassine,Kechta,2002-02-25,Paris,France,Morocco,174 cm,68 kg,https://media.api-sports.io/football/players/174937.png
 174973,M. Zinga,Melvin,Zinga,2002-03-16,Montivilliers,France,France,187 cm,80 kg,https://media.api-sports.io/football/players/174973.png
+175171,T. Boulhendi,Teddy,Boulhendi,2001-04-09,Martigues,France,Algeria,185 cm,82 kg,https://media.api-sports.io/football/players/175171.png
 177815,T. Siersleben,Tim,Siersleben,2000-03-09,Magdeburg,Germany,Germany,187 cm,80 kg,https://media.api-sports.io/football/players/177815.png
 178077,K. Schade,Kevin,Schade,2001-11-27,Potsdam,Germany,Germany,183 cm,74 kg,https://media.api-sports.io/football/players/178077.png
 178362,Č. Makreckis,Čebrails,Makreckis,2000-05-10,Aachen,Latvia,Latvia,181 cm,74 kg,https://media.api-sports.io/football/players/178362.png
@@ -1740,6 +1741,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 196156,Thiago,Igor Thiago,Nascimento Rodrigues,2001-06-26,,Brazil,Brazil,191 cm,85 kg,https://media.api-sports.io/football/players/196156.png
 196187,A. Seidu,Alidu,Seidu,2000-06-04,Abidjan,Ghana,Ghana,173 cm,68 kg,https://media.api-sports.io/football/players/196187.png
 196298,R. Sosa,Ramón,Sosa Acosta,1999-08-31,Maracaná,Paraguay,Paraguay,179 cm,75 kg,https://media.api-sports.io/football/players/196298.png
+196343,Mohamed Abdelmonem,Mohamed Abdelmonem El Sayed,Mohamed Ahmed,1999-02-01,Zagazig,Egypt,Egypt,183 cm,78 kg,https://media.api-sports.io/football/players/196343.png
 196854,G. Broadbent,George,Broadbent,2000-09-30,,England,England,188 cm,79 kg,https://media.api-sports.io/football/players/196854.png
 196855,J. Anthony,Jaidon Kya Denley,Anthony,1999-12-01,,England,England,183 cm,,https://media.api-sports.io/football/players/196855.png
 196875,J. Bagan,Joel Matthew,Bagan,2001-09-03,Basingstoke,England,Republic of Ireland,193 cm,,https://media.api-sports.io/football/players/196875.png
