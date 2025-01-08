@@ -5403,3 +5403,16 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213767,1063,395762,84,,subst,8624,Substitution 4,
 1213767,1063,107199,84,,subst,157146,Substitution 5,
 1213767,106,2214,86,,subst,329209,Substitution 5,
+1327988,34,2864,37,,Goal,19163,Normal Goal,
+1327988,34,723,43,,Card,,Yellow Card,Persistent fouling
+1327988,34,138787,51,,Goal,,Normal Goal,
+1327988,34,138787,55,,Card,,Yellow Card,Foul
+1327988,42,1946,59,,subst,643,Substitution 1,
+1327988,42,49,59,,subst,2289,Substitution 2,
+1327988,34,2864,65,,subst,18778,Substitution 1,
+1327988,34,19163,65,,subst,19263,Substitution 2,
+1327988,34,1463,65,,subst,18901,Substitution 3,
+1327988,34,138787,76,,subst,2507,Substitution 4,
+1327988,42,313245,78,,subst,641,Substitution 3,
+1327988,42,641,80,,Card,,Yellow Card,Foul
+1327988,34,158694,90,5,Card,,Yellow Card,Time wasting
