@@ -5479,3 +5479,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213770,116,237191,85,,subst,195512,Substitution 5,
 1213770,116,237232,90,2,Var,,Penalty confirmed,
 1213770,116,3007,90,4,Goal,,Penalty,
+1213771,108,191392,11,,Card,,Yellow Card,Foul
+1213771,108,285,14,,Card,,Yellow Card,Foul
+1213771,108,20732,17,,Goal,,Normal Goal,
+1213771,111,21010,23,,Goal,,Own Goal,
+1213771,108,90617,28,,Card,,Yellow Card,Foul
+1213771,108,285,45,1,Card,,Yellow Card,Foul
+1213771,108,285,45,1,Card,,Red Card,Foul
+1213771,108,51293,46,,subst,191189,Substitution 1,
+1213771,111,128342,50,,Var,,Goal cancelled,
+1213771,111,128342,52,,Goal,20836,Normal Goal,
+1213771,111,128342,61,,subst,174915,Substitution 1,
+1213771,111,156465,62,,subst,289304,Substitution 2,
+1213771,108,20206,66,,subst,162466,Substitution 2,
+1213771,108,20732,66,,subst,323625,Substitution 3,
+1213771,108,90617,67,,subst,20782,Substitution 4,
+1213771,111,174915,81,,Card,,Yellow Card,Foul
+1213771,111,174937,82,,subst,1212,Substitution 3,
+1213771,108,191392,83,,subst,38754,Substitution 5,
+1213771,108,41300,89,,Card,,Yellow Card,Foul
+1213771,111,21103,90,8,Goal,,Penalty,
