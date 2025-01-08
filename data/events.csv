@@ -6046,3 +6046,13 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213829,96,243,90,4,subst,174724,Substitution 3,
 1213829,93,334429,90,,subst,454432,Substitution 3,
 1213829,93,437482,90,,subst,437483,Substitution 4,
+1213830,91,374058,17,,Card,,Yellow Card,Foul
+1213830,77,103,29,,Goal,21618,Normal Goal,
+1213830,91,395040,46,,subst,343320,Substitution 1,
+1213830,77,21618,61,,subst,174708,Substitution 1,
+1213830,77,103,72,,subst,21145,Substitution 2,
+1213830,77,3177,72,,subst,163004,Substitution 3,
+1213830,91,374058,80,,subst,412711,Substitution 2,
+1213830,91,10316,84,,subst,333137,Substitution 3,
+1213830,77,21145,89,,Card,,Yellow Card,Time wasting
+1213830,77,20537,90,5,subst,284072,Substitution 4,
