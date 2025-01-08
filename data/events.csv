@@ -6353,3 +6353,16 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213872,91,291649,88,,subst,231,Substitution 4,
 1213872,91,10316,88,,subst,371916,Substitution 5,
 1213872,91,231,90,1,Card,,Yellow Card,Handball
+1213875,91,326176,40,,Card,,Yellow Card,Foul
+1213875,91,333137,57,,Card,,Yellow Card,Foul
+1213875,91,231,67,,subst,47480,Substitution 1,
+1213875,91,395040,67,,subst,421,Substitution 2,
+1213875,93,343351,68,,subst,384489,Substitution 1,
+1213875,91,333137,68,,subst,274300,Substitution 3,
+1213875,91,371916,77,,subst,10316,Substitution 4,
+1213875,93,334429,79,,subst,352990,Substitution 2,
+1213875,91,326176,80,,subst,374058,Substitution 5,
+1213875,93,20566,84,,Card,,Yellow Card,Time wasting
+1213875,93,33321,84,,subst,389322,Substitution 3,
+1213875,93,1942,84,,subst,386481,Substitution 4,
+1213875,91,109,90,4,Card,,Yellow Card,Foul
