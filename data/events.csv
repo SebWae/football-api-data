@@ -5998,3 +5998,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213826,77,20692,84,,subst,284072,Substitution 3,
 1213826,77,21618,90,2,subst,163004,Substitution 4,
 1213826,77,284072,90,3,Goal,,Normal Goal,
+1213827,106,84082,4,,Goal,,Penalty,
+1213827,106,422595,15,,subst,22247,Substitution 1,
+1213827,106,41323,18,,Goal,84082,Normal Goal,
+1213827,93,71545,29,,Goal,1942,Normal Goal,
+1213827,93,71545,32,,Var,,Goal confirmed,
+1213827,106,36878,45,2,Card,,Yellow Card,Time wasting
+1213827,106,3333,46,,subst,1901,Substitution 2,
+1213827,106,84082,60,,subst,22264,Substitution 3,
+1213827,106,30405,60,,subst,22170,Substitution 4,
+1213827,93,384489,63,,Card,,Yellow Card,Foul
+1213827,106,22170,65,,Card,,Yellow Card,Foul
+1213827,93,384489,68,,subst,386481,Substitution 1,
+1213827,106,41323,76,,subst,24147,Substitution 5,
+1213827,93,334429,79,,subst,352990,Substitution 2,
+1213827,93,47530,79,,subst,389322,Substitution 3,
+1213827,106,22258,85,,subst,20558,Substitution 6,
+1213827,93,343351,87,,subst,437482,Substitution 4,
+1213827,93,386481,88,,Card,,Yellow Card,Simulation
+1213827,93,135068,90,,Card,,Yellow Card,Foul
