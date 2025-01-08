@@ -5416,3 +5416,21 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1327988,42,313245,78,,subst,641,Substitution 3,
 1327988,42,641,80,,Card,,Yellow Card,Foul
 1327988,34,158694,90,5,Card,,Yellow Card,Time wasting
+1213768,82,22141,10,,subst,179399,Substitution 1,
+1213768,83,161622,24,,Goal,3084,Normal Goal,
+1213768,82,57446,30,,Goal,,Normal Goal,
+1213768,82,128287,40,,subst,387120,Substitution 2,
+1213768,83,2781,45,7,Goal,,Penalty,
+1213768,83,18599,45,5,Var,,Penalty confirmed,
+1213768,82,113581,63,,subst,22102,Substitution 3,
+1213768,82,15286,63,,subst,326088,Substitution 4,
+1213768,83,161622,74,,subst,2668,Substitution 1,
+1213768,83,18599,74,,subst,22134,Substitution 2,
+1213768,83,21498,81,,Card,,Yellow Card,Foul
+1213768,83,21498,83,,subst,443674,Substitution 3,
+1213768,83,2781,84,,subst,443676,Substitution 4,
+1213768,83,2668,85,,Goal,3084,Normal Goal,
+1213768,83,30393,85,,Card,,Yellow Card,Argument
+1213768,82,387120,85,,Card,,Yellow Card,Argument
+1213768,83,3084,90,2,subst,21570,Substitution 5,
+1213768,82,21439,90,3,Card,,Yellow Card,
