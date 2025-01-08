@@ -5460,3 +5460,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213769,84,137303,85,,Goal,,Normal Goal,
 1213769,84,137303,88,,subst,477124,Substitution 4,
 1213769,84,662,88,,subst,240,Substitution 5,
+1213770,116,21635,9,,Card,,Yellow Card,Foul
+1213770,116,21568,34,,Card,,Yellow Card,Foul
+1213770,116,20761,39,,Card,,Yellow Card,Foul
+1213770,116,129169,40,,subst,174607,Substitution 1,
+1213770,91,231,46,,subst,291649,Substitution 1,
+1213770,116,21715,46,,subst,326073,Substitution 2,
+1213770,91,291649,54,,Card,,Yellow Card,Foul
+1213770,116,22261,64,,subst,237232,Substitution 3,
+1213770,116,21568,65,,subst,3007,Substitution 4,
+1213770,91,343320,65,,subst,395040,Substitution 2,
+1213770,91,138835,65,,subst,421,Substitution 3,
+1213770,91,333137,66,,subst,10316,Substitution 4,
+1213770,116,326073,68,,Card,,Yellow Card,Foul
+1213770,91,371916,81,,subst,109,Substitution 5,
+1213770,116,326073,82,,Var,,Goal cancelled,
+1213770,91,2810,84,,Goal,10316,Normal Goal,
+1213770,116,237191,85,,subst,195512,Substitution 5,
+1213770,116,237232,90,2,Var,,Penalty confirmed,
+1213770,116,3007,90,4,Goal,,Penalty,
