@@ -6788,3 +6788,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213806,77,41146,86,,subst,343609,Substitution 3,
 1213806,77,3177,86,,subst,174708,Substitution 4,
 1213806,81,2973,88,,subst,412,Substitution 5,
+1213807,91,261,6,,Goal,343320,Normal Goal,
+1213807,94,21497,11,,Goal,1754,Normal Goal,
+1213807,91,138835,22,,Goal,343320,Normal Goal,
+1213807,94,21497,44,,Card,,Yellow Card,Handball
+1213807,91,2810,45,7,Card,,Yellow Card,Foul
+1213807,94,263177,45,3,subst,85041,Substitution 1,
+1213807,91,333137,57,,Card,,Yellow Card,Foul
+1213807,91,138835,64,,subst,395040,Substitution 1,
+1213807,91,343320,70,,subst,109,Substitution 2,
+1213807,94,1754,71,,subst,345748,Substitution 2,
+1213807,94,237249,71,,subst,180731,Substitution 3,
+1213807,91,333137,71,,subst,81,Substitution 3,
+1213807,91,1101,72,,Card,,Yellow Card,Foul
+1213807,94,180731,75,,Card,,Yellow Card,Argument
+1213807,94,147831,79,,subst,438281,Substitution 4,
+1213807,94,162267,80,,subst,581,Substitution 5,
+1213807,91,374058,82,,subst,326176,Substitution 4,
+1213807,91,371916,83,,subst,47480,Substitution 5,
+1213807,91,7313,86,,Card,,Yellow Card,Time wasting
