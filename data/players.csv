@@ -2244,6 +2244,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 368260,G. Orban,Gift Emmanuel,Orban,2002-07-17,Benue,Nigeria,Nigeria,178 cm,73 kg,https://media.api-sports.io/football/players/368260.png
 368812,S. Cara,Simon,Cara,2005-05-31,,France,France,182 cm,74 kg,https://media.api-sports.io/football/players/368812.png
 369059,A. Bojang,Adama,Bojang,2004-05-28,,Gambia,Gambia,186 cm,71 kg,https://media.api-sports.io/football/players/369059.png
+369500,I. Ganiou,Pierre-Ismaëlo,Ganiou,2005-03-14,Lille,France,France,191 cm,80 kg,https://media.api-sports.io/football/players/369500.png
 369676,T. Chennahi,Théo,Chennahi,2005-02-06,Marseille,France,France,182 cm,63 kg,https://media.api-sports.io/football/players/369676.png
 369885,J. Sebas,Jeremy,Sebas,2003-04-14,Sainte-Anne,Martinique,Martinique,187 cm,82 kg,https://media.api-sports.io/football/players/369885.png
 371230,Z. Redmond,Zepiqueno,Redmond,2006-06-22,,Netherlands,Netherlands,,,https://media.api-sports.io/football/players/371230.png
@@ -2419,6 +2420,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 434180,Aidan Borland,Aidan Gerald,Borland,2007-04-25,,Scotland,Scotland,177 cm,65 kg,https://media.api-sports.io/football/players/434180.png
 437099,Renato Bellucci,Renato,Bellucci Marin,2006-07-10,São Paulo,Brazil,Italy,190 cm,,https://media.api-sports.io/football/players/437099.png
 437133,G. Capuano,Gabin,Capuano,2006-04-26,,France,France,,,https://media.api-sports.io/football/players/437133.png
+437143,A. Delplace,Adam,Delplace,2006-09-03,,France,France,180 cm,78 kg,https://media.api-sports.io/football/players/437143.png
 437482,A. Koné,Amadou,Koné,2005-05-14,Bamako,Mali,Côte d'Ivoire,185 cm,75 kg,https://media.api-sports.io/football/players/437482.png
 437483,A.  Bamba,Mohamed Aboubakar,Bamba,2004-10-08,Vavoua,Côte d'Ivoire,Côte d'Ivoire,177 cm,65 kg,https://media.api-sports.io/football/players/437483.png
 437498,A. Doumbouya,Amidou,Doumbouya,2007-08-05,Bourges,France,France,182 cm,72 kg,https://media.api-sports.io/football/players/437498.png
@@ -2432,6 +2434,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 440070,J. Stawiecki,Jules,Stawiecki,2007-04-10,,France,France,186 cm,80 kg,https://media.api-sports.io/football/players/440070.png
 440156,L. Giani,Laurence,Giani,2008-03-11,,England,Italy,,,https://media.api-sports.io/football/players/440156.png
 440159,G. Kukonki,Godwill,Kukonki,2008-02-06,,England,England,,,https://media.api-sports.io/football/players/440159.png
+441264,K. Antonio,Kyllian,Anderson Antonio,2008-01-04,Champigny-sur-Marne,France,France,183 cm,75 kg,https://media.api-sports.io/football/players/441264.png
 441274,I. Ka,Ismail,Ka,2006-03-09,,Netherlands,Netherlands,,,https://media.api-sports.io/football/players/441274.png
 441284,Naoufel El Hannach,Naoufel,El Hannach,2006-12-07,,Morocco,Morocco,183 cm,75 kg,https://media.api-sports.io/football/players/441284.png
 441497,Daniel Yañez,Daniel,Yáñez Barla,2007-03-28,Cádiz,Spain,Spain,177 cm,,https://media.api-sports.io/football/players/441497.png
