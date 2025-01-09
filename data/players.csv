@@ -953,6 +953,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 21248,G. Coudert,Grégoire,Coudert,1999-04-03,Rodez,France,France,188 cm,85 kg,https://media.api-sports.io/football/players/21248.png
 21381,J. Lefort,Jordan,Lefort,1993-08-09,Champigny-sur-Marne,France,France,184 cm,81 kg,https://media.api-sports.io/football/players/21381.png
 21434,T. Sainte-Luce,Théo,Sainte-Luce,1998-10-20,Chauny,France,France,176 cm,69 kg,https://media.api-sports.io/football/players/21434.png
+21438,A. Briançon,Anthony,Briançon,1994-11-29,Avignon,France,France,185 cm,79 kg,https://media.api-sports.io/football/players/21438.png
 21439,J. Ferri,Jordan,Ferri,1992-03-12,Cavaillon,France,France,173 cm,73 kg,https://media.api-sports.io/football/players/21439.png
 21443,T. Savanier,Téji Tedy,Savanier,1991-12-22,Montpellier,France,France,172 cm,69 kg,https://media.api-sports.io/football/players/21443.png
 21483,M. Caillard,Marc-Aurèle,Daniel Pa Caillard,1994-05-12,Melun,France,France,191 cm,79 kg,https://media.api-sports.io/football/players/21483.png
@@ -2475,9 +2476,11 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 482073,Alex Noonan,Alex,Noonan,2008-07-15,,Republic of Ireland,Republic of Ireland,,,https://media.api-sports.io/football/players/482073.png
 482467,Yaël Nandjou,Yaël,Nandjou,2005-07-06,,France,France,185 cm,74 kg,https://media.api-sports.io/football/players/482467.png
 485957,Serigne Diop,Serigne,Diop,2005-05-12,,Senegal,Senegal,193 cm,84 kg,https://media.api-sports.io/football/players/485957.png
+489911,D. N´Guessan,Djylian,N´Guessan,2008-08-30,Saint-Nazaire,France,France,,,https://media.api-sports.io/football/players/489911.png
 490095,Aristide Zossou,Aristide,Zossou,2005-06-14,Abobo,Côte d'Ivoire,Côte d'Ivoire,178 cm,70 kg,https://media.api-sports.io/football/players/490095.png
 490731,Harvey Broad,Harvey,Broad,2005-09-15,,England,England,,,https://media.api-sports.io/football/players/490731.png
 491103,A. Tape,Axel,Tape-Kobrissa,2007-08-10,,France,France,,,https://media.api-sports.io/football/players/491103.png
+494535,H. Ibrahim,Hafiz Umar,Ibrahim,2005-12-20,,Nigeria,Nigeria,,,https://media.api-sports.io/football/players/494535.png
 496686,Sukur Tograk,Şükur,Toğrak,2006-10-08,,Türkiye,Türkiye,,77 kg,https://media.api-sports.io/football/players/496686.png
 497107,R. Baheng,Rony,Mimb Baheng,2005-04-22,,Cameroon,Cameroon,188 cm,,https://media.api-sports.io/football/players/497107.png
 497519,Killian Barrett,Killian,Barrett,2004-03-15,,England,England,190 cm,,https://media.api-sports.io/football/players/497519.png
