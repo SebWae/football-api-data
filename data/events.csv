@@ -7019,3 +7019,24 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213819,84,30531,79,,subst,107,Substitution 3,
 1213819,91,10316,85,,subst,333137,Substitution 4,
 1213819,84,137303,86,,subst,334879,Substitution 4,
+1213820,116,31318,-5,,Card,,Yellow Card,Unallowed field entering
+1213820,116,22261,13,,Card,,Yellow Card,Foul
+1213820,79,47969,20,,Card,,Yellow Card,Foul
+1213820,116,3007,46,,subst,326976,Substitution 1,
+1213820,79,47969,62,,subst,1567,Substitution 1,
+1213820,116,326976,64,,Card,,Yellow Card,Foul
+1213820,79,18765,66,,subst,375598,Substitution 2,
+1213820,79,896,66,,subst,340077,Substitution 3,
+1213820,116,20761,71,,subst,21146,Substitution 2,
+1213820,116,31318,71,,subst,326073,Substitution 3,
+1213820,116,129169,71,,subst,2483,Substitution 4,
+1213820,79,264,75,,Card,,Yellow Card,Foul
+1213820,116,22261,83,,subst,277003,Substitution 5,
+1213820,79,99576,83,,subst,24288,Substitution 4,
+1213820,116,21635,86,,Card,,Yellow Card,Foul
+1213820,79,1567,89,,Card,,Yellow Card,Argument
+1213820,79,2204,90,2,Card,,Yellow Card,Argument
+1213820,79,24288,90,6,Var,,Penalty confirmed,
+1213820,79,8489,90,9,Card,,Yellow Card,
+1213820,79,8489,90,8,Goal,,Penalty,
+1213820,79,24288,90,11,Goal,340077,Normal Goal,
