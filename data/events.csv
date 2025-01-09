@@ -6750,3 +6750,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213804,108,90617,83,,subst,20782,Substitution 5,
 1213804,1063,24743,86,,Goal,322560,Normal Goal,
 1213804,1063,157146,88,,subst,8624,Substitution 5,
+1213805,106,22264,12,,Goal,41323,Normal Goal,
+1213805,106,3333,17,,Card,,Yellow Card,Foul
+1213805,106,203483,25,,Card,,Yellow Card,Foul
+1213805,106,203483,26,,Var,,Card reviewed,
+1213805,106,20780,46,,subst,22170,Substitution 1,
+1213805,111,162443,48,,Card,,Red Card,Professional foul last man
+1213805,106,41323,57,,subst,375000,Substitution 2,
+1213805,106,203483,57,,subst,162568,Substitution 3,
+1213805,111,128342,63,,subst,15783,Substitution 1,
+1213805,111,284071,64,,subst,1212,Substitution 2,
+1213805,111,386275,64,,subst,174937,Substitution 3,
+1213805,106,326068,69,,subst,2214,Substitution 4,
+1213805,106,24147,69,,subst,22258,Substitution 5,
+1213805,106,3333,73,,Card,,Yellow Card,Foul
+1213805,106,3333,73,,Card,,Red Card,Foul
+1213805,106,22170,79,,Card,,Yellow Card,Argument
+1213805,111,21103,82,,subst,289304,Substitution 4,
+1213805,111,2336,88,,subst,22266,Substitution 5,
+1213805,106,375000,90,2,Goal,2214,Normal Goal,
