@@ -6933,3 +6933,19 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213814,82,113581,85,,subst,22102,Substitution 4,
 1213814,82,3336,86,,subst,179399,Substitution 5,
 1213814,81,449660,90,,Card,,Yellow Card,Foul
+1213815,79,438688,11,,Card,,Yellow Card,Foul
+1213815,79,530,30,,subst,47969,Substitution 1,
+1213815,79,264,34,,Card,,Yellow Card,Persistent fouling
+1213815,91,231,41,,Card,,Yellow Card,Foul
+1213815,79,142691,44,,Card,,Yellow Card,Foul
+1213815,91,231,61,,Card,,Red Card,Foul
+1213815,91,1101,63,,subst,81,Substitution 1,
+1213815,91,395040,63,,subst,421,Substitution 2,
+1213815,79,99576,70,,Card,,Yellow Card,Foul
+1213815,79,99576,73,,subst,340077,Substitution 2,
+1213815,79,896,73,,subst,22093,Substitution 3,
+1213815,91,343320,79,,subst,274300,Substitution 3,
+1213815,79,48392,84,,subst,375598,Substitution 4,
+1213815,79,438688,84,,subst,24288,Substitution 5,
+1213815,91,10316,88,,subst,371916,Substitution 4,
+1213815,79,24288,90,4,Card,,Yellow Card,Foul
