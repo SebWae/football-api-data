@@ -1804,6 +1804,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 265782,D. Møller Wolfe,David,Møller Wolfe,2002-04-23,Bergen,Norway,Norway,185 cm,78 kg,https://media.api-sports.io/football/players/265782.png
 265784,André,André Trindade,da Costa Neto,2001-07-16,Ibirataia,Brazil,Brazil,176 cm,77 kg,https://media.api-sports.io/football/players/265784.png
 265820,Y. Ayari,Yasin,Abbas Ayari,2003-10-06,Solna,Sweden,Sweden,172 cm,69 kg,https://media.api-sports.io/football/players/265820.png
+265826,A. Kinský,Antonín,Kinský,2003-03-13,,Czechia,Czechia,,,https://media.api-sports.io/football/players/265826.png
 265865,K. Henry,Kobi Joseph,Henry,2004-04-26,,USA,USA,188 cm,77 kg,https://media.api-sports.io/football/players/265865.png
 266200,M. Lahdo,Mayckel,Lahdo,2002-12-30,Stockholm,Sweden,Sweden,171 cm,76 kg,https://media.api-sports.io/football/players/266200.png
 266203,J. Gordon,John-Kymani Linton,Michael Gordon,2003-02-13,London,England,England,181 cm,,https://media.api-sports.io/football/players/266203.png
@@ -2393,6 +2394,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 422595,L. Zogbe,Tolikpaley Luck Evrad,Zogbé,2005-03-24,Vieil Ousrou,Côte d'Ivoire,Côte d'Ivoire,178 cm,70 kg,https://media.api-sports.io/football/players/422595.png
 422929,D. Bennie,Daniel,Bennie,2006-04-13,Hong Kong,Australia,Australia,181 cm,,https://media.api-sports.io/football/players/422929.png
 423300,Miguel Monteiro Alves,Miguel,Monteiro Alves,2005-12-30,Ponte de Lima,Portugal,Portugal,187 cm,74 kg,https://media.api-sports.io/football/players/423300.png
+423708,Yang Min-Hyeok,Min-Hyeok,Yang,2006-04-16,,Korea Republic,Korea Republic,172 cm,62 kg,https://media.api-sports.io/football/players/423708.png
 425200,T. Ouattara,Tiemoko,Ouattara,2005-05-25,,Switzerland,Switzerland,178 cm,71 kg,https://media.api-sports.io/football/players/425200.png
 425207,M. Courcoul,Marius,Courcoul,2007-01-01,Château-Gontie,France,France,182 cm,70 kg,https://media.api-sports.io/football/players/425207.png
 425819,G. Zechiël,Gjivai,Zechiël,2004-06-01,Rotterdam,Netherlands,Netherlands,171 cm,67 kg,https://media.api-sports.io/football/players/425819.png
