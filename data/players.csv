@@ -1503,6 +1503,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 129058,B. Verbruggen,Bart,Verbruggen,2002-08-18,Breda,Netherlands,Netherlands,193 cm,66 kg,https://media.api-sports.io/football/players/129058.png
 129169,A. Zaroury,Anass,Zaroury,2000-11-07,Mechelen,Belgium,Morocco,176 cm,70 kg,https://media.api-sports.io/football/players/129169.png
 129643,E. Ferguson,Evan Joe,Ferguson,2004-10-19,Bettystown,Republic of Ireland,Republic of Ireland,183 cm,78 kg,https://media.api-sports.io/football/players/129643.png
+129671,S. Agouzoul,Saad,Agouzoul,1997-08-10,Marrakech,Morocco,Morocco,191 cm,75 kg,https://media.api-sports.io/football/players/129671.png
 129673,S. Bajić,Stefan,Bajić,2001-12-23,Saint-Étienne,France,France,191 cm,84 kg,https://media.api-sports.io/football/players/129673.png
 129678,A. Ounahi,Azzedine,Ounahi,2000-04-19,Casablanca,Morocco,Morocco,182 cm,62 kg,https://media.api-sports.io/football/players/129678.png
 129680,H. Mbock,Hiang'a,Mananga Mbock,1999-12-28,Brest,France,France,186 cm,82 kg,https://media.api-sports.io/football/players/129680.png
@@ -2054,6 +2055,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 326068,K. Doumbia,Kamory,Doumbia,2003-02-18,Bamako,Mali,Mali,170 cm,53 kg,https://media.api-sports.io/football/players/326068.png
 326073,R. Labeau Lascary,Rémy,Labeau Lascary,2003-03-03,Les Abymes,France,France,184 cm,72 kg,https://media.api-sports.io/football/players/326073.png
 326088,K. Fayad,Khalil,Fayad,2004-06-09,Montpellier,France,France,172 cm,61 kg,https://media.api-sports.io/football/players/326088.png
+326150,Y. Cisse,Yoann,Cisse,2004-12-13,,France,France,,,https://media.api-sports.io/football/players/326150.png
 326176,S. Magassa,Soungoutou,Magassa,2003-10-08,Paris,France,France,188 cm,80 kg,https://media.api-sports.io/football/players/326176.png
 326753,T. Davies,Thomas Alfred,Davies,2003-11-11,,Wales,Wales,180 cm,70 kg,https://media.api-sports.io/football/players/326753.png
 326763,C. Humphreys,Cameron,Humphreys,2003-10-30,,England,England,,,https://media.api-sports.io/football/players/326763.png
@@ -2385,6 +2387,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 415001,Deivid Washington,Deivid Washington,de Souza Eugênio,2005-06-05,Itumbiara,Brazil,Brazil,186 cm,73 kg,https://media.api-sports.io/football/players/415001.png
 415089,Gabriel Moscardo,Gabriel Silva,Moscardo de Salles,2005-09-28,Taubaté,Brazil,Brazil,185 cm,73 kg,https://media.api-sports.io/football/players/415089.png
 415151,Newertton,Newertton,Martins da Silva,2005-06-03,Palmares,Brazil,Brazil,167 cm,59 kg,https://media.api-sports.io/football/players/415151.png
+415431,S. El Mourabet,Samir,El Mourabet,2005-10-06,Strasbourg,France,France,168 cm,58 kg,https://media.api-sports.io/football/players/415431.png
 416697,J. Porter,Jack,Porter,2008-07-15,,England,England,,,https://media.api-sports.io/football/players/416697.png
 418204,M. Doumbia,Mamadou,Doumbia,2006-02-18,,Mali,Mali,192 cm,86 kg,https://media.api-sports.io/football/players/418204.png
 418403,Jaden Dixon,Jaden,Dixon,2007-02-07,,England,England,,,https://media.api-sports.io/football/players/418403.png
