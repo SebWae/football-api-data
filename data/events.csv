@@ -6732,3 +6732,21 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1213803,96,15793,84,,subst,264383,Substitution 5,
 1213803,79,379329,90,6,Card,,Yellow Card,Time wasting
 1213803,96,174724,90,3,Card,,Yellow Card,Argument
+1213804,1063,24743,15,,Goal,157146,Normal Goal,
+1213804,108,21010,35,,Card,,Yellow Card,Foul
+1213804,1063,22087,47,,Card,,Yellow Card,Foul
+1213804,1063,24743,54,,Goal,20648,Normal Goal,
+1213804,108,32940,60,,subst,20732,Substitution 1,
+1213804,108,20206,60,,subst,191392,Substitution 2,
+1213804,108,285,61,,subst,51293,Substitution 3,
+1213804,1063,278232,67,,Card,,Yellow Card,Foul
+1213804,1063,179856,70,,subst,22003,Substitution 1,
+1213804,108,51293,74,,Goal,90617,Normal Goal,
+1213804,1063,395762,78,,subst,274355,Substitution 2,
+1213804,1063,20648,78,,subst,322560,Substitution 3,
+1213804,1063,174801,78,,subst,289555,Substitution 4,
+1213804,1063,157146,79,,Card,,Yellow Card,Foul
+1213804,108,21010,83,,subst,20586,Substitution 4,
+1213804,108,90617,83,,subst,20782,Substitution 5,
+1213804,1063,24743,86,,Goal,322560,Normal Goal,
+1213804,1063,157146,88,,subst,8624,Substitution 5,
