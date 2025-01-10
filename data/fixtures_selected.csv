@@ -2464,3 +2464,6 @@ id,referee,timezone,date,kick_off,venue_id,venue,city,elapsed_time,extra_time,le
 1208222,"Peter Bankes, England",UTC,2025-01-06,20:00:00,600,Molineux Stadium,"Wolverhampton, West Midlands",90,6,39,Premier League,2024,Regular Season - 20,39,Wolves,65,Nottingham Forest,0,3,0,2,,,,
 1327988,"John Brooks, England",UTC,2025-01-07,20:00:00,494,Emirates Stadium,London,90,6,48,League Cup,2024,Semi-finals,42,Arsenal,34,Newcastle,0,2,0,1,,,,
 1327990,"Stuart Attwell, England",UTC,2025-01-08,20:00:00,593,Tottenham Hotspur Stadium,London,90,9,48,League Cup,2024,Semi-finals,47,Tottenham,40,Liverpool,1,0,0,0,,,,
+1318865,"Adam Herczeg, England",UTC,2025-01-09,19:00:00,581,Bramall Lane,Sheffield,90,5,45,FA Cup,2024,3rd Round,62,Sheffield Utd,43,Cardiff,0,1,0,1,,,,
+1318860,"Thomas Bramall, England",UTC,2025-01-09,19:45:00,8560,Goodison Park,Liverpool,90,11,45,FA Cup,2024,3rd Round,45,Everton,1350,Peterborough,2,0,1,0,,,,
+1318866,"Matt Donohue, England",UTC,2025-01-09,19:45:00,535,Craven Cottage,London,90,3,45,FA Cup,2024,3rd Round,36,Fulham,38,Watford,4,1,1,1,,,,
