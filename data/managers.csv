@@ -51,6 +51,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1953,E. Horneland,Eirik,Horneland,1975-03-14,,Norway,Norway,,,https://media.api-sports.io/football/coachs/1953.png
 1993,E. ten Hag,Erik,ten Hag,1970-02-02,Haaksbergen,Netherlands,Netherlands,,,https://media.api-sports.io/football/coachs/1993.png
 2006,A. Slot,Arne,Slot,1978-09-17,Bergentheim,Netherlands,Netherlands,185 cm,75 kg,https://media.api-sports.io/football/coachs/2006.png
+2015,P. Zeidler,Peter,Zeidler,1962-08-08,Schwäbisch Gmünd,Germany,Germany,184 cm,,https://media.api-sports.io/football/coachs/2015.png
 2016,T. Häberli,Thomas,Häberli,1974-04-11,Luzern,Switzerland,Switzerland,,,https://media.api-sports.io/football/coachs/2016.png
 2017,G. Seoane,Gerardo,Seoane Castro,1978-10-30,Luzern,Switzerland,Switzerland,186 cm,,https://media.api-sports.io/football/coachs/2017.png
 2108,Andoni Iraola,Andoni,Iraola Sagarna,1982-06-22,Usurbil,Spain,Spain,178 cm,77 kg,https://media.api-sports.io/football/coachs/2108.png
