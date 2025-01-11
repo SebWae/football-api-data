@@ -42,6 +42,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1534,O. Glasner,Oliver,Glasner,1974-08-28,Salzburg,Austria,Austria,181 cm,72 kg,https://media.api-sports.io/football/coachs/1534.png
 1540,M. Rose,Marco,Rose,1976-09-11,Leipzig,Germany,Germany,187 cm,83 kg,https://media.api-sports.io/football/coachs/1540.png
 1542,A. Hütter,Adi,Hütter,1970-02-11,Hohenems,Austria,Austria,184 cm,,https://media.api-sports.io/football/coachs/1542.png
+1549,D. Toppmöller,Dino Nicolas,Toppmöller,1980-11-23,Rivenich,Germany,Germany,190 cm,,https://media.api-sports.io/football/coachs/1549.png
 1563,S. Bradley,Stephen,Bradley,1984-11-19,Dublin,Republic of Ireland,Republic of Ireland,,,https://media.api-sports.io/football/coachs/1563.png
 1594,Lopetegui,Julen,Lopetegui Argote,1966-08-28,Asteasu,Spain,Spain,185 cm,,https://media.api-sports.io/football/coachs/1594.png
 1611,V. Italiano,Vincenzo,Italiano,1977-12-10,Karlsruhe,Germany,Italy,175 cm,67 kg,https://media.api-sports.io/football/coachs/1611.png
@@ -94,6 +95,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 15114,M. Martens,Maarten,Martens,1984-07-02,Eeklo,Belgium,Belgium,176 cm,,https://media.api-sports.io/football/coachs/15114.png
 16556,K. McKenna,Kieran,McKenna,1986-05-14,,England,England,,,https://media.api-sports.io/football/coachs/16556.png
 17757,S. Lindsey,Scott,Lindsey,1972-05-04,Walsall,England,England,175 cm,,https://media.api-sports.io/football/coachs/17757.png
+17763,N. Şahin,Nuri,Şahin,1988-09-05,Lüdenscheid,Germany,Türkiye,180 cm,73 kg,https://media.api-sports.io/football/coachs/17763.png
 18151,G. O'Neil,Gary Paul,O'Neil,1983-05-18,Bromley,England,England,173 cm,60 kg,https://media.api-sports.io/football/coachs/18151.png
 18432,Chicho Pèlach,Narcís,Pèlach Nadal,1988-09-05,Girona,Spain,Spain,,,https://media.api-sports.io/football/coachs/18432.png
 18552,M. Bloomfield,Matthew James,Bloomfield,1984-02-08,Felixstowe,England,England,173 cm,71 kg,https://media.api-sports.io/football/coachs/18552.png
