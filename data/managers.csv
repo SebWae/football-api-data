@@ -33,6 +33,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1127,Q. Qurbanov,Qurban,Qurbanov,1972-04-13,"Aşağı Tala, Nearby Zaqatala",Azerbaijan,Azerbaijan,,,https://media.api-sports.io/football/coachs/1127.png
 1163,R. Lucescu,Răzvan,Lucescu,1969-02-17,București,Romania,Romania,,,https://media.api-sports.io/football/coachs/1163.png
 1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
+1399,S. Hoeneb,Sebastian,Hoeneß,1982-05-12,,Germany,Germany,,,https://media.api-sports.io/football/coachs/1399.png
 1442,O. Buruk,Okan,Buruk,1973-10-19,İstanbul,Türkiye,Türkiye,169 cm,69 kg,https://media.api-sports.io/football/coachs/1442.png
 1448,E. Bulut,Erol,Bulut,1975-01-31,Bad Schwalbach,Germany,Türkiye,184 cm,82 kg,https://media.api-sports.io/football/coachs/1448.png
 1470,C. Pélissier,Christophe,Pélissier,1965-10-05,,France,France,,,https://media.api-sports.io/football/coachs/1470.png
@@ -114,3 +115,4 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 22849,João Pereira,,,,,,,,,https://media.api-sports.io/football/coachs/22849.png
 22922,C. Davies,,,,,,,,,https://media.api-sports.io/football/coachs/22922.png
 22937,D. Röhl,,,,,,,,,https://media.api-sports.io/football/coachs/22937.png
+23027,J. Schuster,,,,,,,,,https://media.api-sports.io/football/coachs/23027.png
