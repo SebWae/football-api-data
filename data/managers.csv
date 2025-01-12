@@ -3,6 +3,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 5,E. Howe,Edward John Frank,Howe,1977-11-29,Amersham,England,England,,,https://media.api-sports.io/football/coachs/5.png
 6,C. Wilder,Christopher John,Wilder,1967-09-23,Sheffield,England,England,,,https://media.api-sports.io/football/coachs/6.png
 7,S. Dyche,Sean Mark,Dyche,1971-06-28,Kettering,England,England,,,https://media.api-sports.io/football/coachs/7.png
+8,R. Hasenhüttl,Ralph,Hasenhüttl,1967-08-09,Graz,Austria,Austria,191 cm,89 kg,https://media.api-sports.io/football/coachs/8.png
 10,Marco Silva,Marco Alexandre,Saraiva da Silva,1977-07-12,Lisboa,Portugal,Portugal,,,https://media.api-sports.io/football/coachs/10.png
 16,Nuno Espírito Santo,Nuno Herlander,Simões Espírito Santo,1974-01-25,São Tomé,São Tomé e Príncipe,Portugal,,,https://media.api-sports.io/football/coachs/16.png
 18,Unai Emery,Unai,Emery Etxegoien,1971-11-03,Hondarribia,Spain,Spain,,,https://media.api-sports.io/football/coachs/18.png
