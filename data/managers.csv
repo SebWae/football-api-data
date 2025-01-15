@@ -91,6 +91,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 7611,P. Matarazzo,Pellegrino,Matarazzo,1977-11-28,Wayne,USA,USA,,,https://media.api-sports.io/football/coachs/7611.png
 8665,F. Haise,Franck,Haise,1971-04-15,Mont-Saint-Aignan,France,France,,,https://media.api-sports.io/football/coachs/8665.png
 9443,B. Dawson,Ben,Dawson,1981-02-11,,England,England,,,https://media.api-sports.io/football/coachs/9443.png
+9465,L. Williams,Luke,Williams,1980-10-09,London,England,England,,,https://media.api-sports.io/football/coachs/9465.png
 9538,P. Trollope,Paul,Trollope,1972-06-03,Swindon,England,Wales,183 cm,72 kg,https://media.api-sports.io/football/coachs/9538.png
 10421,P. Jansen,Pascal,Jansen,1973-01-27,,Netherlands,Netherlands,,,https://media.api-sports.io/football/coachs/10421.png
 10665,W. Still,William,Still,1992-10-14,Antwerpen,Belgium,Belgium,,,https://media.api-sports.io/football/coachs/10665.png
@@ -127,4 +128,3 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 22937,D. Röhl,,,,,,,,,https://media.api-sports.io/football/coachs/22937.png
 23027,J. Schuster,,,,,,,,,https://media.api-sports.io/football/coachs/23027.png
 24211,C. Brunt,,,,,,,,,https://media.api-sports.io/football/coachs/24211.png
-9465,L. Williams,Luke,Williams,1980-10-09,London,England,England,,,https://media.api-sports.io/football/coachs/9465.png
