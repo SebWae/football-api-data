@@ -38,6 +38,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1335,F. Schmidt,Frank,Schmidt,1974-01-03,Heidenheim,Germany,Germany,,,https://media.api-sports.io/football/coachs/1335.png
 1348,O. Werner,Ole,Werner,1988-05-04,,Germany,Germany,,,https://media.api-sports.io/football/coachs/1348.png
 1399,S. Hoeneb,Sebastian,Hoeneß,1982-05-12,,Germany,Germany,,,https://media.api-sports.io/football/coachs/1399.png
+1426,B. Svensson,Bo,Svensson,1979-08-04,Skørping,Denmark,Denmark,190 cm,87 kg,https://media.api-sports.io/football/coachs/1426.png
 1442,O. Buruk,Okan,Buruk,1973-10-19,İstanbul,Türkiye,Türkiye,169 cm,69 kg,https://media.api-sports.io/football/coachs/1442.png
 1448,E. Bulut,Erol,Bulut,1975-01-31,Bad Schwalbach,Germany,Türkiye,184 cm,82 kg,https://media.api-sports.io/football/coachs/1448.png
 1470,C. Pélissier,Christophe,Pélissier,1965-10-05,,France,France,,,https://media.api-sports.io/football/coachs/1470.png
@@ -52,6 +53,7 @@ manager_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality
 1563,S. Bradley,Stephen,Bradley,1984-11-19,Dublin,Republic of Ireland,Republic of Ireland,,,https://media.api-sports.io/football/coachs/1563.png
 1594,Lopetegui,Julen,Lopetegui Argote,1966-08-28,Asteasu,Spain,Spain,185 cm,,https://media.api-sports.io/football/coachs/1594.png
 1611,V. Italiano,Vincenzo,Italiano,1977-12-10,Karlsruhe,Germany,Italy,175 cm,67 kg,https://media.api-sports.io/football/coachs/1611.png
+1676,B. Henriksen,Bo,Henriksen,1975-02-07,,Denmark,Denmark,,,https://media.api-sports.io/football/coachs/1676.png
 1682,B. Priske,Brian,Priske Pedersen,1977-05-14,Horsens,Denmark,Denmark,188 cm,79 kg,https://media.api-sports.io/football/coachs/1682.png
 1878,Martí Cifuentes,Martí,Cifuentes Corvillo Bajare,1982-07-07,,Spain,Spain,,,https://media.api-sports.io/football/coachs/1878.png
 1952,K. Knutsen,Kjetil,Knutsen,1968-10-02,Bergen,Norway,Norway,,,https://media.api-sports.io/football/coachs/1952.png
