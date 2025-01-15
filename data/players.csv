@@ -2502,6 +2502,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 334042,Kaiden Wilson,Kaiden Carlton Anthony,Wilson,2005-09-02,,England,England,,,https://media.api-sports.io/football/players/334042.png
 334334,K. Topp,Keke Maximilian,Topp,2004-03-25,,Germany,Germany,192 cm,81 kg,https://media.api-sports.io/football/players/334334.png
 334429,O. Diakité,Oumar,Diakité,2003-12-20,Bingerville,Côte d'Ivoire,Côte d'Ivoire,182 cm,76 kg,https://media.api-sports.io/football/players/334429.png
+334725,D. Sadi,Dominic,Sadi,2003-09-02,,England,England,174 cm,65 kg,https://media.api-sports.io/football/players/334725.png
 334879,B. Bouanani,Badredine,Bouanani,2004-12-08,,France,Algeria,177 cm,68 kg,https://media.api-sports.io/football/players/334879.png
 334914,S. Kumbedi,Saël,Kumbedi Nseke,2005-03-26,Stains,France,France,175 cm,67 kg,https://media.api-sports.io/football/players/334914.png
 334952,R. Messali,Rafik,Messali,2003-04-28,,France,Algeria,177 cm,74 kg,https://media.api-sports.io/football/players/334952.png
@@ -2702,6 +2703,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 380697,M. Kacurri,Maldini,Kacurri,2005-10-04,London,England,Albania,183 cm,84 kg,https://media.api-sports.io/football/players/380697.png
 380715,B. Broggio,Benjamin Tomaso,Broggio,2007-01-29,,England,England,181 cm,75 kg,https://media.api-sports.io/football/players/380715.png
 381830,T. De Vlieger,Tibe,De Vlieger,2005-11-05,,Belgium,Belgium,182 cm,,https://media.api-sports.io/football/players/381830.png
+382160,D. Adu-Adjei,Daniel,Adu-Adjei,2005-06-21,,England,England,177 cm,,https://media.api-sports.io/football/players/382160.png
 382170,M. Kinsey-Wellings,Maxwell,Kinsey-Wellings,2005-02-02,Guildford,England,England,184 cm,76 kg,https://media.api-sports.io/football/players/382170.png
 382252,Madiou Keita,Haladj Madiou,Keita,2004-08-29,Amilly,France,Guinea,184 cm,86 kg,https://media.api-sports.io/football/players/382252.png
 382340,G. Forsyth,Gabriel,Forsyth,2006-08-04,Glasgow,Scotland,Scotland,184 cm,79 kg,https://media.api-sports.io/football/players/382340.png
