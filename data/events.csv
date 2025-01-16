@@ -8215,3 +8215,25 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224016,172,26475,90,7,Goal,25342,Normal Goal,
 1224016,161,162409,90,4,Card,,Yellow Card,Argument
 1224016,161,127413,90,2,Card,,Yellow Card,Foul
+1224017,164,39279,6,,Card,,Yellow Card,Foul
+1224017,180,178106,15,,Goal,24979,Normal Goal,
+1224017,164,39279,29,,Card,,Yellow Card,Foul
+1224017,164,39279,29,,Card,,Red Card,Foul
+1224017,164,26519,32,,subst,25907,Substitution 1,
+1224017,180,25502,48,,Card,,Yellow Card,Foul
+1224017,164,231032,49,,Card,,Yellow Card,Argument
+1224017,180,24899,50,,Card,,Yellow Card,Argument
+1224017,180,25203,56,,Card,,Yellow Card,Foul
+1224017,180,15732,56,,subst,128849,Substitution 1,
+1224017,164,22244,61,,subst,280339,Substitution 2,
+1224017,164,979,61,,Card,,Yellow Card,Argument
+1224017,180,25502,70,,subst,280055,Substitution 2,
+1224017,180,327895,70,,subst,8959,Substitution 3,
+1224017,164,2906,75,,subst,342177,Substitution 3,
+1224017,164,979,75,,subst,202736,Substitution 4,
+1224017,164,48378,75,,subst,25455,Substitution 5,
+1224017,180,178106,77,,Card,,Yellow Card,Time wasting
+1224017,180,24904,79,,Var,,Card upgrade,
+1224017,180,24904,80,,Card,,Red Card,Foul
+1224017,180,127619,86,,Goal,8959,Normal Goal,
+1224017,180,178106,89,,subst,24842,Substitution 4,
