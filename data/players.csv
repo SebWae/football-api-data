@@ -1215,6 +1215,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 24845,J. Ryerson,Julian,Ryerson,1997-11-17,Lyngdal,Norway,Norway,183 cm,86 kg,https://media.api-sports.io/football/players/24845.png
 24848,C. Trimmel,Christopher,Trimmel,1987-02-24,Oberpullendorf,Austria,Austria,189 cm,82 kg,https://media.api-sports.io/football/players/24848.png
 24854,G. Prömel,Grischa,Prömel,1995-01-09,Bad Cannstatt,Germany,Germany,180 cm,75 kg,https://media.api-sports.io/football/players/24854.png
+24868,J. Vagnoman,Josha Mamadou Karaboue,Vagnoman,2000-12-11,Hamburg,Germany,Germany,190 cm,90 kg,https://media.api-sports.io/football/players/24868.png
 24876,L. Holtby,Lewis Harry,Holtby,1990-09-18,Erkelenz,Germany,Germany,175 cm,76 kg,https://media.api-sports.io/football/players/24876.png
 24882,O. Mangala,Orel Johnson,Mangala,1998-03-18,Brussel,Belgium,Belgium,178 cm,80 kg,https://media.api-sports.io/football/players/24882.png
 24887,J. Arp,Jann-Fiete,Arp,2000-01-06,Bad Segeberg,Germany,Germany,186 cm,83 kg,https://media.api-sports.io/football/players/24887.png
@@ -1320,6 +1321,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 26395,P. Drewes,Patrick,Drewes,1993-02-04,Delmenhorst,Germany,Germany,194 cm,87 kg,https://media.api-sports.io/football/players/26395.png
 26453,M. Komenda,Marco,Komenda,1996-11-26,Darmstadt,Germany,Germany,182 cm,78 kg,https://media.api-sports.io/football/players/26453.png
 26475,D. Undav,Deniz,Undav,1996-07-19,Varel,Germany,Germany,179 cm,86 kg,https://media.api-sports.io/football/players/26475.png
+26519,Hong Hyun-Seok,Hyun-Seok,Hong,1999-06-16,Seoul,Korea Republic,Korea Republic,175 cm,66 kg,https://media.api-sports.io/football/players/26519.png
 26525,F. Porath,Finn-Dominik,Porath,1997-02-23,Lübeck,Germany,Germany,180 cm,72 kg,https://media.api-sports.io/football/players/26525.png
 26848,G. Kotsiras,Giannis,Kotsiras,1992-12-16,Megalopoli,Greece,Greece,183 cm,77 kg,https://media.api-sports.io/football/players/26848.png
 26862,K. Thymianis,Konstantinos,Thymianis,2001-02-28,,Greece,Greece,,,https://media.api-sports.io/football/players/26862.png
@@ -1568,6 +1570,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 48190,A. Sampsted,Alfons,Sampsted,1998-04-06,Kópavogur,Iceland,Iceland,180 cm,72 kg,https://media.api-sports.io/football/players/48190.png
 48201,G. Þórarinsson,Guðmundur,Þórarinsson,1992-04-15,Selfoss,Iceland,Iceland,183 cm,77 kg,https://media.api-sports.io/football/players/48201.png
 48337,O. Camara,Ousmane,Camara,1998-12-28,,Guinea,Guinea,167 cm,,https://media.api-sports.io/football/players/48337.png
+48378,S. Widmer,Silvan Dominic,Widmer,1993-03-05,Aarau,Switzerland,Switzerland,183 cm,77 kg,https://media.api-sports.io/football/players/48378.png
 48389,N. Okafor,Noah Arinzechukwu,Okafor,2000-05-24,Binningen,Switzerland,Switzerland,185 cm,85 kg,https://media.api-sports.io/football/players/48389.png
 48390,R. van Wolfswinkel,Ricky,van Wolfswinkel,1989-01-27,Woudenberg,Netherlands,Netherlands,186 cm,70 kg,https://media.api-sports.io/football/players/48390.png
 48391,J. von Moos,Julian Tobias Emilio,von Moos,2001-04-01,Salmsach,Switzerland,Switzerland,181 cm,79 kg,https://media.api-sports.io/football/players/48391.png
@@ -2140,6 +2143,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 194461,G. Thomason,George,Thomason,2001-01-12,Barrow-in-Furness,England,England,177 cm,69 kg,https://media.api-sports.io/football/players/194461.png
 194495,T. Cann,Ted,Cann,2000-12-27,,England,England,188 cm,77 kg,https://media.api-sports.io/football/players/194495.png
 194645,S. Sambo,Shurandy Ruggerio,Sambo,2001-08-19,Geldrop,Netherlands,Netherlands,174 cm,65 kg,https://media.api-sports.io/football/players/194645.png
+194750,E. Touré,El Bilal,Touré,2001-10-03,Adjamé,Côte d'Ivoire,Mali,185 cm,77 kg,https://media.api-sports.io/football/players/194750.png
 195103,João Gomes,João Victor,Gomes da Silva,2001-02-12,Rio de Janeiro,Brazil,Brazil,176 cm,74 kg,https://media.api-sports.io/football/players/195103.png
 195106,Rodrigo Muniz,Rodrigo,Muniz Carvalho,2001-05-04,São Domingos do Prata,Brazil,Brazil,178 cm,67 kg,https://media.api-sports.io/football/players/195106.png
 195121,M. Núñez,Marcelino Ignacio,Núñez Espinoza,2000-03-01,Independencia,Chile,Chile,173 cm,73 kg,https://media.api-sports.io/football/players/195121.png
