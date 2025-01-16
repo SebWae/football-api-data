@@ -3,6 +3,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 6,L. Balerdi,Leonardo Julián,Balerdi Rosa,1999-01-26,Villa Mercedes,Argentina,Argentina,187 cm,76 kg,https://media.api-sports.io/football/players/6.png
 8,Raphaël Guerreiro,Raphaël Adelino José,Guerreiro,1993-12-22,Le Blanc-Mesnil,France,Portugal,170 cm,71 kg,https://media.api-sports.io/football/players/8.png
 9,A. Hakimi,Achraf,Hakimi Mouh,1998-11-04,Madrid,Spain,Morocco,181 cm,73 kg,https://media.api-sports.io/football/players/9.png
+13,D. Zagadou,Dan-Axel,Zagadou,1999-06-03,Créteil,France,France,196 cm,90 kg,https://media.api-sports.io/football/players/13.png
 14,M. Dahoud,Mahmoud,Dahoud,1996-01-01,Amouda,Syria,Germany,178 cm,68 kg,https://media.api-sports.io/football/players/14.png
 16,M. Götze,Mario,Götze,1992-06-03,Memmingen,Germany,Germany,176 cm,75 kg,https://media.api-sports.io/football/players/16.png
 17,C. Pulišić,Christian Mate,Pulišić,1998-09-18,Hershey,USA,USA,177 cm,73 kg,https://media.api-sports.io/football/players/17.png
@@ -1872,6 +1873,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 129673,S. Bajić,Stefan,Bajić,2001-12-23,Saint-Étienne,France,France,191 cm,84 kg,https://media.api-sports.io/football/players/129673.png
 129678,A. Ounahi,Azzedine,Ounahi,2000-04-19,Casablanca,Morocco,Morocco,182 cm,62 kg,https://media.api-sports.io/football/players/129678.png
 129680,H. Mbock,Hiang'a,Mananga Mbock,1999-12-28,Brest,France,France,186 cm,82 kg,https://media.api-sports.io/football/players/129680.png
+129681,A. Rouault,Anthony,Rouault,2001-05-29,Villeneuve-sur-Lot,France,France,186 cm,77 kg,https://media.api-sports.io/football/players/129681.png
 129682,A. Adli,Amine,Adli,2000-05-10,Béziers,France,Morocco,174 cm,72 kg,https://media.api-sports.io/football/players/129682.png
 129695,D. Bakwa,Dilane,Bakwa,2002-08-26,Créteil,France,France,180 cm,75 kg,https://media.api-sports.io/football/players/129695.png
 129701,Armando Quitirna,Armando,Quitirna,2000-01-01,,England,England,170 cm,64 kg,https://media.api-sports.io/football/players/129701.png
