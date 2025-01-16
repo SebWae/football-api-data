@@ -8237,3 +8237,17 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224017,180,24904,80,,Card,,Red Card,Foul
 1224017,180,127619,86,,Goal,8959,Normal Goal,
 1224017,180,178106,89,,subst,24842,Substitution 4,
+1224018,182,324957,46,,subst,288206,Substitution 1,
+1224018,182,288206,55,,Card,,Yellow Card,Foul
+1224018,182,512,62,,subst,129072,Substitution 2,
+1224018,163,25461,67,,Card,,Yellow Card,Simulation
+1224018,163,50852,69,,Card,,Yellow Card,Foul
+1224018,163,25461,72,,subst,725,Substitution 1,
+1224018,182,162946,72,,subst,24962,Substitution 3,
+1224018,163,22148,76,,subst,80434,Substitution 2,
+1224018,163,24969,76,,subst,203007,Substitution 3,
+1224018,182,2219,79,,subst,24910,Substitution 4,
+1224018,182,26249,79,,subst,24848,Substitution 5,
+1224018,163,25646,81,,Card,,Yellow Card,Argument
+1224018,163,25646,90,7,subst,24839,Substitution 4,
+1224018,163,80434,90,6,Goal,725,Normal Goal,
