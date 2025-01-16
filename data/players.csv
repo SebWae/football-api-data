@@ -111,6 +111,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 509,A. Davies,Alphonso Boyle,Davies,2000-11-02,Buduburam,Ghana,Canada,183 cm,75 kg,https://media.api-sports.io/football/players/509.png
 510,S. Gnabry,Serge David,Gnabry,1995-07-14,Stuttgart,Germany,Germany,176 cm,77 kg,https://media.api-sports.io/football/players/510.png
 511,L. Goretzka,Leon Christoph,Goretzka,1995-02-06,Bochum,Germany,Germany,189 cm,82 kg,https://media.api-sports.io/football/players/511.png
+512,Jeong Woo-Yeong,Woo-Yeong,Jeong,1999-09-20,Ulsan,Korea Republic,Korea Republic,179 cm,71 kg,https://media.api-sports.io/football/players/512.png
 519,C. Tolisso,Corentin,Tolisso,1994-08-03,Tarare,France,France,181 cm,81 kg,https://media.api-sports.io/football/players/519.png
 522,T. Müller,Thomas,Müller,1989-09-13,Weilheim,Germany,Germany,185 cm,76 kg,https://media.api-sports.io/football/players/522.png
 523,I. El Maach,Issam,El Maach,2000-02-01,heerlen,Morocco,Morocco,187 cm,96 kg,https://media.api-sports.io/football/players/523.png
@@ -647,6 +648,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 15912,V. Nelsson,Victor Enok,Nelsson,1998-10-14,Hornbæk,Denmark,Denmark,185 cm,78 kg,https://media.api-sports.io/football/players/15912.png
 15916,A. Skov Olsen,Andreas,Skov Olsen,1999-12-29,Hillerød,Denmark,Denmark,187 cm,75 kg,https://media.api-sports.io/football/players/15916.png
 15945,J. Okkels,Jeppe,Møldrup Okkels,1999-07-27,,Denmark,Denmark,183 cm,76 kg,https://media.api-sports.io/football/players/15945.png
+15972,A. Albers,Andreas,Albers Nielsen,1990-03-23,Skive,Denmark,Denmark,193 cm,90 kg,https://media.api-sports.io/football/players/15972.png
 16031,M. Baidoo,Michael,Baidoo,1999-05-14,Accra,Ghana,Ghana,174 cm,72 kg,https://media.api-sports.io/football/players/16031.png
 16046,V. Torp,Victor,Torp Overgaard,1999-07-30,,Denmark,Denmark,178 cm,60 kg,https://media.api-sports.io/football/players/16046.png
 16061,A. Sørensen,Adam,Sørensen,2000-11-11,,Denmark,Denmark,165 cm,60 kg,https://media.api-sports.io/football/players/16061.png
@@ -1277,6 +1279,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 25383,F. Muslija,Florent,Muslija,1998-07-06,Achern,Germany,Kosovo,172 cm,65 kg,https://media.api-sports.io/football/players/25383.png
 25391,N. Füllkrug,Niclas,Füllkrug,1993-02-09,Hannover,Germany,Germany,189 cm,83 kg,https://media.api-sports.io/football/players/25391.png
 25400,Y. Gerhardt,Yannick,Gerhardt,1994-03-13,Würselen,Germany,Germany,184 cm,81 kg,https://media.api-sports.io/football/players/25400.png
+25404,J. Roussillon,Jérôme,Roussillon,1993-01-06,Sarcelles,France,Guadeloupe,175 cm,80 kg,https://media.api-sports.io/football/players/25404.png
 25408,M. Arnold,Maximilian,Arnold,1994-05-27,Riesa,Germany,Germany,184 cm,74 kg,https://media.api-sports.io/football/players/25408.png
 25413,E. Rexhbeçaj,Elvis,Rexhbeçaj,1997-11-01,Gjonaj,Kosovo,Kosovo,182 cm,78 kg,https://media.api-sports.io/football/players/25413.png
 25448,K. Ayhan,Kaan,Ayhan,1994-11-10,Gelsenkirchen,Germany,Türkiye,185 cm,84 kg,https://media.api-sports.io/football/players/25448.png
@@ -1788,6 +1791,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 106725,K. Lewis-Potter,Keane William,Lewis-Potter,2001-02-22,Hull,England,England,170 cm,67 kg,https://media.api-sports.io/football/players/106725.png
 106835,K. Mitoma,Kaoru,Mitoma,1997-05-20,Kawasaki,Japan,Japan,178 cm,73 kg,https://media.api-sports.io/football/players/106835.png
 106851,S. Machino,Shuto,Machino,1999-09-30,Iga,Japan,Japan,185 cm,81 kg,https://media.api-sports.io/football/players/106851.png
+107087,S. Banks,Scott Brian,Banks,2001-09-26,Linlithgow,Scotland,Scotland,183 cm,74 kg,https://media.api-sports.io/football/players/107087.png
 107199,P. Cornud,Pierre,Cornud,1996-12-12,Avignon,France,France,177 cm,60 kg,https://media.api-sports.io/football/players/107199.png
 107303,D. Sikan,Danylo,Sikan,2001-04-16,Zhytomyr,Ukraine,Ukraine,187 cm,79 kg,https://media.api-sports.io/football/players/107303.png
 107782,K. Digie,Kennedy,Digie,1996-12-13,,England,England,191 cm,,https://media.api-sports.io/football/players/107782.png
