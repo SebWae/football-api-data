@@ -8171,3 +8171,25 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224014,162,25464,88,,subst,7073,Substitution 5,
 1224014,167,327861,90,3,Card,,Yellow Card,Foul
 1224014,162,334334,90,4,Card,,Yellow Card,Time wasting
+1224015,186,323974,12,,Goal,25326,Normal Goal,
+1224015,160,2915,34,,Card,,Yellow Card,Foul
+1224015,160,2915,40,,Var,,Penalty confirmed,
+1224015,160,26239,44,,Card,,Yellow Card,Foul
+1224015,186,17756,45,,Goal,323974,Normal Goal,
+1224015,186,178146,46,,subst,6904,Substitution 1,
+1224015,160,202526,46,,subst,202844,Substitution 1,
+1224015,186,25326,53,,Card,,Yellow Card,Foul
+1224015,186,27157,62,,Card,,Yellow Card,Foul
+1224015,160,26239,65,,subst,25383,Substitution 2,
+1224015,160,163022,66,,subst,26255,Substitution 3,
+1224015,160,26240,66,,Var,,Goal cancelled,
+1224015,186,323974,72,,Goal,2749,Normal Goal,
+1224015,160,125173,74,,subst,25297,Substitution 4,
+1224015,186,25326,77,,subst,107087,Substitution 2,
+1224015,186,27157,77,,subst,40274,Substitution 3,
+1224015,160,2917,80,,subst,26250,Substitution 5,
+1224015,186,323974,83,,subst,15972,Substitution 4,
+1224015,160,2598,86,,Var,,Goal cancelled,
+1224015,160,26250,90,4,Card,,Yellow Card,Argument
+1224015,186,107087,90,5,Card,,Yellow Card,Foul
+1224015,186,17756,90,,subst,1672,Substitution 5,
