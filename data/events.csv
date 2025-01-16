@@ -8069,3 +8069,21 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224008,182,129072,85,,Card,,Yellow Card,Time wasting
 1224008,167,279907,89,,Card,,Yellow Card,Foul
 1224008,167,7327,90,,subst,66019,Substitution 5,
+1224009,191,7305,0,,Goal,201351,Normal Goal,
+1224009,176,61411,16,,subst,25074,Substitution 1,
+1224009,176,37122,22,,Goal,36907,Normal Goal,
+1224009,176,25268,35,,Goal,26287,Normal Goal,
+1224009,176,37122,39,,Card,,Yellow Card,Argument
+1224009,191,40984,46,,subst,202580,Substitution 1,
+1224009,176,539,48,,Card,,Yellow Card,Foul
+1224009,176,25268,62,,subst,145059,Substitution 2,
+1224009,176,36907,63,,subst,26227,Substitution 3,
+1224009,191,201351,64,,subst,24887,Substitution 2,
+1224009,191,24876,64,,subst,424,Substitution 3,
+1224009,176,26287,76,,Card,,Yellow Card,Time wasting
+1224009,191,162720,78,,subst,106851,Substitution 4,
+1224009,176,19068,78,,Card,,Yellow Card,Foul
+1224009,191,70514,81,,subst,260898,Substitution 5,
+1224009,176,26287,85,,subst,336224,Substitution 4,
+1224009,191,106851,89,,Goal,424,Normal Goal,
+1224009,191,39315,90,4,Card,,Yellow Card,Foul
