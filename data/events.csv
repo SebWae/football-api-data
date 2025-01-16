@@ -7912,3 +7912,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224000,172,128533,83,,subst,13,Substitution 5,
 1224000,172,13,88,,Card,,Yellow Card,Foul
 1224000,163,38114,90,2,Card,,Yellow Card,Foul
+1224001,157,181812,1,,Goal,184,Normal Goal,
+1224001,157,184,7,,Goal,510,Normal Goal,
+1224001,157,260898,13,,Goal,,Own Goal,
+1224001,157,184,43,,Goal,508,Normal Goal,
+1224001,191,25609,46,,subst,162720,Substitution 1,
+1224001,191,265386,46,,subst,40984,Substitution 2,
+1224001,157,181812,46,,subst,522,Substitution 1,
+1224001,157,510,46,,subst,19617,Substitution 2,
+1224001,191,106851,64,,subst,24887,Substitution 3,
+1224001,157,2195,64,,subst,1157,Substitution 3,
+1224001,157,8,64,,subst,509,Substitution 4,
+1224001,157,19617,65,,Goal,,Normal Goal,
+1224001,191,24876,76,,subst,70514,Substitution 4,
+1224001,191,26525,76,,subst,202580,Substitution 5,
+1224001,157,508,76,,subst,270510,Substitution 5,
+1224001,157,41104,81,,Card,,Yellow Card,Foul
+1224001,191,70514,82,,Goal,40984,Normal Goal,
+1224001,157,184,90,1,Goal,,Penalty,
+1224001,157,184,90,,Var,,Penalty confirmed,
