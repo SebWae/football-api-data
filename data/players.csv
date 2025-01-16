@@ -2097,6 +2097,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 178146,C. Boukhalfa,Carlo Gregor,Boukhalfa,1999-05-03,Freiburg,Germany,Germany,186 cm,79 kg,https://media.api-sports.io/football/players/178146.png
 178362,Č. Makreckis,Čebrails,Makreckis,2000-05-10,Aachen,Latvia,Latvia,181 cm,74 kg,https://media.api-sports.io/football/players/178362.png
 178749,L. Samardžić,Lazar Vujadin,Samardžić,2002-02-24,Berlin,Germany,Serbia,184 cm,70 kg,https://media.api-sports.io/football/players/178749.png
+178768,N. Atubolu,Noah,Atubolu,2002-05-25,Freiburg im Breisgau,Germany,Germany,190 cm,78 kg,https://media.api-sports.io/football/players/178768.png
 178769,P. Treu,Philipp,Treu,2000-12-03,Heidelberg,Germany,Germany,172 cm,71 kg,https://media.api-sports.io/football/players/178769.png
 178921,A. Hountondji,Andréas,Hountondji,2002-07-11,Montry,France,Benin,190 cm,64 kg,https://media.api-sports.io/football/players/178921.png
 179399,E. Tchato,Enzo Gianni,Tchato Mbiayi,2002-11-23,Montpellier,France,Cameroon,182 cm,75 kg,https://media.api-sports.io/football/players/179399.png
@@ -2175,6 +2176,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 201351,A. Kelati,Andu Yobel,Kelati,2002-08-13,Frankfurt am Main,Germany,Germany,179 cm,69 kg,https://media.api-sports.io/football/players/201351.png
 201368,Killian Cahill,Killian,Cahill,2003-11-03,Meath,Republic of Ireland,Republic of Ireland,182 cm,67 kg,https://media.api-sports.io/football/players/201368.png
 202086,J. Sarmiento,Jeremy Leonel,Sarmiento Morante,2002-06-16,Madrid,Spain,Ecuador,178 cm,72 kg,https://media.api-sports.io/football/players/202086.png
+202526,E. Dinkçi,Eren Sami,Dinkçi,2001-12-13,Bremen,Germany,Germany,188 cm,70 kg,https://media.api-sports.io/football/players/202526.png
 202580,L. Rosenboom,Lasse,Rosenboom,2002-01-19,Aurich,Germany,Germany,190 cm,80 kg,https://media.api-sports.io/football/players/202580.png
 202696,I. Matanović,Igor,Matanović,2003-03-31,Hamburg,Germany,Croatia,194 cm,90 kg,https://media.api-sports.io/football/players/202696.png
 202736,P. Nebel,Paul,Nebel,2002-10-10,Bad Nauheim,Germany,Germany,169 cm,66 kg,https://media.api-sports.io/football/players/202736.png
