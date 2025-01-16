@@ -1301,6 +1301,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 25609,P. Erras,Patrick,Erras,1995-01-21,Amberg,Germany,Germany,196 cm,90 kg,https://media.api-sports.io/football/players/25609.png
 25622,V. Misidjan,Virgil Roy,Misidjan,1993-07-24,Goirle,Netherlands,Netherlands,173 cm,61 kg,https://media.api-sports.io/football/players/25622.png
 25626,M. Nicolas,Moritz,Nicolas,1997-10-21,Gladbeck,Germany,Germany,193 cm,87 kg,https://media.api-sports.io/football/players/25626.png
+25627,T. Sippel,Tobias,Sippel,1988-03-22,Bad Dürkheim,Germany,Germany,183 cm,80 kg,https://media.api-sports.io/football/players/25627.png
 25635,J. Hofmann,Jonas,Hofmann,1992-07-14,Heidelberg,Germany,Germany,176 cm,73 kg,https://media.api-sports.io/football/players/25635.png
 25638,F. Neuhaus,Florian Christian,Neuhaus,1997-03-16,Landsberg am Lech,Germany,Germany,185 cm,74 kg,https://media.api-sports.io/football/players/25638.png
 25646,A. Pléa,Alassane Alexandre,Pléa,1993-03-10,Lille,France,France,181 cm,79 kg,https://media.api-sports.io/football/players/25646.png
@@ -1333,6 +1334,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 26255,L. Höler,Lucas,Höler,1994-07-10,Achim,Germany,Germany,184 cm,83 kg,https://media.api-sports.io/football/players/26255.png
 26256,T. Kleindienst,Tim,Kleindienst,1995-08-31,Jüterbog,Germany,Germany,194 cm,85 kg,https://media.api-sports.io/football/players/26256.png
 26287,P. Hofmann,Philipp,Hofmann,1993-03-30,Arnsberg,Germany,Germany,195 cm,89 kg,https://media.api-sports.io/football/players/26287.png
+26291,J. Grahl,Jens,Grahl,1988-09-22,Stuttgart,Germany,Germany,192 cm,88 kg,https://media.api-sports.io/football/players/26291.png
 26292,A. Meyer,Alexander Niklas,Meyer-Schade,1991-04-13,Bad Oldesloe,Germany,Germany,195 cm,90 kg,https://media.api-sports.io/football/players/26292.png
 26319,F. Agu,Felix,Agu,1999-09-27,Osnabrück,Germany,Germany,180 cm,67 kg,https://media.api-sports.io/football/players/26319.png
 26395,P. Drewes,Patrick,Drewes,1993-02-04,Delmenhorst,Germany,Germany,194 cm,87 kg,https://media.api-sports.io/football/players/26395.png
@@ -2351,6 +2353,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 280335,F. Krätzig,Frans,Krätzig,2003-01-14,Nürnberg,Germany,Germany,177 cm,70 kg,https://media.api-sports.io/football/players/280335.png
 280339,A. Sieb,Armindo,Sieb,2003-02-17,Halle,Germany,Germany,175 cm,75 kg,https://media.api-sports.io/football/players/280339.png
 280368,S. Bamba,Samuel,Bamba,2004-02-13,Ahlen,Congo DR,Germany,179 cm,70 kg,https://media.api-sports.io/football/players/280368.png
+280427,G. Ranos,Grant-Leon,Ranos,2003-07-20,,Germany,Armenia,180 cm,73 kg,https://media.api-sports.io/football/players/280427.png
 280672,E. Turns,Edward James,Turns,2002-10-18,Brighton,England,Wales,185 cm,78 kg,https://media.api-sports.io/football/players/280672.png
 281323,I. Metsoko,Idjessi,Metsoko,2002-03-14,,France,France,,,https://media.api-sports.io/football/players/281323.png
 281376,M. Samoise,Matisse,Samoise,2001-11-21,,Belgium,Belgium,180 cm,70 kg,https://media.api-sports.io/football/players/281376.png
