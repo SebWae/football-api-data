@@ -7931,3 +7931,30 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224001,191,70514,82,,Goal,40984,Normal Goal,
 1224001,157,184,90,1,Goal,,Penalty,
 1224001,157,184,90,,Var,,Penalty confirmed,
+1224002,161,1146,5,,Goal,,Own Goal,
+1224002,168,203224,14,,Goal,1464,Normal Goal,
+1224002,168,972,32,,Goal,563,Normal Goal,
+1224002,168,343316,36,,Card,,Yellow Card,Foul
+1224002,161,1408,37,,Goal,40560,Normal Goal,
+1224002,161,25917,42,,subst,162409,Substitution 1,
+1224002,168,563,45,5,Card,,Yellow Card,Argument
+1224002,161,30484,45,1,Goal,162409,Normal Goal,
+1224002,168,1146,46,,subst,152654,Substitution 1,
+1224002,168,343316,46,,subst,127817,Substitution 2,
+1224002,168,127817,48,,Goal,47516,Normal Goal,
+1224002,161,265363,50,,Card,,Yellow Card,Foul
+1224002,168,129682,51,,Card,,Yellow Card,Foul
+1224002,168,129682,56,,subst,663,Substitution 3,
+1224002,168,794,69,,subst,39071,Substitution 4,
+1224002,161,265363,71,,subst,25400,Substitution 2,
+1224002,161,30484,71,,subst,24807,Substitution 3,
+1224002,161,126642,72,,subst,127413,Substitution 4,
+1224002,168,47516,79,,subst,6002,Substitution 5,
+1224002,161,48574,80,,Card,,Yellow Card,Foul
+1224002,168,152654,88,,Card,,Yellow Card,Argument
+1224002,161,25400,88,,Card,,Red Card,Violent conduct
+1224002,161,200139,90,2,subst,1291,Substitution 5,
+1224002,161,15573,90,1,Card,,Yellow Card,Argument
+1224002,161,25408,90,2,Card,,Yellow Card,Argument
+1224002,161,40560,90,7,Card,,Yellow Card,Foul
+1224002,168,39071,90,3,Goal,,Normal Goal,
