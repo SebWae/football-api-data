@@ -2325,6 +2325,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 278547,Júlio Romão,Júlio,Rodrigues Romão,1998-03-29,,Brazil,Brazil,,,https://media.api-sports.io/football/players/278547.png
 278898,C. Riad,Chadi,Riad Dnanou,2003-06-17,Palma de Mallorca,Spain,Morocco,186 cm,78 kg,https://media.api-sports.io/football/players/278898.png
 279792,Vinícius Tobias,Vinícius Augusto,Tobias da Silva,2004-02-23,São Paulo,Brazil,Brazil,177 cm,67 kg,https://media.api-sports.io/football/players/279792.png
+279907,U. Tohumcu,Umut Deger,Tohumcu,2004-08-11,Offenburg,Germany,Germany,175 cm,71 kg,https://media.api-sports.io/football/players/279907.png
 280024,R. Wagner,Robert,Wagner,2003-07-14,Lahr,Germany,Germany,181 cm,80 kg,https://media.api-sports.io/football/players/280024.png
 280055,L. Kerber,Luca,Kerber,2002-03-10,Dillingen,Germany,Germany,180 cm,77 kg,https://media.api-sports.io/football/players/280055.png
 280091,T. Oermann,Tim,Oermann,2003-10-06,Bochum,Germany,Germany,187 cm,76 kg,https://media.api-sports.io/football/players/280091.png
@@ -2546,6 +2547,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 325830,Vasco Sousa,Vasco José,Cardoso Sousa,2003-04-03,Paredes,Portugal,Portugal,164 cm,59 kg,https://media.api-sports.io/football/players/325830.png
 325968,B. Lloyd,Ben,Lloyd,2005-03-14,,Wales,Wales,175 cm,,https://media.api-sports.io/football/players/325968.png
 325969,A. Abdulai,Azeem Kerr,Abdulai,2002-12-09,Glasgow,Scotland,Scotland,183 cm,75 kg,https://media.api-sports.io/football/players/325969.png
+325975,T. Bischof,Tom,Bischof,2005-06-28,Aschaffenburg,Germany,Germany,176 cm,66 kg,https://media.api-sports.io/football/players/325975.png
 326067,A. Hadj-Moussa,Anis,Hadj-Moussa,2002-02-11,Paris,France,Algeria,176 cm,72 kg,https://media.api-sports.io/football/players/326067.png
 326068,K. Doumbia,Kamory,Doumbia,2003-02-18,Bamako,Mali,Mali,170 cm,53 kg,https://media.api-sports.io/football/players/326068.png
 326073,R. Labeau Lascary,Rémy,Labeau Lascary,2003-03-03,Les Abymes,France,France,184 cm,72 kg,https://media.api-sports.io/football/players/326073.png
