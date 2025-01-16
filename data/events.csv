@@ -8147,3 +8147,27 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224013,176,37122,82,,subst,237068,Substitution 3,
 1224013,176,22260,82,,subst,145059,Substitution 4,
 1224013,165,197448,82,,subst,506,Substitution 5,
+1224014,167,25242,5,,Goal,7691,Normal Goal,
+1224014,167,25242,8,,Goal,279907,Normal Goal,
+1224014,167,279907,10,,Card,,Yellow Card,Foul
+1224014,167,66019,12,,Goal,,Normal Goal,
+1224014,167,270,18,,Card,,Red Card,Professional foul last man
+1224014,162,289460,21,,Goal,2916,Normal Goal,
+1224014,162,128853,22,,Card,,Yellow Card,Foul
+1224014,162,15592,26,,Goal,25464,Normal Goal,
+1224014,167,7691,27,,subst,327861,Substitution 1,
+1224014,162,15592,39,,Goal,,Normal Goal,
+1224014,167,719,46,,subst,177665,Substitution 2,
+1224014,167,7327,46,,subst,127631,Substitution 3,
+1224014,162,15592,49,,Goal,973,Normal Goal,
+1224014,162,2916,58,,subst,25011,Substitution 1,
+1224014,167,25242,69,,subst,387973,Substitution 4,
+1224014,162,15592,73,,Card,,Yellow Card,Foul
+1224014,162,7562,76,,subst,334334,Substitution 2,
+1224014,162,128853,76,,subst,8673,Substitution 3,
+1224014,162,38798,76,,subst,193720,Substitution 4,
+1224014,167,709,76,,subst,22,Substitution 5,
+1224014,167,177665,78,,Card,,Yellow Card,Argument
+1224014,162,25464,88,,subst,7073,Substitution 5,
+1224014,167,327861,90,3,Card,,Yellow Card,Foul
+1224014,162,334334,90,4,Card,,Yellow Card,Time wasting
