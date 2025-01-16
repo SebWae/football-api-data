@@ -606,6 +606,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 13736,D. Muñoz,Daniel,Muñoz Mejía,1996-05-26,Amalfi,Colombia,Colombia,180 cm,73 kg,https://media.api-sports.io/football/players/13736.png
 14390,Raul Gustavo,Raul Gustavo,Pereira Bicalho,1999-04-24,Pedro Leopoldo,Brazil,Brazil,,,https://media.api-sports.io/football/players/14390.png
 14394,L. Ivanušec,Luka,Ivanušec,1998-11-26,Varaždin,Croatia,Croatia,175 cm,76 kg,https://media.api-sports.io/football/players/14394.png
+14395,K. Jakić,Kristijan,Jakić,1997-05-14,Split,Croatia,Croatia,184 cm,78 kg,https://media.api-sports.io/football/players/14395.png
 14463,J. Čondrić,Josip,Čondrić,1993-08-27,Zagreb,Croatia,Croatia,194 cm,92 kg,https://media.api-sports.io/football/players/14463.png
 14553,N. Labrović,Nediljko,Labrović,1999-10-10,Split,Croatia,Croatia,196 cm,88 kg,https://media.api-sports.io/football/players/14553.png
 14677,M. Tolić,Marko,Tolić,1996-07-05,Zagreb,Croatia,Croatia,,,https://media.api-sports.io/football/players/14677.png
@@ -2504,6 +2505,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 318999,B. Andrésson,Benoný,Breki Andrésson,2005-08-03,,Iceland,Iceland,,,https://media.api-sports.io/football/players/318999.png
 319517,A. Milambo,Antoni-Djibu,Milambo,2005-04-03,Rotterdam,Netherlands,Netherlands,179 cm,68 kg,https://media.api-sports.io/football/players/319517.png
 319572,V. Barco,Valentín,Barco,2004-07-23,25 de Mayo,Argentina,Argentina,170 cm,66 kg,https://media.api-sports.io/football/players/319572.png
+319858,H. Koudossou,Henri,Koudossou,1999-09-03,München,Germany,Germany,180 cm,76 kg,https://media.api-sports.io/football/players/319858.png
 320843,C. Forino-Joseph,Chris,Forino-Joseph,2000-04-26,Islington,England,England,191 cm,83 kg,https://media.api-sports.io/football/players/320843.png
 322305,J. O'Brien-Whitmarsh,Joseph,O'Brien-Whitmarsh,2005-05-11,Cork,Republic of Ireland,Republic of Ireland,173 cm,73 kg,https://media.api-sports.io/football/players/322305.png
 322508,Y. Kabadayı,Yusuf Karhan,Kabadayı,2004-02-02,München,Germany,Germany,186 cm,75 kg,https://media.api-sports.io/football/players/322508.png
