@@ -1,4 +1,5 @@
 player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,height,weight,photo
+3,E. Oelschlägel,Eric Dirk,Oelschlägel,1995-09-20,Hoyerswerda,Germany,Germany,193 cm,85 kg,https://media.api-sports.io/football/players/3.png
 5,M. Akanji,Manuel Obafemi,Akanji,1995-07-19,Neftenbach,Switzerland,Switzerland,186 cm,91 kg,https://media.api-sports.io/football/players/5.png
 6,L. Balerdi,Leonardo Julián,Balerdi Rosa,1999-01-26,Villa Mercedes,Argentina,Argentina,187 cm,76 kg,https://media.api-sports.io/football/players/6.png
 8,Raphaël Guerreiro,Raphaël Adelino José,Guerreiro,1993-12-22,Le Blanc-Mesnil,France,Portugal,170 cm,71 kg,https://media.api-sports.io/football/players/8.png

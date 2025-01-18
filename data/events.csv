@@ -8750,3 +8750,12 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224045,176,539,72,,subst,33019,Substitution 4,
 1224045,157,2897,78,,subst,175,Substitution 5,
 1224045,176,22260,85,,subst,336224,Substitution 5,
+1224046,186,1672,66,,subst,17756,Substitution 1,
+1224046,161,177618,67,,subst,40560,Substitution 1,
+1224046,161,40560,76,,Card,,Yellow Card,Foul
+1224046,161,1302,78,,subst,1321,Substitution 2,
+1224046,161,1930,82,,Card,,Yellow Card,Argument
+1224046,186,25326,82,,subst,107087,Substitution 2,
+1224046,186,178146,87,,subst,280024,Substitution 3,
+1224046,161,200139,89,,subst,25192,Substitution 3,
+1224046,161,1321,90,,Card,,Yellow Card,Argument
