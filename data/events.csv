@@ -9014,3 +9014,15 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224061,164,25906,86,,Card,,Yellow Card,Time wasting
 1224061,164,2906,90,,subst,280339,Substitution 3,
 1224061,164,25926,90,,subst,25928,Substitution 4,
+1224062,182,25300,19,,Card,,Yellow Card,Foul
+1224062,160,202526,20,,Var,,Penalty confirmed,
+1224062,182,713,56,,Card,,Yellow Card,Foul
+1224062,182,162946,72,,subst,30785,Substitution 1,
+1224062,182,512,73,,subst,2219,Substitution 2,
+1224062,182,129072,73,,subst,24910,Substitution 3,
+1224062,160,163022,77,,subst,202919,Substitution 1,
+1224062,160,125173,77,,subst,26255,Substitution 2,
+1224062,160,26239,77,,subst,26250,Substitution 3,
+1224062,182,1298,78,,subst,288206,Substitution 4,
+1224062,182,327831,84,,subst,26249,Substitution 5,
+1224062,160,26248,90,2,subst,25383,Substitution 4,
