@@ -8443,3 +8443,17 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224027,176,36907,88,,subst,33019,Substitution 4,
 1224027,161,1302,88,,Goal,,Normal Goal,
 1224027,161,200139,90,4,subst,1930,Substitution 5,
+1224028,164,25926,5,,Goal,25915,Normal Goal,
+1224028,164,280339,16,,Goal,714,Normal Goal,
+1224028,164,280339,20,,Card,,Yellow Card,Foul
+1224028,164,25926,62,,Goal,714,Normal Goal,
+1224028,186,17756,63,,subst,1672,Substitution 1,
+1224028,186,280024,63,,subst,23643,Substitution 2,
+1224028,164,280339,65,,subst,202736,Substitution 1,
+1224028,164,231032,79,,Card,,Yellow Card,Foul
+1224028,186,25326,83,,subst,107087,Substitution 3,
+1224028,186,178769,83,,subst,90731,Substitution 4,
+1224028,164,714,83,,subst,26519,Substitution 2,
+1224028,164,979,88,,Card,,Yellow Card,Foul
+1224028,186,323974,90,,subst,15972,Substitution 5,
+1224028,164,25926,90,1,subst,342177,Substitution 3,
