@@ -8284,3 +8284,22 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1208226,57,19130,84,,subst,19136,Substitution 4,
 1208226,51,537,90,1,Card,,Yellow Card,Foul
 1208226,51,265820,90,4,subst,40911,Substitution 5,
+1224019,169,81573,25,,Goal,1809,Normal Goal,
+1224019,191,106851,30,,Goal,,Penalty,
+1224019,169,162414,35,,Card,,Yellow Card,Foul
+1224019,169,162414,46,,subst,14,Substitution 1,
+1224019,169,202696,47,,Goal,81573,Normal Goal,
+1224019,191,106851,50,,Goal,,Normal Goal,
+1224019,191,26525,51,,Card,,Yellow Card,Foul
+1224019,191,70514,60,,subst,260898,Substitution 1,
+1224019,169,81573,65,,Goal,,Normal Goal,
+1224019,191,26525,67,,subst,424,Substitution 2,
+1224019,169,202696,68,,subst,16,Substitution 2,
+1224019,169,90594,68,,subst,339887,Substitution 3,
+1224019,169,26238,70,,Card,,Yellow Card,Foul
+1224019,169,1809,74,,Goal,81573,Normal Goal,
+1224019,191,106851,78,,subst,24887,Substitution 3,
+1224019,191,48345,78,,subst,40984,Substitution 4,
+1224019,169,335094,80,,Card,,Yellow Card,Foul
+1224019,169,276670,83,,subst,161922,Substitution 4,
+1224019,169,335094,86,,subst,21587,Substitution 5,
