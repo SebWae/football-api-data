@@ -11,6 +11,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 19,J. Weigl,Julian,Weigl,1995-09-08,Bad Aibling,Germany,Germany,186 cm,72 kg,https://media.api-sports.io/football/players/19.png
 22,J. Bruun Larsen,Jacob,Bruun Larsen,1998-09-19,Lyngby,Denmark,Denmark,183 cm,77 kg,https://media.api-sports.io/football/players/22.png
 23,Sergio Gómez,Sergio,Gómez Martín,2000-09-04,Badalona,Spain,Spain,173 cm,71 kg,https://media.api-sports.io/football/players/23.png
+24,M. Philipp,Maximilian Marcus,Philipp,1994-03-01,Berlin,Germany,Germany,183 cm,79 kg,https://media.api-sports.io/football/players/24.png
 26,M. Wolf,Marius,Wolf,1995-05-27,Coburg,Germany,Germany,188 cm,81 kg,https://media.api-sports.io/football/players/26.png
 33,L. Hernández,Lucas François Bernard,Hernández,1996-02-14,Marseille,France,France,184 cm,79 kg,https://media.api-sports.io/football/players/33.png
 37,N. Pérez,Patricio Nehuén,Pérez,2000-06-24,Hurlingham,Argentina,Argentina,185 cm,75 kg,https://media.api-sports.io/football/players/37.png
