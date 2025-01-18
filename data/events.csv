@@ -8457,3 +8457,20 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224028,164,979,88,,Card,,Yellow Card,Foul
 1224028,186,323974,90,,subst,15972,Substitution 5,
 1224028,164,25926,90,1,subst,342177,Substitution 3,
+1224029,168,129682,7,,Var,,Penalty confirmed,
+1224029,169,81573,15,,Var,,Penalty confirmed,
+1224029,169,81573,16,,Goal,,Penalty,
+1224029,168,24903,25,,Goal,663,Normal Goal,
+1224029,169,1809,28,,Card,,Yellow Card,Foul
+1224029,168,129682,64,,subst,47516,Substitution 1,
+1224029,168,663,64,,subst,203224,Substitution 2,
+1224029,168,563,67,,Card,,Yellow Card,Foul
+1224029,168,127817,70,,Card,,Yellow Card,Foul
+1224029,169,16,70,,subst,369674,Substitution 1,
+1224029,169,90594,70,,subst,276670,Substitution 2,
+1224029,168,39071,71,,Goal,,Normal Goal,
+1224029,169,1809,79,,subst,21587,Substitution 3,
+1224029,169,335094,79,,subst,14,Substitution 4,
+1224029,168,39071,80,,subst,794,Substitution 3,
+1224029,168,152654,80,,subst,231029,Substitution 4,
+1224029,169,156490,81,,subst,339887,Substitution 5,
