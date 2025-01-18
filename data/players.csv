@@ -1227,6 +1227,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 24798,C. Führich,Chris Jan,Führich,1998-01-09,Castrop-Rauxel,Germany,Germany,181 cm,70 kg,https://media.api-sports.io/football/players/24798.png
 24807,S. Özcan,Salih,Özcan,1998-01-11,Köln,Germany,Türkiye,182 cm,74 kg,https://media.api-sports.io/football/players/24807.png
 24839,M. Friedrich,Marvin,Friedrich,1995-12-13,Kassel,Germany,Germany,193 cm,81 kg,https://media.api-sports.io/football/players/24839.png
+24841,C. Lenz,Christopher,Lenz,1994-09-22,Berlin,Germany,Germany,181 cm,81 kg,https://media.api-sports.io/football/players/24841.png
 24842,L. Maloney,Lennard,Maloney,1999-10-08,Berlin,Germany,USA,187 cm,89 kg,https://media.api-sports.io/football/players/24842.png
 24845,J. Ryerson,Julian,Ryerson,1997-11-17,Lyngdal,Norway,Norway,183 cm,86 kg,https://media.api-sports.io/football/players/24845.png
 24848,C. Trimmel,Christopher,Trimmel,1987-02-24,Oberpullendorf,Austria,Austria,189 cm,82 kg,https://media.api-sports.io/football/players/24848.png
@@ -1866,6 +1867,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 128446,M. Trnovský,Martin,Trnovský,2000-06-07,Bratislava,Slovakia,Slovakia,191 cm,84 kg,https://media.api-sports.io/football/players/128446.png
 128533,J. Leweling,Jamie,Leweling,2001-02-26,Nürnberg,Germany,Germany,185 cm,86 kg,https://media.api-sports.io/football/players/128533.png
 128640,M. Kochalski,Mateusz,Kochalski,2000-07-25,Świdnik,Poland,Poland,190 cm,88 kg,https://media.api-sports.io/football/players/128640.png
+128793,D. Jurásek,David,Jurásek,2000-08-07,Dolní Němčí,Czechia,Czechia,183 cm,76 kg,https://media.api-sports.io/football/players/128793.png
 128849,M. Breunig,Maximilian,Breunig,2000-08-14,Würzburg,Germany,Germany,195 cm,78 kg,https://media.api-sports.io/football/players/128849.png
 128853,D. Köhn,Derrick Arthur,Köhn,1999-02-04,Hamburg,Germany,Germany,180 cm,73 kg,https://media.api-sports.io/football/players/128853.png
 129033,J. Gvardiol,Joško,Gvardiol,2002-01-23,Zagreb,Croatia,Croatia,185 cm,80 kg,https://media.api-sports.io/football/players/129033.png
