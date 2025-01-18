@@ -8759,3 +8759,19 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224046,186,178146,87,,subst,280024,Substitution 3,
 1224046,161,200139,89,,subst,25192,Substitution 3,
 1224046,161,1321,90,,Card,,Yellow Card,Argument
+1224047,172,128533,8,,subst,163032,Substitution 1,
+1224047,168,24903,30,,Card,,Yellow Card,Foul
+1224047,168,1146,42,,Card,,Yellow Card,Foul
+1224047,168,1464,51,,Card,,Yellow Card,Argument
+1224047,172,24963,52,,Card,,Yellow Card,Foul
+1224047,168,1146,54,,subst,25635,Substitution 1,
+1224047,172,162887,56,,Card,,Yellow Card,Time wasting
+1224047,172,163032,58,,subst,24798,Substitution 2,
+1224047,172,25342,58,,subst,135883,Substitution 3,
+1224047,172,137210,68,,Card,,Yellow Card,Argument
+1224047,172,361981,68,,Card,,Yellow Card,Time wasting
+1224047,172,194750,80,,subst,323449,Substitution 4,
+1224047,172,162887,80,,subst,46930,Substitution 5,
+1224047,168,24903,86,,subst,6002,Substitution 2,
+1224047,168,152654,86,,subst,231029,Substitution 3,
+1224047,168,39071,86,,subst,794,Substitution 4,
