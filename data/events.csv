@@ -8571,3 +8571,25 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224035,164,22244,87,,subst,280334,Substitution 4,
 1224035,173,1358,89,,Card,,Yellow Card,Foul
 1224035,164,202736,90,1,Card,,Yellow Card,Foul
+1224036,180,283323,12,,Goal,,Normal Goal,
+1224036,163,38114,22,,Goal,,Normal Goal,
+1224036,163,725,31,,Card,,Yellow Card,Foul
+1224036,180,127619,38,,Card,,Yellow Card,Argument
+1224036,163,26256,53,,Card,,Yellow Card,Foul
+1224036,180,8959,59,,subst,125720,Substitution 1,
+1224036,163,26256,62,,Goal,25646,Normal Goal,
+1224036,180,327895,68,,subst,15732,Substitution 2,
+1224036,180,283323,68,,subst,24955,Substitution 3,
+1224036,180,25203,71,,Card,,Yellow Card,Foul
+1224036,163,26256,75,,Goal,,Penalty,
+1224036,180,24842,79,,Var,,Penalty confirmed,
+1224036,180,178106,80,,Goal,,Penalty,
+1224036,180,24897,81,,subst,26530,Substitution 4,
+1224036,180,25203,81,,subst,280055,Substitution 5,
+1224036,163,725,81,,subst,25461,Substitution 1,
+1224036,163,20784,81,,subst,80434,Substitution 2,
+1224036,180,280055,83,,Card,,Yellow Card,Foul
+1224036,163,203007,85,,subst,24969,Substitution 3,
+1224036,163,19,88,,Card,,Yellow Card,Foul
+1224036,163,25646,90,,subst,25638,Substitution 4,
+1224036,163,50852,90,,subst,322627,Substitution 5,
