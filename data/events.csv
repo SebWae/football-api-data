@@ -8931,3 +8931,16 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224056,169,204043,90,3,Card,,Yellow Card,Time wasting
 1224056,172,24798,90,9,Var,,Goal cancelled,
 1224056,172,158054,90,,Goal,137210,Normal Goal,
+1224057,163,725,42,,Card,,Yellow Card,Handball
+1224057,163,203007,44,,Card,,Yellow Card,Foul
+1224057,173,340154,51,,Card,,Yellow Card,Foul
+1224057,173,98,67,,subst,1153,Substitution 1,
+1224057,173,1167,67,,subst,115589,Substitution 2,
+1224057,163,203007,72,,subst,24969,Substitution 1,
+1224057,163,25646,72,,subst,25638,Substitution 2,
+1224057,173,715,81,,subst,380978,Substitution 3,
+1224057,173,340154,81,,subst,7328,Substitution 4,
+1224057,163,725,81,,subst,80434,Substitution 3,
+1224057,163,20784,81,,subst,22148,Substitution 4,
+1224057,173,1153,89,,Card,,Yellow Card,Foul
+1224057,163,327646,90,,subst,322627,Substitution 5,
