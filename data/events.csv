@@ -8944,3 +8944,24 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224057,163,20784,81,,subst,22148,Substitution 4,
 1224057,173,1153,89,,Card,,Yellow Card,Foul
 1224057,163,327646,90,,subst,322627,Substitution 5,
+1224058,161,25400,3,,Goal,200139,Normal Goal,
+1224058,161,1930,20,,subst,48574,Substitution 1,
+1224058,161,380503,42,,Goal,,Normal Goal,
+1224058,180,24979,45,1,Card,,Yellow Card,Foul
+1224058,161,177618,48,,Card,,Yellow Card,Foul
+1224058,180,24904,57,,subst,8959,Substitution 1,
+1224058,180,24979,57,,subst,26530,Substitution 2,
+1224058,180,178106,64,,Goal,,Normal Goal,
+1224058,161,126642,70,,Card,,Yellow Card,Argument
+1224058,161,200139,70,,subst,265363,Substitution 2,
+1224058,161,126642,71,,subst,1302,Substitution 3,
+1224058,161,48574,74,,Card,,Yellow Card,Foul
+1224058,180,327895,77,,subst,128849,Substitution 3,
+1224058,161,15573,78,,Card,,Yellow Card,Time wasting
+1224058,161,380503,80,,subst,24807,Substitution 4,
+1224058,161,177618,80,,subst,25192,Substitution 5,
+1224058,161,265363,84,,Card,,Yellow Card,Handball
+1224058,180,178106,86,,subst,24917,Substitution 4,
+1224058,180,283323,86,,subst,125720,Substitution 5,
+1224058,161,265363,90,,Goal,,Normal Goal,
+1224058,161,25192,90,1,Card,,Yellow Card,
