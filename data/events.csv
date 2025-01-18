@@ -8538,3 +8538,21 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224033,170,15799,85,,subst,3395,Substitution 5,
 1224033,160,26236,87,,subst,191160,Substitution 5,
 1224033,170,348888,89,,Card,,Yellow Card,Foul
+1224034,161,265363,19,,Goal,,Normal Goal,
+1224034,162,15874,23,,subst,25011,Substitution 1,
+1224034,161,25408,42,,Card,,Yellow Card,Time wasting
+1224034,161,25408,42,,subst,25400,Substitution 1,
+1224034,162,973,45,5,Goal,25464,Normal Goal,
+1224034,162,26319,51,,Goal,,Normal Goal,
+1224034,161,162409,65,,subst,126642,Substitution 2,
+1224034,161,25917,65,,subst,177618,Substitution 3,
+1224034,162,25464,67,,Goal,973,Normal Goal,
+1224034,161,126642,68,,Card,,Red Card,Foul
+1224034,162,7073,72,,Goal,25464,Normal Goal,
+1224034,161,1302,78,,subst,1930,Substitution 4,
+1224034,161,1930,79,,Goal,,Normal Goal,
+1224034,162,26319,84,,subst,128853,Substitution 2,
+1224034,162,289460,84,,subst,8673,Substitution 3,
+1224034,162,7073,84,,subst,334334,Substitution 4,
+1224034,162,8673,87,,Card,,Yellow Card,Foul
+1224034,162,25464,90,5,subst,1124,Substitution 5,

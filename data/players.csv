@@ -2222,6 +2222,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 201368,Killian Cahill,Killian,Cahill,2003-11-03,Meath,Republic of Ireland,Republic of Ireland,182 cm,67 kg,https://media.api-sports.io/football/players/201368.png
 202086,J. Sarmiento,Jeremy Leonel,Sarmiento Morante,2002-06-16,Madrid,Spain,Ecuador,178 cm,72 kg,https://media.api-sports.io/football/players/202086.png
 202514,P. Harres,Phil,Harres,2002-03-25,Datteln,Germany,Germany,193 cm,87 kg,https://media.api-sports.io/football/players/202514.png
+202522,A. Nankishi,Abdenego,N'Lola Nankishi,2002-07-06,Bremerhaven,Germany,Germany,178 cm,76 kg,https://media.api-sports.io/football/players/202522.png
 202526,E. Dinkçi,Eren Sami,Dinkçi,2001-12-13,Bremen,Germany,Germany,188 cm,70 kg,https://media.api-sports.io/football/players/202526.png
 202580,L. Rosenboom,Lasse,Rosenboom,2002-01-19,Aurich,Germany,Germany,190 cm,80 kg,https://media.api-sports.io/football/players/202580.png
 202696,I. Matanović,Igor,Matanović,2003-03-31,Hamburg,Germany,Croatia,194 cm,90 kg,https://media.api-sports.io/football/players/202696.png
@@ -3072,6 +3073,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 455127,Samuel Reed,Samuel,Reed,2003-03-27,,England,England,,,https://media.api-sports.io/football/players/455127.png
 455243,A. Moussaoui,Amine,Moussaoui,2006-12-28,,France,France,181 cm,71 kg,https://media.api-sports.io/football/players/455243.png
 455245,D. Bakola,Darryl,Bakola,2007-11-30,,France,France,178 cm,70 kg,https://media.api-sports.io/football/players/455245.png
+455290,Wesley Adeh,Wesley,Adeh,2007-01-08,,Germany,Germany,187 cm,77 kg,https://media.api-sports.io/football/players/455290.png
 456518,A. Ploshchadny,Aleksey,Ploshchadny,2004-04-21,,Russia,Russia,191 cm,,https://media.api-sports.io/football/players/456518.png
 456585,Amin Nabizada,Amin,Nabizada,2007-06-21,,England,England,,,https://media.api-sports.io/football/players/456585.png
 456831,M. Louãr,Marius,Louãr,2007-03-11,Saint-Herblain,France,France,181 cm,70 kg,https://media.api-sports.io/football/players/456831.png
