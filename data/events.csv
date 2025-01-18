@@ -8662,3 +8662,16 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224040,167,325975,83,,subst,1094,Substitution 5,
 1224040,180,327895,84,,subst,8959,Substitution 3,
 1224040,167,7691,90,,Card,,Yellow Card,Foul
+1224041,168,39071,30,,Goal,152654,Normal Goal,
+1224041,162,973,50,,Card,,Yellow Card,Foul
+1224041,162,716,68,,subst,177807,Substitution 1,
+1224041,168,39071,70,,subst,794,Substitution 1,
+1224041,162,25464,74,,Goal,289460,Normal Goal,
+1224041,168,26319,77,,Goal,,Own Goal,
+1224041,162,7073,82,,subst,1124,Substitution 2,
+1224041,162,25011,82,,subst,15874,Substitution 3,
+1224041,162,26319,82,,subst,128853,Substitution 4,
+1224041,168,663,82,,subst,47516,Substitution 2,
+1224041,162,289460,86,,subst,334334,Substitution 5,
+1224041,168,127817,88,,Card,,Yellow Card,Time wasting
+1224041,162,7562,90,,Goal,177807,Normal Goal,
