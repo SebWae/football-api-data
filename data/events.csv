@@ -8651,3 +8651,14 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224039,160,26236,87,,subst,2915,Substitution 4,
 1224039,160,202526,87,,subst,26255,Substitution 5,
 1224039,173,340154,88,,Card,,Yellow Card,Foul
+1224040,180,178106,32,,Card,,Yellow Card,Foul
+1224040,167,177665,33,,Card,,Yellow Card,Foul
+1224040,167,127631,58,,subst,709,Substitution 1,
+1224040,167,719,58,,subst,279907,Substitution 2,
+1224040,167,25242,67,,subst,7691,Substitution 3,
+1224040,180,24904,70,,subst,125720,Substitution 1,
+1224040,180,178106,70,,subst,128849,Substitution 2,
+1224040,167,270,83,,subst,304686,Substitution 4,
+1224040,167,325975,83,,subst,1094,Substitution 5,
+1224040,180,327895,84,,subst,8959,Substitution 3,
+1224040,167,7691,90,,Card,,Yellow Card,Foul
