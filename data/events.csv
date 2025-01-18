@@ -9122,3 +9122,17 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224068,165,24845,82,,subst,394667,Substitution 5,
 1224068,160,125173,90,2,Var,,Card upgrade,
 1224068,160,125173,90,3,Card,,Red Card,Violent conduct
+1224069,162,128853,27,,Card,,Yellow Card,Foul
+1224069,169,16,45,,Goal,174565,Normal Goal,
+1224069,162,38798,54,,Card,,Yellow Card,Foul
+1224069,169,81573,56,,Card,,Yellow Card,Foul
+1224069,162,7073,63,,subst,177807,Substitution 1,
+1224069,169,161922,66,,subst,369674,Substitution 1,
+1224069,162,716,77,,subst,334334,Substitution 2,
+1224069,162,128853,77,,subst,8673,Substitution 3,
+1224069,169,16,81,,subst,335094,Substitution 2,
+1224069,169,81573,81,,subst,276670,Substitution 3,
+1224069,162,38798,86,,subst,193720,Substitution 4,
+1224069,162,2916,86,,subst,25011,Substitution 5,
+1224069,169,174565,89,,subst,202696,Substitution 4,
+1224069,169,21587,90,4,Card,,Yellow Card,Foul
