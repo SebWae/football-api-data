@@ -2232,6 +2232,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 202919,M. Rosenfelder,Maximilian,Rosenfelder,2003-02-10,Freiburg im Breisgau,Germany,Germany,186 cm,76 kg,https://media.api-sports.io/football/players/202919.png
 203007,R. Reitz,Rocco,Reitz,2002-05-29,Duisburg,Germany,Germany,176 cm,75 kg,https://media.api-sports.io/football/players/203007.png
 203224,F. Wirtz,Florian Richard,Wirtz,2003-05-03,Pulheim,Germany,Germany,176 cm,70 kg,https://media.api-sports.io/football/players/203224.png
+203269,Y. Lührs,Yannik Luka,Lührs,2003-09-09,,Germany,Germany,189 cm,82 kg,https://media.api-sports.io/football/players/203269.png
 203474,N. Zalewski,Nicola,Zalewski,2002-01-23,Tivoli,Poland,Poland,175 cm,68 kg,https://media.api-sports.io/football/players/203474.png
 203483,A. N&apos;Diaye,Abdoulaye,Niakhate N'Diaye,2002-04-10,Boune,Senegal,Senegal,185 cm,75 kg,https://media.api-sports.io/football/players/203483.png
 203762,E. Emegha,Emanuel,Esseh Emegha,2003-02-03,Den Haag,Netherlands,Netherlands,195 cm,82 kg,https://media.api-sports.io/football/players/203762.png
@@ -2840,6 +2841,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 380492,Eric Emanuel da Silva Moreira,Eric Emanuel,da Silva Moreira,2006-05-03,Hamburg,Germany,Germany,184 cm,82 kg,https://media.api-sports.io/football/players/380492.png
 380503,Bence Dárdai,Bence,Dárdai,2006-01-24,Berlin,Germany,Germany,188 cm,71 kg,https://media.api-sports.io/football/players/380503.png
 380522,Lars Strobl,Lars,Strobl,2005-04-15,Sinsheim,Germany,Germany,189 cm,79 kg,https://media.api-sports.io/football/players/380522.png
+380583,Ronny Boamah Seibt,Ronny,Boamah Seibt,2005-07-10,,Germany,Germany,191 cm,81 kg,https://media.api-sports.io/football/players/380583.png
 380603,Daniel Gleiber,Daniel,Gleiber,2005-02-01,,Germany,Germany,177 cm,69 kg,https://media.api-sports.io/football/players/380603.png
 380653,L. Chiwome,Leon,Chiwome,2006-01-10,Brighton,England,England,,,https://media.api-sports.io/football/players/380653.png
 380657,R. Young,Ranel Jerva,Young,2005-12-26,,England,England,175 cm,65 kg,https://media.api-sports.io/football/players/380657.png
@@ -3054,6 +3056,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 449662,M. Meïté,Mohamed Kader,Meïté,2007-10-11,,France,France,191 cm,76 kg,https://media.api-sports.io/football/players/449662.png
 449676,S. Nibombé,Samuel Kondi,Nibombé,2007-08-15,,Belgium,Belgium,198 cm,83 kg,https://media.api-sports.io/football/players/449676.png
 449714,M. Angely,Mathys,Angély,2007-04-21,,France,France,190 cm,79 kg,https://media.api-sports.io/football/players/449714.png
+449985,Marwin Reiner Ian Schmitz,Marwin Reiner Ian,Schmitz,2007-01-07,,Germany,Germany,180 cm,,https://media.api-sports.io/football/players/449985.png
 451355,Diego Aguado,Diego,Aguado Facio,2007-02-07,Madrid,Spain,Spain,,,https://media.api-sports.io/football/players/451355.png
 451583,K. Braithwaite,Kaden,Braithwaite,2008-03-25,,England,England,185 cm,75 kg,https://media.api-sports.io/football/players/451583.png
 451702,A. Cissé,Amadou,Cissé,2006-02-27,Coyah,France,France,,,https://media.api-sports.io/football/players/451702.png
