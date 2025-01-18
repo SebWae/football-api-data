@@ -8405,3 +8405,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224025,163,163069,87,,Card,,Yellow Card,Foul
 1224025,163,725,90,5,Card,,Yellow Card,Argument
 1224025,170,25144,90,5,Card,,Yellow Card,Argument
+1224026,182,713,15,,Card,,Yellow Card,Foul
+1224026,165,26243,17,,Card,,Yellow Card,Foul
+1224026,182,713,26,,Goal,,Penalty,
+1224026,182,512,41,,Card,,Yellow Card,Foul
+1224026,182,129072,45,,Goal,376,Normal Goal,
+1224026,182,713,60,,subst,288206,Substitution 1,
+1224026,165,24845,62,,Goal,984,Normal Goal,
+1224026,165,286894,63,,subst,249,Substitution 1,
+1224026,165,18970,63,,subst,637,Substitution 2,
+1224026,182,327831,67,,subst,24910,Substitution 2,
+1224026,182,512,67,,subst,30785,Substitution 3,
+1224026,182,129072,67,,subst,2219,Substitution 4,
+1224026,165,864,76,,subst,1159,Substitution 3,
+1224026,182,162946,77,,subst,26249,Substitution 5,
+1224026,165,1159,83,,Card,,Yellow Card,Foul
+1224026,182,324957,84,,Card,,Yellow Card,Time wasting
+1224026,165,24845,86,,subst,2194,Substitution 4,
+1224026,182,24848,89,,Card,,Yellow Card,Time wasting
+1224026,165,25368,90,4,Card,,Yellow Card,Foul
+1224026,165,2194,90,6,Card,,Yellow Card,Argument
