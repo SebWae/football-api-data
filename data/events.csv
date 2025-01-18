@@ -9102,3 +9102,23 @@ fixture_id,team_id,player_id,time_elapsed,time_extra,event_type,assist_id,detail
 1224067,157,509,90,4,subst,2195,Substitution 5,
 1224067,170,26242,90,2,Card,,Red Card,Foul
 1224067,170,26242,90,2,Card,,Yellow Card,Foul
+1224068,165,158644,7,,Goal,2194,Normal Goal,
+1224068,165,637,40,,Goal,286894,Normal Goal,
+1224068,160,163022,58,,Card,,Yellow Card,Foul
+1224068,160,26250,61,,subst,125173,Substitution 1,
+1224068,160,26239,61,,subst,202919,Substitution 2,
+1224068,160,163022,63,,Card,,Yellow Card,Foul
+1224068,160,163022,63,,Card,,Red Card,Foul
+1224068,165,984,66,,Goal,,Normal Goal,
+1224068,165,1159,68,,subst,18970,Substitution 1,
+1224068,160,26248,73,,subst,191233,Substitution 3,
+1224068,160,2598,73,,subst,25383,Substitution 4,
+1224068,165,286894,77,,Goal,2194,Normal Goal,
+1224068,165,286894,78,,subst,368230,Substitution 2,
+1224068,165,2194,78,,subst,197448,Substitution 3,
+1224068,165,984,78,,subst,161921,Substitution 4,
+1224068,165,197448,80,,Card,,Yellow Card,Foul
+1224068,160,26255,81,,subst,191160,Substitution 5,
+1224068,165,24845,82,,subst,394667,Substitution 5,
+1224068,160,125173,90,2,Var,,Card upgrade,
+1224068,160,125173,90,3,Card,,Red Card,Violent conduct
