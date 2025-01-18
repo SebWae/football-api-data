@@ -170,6 +170,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 676,V. Bondar,Valeriy,Bondar,1999-02-27,Kharkiv,Ukraine,Ukraine,185 cm,77 kg,https://media.api-sports.io/football/players/676.png
 679,Ismaily,Ismaily,Gonçalves dos Santos,1990-01-11,Ivinhema,Brazil,Brazil,177 cm,82 kg,https://media.api-sports.io/football/players/679.png
 682,M. Matvienko,Mykola,Matvienko,1996-05-02,Saky,Ukraine,Ukraine,182 cm,74 kg,https://media.api-sports.io/football/players/682.png
+683,I. Ordets,Ivan,Ordets,1992-07-08,Blyzhne,Ukraine,Ukraine,194 cm,88 kg,https://media.api-sports.io/football/players/683.png
 684,Taison,Taison,Barcellos Freda,1988-01-17,Pelotas,Brazil,Brazil,172 cm,64 kg,https://media.api-sports.io/football/players/684.png
 691,Tetê,Mateus Cardoso,Lemos Martins,2000-02-15,Alvorada,Brazil,Brazil,175 cm,70 kg,https://media.api-sports.io/football/players/691.png
 698,T. Stepanenko,Taras,Stepanenko,1989-08-08,Velyka Novosilka,Ukraine,Ukraine,181 cm,76 kg,https://media.api-sports.io/football/players/698.png
@@ -380,6 +381,7 @@ player_id,name,firstname,lastname,birthdate,birthplace,birthcountry,nationality,
 1923,N. Jackers,Nordin,Jackers,1997-09-05,Veldwezelt,Belgium,Belgium,187 cm,82 kg,https://media.api-sports.io/football/players/1923.png
 1924,M. Vandevoordt,Maarten,Vandevoordt,2002-02-26,Sint-Truiden,Belgium,Belgium,192 cm,80 kg,https://media.api-sports.io/football/players/1924.png
 1929,J. Lucumí,Jhon Janer,Lucumí Bonilla,1998-06-26,Cali,Colombia,Colombia,187 cm,84 kg,https://media.api-sports.io/football/players/1929.png
+1930,J. Mæhle,Joakim,Mæhle Pedersen,1997-05-20,Østervrå,Denmark,Denmark,185 cm,79 kg,https://media.api-sports.io/football/players/1930.png
 1934,S. Berge,Sander Gard,Bolin Berge,1998-02-14,Bærum,Norway,Norway,195 cm,96 kg,https://media.api-sports.io/football/players/1934.png
 1942,J. Ito,Junya,Ito,1993-03-09,Yokosuka,Japan,Japan,176 cm,66 kg,https://media.api-sports.io/football/players/1942.png
 1946,L. Trossard,Leandro,Trossard,1994-12-04,Waterschei,Belgium,Belgium,172 cm,61 kg,https://media.api-sports.io/football/players/1946.png
