@@ -229,3 +229,13 @@ def generate_date_list(start_date: str, end_date: str) -> list:
         start += delta
     
     return dates
+
+
+def date_of_yesterday() -> str:
+    """
+    Returns the date of yesterday as a string in the format "yyyy-mm-dd"
+    """
+    yesterday = datetime.now() - timedelta(days=1)
+    formatted_yesterday = yesterday.strftime("%Y-%m-%d")
+
+    return formatted_yesterday
