@@ -1,4 +1,4 @@
-id,name,logo
+team_id,team_name,team_logo
 1,Belgium,https://media.api-sports.io/football/teams/1.png
 2,France,https://media.api-sports.io/football/teams/2.png
 3,Croatia,https://media.api-sports.io/football/teams/3.png
