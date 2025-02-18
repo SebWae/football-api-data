@@ -5,7 +5,7 @@ import time
 
 import big_query.bq_utils as bqu
 from data_dicts import data_dicts
-from headers import headers
+from credentials.headers import headers
 import utils
 
 
