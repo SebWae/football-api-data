@@ -5,4 +5,3 @@ __pycache__/
 summary_stats.twb
 analysis/
 credentials/
-big_query/
