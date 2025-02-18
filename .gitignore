@@ -5,3 +5,4 @@ __pycache__/
 summary_stats.twb
 analysis/
 credentials/*
+!.gitignore
