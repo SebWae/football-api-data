@@ -13,7 +13,7 @@ def run_my_script():
     subprocess.run(['python3', '/home/airflow/gcs/data/my_script.py'])
 
 with DAG(
-    dag_id='daily_python_script',
+    dag_id='daily_python_script_test',
     default_args=default_args,
     schedule_interval='@daily',
     catchup=False,
