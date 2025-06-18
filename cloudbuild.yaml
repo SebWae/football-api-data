@@ -1,0 +1,7 @@
+steps:
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        gsutil -m cp -r dags/* gs://[YOUR_COMPOSER_BUCKET]/dags/
