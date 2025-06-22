@@ -6,7 +6,7 @@ import time
 import big_query.bq_utils as bqu
 from data_dicts import data_dicts
 from credentials.headers import headers
-import dags.mymodules.utils as utils
+import utils
 
 
 def get_countries():
