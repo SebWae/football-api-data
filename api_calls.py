@@ -47,6 +47,32 @@ def get_leagues(country):
             writer.writerow([id, name, type, country, first_season])
 
 
+def register_team(team_id: int, 
+                  team_name: str,
+                  team_logo: str) -> None:
+    """
+    Register team in the teams data table.
+
+    Parameters:
+    - team_id:      Unique identifier of the team.
+    - team_name:    Name of the team.
+    - team_logo:    URL to an image of the team logo.
+    """
+    # dictionary containing the team data
+    team_dict = {"team_id": team_id,
+                 "team_name": team_name,
+                 "team_logo": team_logo}
+    
+    # converting the team_dict to a DataFrame
+    team_df = pd.DataFrame(team_dict)
+
+    # uploading the data to the teams table on Google BQ
+    bqu.upload_data_to_bq(team_df,
+                          dataset_name="football_data",
+                          table_name="teams",
+                          mode="append")
+
+
 def register_fixtures(date):
     """
     date (str): date as a string in the format "yyyy-mm-dd"
@@ -65,9 +91,6 @@ def register_fixtures(date):
     # dictionaries to store data
     fixtures_dict = data_dicts["fixture_data"]
     teams_dict = data_dicts["team_data"]
-
-    # boolean variable to check if new teams need to be registered
-    new_team = False
     
     # iterating through each fixture of the provided date
     for fixture in fixtures:
@@ -90,19 +113,11 @@ def register_fixtures(date):
         away_team_id, away_team_name, away_team_logo, _ = away_team_dict.values()
 
         if home_team_id not in team_ids:
-            new_team = True
-            home_team_logo = fixture["teams"]["home"]["logo"]
-            teams_dict["team_id"].append(home_team_id)
-            teams_dict["team_name"].append(home_team_name)
-            teams_dict["team_logo"].append(home_team_logo)
+            register_team(home_team_id, home_team_name, home_team_logo)
 
         if away_team_id not in team_ids:
-            new_team = True
-            away_team_logo = fixture["teams"]["away"]["logo"]
-            teams_dict["team_id"].append(away_team_id)
-            teams_dict["team_name"].append(away_team_name)
-            teams_dict["team_logo"].append(away_team_logo)
-
+            register_team(away_team_id, away_team_name, away_team_logo)
+        
         home_ft = fixture["score"]["fulltime"]["home"]
         away_ft = fixture["score"]["fulltime"]["away"]
 
@@ -135,15 +150,6 @@ def register_fixtures(date):
                           dataset_name="football_data",
                           table_name="fixtures_all",
                           mode="append")
-
-    # uploading teams data if a new team is present
-    if new_team:
-        teams_df = pd.DataFrame(teams_dict)
-        bqu.upload_data_to_bq(teams_df,
-                              dataset_name="football_data",
-                              table_name="teams",
-                              mode="append")
-
 
 
 def register_manager(manager_id):
