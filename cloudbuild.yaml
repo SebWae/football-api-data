@@ -1,10 +1,10 @@
-options:
-  logging: CLOUD_LOGGING_ONLY
+# options:
+#   logging: CLOUD_LOGGING_ONLY
 
-steps:
-  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
-    entrypoint: 'bash'
-    args:
-      - '-c'
-      - |
-        gsutil -m cp -r dags/* gs://europe-west1-airflow-env-25c99b0a-bucket/dags/
+# steps:
+#   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+#     entrypoint: 'bash'
+#     args:
+#       - '-c'
+#       - |
+#         gsutil -m cp -r dags/* gs://europe-west1-airflow-env-25c99b0a-bucket/dags/
