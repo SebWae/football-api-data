@@ -4,6 +4,7 @@ import requests
 import time
 
 import big_query.bq_utils as bqu
+import config as cf
 from data_dicts import data_dicts
 from credentials.headers import headers
 import utils
@@ -275,22 +276,20 @@ def register_fixture(fixture_id):
         answer = input().strip().lower()
 
         if answer == "y":
-            remaining_persons = 23
-            if total_new_persons > remaining_persons:
+            if total_new_persons > cf.REMAINING_PERSONS:
                 any_new_players = True
                 new_players_list = list(new_players)
-                print(f"Registering players until {remaining_persons} persons are remaining in total")
+                print(f"Registering players until {cf.REMAINING_PERSONS} persons are remaining in total")
 
-                while total_new_persons > remaining_persons:
+                while total_new_persons > cf.REMAINING_PERSONS:
                     player_to_register = new_players_list[-1]
                     register_player(player_to_register, season)
                     new_players_list.pop()
                     total_new_persons -= 1
                 
-                delay_time = 60
-                print(f"{remaining_persons} persons are now remaining")
-                print(f"Wait for {delay_time} seconds to make more API calls")
-                time.sleep(delay_time)
+                print(f"{cf.REMAINING_PERSONS} persons are now remaining")
+                print(f"Wait for {cf.DELAY_TIME} seconds to make more API calls")
+                time.sleep(cf.DELAY_TIME)
                 print("Wait time is over")
         
         elif answer == "n":
