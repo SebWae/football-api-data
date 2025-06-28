@@ -5,8 +5,8 @@ import requests
 import time
 
 import big_query.bq_utils as bqu
+from big_query.bq_schemas import bq_schemas
 import config as cf
-from data_dicts import data_dicts
 from credentials.headers import headers
 import utils
 
@@ -90,8 +90,7 @@ def register_fixtures(date):
     team_ids = set(teams_df["team_id"])
 
     # dictionaries to store data
-    fixtures_dict = data_dicts["fixture_data"]
-    teams_dict = data_dicts["team_data"]
+    fixtures_dict = defaultdict(list)
     
     # iterating through each fixture of the provided date
     for fixture in fixtures:
@@ -105,49 +104,49 @@ def register_fixtures(date):
         venue_id, venue_name, city = venue_dict.values()
         _, _, elapsed_time, extra_time = status_dict.values()
 
-        # league related data
+        # league data
         league_id, league_name, _, _, _, season, stage, _ = fixture["league"].values()
 
-        # teams related data
+        # teams data
         home_team_dict, away_team_dict = fixture["teams"].values()
         home_team_id, home_team_name, home_team_logo, _ = home_team_dict.values()
         away_team_id, away_team_name, away_team_logo, _ = away_team_dict.values()
 
+        # registering home and away teams if they haven't been registered before
         if home_team_id not in team_ids:
             register_team(home_team_id, home_team_name, home_team_logo)
 
         if away_team_id not in team_ids:
             register_team(away_team_id, away_team_name, away_team_logo)
 
-        home_ft = fixture["score"]["fulltime"]["home"]
-        away_ft = fixture["score"]["fulltime"]["away"]
+        # scores data
+        halftime_dict, fulltime_dict, extratime_dict, penalty_dict = fixture["score"].values()
 
-        home_ht = fixture["score"]["halftime"]["home"]
-        away_ht = fixture["score"]["halftime"]["away"]
+        home_ft, away_ft = fulltime_dict.values()
+        home_ht, away_ht = halftime_dict.values()
+        home_et, away_et = extratime_dict.values()
+        home_pen, away_pen = penalty_dict.values()
 
-        home_et = fixture["score"]["extratime"]["home"]
-        away_et = fixture["score"]["extratime"]["away"]
-
-        home_pen = fixture["score"]["penalty"]["home"]
-        away_pen = fixture["score"]["penalty"]["away"]
-
-        row = [fixture_id, referee, timezone, date, kick_off, venue_id, venue_name, city,
-                elapsed_time, extra_time, league_id, league_name, season, stage,
-                home_team_id, home_team_name, away_team_id, away_team_name, home_ft,
-                away_ft, home_ht, away_ht, home_et, away_et, home_pen, away_pen]
+        # column names and values
+        columns = [field.name for field in bq_schemas["fixtures_all"]]
+        values = [fixture_id, referee, timezone, date, kick_off, venue_id, venue_name, city,
+                  elapsed_time, extra_time, league_id, league_name, season, stage,
+                  home_team_id, home_team_name, away_team_id, away_team_name, home_ft,
+                  away_ft, home_ht, away_ht, home_et, away_et, home_pen, away_pen]
         
-        for key, value in zip(fixtures_dict.keys(), row):
+        # adding row to dictionary
+        for key, value in zip(columns, values):
             fixtures_dict[key].append(value) 
 
     # creating a dataframe of data to be uploaded
-    df = pd.DataFrame(fixtures_dict)
+    fixtures_df = pd.DataFrame(fixtures_dict)
 
     # converting data type for date and kick_off
-    df["date"] = pd.to_datetime(df["date"]).dt.date
-    df["kick_off"] = pd.to_datetime(df["kick_off"], format="%H:%M:%S").dt.time
+    fixtures_df["date"] = pd.to_datetime(fixtures_df["date"]).dt.date
+    fixtures_df["kick_off"] = pd.to_datetime(fixtures_df["kick_off"], format="%H:%M:%S").dt.time
 
     # uploading fixture data to google big query
-    bqu.upload_data_to_bq(df,
+    bqu.upload_data_to_bq(df=fixtures_df,
                           dataset_name="football_data",
                           table_name="fixtures_all",
                           mode="append")
