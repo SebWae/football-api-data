@@ -1,3 +1,4 @@
+from collections import defaultdict
 import csv
 import pandas as pd
 import requests
@@ -117,7 +118,7 @@ def register_fixtures(date):
 
         if away_team_id not in team_ids:
             register_team(away_team_id, away_team_name, away_team_logo)
-        
+
         home_ft = fixture["score"]["fulltime"]["home"]
         away_ft = fixture["score"]["fulltime"]["away"]
 
