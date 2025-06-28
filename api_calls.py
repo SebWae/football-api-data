@@ -59,7 +59,7 @@ def register_fixtures(date):
 
     # pre-registered teams
     teams_df = bqu.load_data_to_df(dataset_name="football_data",
-                         table_name="teams")
+                                   table_name="teams")
     team_ids = set(teams_df["team_id"])
 
     # dictionaries to store data
@@ -71,28 +71,23 @@ def register_fixtures(date):
     
     # iterating through each fixture of the provided date
     for fixture in fixtures:
-        fixture_id = fixture["fixture"]["id"]
-        referee = fixture["fixture"]["referee"]
-        timezone = fixture["fixture"]["timezone"]
+        # standard fixture data
+        fixture_id, referee, timezone, date_str, _, _, venue_dict, status_dict = fixture["fixture"].values()
 
-        date_list = fixture["fixture"]["date"].split("T")
+        date_list = date_str.split("T")
         date = date_list[0]
         kick_off = date_list[1].split("+")[0]
 
-        venue_id = fixture["fixture"]["venue"]["id"]
-        venue_name = fixture["fixture"]["venue"]["name"]
-        city = fixture["fixture"]["venue"]["city"]
+        venue_id, venue_name, city = venue_dict.values()
+        _, _, elapsed_time, extra_time = status_dict.values()
 
-        elapsed_time = fixture["fixture"]["status"]["elapsed"]
-        extra_time = fixture["fixture"]["status"]["extra"]
+        # league related data
+        league_id, league_name, _, _, _, season, stage, _ = fixture["league"].values()
 
-        league_id = fixture["league"]["id"]
-        league_name = fixture["league"]["name"]
-        season = fixture["league"]["season"]
-        stage = fixture["league"]["round"]
-
-        home_team_id = fixture["teams"]["home"]["id"]
-        home_team_name = fixture["teams"]["home"]["name"]
+        # teams related data
+        home_team_dict, away_team_dict = fixture["teams"].values()
+        home_team_id, home_team_name, home_team_logo, _ = home_team_dict.values()
+        away_team_id, away_team_name, away_team_logo, _ = away_team_dict.values()
 
         if home_team_id not in team_ids:
             new_team = True
@@ -100,9 +95,6 @@ def register_fixtures(date):
             teams_dict["team_id"].append(home_team_id)
             teams_dict["team_name"].append(home_team_name)
             teams_dict["team_logo"].append(home_team_logo)
-
-        away_team_id = fixture["teams"]["away"]["id"]
-        away_team_name = fixture["teams"]["away"]["name"]
 
         if away_team_id not in team_ids:
             new_team = True
