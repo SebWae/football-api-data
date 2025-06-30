@@ -38,9 +38,10 @@ bq_schemas = {
     ],
 
     "leagues": [
-        bigquery.SchemaField("id", "INTEGER"),
-        bigquery.SchemaField("name", "STRING"),
-        bigquery.SchemaField("type", "STRING"),
+        bigquery.SchemaField("league_id", "INTEGER"),
+        bigquery.SchemaField("league_name", "STRING"),
+        bigquery.SchemaField("league_type", "STRING"),
+        bigquery.SchemaField("league_logo", "STRING"),
         bigquery.SchemaField("country", "STRING"),
         bigquery.SchemaField("first_season", "INTEGER")
         ],
