@@ -11,21 +11,32 @@ from credentials.headers import headers
 import utils
 
 
-def get_countries():
+def register_countries():
     url = "https://api-football-v1.p.rapidapi.com/v3/countries"
 
     response = requests.get(url, headers=headers)
     countries = response.json()["response"]
 
-    with open('data/countries.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(["name", "code", "flag"])
+    # dictionary containing the data
+    countries_dict = defaultdict(list)
 
-        for country in countries:
-            name = country["name"]
-            code = country["code"]
-            flag = country["flag"]
-            writer.writerow([name, code, flag])
+    for country in countries:
+        # column names and values
+        columns = [field.name for field in bq_schemas["countries"]]
+        values = list(country.values())
+        
+        # adding row to dictionary
+        for key, value in zip(columns, values):
+            countries_dict[key].append(value) 
+    
+    # converting the dictionary to a DataFrame
+    countries_df = pd.DataFrame(countries_dict)
+
+    # uploading the data to the Google BQ table
+    bqu.upload_data_to_bq(countries_df,
+                          dataset_name="football_data",
+                          table_name="countries",
+                          mode="truncate")
 
 
 def get_leagues(country):
@@ -60,10 +71,16 @@ def register_team(team_id: int,
     - team_logo:    URL to an image of the team logo.
     """
     # dictionary containing the team data
-    team_dict = {"team_id": [team_id],
-                 "team_name": [team_name],
-                 "team_logo": [team_logo]}
+    team_dict = defaultdict(list)
+
+    # column names and values
+    columns = [field.name for field in bq_schemas["teams"]]
+    values = [team_id, team_name, team_logo]
     
+    # adding row to dictionary
+    for key, value in zip(columns, values):
+        team_dict[key].append(value) 
+
     # converting the team_dict to a DataFrame
     team_df = pd.DataFrame(team_dict)
 
