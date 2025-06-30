@@ -11,7 +11,10 @@ from credentials.headers import headers
 import utils
 
 
-def register_countries():
+def register_countries() -> None:
+    """
+    Registers country data in the Google BQ table 'countries'.
+    """
     url = "https://api-football-v1.p.rapidapi.com/v3/countries"
 
     response = requests.get(url, headers=headers)
@@ -39,7 +42,13 @@ def register_countries():
                           mode="truncate")
 
 
-def register_leagues(country):
+def register_leagues(country: str) -> None:
+    """
+    Registers league data in the Google BQ table 'leagues'.
+
+    Parameters:
+    - country:  String containing the name of the country to register leagues for. 
+    """
     url = "https://api-football-v1.p.rapidapi.com/v3/leagues"
 
     querystring = {"country": country}
