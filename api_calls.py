@@ -39,7 +39,7 @@ def register_countries():
                           mode="truncate")
 
 
-def get_leagues(country):
+def register_leagues(country):
     url = "https://api-football-v1.p.rapidapi.com/v3/leagues"
 
     querystring = {"country": country}
