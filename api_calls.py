@@ -60,9 +60,9 @@ def register_team(team_id: int,
     - team_logo:    URL to an image of the team logo.
     """
     # dictionary containing the team data
-    team_dict = {"team_id": team_id,
-                 "team_name": team_name,
-                 "team_logo": team_logo}
+    team_dict = {"team_id": [team_id],
+                 "team_name": [team_name],
+                 "team_logo": [team_logo]}
     
     # converting the team_dict to a DataFrame
     team_df = pd.DataFrame(team_dict)
