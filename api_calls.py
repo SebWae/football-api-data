@@ -47,18 +47,34 @@ def get_leagues(country):
     response = requests.get(url, headers=headers, params=querystring)
     leagues = response.json()["response"]
 
-    with open('data/leagues.csv', 'a', newline='') as file:
-        writer = csv.writer(file)
+    # dictionary containing the data
+    leagues_dict = defaultdict(list)
 
-        for league in leagues:
-            id = league["league"]["id"]
-            name = league["league"]["name"]
-            type = league["league"]["type"]
-            country = league["country"]["name"]
-            first_season = league["seasons"][0]["year"]
-            writer.writerow([id, name, type, country, first_season])
+    for league in leagues:
+        league_dict, country_dict, season_dict = league.values()
 
+        league_id, league_name, league_type, league_logo = league_dict.values()
+        country = country_dict["name"]
+        first_season = season_dict[0]["year"]
 
+        # column names and values
+        columns = [field.name for field in bq_schemas["leagues"]]
+        values = [league_id, league_name, league_type, league_logo, country, first_season]
+        
+        # adding row to dictionary
+        for key, value in zip(columns, values):
+            leagues_dict[key].append(value) 
+    
+    # converting the dictionary to a DataFrame
+    leagues_df = pd.DataFrame(leagues_dict)
+
+    # uploading the data to the Google BQ table
+    bqu.upload_data_to_bq(leagues_df,
+                          dataset_name="football_data",
+                          table_name="leagues",
+                          mode="append")
+
+        
 def register_team(team_id: int, 
                   team_name: str,
                   team_logo: str) -> None:
