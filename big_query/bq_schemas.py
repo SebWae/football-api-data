@@ -2,6 +2,12 @@ from google.cloud import bigquery
 
 # dictionary to find Google BQ schemas for data file names
 bq_schemas = {
+    "countries": [
+        bigquery.SchemaField("country_name", "STRING"),
+        bigquery.SchemaField("country_code", "STRING"),
+        bigquery.SchemaField("country_flag", "STRING"),
+    ],
+
     "fixtures_all": [
         bigquery.SchemaField("fixture_id", "INTEGER"),
         bigquery.SchemaField("referee", "STRING"),
