@@ -71,10 +71,10 @@ def load_data_to_df(dataset_name, table_name):
     table_name (str):   name of bq table and identifier for BQ schema 
     """
     # Initialize BigQuery client
-    client = bigquery.Client()
+    project_id = creds["project_id"]
+    client = bigquery.Client(project=project_id)
 
     # Find table_id based on project_id, dataset_name, and table_name
-    project_id = creds["project_id"]
     table_id = f"{project_id}.{dataset_name}.{table_name}"
 
     # Load the table into a DataFrame
