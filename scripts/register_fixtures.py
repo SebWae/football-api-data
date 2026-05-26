@@ -10,8 +10,8 @@ from utils import generate_date_list
 
 
 # registering fixtures in date interval
-start_date = "2026-01-20"
-end_date = "2026-02-08"
+start_date = "2026-04-16"
+end_date = "2026-04-30"
 dates = generate_date_list(start_date, end_date)
 
 for date in tqdm(dates):
